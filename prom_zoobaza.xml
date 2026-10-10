@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-10 08:17">
+<yml_catalog date="2026-10-10 09:28">
 <shop>
 <categories>
 <category id="105501">Одяг для тварин</category>
@@ -17153,6 +17153,7 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/39/29117748081237_+a826566251.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/39/319x204l80mc0/99084519139632.png</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB4688</vendorCode>
 <param name="Колір">Рожевий</param>
