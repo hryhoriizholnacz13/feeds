@@ -3455,14 +3455,14 @@
 <name>Лежак Марвіл</name>
 <categoryId>1057</categoryId>
 <portal_category_id>181206</portal_category_id>
-<price>2700.00</price>
+<price>1476.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/27/24380746370224_+4d5b413793.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB4776</vendorCode>
 <param name="Колір">беж+темний</param>
-<param name="Розмір">40х50х22</param>
+<param name="Розмір">№1 40х50х22</param>
 <description><![CDATA[Лежак із бортиками — для тих, хто спить згорнувшись і любить притулитися боком. Так спить більшість котів і дрібних собак: бортик дає відчуття укриття й підтримує голову.    Лежак Марвіл — виріб власного виробництва. Доступні розміри: від 40х50х22 до 70х100х28 см.    Розмір беріть за довжиною тварини, коли вона лежить витягнувшись, плюс 15–20 см. Тварина має вміщатися повністю, а не звисати.    Чому беруть повторно       Без хімічного запаху — тварина лягає одразу, а не через тиждень вивітрювання на балконі.   Наповнювач витягується, чохол переться.   Щільна набивка не збивається в грудки й тримає форму.      Доставка Новою Поштою по всій Україні. Не впевнені з розміром — напишіть нам розміри тварини, підкажемо.]]></description>
 </offer>
 <offer id="ZB4777" available="true" selling_type="r" group_id="162109">
@@ -10498,6 +10498,7 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/7/61426588478135_+79c6d8bc96.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/7/311x233l80mc0/75650969710214.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB4706</vendorCode>
 <param name="Колір">бордовый</param>
@@ -17166,6 +17167,7 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/40/20020957756690_+9b053e56f1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/40/319x204l80mc0/21466188973167.png</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB4689</vendorCode>
 <param name="Колір">Рожевий</param>
@@ -17195,6 +17197,7 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/42/60732422338043_+ae96b2a8c7.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/42/319x204l80mc0/12678584610083.png</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB4691</vendorCode>
 <param name="Колір">Рожевий</param>
@@ -17224,6 +17227,7 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/44/17481354202116_+cc80579696.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/44/319x204l80mc0/30354679655584.png</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB4693</vendorCode>
 <param name="Колір">Зелений</param>
@@ -17253,6 +17257,7 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/46/65401988709976_+9764f9a4c2.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/46/319x204l80mc0/17920265140424.png</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB4695</vendorCode>
 <param name="Колір">Зелений</param>
@@ -17282,6 +17287,7 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/48/19599661324521_+a0b1de726a.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/48/319x204l80mc0/69015254707780.png</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB4697</vendorCode>
 <param name="Колір">Рожевий</param>
@@ -17341,6 +17347,7 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/2/79519447387582_+99d3db890a.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/2/319x204l80mc0/68594812773179.png</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB4701</vendorCode>
 <param name="Колір">Зелений</param>
@@ -26820,13 +26827,13 @@
 <vendorCode>ZB4301</vendorCode>
 <description><![CDATA[Fitmin For Life Lamb & Rice – сухий корм преміум-класу для дорослих собак    Fitmin For Life Lamb & Rice – це якісний сухий корм для собак, створений на основі м’яса ягняти з рисом. У складі 42,5% м’ясних компонентів та 78% тваринного білка, що гарантує високу поживну цінність, чудовий смак та користь для здоров’я вашого улюбленця.    Гіпоалергенна формула без пшениці та кукурудзи підходить для собак із чутливим травленням та непереносимістю глютену. Рис у складі є легкозасвоюваним джерелом енергії, що позитивно впливає на роботу травної системи та підтримує активність собаки.    Переваги Fitmin For Life Lamb & Rice:          78% тваринного білка для підтримки м’язів і життєвої енергії.         Свіже м’ясо ягняти та печінкова оболонка гранул – відмінний смак.         Гіпоалергенна формула: без пшениці та кукурудзи.         Пребіотик (екстракт кореня цикорію) для здорової мікрофлори кишечника.         Оптимальний баланс білків, жирів і вуглеводів для щоденного годування.         Склад: сушене м’ясо птиці (19,5%), свіже м’ясо ягняти та субпродукти (15%), сушене м’ясо ягняти (5%), гідролізована печінка ягняти (3%), білий рис (30%), дроблений рис (20%), жир птиці, м’якоть цукрового буряка, яблучний жом (2,7%), лососеве масло, пивні дріжджі, мінерали, екстракт кореня цикорію (0,01%), юка (0,005%).    Аналітичні компоненти: сирий протеїн – 22%, сирі жири та олії – 15%, сира клітковина – 2,7%, сира зола – 6,2%, кальцій – 1,1%, фосфор – 0,9%.    Харчова цінність: енергія – 16,2 МДж/кг.    Дозування  Дозування — це добова норма годування, розрахована на основі поточного віку та ваги дорослого собаки.                      5 кг     10 кг     15 кг     20 кг     25 кг     30 кг     35 кг     40 кг     50 кг     60 кг     70 кг     80 кг             доросла собака     85 г     140 г     190 г     240 г     280 г     320 г     360 г     400 г     480 г     550 г     620 г     680 г]]></description>
 </offer>
-<offer id="ZB4302" available="false" selling_type="r">
+<offer id="ZB4302" available="true" selling_type="r">
 <name>Fitmin dog For Life Lamb &amp; Rice (для дорослих собак всіх порід ягня з рисом), 12 кг</name>
 <categoryId>1086</categoryId>
 <portal_category_id>270264</portal_category_id>
 <price>3786.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>0</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/3/26732715361305_+5e49c5b3a3.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/3/1024x768l80mc0/65126969501992.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/3/1024x768l80mc0/59832273606219.jpg</picture>
@@ -27740,12 +27747,12 @@
 <price>235.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
-<picture>https://basmati.com.ua/extra/5effc1b3942a38.jpg</picture>
+<picture>https://basmati.com.ua/extra/81cbde4fef2708.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZBxs4820177254466</vendorCode>
 <param name="Розмір">9х7</param>
 <param name="Габарити, см">9х7</param>
-<description><![CDATA[Іграшка м'яка "Миша", плюш — виріб власного виробництва. Розмір: 9х7. Доставка Новою Поштою по всій Україні.]]></description>
+<description><![CDATA[Іграшка м'яка "Миша", плюш — виріб власного виробництва. Тканина плюш + наповнювач холлофайбер. Розмір: 9х7. Доставка Новою Поштою по всій Україні.]]></description>
 </offer>
 <offer id="ZBxs4820177254527" available="true" selling_type="r">
 <name>Іграшка м&apos;яка &quot;Такса&quot;, плюш - 33х18</name>
@@ -27791,13 +27798,12 @@
 <param name="Вага, кг">0.3</param>
 <description><![CDATA[Місце над підлогою economить простір: гамак не займає жодного квадратного метра в кімнаті, а спальне місце є. Гамак для хом"яка — виріб власного виробництва. Розмір: 10х8х6.5. Доставка Новою Поштою по всій Україні.]]></description>
 </offer>
-<offer id="ZBxs4820177258129" available="true" selling_type="r">
+<offer id="ZBxs4820177258129" available="false" selling_type="r">
 <name>Іграшка м&apos;яка &quot;Мавпочка&quot;, плюш - 8х26</name>
 <categoryId>105504</categoryId>
 <portal_category_id>270202</portal_category_id>
 <price>499.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
 <picture>https://basmati.com.ua/extra/81ee6547415cc2.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZBxs4820177258129</vendorCode>
@@ -27812,11 +27818,11 @@
 <price>274.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
-<picture>https://basmati.com.ua/extra/d907f4ced1bbcd.jpg</picture>
+<picture>https://basmati.com.ua/extra/924e49b5bcb573.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZBxs4820177258143</vendorCode>
 <param name="Розмір">d - 80</param>
-<description><![CDATA[Іграшка м'яка "М'яч 1", плюш — виріб власного виробництва. Розмір: d - 80. Доставка Новою Поштою по всій Україні.]]></description>
+<description><![CDATA[Іграшка м'яка "М'яч 1", плюш — виріб власного виробництва. Тканина плюш + наповнювач холлофайбер. Розмір: d - 80. Доставка Новою Поштою по всій Україні.]]></description>
 </offer>
 <offer id="ZBxs4820177258570" available="true" selling_type="r">
 <name>Іграшка м&apos;яка &quot;Рукавичка&quot; - 600</name>
