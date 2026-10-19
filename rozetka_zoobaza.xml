@@ -12,6 +12,7 @@
 <category id="3779181" rz_id="3779181">Гігієна та догляд</category>
 <category id="3779482" rz_id="3779482">Аксесуари</category>
 <category id="3935762" rz_id="3935762">Одяг для тварин</category>
+<category id="4626659" rz_id="4626659">Одяг для тварин</category>
 <category id="4675996" rz_id="4675996">Сумки та переноски</category>
 <category id="4675999" rz_id="4675999">Лежаки, матраци, дивани</category>
 <category id="4676002" rz_id="4676002">Сумки та переноски</category>
@@ -12565,7 +12566,7 @@
 <stock_quantity>2</stock_quantity>
 <price>581.00</price>
 <currencyId>UAH</currencyId>
-<categoryId>3935762</categoryId>
+<categoryId>4626659</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/c26046663726018a.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <name>Нагрудник ЗооБаза Стиль 30-33 /23</name>
@@ -12578,7 +12579,7 @@
 <stock_quantity>2</stock_quantity>
 <price>600.00</price>
 <currencyId>UAH</currencyId>
-<categoryId>3935762</categoryId>
+<categoryId>4626659</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/c26046663726018a.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <name>Нагрудник ЗооБаза Стиль 36-39 /27</name>
@@ -12591,7 +12592,7 @@
 <stock_quantity>2</stock_quantity>
 <price>622.00</price>
 <currencyId>UAH</currencyId>
-<categoryId>3935762</categoryId>
+<categoryId>4626659</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/c26046663726018a.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <name>Нагрудник ЗооБаза Стиль 42-45 /32</name>
@@ -12604,7 +12605,7 @@
 <stock_quantity>2</stock_quantity>
 <price>645.00</price>
 <currencyId>UAH</currencyId>
-<categoryId>3935762</categoryId>
+<categoryId>4626659</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/c26046663726018a.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <name>Нагрудник ЗооБаза Стиль 48-51 /38</name>
@@ -12617,7 +12618,7 @@
 <stock_quantity>2</stock_quantity>
 <price>675.00</price>
 <currencyId>UAH</currencyId>
-<categoryId>3935762</categoryId>
+<categoryId>4626659</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/c26046663726018a.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <name>Нагрудник ЗооБаза Стиль 54-57 /44</name>
@@ -12630,7 +12631,7 @@
 <stock_quantity>2</stock_quantity>
 <price>611.00</price>
 <currencyId>UAH</currencyId>
-<categoryId>3935762</categoryId>
+<categoryId>4626659</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/2f31b18c0d0f8025.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <name>Нагрудник ЗооБаза Бархат 30-33 /23</name>
@@ -12644,7 +12645,7 @@
 <stock_quantity>2</stock_quantity>
 <price>630.00</price>
 <currencyId>UAH</currencyId>
-<categoryId>3935762</categoryId>
+<categoryId>4626659</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/2f31b18c0d0f8025.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <name>Нагрудник ЗооБаза Бархат 36-39 /27</name>
@@ -12658,7 +12659,7 @@
 <stock_quantity>2</stock_quantity>
 <price>658.00</price>
 <currencyId>UAH</currencyId>
-<categoryId>3935762</categoryId>
+<categoryId>4626659</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/2f31b18c0d0f8025.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <name>Нагрудник ЗооБаза Бархат 42-45 /32</name>
@@ -12672,7 +12673,7 @@
 <stock_quantity>2</stock_quantity>
 <price>682.00</price>
 <currencyId>UAH</currencyId>
-<categoryId>3935762</categoryId>
+<categoryId>4626659</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/2f31b18c0d0f8025.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <name>Нагрудник ЗооБаза Бархат 48-51 /38</name>
@@ -12686,7 +12687,7 @@
 <stock_quantity>2</stock_quantity>
 <price>719.00</price>
 <currencyId>UAH</currencyId>
-<categoryId>3935762</categoryId>
+<categoryId>4626659</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/2f31b18c0d0f8025.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <name>Нагрудник ЗооБаза Бархат 54-57 /44</name>
