@@ -19669,6 +19669,7 @@
 <price>43680.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/front_cognac.jpg?v=1769118395</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/97.png?v=1769118395</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/96.png?v=1769118395</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/100.png?v=1769118395</picture>
@@ -19768,6 +19769,7 @@
 <price>24440.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/front_cognac.jpg?v=1769118395</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/97.png?v=1769118395</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/96.png?v=1769118395</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/100.png?v=1769118395</picture>
@@ -19929,16 +19931,9 @@
 <price>25896.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/42.png?v=1769084583</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/44.png?v=1769084583</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/43.png?v=1769084583</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/41.png?v=1769084583</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/46.jpg?v=1769084583</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/47.jpg?v=1769084583</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/48.jpg?v=1769084583</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/56.png?v=1769084583</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/57.png?v=1769084583</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/55.png?v=1769084583</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwbagSgreen</vendorCode>
 <param name="Розмір">S 50х30х35</param>
@@ -20026,16 +20021,9 @@
 <price>19656.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/42.png?v=1769084583</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/44.png?v=1769084583</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/43.png?v=1769084583</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/41.png?v=1769084583</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/46.jpg?v=1769084583</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/47.jpg?v=1769084583</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/48.jpg?v=1769084583</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/56.png?v=1769084583</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/57.png?v=1769084583</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/55.png?v=1769084583</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwbagXSgreen</vendorCode>
 <param name="Розмір">XS 40х20х25</param>
@@ -20206,6 +20194,9 @@
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/153.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/154.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/155.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-mon-monolith-interior-31.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-mon-monolith-interior-10.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-mon-monolith-interior-5.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwmonolithLgreen</vendorCode>
 <param name="Розмір">L 78х98</param>
@@ -20223,6 +20214,9 @@
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/157.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/158.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/159.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/160.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/161.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/162.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwmonolithLterracotta</vendorCode>
 <param name="Розмір">L 78х98</param>
@@ -20244,6 +20238,9 @@
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/153.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/154.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/155.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-mon-monolith-interior-31.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-mon-monolith-interior-10.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-mon-monolith-interior-5.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwmonolithMgreen</vendorCode>
 <param name="Розмір">M 64х79</param>
@@ -20261,6 +20258,9 @@
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/157.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/158.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/159.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/160.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/161.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/162.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwmonolithMterracotta</vendorCode>
 <param name="Розмір">M 64х79</param>
@@ -20282,6 +20282,9 @@
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/153.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/154.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/155.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-mon-monolith-interior-31.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-mon-monolith-interior-10.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-mon-monolith-interior-5.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwmonolithSgreen</vendorCode>
 <param name="Розмір">S 50х60</param>
@@ -20299,6 +20302,9 @@
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/157.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/158.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/159.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/160.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/161.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/162.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwmonolithSterracotta</vendorCode>
 <param name="Розмір">S 50х60</param>
@@ -20320,6 +20326,9 @@
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/153.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/154.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/155.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-mon-monolith-interior-31.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-mon-monolith-interior-10.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-mon-monolith-interior-5.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwmonolithXLgreen</vendorCode>
 <param name="Розмір">XL 92х117</param>
@@ -20337,6 +20346,9 @@
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/157.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/158.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/159.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/160.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/161.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/162.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwmonolithXLterracotta</vendorCode>
 <param name="Розмір">XL 92х117</param>
@@ -20351,15 +20363,11 @@
 <price>11232.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/199.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/16.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/196.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/17.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/197.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/198.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/200.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/201.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/202.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpweuphoriaMlightgreycream</vendorCode>
 <param name="Розмір">M 50х65х24</param>
@@ -20374,15 +20382,11 @@
 <price>8736.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/199.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/16.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/196.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/17.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/197.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/198.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/200.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/201.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/202.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpweuphoriaSlightgreycream</vendorCode>
 <param name="Розмір">S 40х50х22</param>
@@ -20397,7 +20401,11 @@
 <price>8216.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/82.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/83.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/84.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/85.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/86.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwcharlesMcream</vendorCode>
 <param name="Розмір">M 60х60х24</param>
@@ -20412,7 +20420,12 @@
 <price>8216.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/76.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/77.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/78.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/79.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/80.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/81.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwcharlesMgreen</vendorCode>
 <param name="Розмір">M 60х60х24</param>
@@ -20432,11 +20445,6 @@
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/73.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/74.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/75.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/76.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/77.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/78.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/79.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/80.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwcharlesMterracotta</vendorCode>
 <param name="Розмір">M 60х60х24</param>
@@ -20451,7 +20459,11 @@
 <price>6552.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/82.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/83.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/84.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/85.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/86.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwcharlesScream</vendorCode>
 <param name="Розмір">S 50х50х22</param>
@@ -20466,7 +20478,12 @@
 <price>6552.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/76.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/77.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/78.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/79.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/80.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/81.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwcharlesSgreen</vendorCode>
 <param name="Розмір">S 50х50х22</param>
@@ -20486,11 +20503,6 @@
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/73.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/74.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/75.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/76.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/77.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/78.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/79.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/80.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwcharlesSterracotta</vendorCode>
 <param name="Розмір">S 50х50х22</param>
@@ -20553,16 +20565,7 @@
 <price>10296.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-cap-caprice-interior-2.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/97.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/102.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/87.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/88.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/89.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/90.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/91.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/92.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/93.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwcapriceMcream</vendorCode>
 <param name="Розмір">M 50х60х22</param>
@@ -20577,7 +20580,12 @@
 <price>10296.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-cap-caprice-interior-2.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/97.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/102.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/87.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/98.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/99.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/100.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/101.jpg</picture>
 <vendor>PAWEAREA</vendor>
@@ -20594,7 +20602,12 @@
 <price>10296.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/91.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/92.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/93.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/94.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/95.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/96.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwcapriceMpowder</vendorCode>
 <param name="Розмір">M 50х60х22</param>
@@ -20609,16 +20622,7 @@
 <price>8736.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-cap-caprice-interior-2.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/97.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/102.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/87.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/88.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/89.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/90.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/91.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/92.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/93.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwcapriceScream</vendorCode>
 <param name="Розмір">S 40х50х20</param>
@@ -20633,7 +20637,12 @@
 <price>8736.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-cap-caprice-interior-2.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/97.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/102.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/87.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/98.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/99.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/100.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/101.jpg</picture>
 <vendor>PAWEAREA</vendor>
@@ -20650,7 +20659,12 @@
 <price>8736.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/91.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/92.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/93.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/94.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/95.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/96.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwcapriceSpowder</vendorCode>
 <param name="Розмір">S 40х50х20</param>
@@ -20666,7 +20680,11 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/10.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/4.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/1.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/3.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/7.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-cha-charlie-interior-3.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwcharlieMcream</vendorCode>
 <param name="Розмір">M 65х65х12</param>
@@ -20681,16 +20699,9 @@
 <price>7696.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-cha-charlie-interior-2.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/10.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/4.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/6.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/1.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/2_fa35659b-56d5-477e-8e01-7f484811f26b.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/3.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/5.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/7.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/8.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwcharlieMgrey</vendorCode>
 <param name="Розмір">M 65х65х12</param>
@@ -20706,7 +20717,11 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/10.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/4.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/1.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/3.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/7.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-cha-charlie-interior-3.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwcharlieScream</vendorCode>
 <param name="Розмір">S 50х50х12</param>
@@ -20721,16 +20736,9 @@
 <price>5616.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-cha-charlie-interior-2.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/10.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/4.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/6.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/1.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/2_fa35659b-56d5-477e-8e01-7f484811f26b.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/3.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/5.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/7.jpg</picture>
-<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/8.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwcharlieSgrey</vendorCode>
 <param name="Розмір">S 50х50х12</param>
@@ -20750,6 +20758,7 @@
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/138.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/140.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/141.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/164.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwnestMbrownwhite</vendorCode>
 <param name="Розмір">M 60х60х12</param>
@@ -20768,6 +20777,8 @@
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/143.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/144.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/145.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/165.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-nes-nest-interior-1.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-nes-nest-interior-2.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwnestMgreywhite</vendorCode>
@@ -20783,10 +20794,13 @@
 <price>8736.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-nes-nest-interior-4.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/149.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/146.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/147.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/148.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/163.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-nes-nest-interior-3.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwnestMterracottawhite</vendorCode>
 <param name="Розмір">M 60х60х12</param>
@@ -20806,6 +20820,7 @@
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/138.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/140.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/141.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/164.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwnestSbrownwhite</vendorCode>
 <param name="Розмір">S 50х50х12</param>
@@ -20824,6 +20839,8 @@
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/143.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/144.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/145.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/165.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-nes-nest-interior-1.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-nes-nest-interior-2.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwnestSgreywhite</vendorCode>
@@ -20839,10 +20856,13 @@
 <price>7176.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-nes-nest-interior-4.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/149.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/146.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/147.jpg</picture>
 <picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/148.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/163.jpg</picture>
+<picture>https://cdn.shopify.com/s/files/1/0962/0760/2006/files/pwr-bed-nes-nest-interior-3.jpg</picture>
 <vendor>PAWEAREA</vendor>
 <vendorCode>ZBpwnestSterracottawhite</vendorCode>
 <param name="Розмір">S 50х50х12</param>
