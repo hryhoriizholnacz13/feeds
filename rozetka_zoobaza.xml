@@ -15872,51 +15872,6 @@
 <param name="Матеріал">Вельвет</param>
 <param name="EAN">4823118710519</param>
 </offer>
-<offer id="ZB4792" available="true">
-<stock_quantity>2</stock_quantity>
-<price>712.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4675999</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/f009220d24f08844.jpg</picture>
-<vendor>ЗооБаза</vendor>
-<name>Лежак ЗооБаза Рекс 320х430х125 см</name>
-<name_ua>Лежак ЗооБаза Рекс 320х430х125 см</name_ua>
-<description><![CDATA[<p>Выбирайте по длине животного, когда оно спит вытянувшись: нужен запас, чтобы оно могло расслабиться.</p>]]></description>
-<description_ua><![CDATA[<p>Обирайте за довжиною тварини, коли вона спить витягнувшись: потрібен запас, щоб вона могла розслабитися.</p>]]></description_ua>
-<param name="Розмір">320х430х125 см</param>
-<param name="Тип">Лежак</param>
-<param name="EAN">4823118702750</param>
-</offer>
-<offer id="ZB4793" available="true">
-<stock_quantity>2</stock_quantity>
-<price>801.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4675999</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/f009220d24f08844.jpg</picture>
-<vendor>ЗооБаза</vendor>
-<name>Лежак ЗооБаза Рекс 375х495х130 см</name>
-<name_ua>Лежак ЗооБаза Рекс 375х495х130 см</name_ua>
-<description><![CDATA[<p>Выбирайте по длине животного, когда оно спит вытянувшись: нужен запас, чтобы оно могло расслабиться.</p>]]></description>
-<description_ua><![CDATA[<p>Обирайте за довжиною тварини, коли вона спить витягнувшись: потрібен запас, щоб вона могла розслабитися.</p>]]></description_ua>
-<param name="Розмір">375х495х130 см</param>
-<param name="Тип">Лежак</param>
-<param name="EAN">4823118702767</param>
-</offer>
-<offer id="ZB4794" available="true">
-<stock_quantity>2</stock_quantity>
-<price>891.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4675999</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/f009220d24f08844.jpg</picture>
-<vendor>ЗооБаза</vendor>
-<name>Лежак ЗооБаза Рекс 425х560х135 см</name>
-<name_ua>Лежак ЗооБаза Рекс 425х560х135 см</name_ua>
-<description><![CDATA[<p>Выбирайте по длине животного, когда оно спит вытянувшись: нужен запас, чтобы оно могло расслабиться.</p>]]></description>
-<description_ua><![CDATA[<p>Обирайте за довжиною тварини, коли вона спить витягнувшись: потрібен запас, щоб вона могла розслабитися.</p>]]></description_ua>
-<param name="Розмір">425х560х135 см</param>
-<param name="Тип">Лежак</param>
-<param name="EAN">4823118702774</param>
-</offer>
 <offer id="ZB4795" available="true">
 <stock_quantity>2</stock_quantity>
 <price>965.00</price>
