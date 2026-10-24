@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-23 08:00">
+<yml_catalog date="2026-10-24 09:59">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -10101,8 +10101,8 @@
 <param name="Рецептура">Без зернових</param>
 <param name="Основні інгредієнти">Курка</param>
 </offer>
-<offer id="ZB4233" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB4233" available="true">
+<stock_quantity>2</stock_quantity>
 <price>1011.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -11656,8 +11656,8 @@
 <param name="Призначення">Гіпоалергенний</param>
 <param name="Основні інгредієнти">Яловичина, Рис</param>
 </offer>
-<offer id="ZB4309" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB4309" available="true">
+<stock_quantity>2</stock_quantity>
 <price>1011.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
