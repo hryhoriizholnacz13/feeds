@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-25 12:00">
+<yml_catalog date="2026-10-27 19:09">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -154,8 +154,8 @@
 <param name="Матеріал">Оксфорд</param>
 <param name="EAN">4823118702125</param>
 </offer>
-<offer id="ZB3415" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3415" available="true">
+<stock_quantity>2</stock_quantity>
 <price>1643.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
@@ -289,8 +289,8 @@
 <param name="Матеріал">Оксфорд</param>
 <param name="EAN">4823118702163</param>
 </offer>
-<offer id="ZB3425" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3425" available="true">
+<stock_quantity>2</stock_quantity>
 <price>1643.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
@@ -925,8 +925,8 @@
 <param name="Колір">Різнокольоровий</param>
 <param name="Матеріал">Велюр</param>
 </offer>
-<offer id="ZB3469" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3469" available="true">
+<stock_quantity>2</stock_quantity>
 <price>1094.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675996</categoryId>
@@ -3868,8 +3868,8 @@
 <param name="Колір">Сірий</param>
 <param name="Матеріал">Інший</param>
 </offer>
-<offer id="ZB3716" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3716" available="true">
+<stock_quantity>2</stock_quantity>
 <price>1139.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -3888,8 +3888,8 @@
 <param name="Розмір">4</param>
 <param name="EAN">4823118703863</param>
 </offer>
-<offer id="ZB3723" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3723" available="true">
+<stock_quantity>2</stock_quantity>
 <price>902.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -3910,8 +3910,8 @@
 <param name="Розмір">S</param>
 <param name="EAN">4823118703672</param>
 </offer>
-<offer id="ZB3724" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3724" available="true">
+<stock_quantity>2</stock_quantity>
 <price>850.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -3930,8 +3930,8 @@
 <param name="Розмір">0</param>
 <param name="EAN">4823118703832</param>
 </offer>
-<offer id="ZB3725" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3725" available="true">
+<stock_quantity>2</stock_quantity>
 <price>902.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -3950,8 +3950,8 @@
 <param name="Розмір">1</param>
 <param name="EAN">4823118703849</param>
 </offer>
-<offer id="ZB3726" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3726" available="true">
+<stock_quantity>2</stock_quantity>
 <price>969.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -3970,8 +3970,8 @@
 <param name="Розмір">2</param>
 <param name="EAN">4823118703856</param>
 </offer>
-<offer id="ZB3728" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3728" available="true">
+<stock_quantity>2</stock_quantity>
 <price>1073.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -3990,8 +3990,8 @@
 <param name="Розмір">3</param>
 <param name="EAN">4823118703719</param>
 </offer>
-<offer id="ZB3729" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3729" available="true">
+<stock_quantity>2</stock_quantity>
 <price>850.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -4536,8 +4536,8 @@
 <param name="Розмір">0</param>
 <param name="EAN">4823118704242</param>
 </offer>
-<offer id="ZB3755" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3755" available="true">
+<stock_quantity>2</stock_quantity>
 <price>727.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -6403,8 +6403,8 @@
 <param name="Матеріал">Плюш</param>
 <param name="EAN">4823118706352</param>
 </offer>
-<offer id="ZB3862" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3862" available="true">
+<stock_quantity>2</stock_quantity>
 <price>999.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -6425,8 +6425,8 @@
 <param name="Розмір">2</param>
 <param name="EAN">4823118703238</param>
 </offer>
-<offer id="ZB3864" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3864" available="true">
+<stock_quantity>2</stock_quantity>
 <price>950.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -6447,8 +6447,8 @@
 <param name="Розмір">1</param>
 <param name="EAN">4823118703221</param>
 </offer>
-<offer id="ZB3865" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3865" available="true">
+<stock_quantity>2</stock_quantity>
 <price>950.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -6470,8 +6470,8 @@
 <param name="Розмір">S</param>
 <param name="EAN">4823118703191</param>
 </offer>
-<offer id="ZB3866" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3866" available="true">
+<stock_quantity>2</stock_quantity>
 <price>902.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -6492,8 +6492,8 @@
 <param name="Розмір">0</param>
 <param name="EAN">4823118703214</param>
 </offer>
-<offer id="ZB3867" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3867" available="true">
+<stock_quantity>2</stock_quantity>
 <price>902.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -6515,8 +6515,8 @@
 <param name="Розмір">XS</param>
 <param name="EAN">4823118703429</param>
 </offer>
-<offer id="ZB3869" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3869" available="true">
+<stock_quantity>2</stock_quantity>
 <price>999.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -6537,8 +6537,8 @@
 <param name="Розмір">2</param>
 <param name="EAN">4823118703238</param>
 </offer>
-<offer id="ZB3871" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3871" available="true">
+<stock_quantity>2</stock_quantity>
 <price>950.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -6559,8 +6559,8 @@
 <param name="Розмір">1</param>
 <param name="EAN">4823118703221</param>
 </offer>
-<offer id="ZB3872" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3872" available="true">
+<stock_quantity>2</stock_quantity>
 <price>950.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -6582,8 +6582,8 @@
 <param name="Розмір">S</param>
 <param name="EAN">4823118703191</param>
 </offer>
-<offer id="ZB3873" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3873" available="true">
+<stock_quantity>2</stock_quantity>
 <price>902.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -6604,8 +6604,8 @@
 <param name="Розмір">0</param>
 <param name="EAN">4823118703214</param>
 </offer>
-<offer id="ZB3874" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3874" available="true">
+<stock_quantity>2</stock_quantity>
 <price>902.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -6627,8 +6627,8 @@
 <param name="Розмір">XS</param>
 <param name="EAN">4823118703429</param>
 </offer>
-<offer id="ZB3876" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3876" available="true">
+<stock_quantity>2</stock_quantity>
 <price>1098.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -6787,8 +6787,8 @@
 <param name="Розмір">0</param>
 <param name="EAN">4823118706284</param>
 </offer>
-<offer id="ZB3886" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3886" available="true">
+<stock_quantity>2</stock_quantity>
 <price>1051.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -7203,8 +7203,8 @@
 <param name="Розмір">0</param>
 <param name="EAN">4823118705997</param>
 </offer>
-<offer id="ZB3908" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3908" available="true">
+<stock_quantity>2</stock_quantity>
 <price>853.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -8012,8 +8012,8 @@
 <param name="Розмір">0</param>
 <param name="EAN">4823118708240</param>
 </offer>
-<offer id="ZB3952" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3952" available="true">
+<stock_quantity>2</stock_quantity>
 <price>1926.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -8188,8 +8188,8 @@
 <param name="Розмір">0</param>
 <param name="EAN">4823118708240</param>
 </offer>
-<offer id="ZB3960" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3960" available="true">
+<stock_quantity>2</stock_quantity>
 <price>1073.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -8208,8 +8208,8 @@
 <param name="Розмір">5</param>
 <param name="EAN">4823118705522</param>
 </offer>
-<offer id="ZB3961" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3961" available="true">
+<stock_quantity>2</stock_quantity>
 <price>1010.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -8228,8 +8228,8 @@
 <param name="Розмір">4</param>
 <param name="EAN">4823118705515</param>
 </offer>
-<offer id="ZB3962" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3962" available="true">
+<stock_quantity>2</stock_quantity>
 <price>816.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -8248,8 +8248,8 @@
 <param name="Розмір">3</param>
 <param name="EAN">4823118705508</param>
 </offer>
-<offer id="ZB3963" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3963" available="true">
+<stock_quantity>2</stock_quantity>
 <price>794.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -8268,8 +8268,8 @@
 <param name="Розмір">2</param>
 <param name="EAN">4823118705492</param>
 </offer>
-<offer id="ZB3964" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3964" available="true">
+<stock_quantity>2</stock_quantity>
 <price>742.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -8288,8 +8288,8 @@
 <param name="Розмір">1</param>
 <param name="EAN">4823118705485</param>
 </offer>
-<offer id="ZB3965" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3965" available="true">
+<stock_quantity>2</stock_quantity>
 <price>693.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -8308,8 +8308,8 @@
 <param name="Розмір">0</param>
 <param name="EAN">4823118705478</param>
 </offer>
-<offer id="ZB3969" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3969" available="true">
+<stock_quantity>2</stock_quantity>
 <price>816.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -8328,8 +8328,8 @@
 <param name="Розмір">3</param>
 <param name="EAN">4823118705430</param>
 </offer>
-<offer id="ZB3970" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3970" available="true">
+<stock_quantity>2</stock_quantity>
 <price>794.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -8348,8 +8348,8 @@
 <param name="Розмір">2</param>
 <param name="EAN">4823118705423</param>
 </offer>
-<offer id="ZB3971" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3971" available="true">
+<stock_quantity>2</stock_quantity>
 <price>742.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -8368,8 +8368,8 @@
 <param name="Розмір">1</param>
 <param name="EAN">4823118705416</param>
 </offer>
-<offer id="ZB3972" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB3972" available="true">
+<stock_quantity>2</stock_quantity>
 <price>693.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -9135,8 +9135,8 @@
 <param name="Обхват грудної клітки">40 см</param>
 <param name="Розмір">25 см</param>
 </offer>
-<offer id="ZB4081" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB4081" available="true">
+<stock_quantity>2</stock_quantity>
 <price>850.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -9480,8 +9480,8 @@
 <param name="Розмір">0</param>
 <param name="EAN">4823118707885</param>
 </offer>
-<offer id="ZB4108" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB4108" available="true">
+<stock_quantity>2</stock_quantity>
 <price>797.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -9560,8 +9560,8 @@
 <param name="Розмір">0</param>
 <param name="EAN">4823118707885</param>
 </offer>
-<offer id="ZB4114" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB4114" available="true">
+<stock_quantity>2</stock_quantity>
 <price>678.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -9580,8 +9580,8 @@
 <param name="Розмір">2</param>
 <param name="EAN">4823118706253</param>
 </offer>
-<offer id="ZB4115" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB4115" available="true">
+<stock_quantity>2</stock_quantity>
 <price>738.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -9600,8 +9600,8 @@
 <param name="Розмір">3</param>
 <param name="EAN">4823118706260</param>
 </offer>
-<offer id="ZB4116" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB4116" available="true">
+<stock_quantity>2</stock_quantity>
 <price>738.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -9620,8 +9620,8 @@
 <param name="Розмір">3</param>
 <param name="EAN">4823118706260</param>
 </offer>
-<offer id="ZB4117" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB4117" available="true">
+<stock_quantity>2</stock_quantity>
 <price>634.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -9640,8 +9640,8 @@
 <param name="Розмір">1</param>
 <param name="EAN">4823118706246</param>
 </offer>
-<offer id="ZB4118" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB4118" available="true">
+<stock_quantity>2</stock_quantity>
 <price>634.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -9660,8 +9660,8 @@
 <param name="Розмір">1</param>
 <param name="EAN">4823118706246</param>
 </offer>
-<offer id="ZB4121" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB4121" available="true">
+<stock_quantity>2</stock_quantity>
 <price>589.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -9680,8 +9680,8 @@
 <param name="Розмір">0</param>
 <param name="EAN">4823118706239</param>
 </offer>
-<offer id="ZB4122" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB4122" available="true">
+<stock_quantity>2</stock_quantity>
 <price>589.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -9700,8 +9700,8 @@
 <param name="Розмір">0</param>
 <param name="EAN">4823118706239</param>
 </offer>
-<offer id="ZB4123" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB4123" available="true">
+<stock_quantity>2</stock_quantity>
 <price>678.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
@@ -9796,12 +9796,11 @@
 <picture>https://www.zoobaza.com.ua/content/images/35/1024x768l80mc0/56708240423540.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>532114008</article>
-<name>Сухой корм для котов Fitmin Purity Delicious 10 кг (532114008)</name>
-<name_ua>Сухий корм для котів Fitmin Purity Delicious 10 кг (532114008)</name_ua>
+<name>Корм для котов Fitmin Purity Delicious 10 кг (532114008)</name>
+<name_ua>Корм для котів Fitmin Purity Delicious 10 кг (532114008)</name_ua>
 <description><![CDATA[<p>Fitmin Cat Purity Delicious — холистический беззерновой сухой корм для взрослых котов, в том числе привередливых.</p><ul><li>Рецептура содержит много свежей дичи, травы для поддержки vitality организма, ягоды и овощи.</li><li>Преимущества:71% протеинов животного происхождения;беззерновая рецептура, без глютена, снижает риск аллергических реакций;технология Fresh Meat — свежее мясо без костей;мясо дичи, богатое минералами (натрий, калий, железо, фосфор) и витаминами группы B;комплекс Herbs Vitality, комплекс ухода за зубами, пребиотики и хелаты;масло лосося холодного отжима; экстракт розмарина как природный антиоксидант.</li><li>Состав: мясо (25% свежая дичь, 20% сушеное мясо утки, 19% свежая свиная печень, 6% сушеная свинина и говядина), горох, фермерский картофель, жир птицы, свекольная клетчатка, куриные яйца, пивные дрожжи, семена льна, яблоки, минералы, инактивированные дрожжи Saccharomyces cerevisiae, масло норвежского лосося холодного отжима, травяной комплекс (листья крапивы, листья одуванчика, цветки ромашки 0,17%, листья мелиссы 0,17%, цветки липы), черника 1%, корень цикория, юкка Шидигера, пресноводная водоросль хлорелла 0,05%.</li><li>Аналитические составляющие: белок 33,5%, жир 20,5%, клетчатка 2,3%, зола 8,3%, кальций 1,5%, фосфор 1,1%, натрий 0,4%; энергия 17,4 МДж/кг.</li><li>Кормление: взрослый кот весом 2 3 кг</li><li>30 50 г в сутки, 3 5 кг</li><li>45 70 г, 5 7 кг</li><li>65 90 г, 7 10 кг</li><li>85 110 г.</li></ul>]]></description>
 <description_ua><![CDATA[<p>Fitmin Cat Purity Delicious — холістичний беззерновий сухий корм для дорослих котів, зокрема вибагливих.</p><ul><li>Рецептура містить багато свіжої дичини, трави для підтримки vitality організму, ягоди та овочі.</li><li>Переваги:71% протеїнів тваринного походження;беззернова рецептура, без глютену, знижує ризик алергічних реакцій;технологія Fresh Meat — свіже м'ясо без кісток;м'ясо дичини, багате на мінерали (натрій, калій, залізо, фосфор) і вітаміни групи B;комплекс Herbs Vitality, комплекс догляду за зубами, пребіотики та хелати;олія лосося холодного віджиму; екстракт розмарину як природний антиоксидант.</li><li>Склад: м'ясо (25% свіжа дичина, 20% сушене м'ясо качки, 19% свіжа свиняча печінка, 6% сушена свинина та яловичина), горох, фермерська картопля, жир птиці, бурякова клітковина, курячі яйця, пивні дріжджі, насіння льону, яблука, мінерали, інактивовані дріжджі Saccharomyces cerevisiae, олія норвезького лосося холодного віджиму, трав'яний комплекс (листя кропиви, листя кульбаби, квіти ромашки 0,17%, листя меліси 0,17%, квітки липи), чорниця 1%, корінь цикорію, юка Шидігера, прісноводна водорость хлорела 0,05%.</li><li>Аналітичні складові: білок 33,5%, жир 20,5%, клітковина 2,3%, зола 8,3%, кальцій 1,5%, фосфор 1,1%, натрій 0,4%; енергія 17,4 МДж/кг.</li><li>Годування: дорослий кіт вагою 2 3 кг</li><li>30 50 г на добу, 3 5 кг</li><li>45 70 г, 5 7 кг</li><li>65 90 г, 7 10 кг</li><li>85 110 г.</li></ul>]]></description_ua>
 <param name="Вид тварини">коти</param>
-<param name="Вид корму">Сухий корм</param>
 <param name="Вага 1 шт">6.1 кг - 10 кг</param>
 <param name="Призначення">Для виставкових і вибагливих кішок</param>
 <param name="Рецептура">Без зернових</param>
@@ -9932,13 +9931,12 @@
 <picture>https://www.zoobaza.com.ua/content/images/43/1024x768l80mc0/19434362884753.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>532114036</article>
-<name>Сухой корм для котов Fitmin Purity Senior 10 кг (532114036)</name>
-<name_ua>Сухий корм для котів Fitmin Purity Senior 10 кг (532114036)</name_ua>
+<name>Корм для котов Fitmin Purity Senior 10 кг (532114036)</name>
+<name_ua>Корм для котів Fitmin Purity Senior 10 кг (532114036)</name_ua>
 <description><![CDATA[<p>Fitmin Cat Purity Senior — холистический беззерновой сухой корм для котов пожилого возраста (от 7 лет) с низкой активностью.</p><ul><li>Рецептура на свежем мясе кролика и ягненка, подходит котам с чувствительным пищеварением.</li><li>Преимущества:более 50 % свежего мяса; 71 % белков животного происхождения;беззерновая рецептура (grain free), без пшеницы;комплекс Herbs Vitality из трав для поддержки жизненных сил организма;кролик — высокая питательная ценность, хорошо усваиваемые белки, низкое содержание жира и холестерина;расторопша — для поддержки печени, черника — для зрения, люцерна — для пищеварительной системы;зеленогубая мидия — природный источник таурина.</li><li>Состав: мясо (20 % куриного сушеного, 15 % кролика свежего, 15 % ягненка свежего, 9 % ягненка сушеного, 4 % свиной печени), фермерский картофель, горох, птичий жир, яблоки, свекольный жом, семена льна, куриное яйцо, пивные дрожжи, масло норвежского лосося холодного отжима, инактивированные дрожжи Saccharomyces cerevisiae, люцерна 1 %, черная смородина 1 %, травяной комплекс (листья крапивы двудомной, листья одуванчика лекарственного, цветки ромашки аптечной, листья мелиссы лекарственной, цветки липы сердцелистной), черника 1 %, минеральные вещества, корень цикория, перна (мидия) 0,2 %, расторопша пятнистая 0,1 %, юкка шидигера, комплекс природных антиоксидантов.</li><li>Аналитические составляющие: сырой белок 34 %, сырые масла и жиры 14 %, сырая клетчатка 3,4 %, сырая зола 7,6 %, кальций 1,3 %, фосфор 0,95 %, натрий 0,35 %.</li></ul><ul><li>Энергетическая ценность 16,10 МДж/кг.</li><li>Суточная норма для взрослого кота: вес 2 3 кг</li><li>40 60 г, 3 5 кг</li><li>55 85 г, 5 7 кг</li><li>80 100 г, 7 10 кг</li><li>95 125 г.</li></ul>]]></description>
 <description_ua><![CDATA[<p>Fitmin Cat Purity Senior — холістичний беззерновий сухий корм для котів літнього віку (від 7 років) з низькою активністю.</p><ul><li>Рецептура на свіжому м'ясі кролика та ягняти, підходить котам із чутливим травленням.</li><li>Переваги:понад 50 % свіжого м'яса; 71 % білків тваринного походження;беззернова рецептура (grain free), без пшениці;комплекс Herbs Vitality з трав для підтримки життєвих сил організму;кролик — висока поживна цінність, добре засвоювані білки, низький вміст жиру та холестеролу;розторопша — для підтримки печінки, чорниця — для зору, люцерна — для травної системи;мідія зеленогуба — природне джерело таурину.</li><li>Склад: м'ясо (20 % курячого сушеного, 15 % кролика свіжого, 15 % ягняти свіжого, 9 % ягняти сушеного, 4 % свинячої печінки), фермерська картопля, горох, пташиний жир, яблука, буряковий жом, насіння льону, куряче яйце, пивні дріжджі, холодного віджиму олія норвезького лосося, інактивовані дріжджі Saccharomyces cerevisiae, люцерна 1 %, чорна смородина 1 %, трав'яний комплекс (листя кропиви дводомної, листя кульбаби лікарської, квіти ромашки лікарської, листя меліси лікарської, квіти липи серцелистої), чорниця 1 %, мінеральні речовини, корінь цикорію, перна (мідія) 0,2 %, розторопша плямиста 0,1 %, юка шидигера, комплекс природних антиоксидантів.</li><li>Аналітичні складові: сирий білок 34 %, сирі олії та жири 14 %, сира клітковина 3,4 %, сира зола 7,6 %, кальцій 1,3 %, фосфор 0,95 %, натрій 0,35 %.</li></ul><ul><li>Енергетична цінність 16,10 МДж/кг.</li><li>Добова норма для дорослого кота: вага 2 3 кг</li><li>40 60 г, 3 5 кг</li><li>55 85 г, 5 7 кг</li><li>80 100 г, 7 10 кг</li><li>95 125 г.</li></ul>]]></description_ua>
 <param name="Вид тварини">коти</param>
 <param name="Вік тварини">літні</param>
-<param name="Вид корму">Сухий корм</param>
 <param name="Вага 1 шт">6.1 кг - 10 кг</param>
 <param name="Вік кота">Літні</param>
 <param name="Рецептура">Без зернових</param>
@@ -9979,13 +9977,12 @@
 <picture>https://www.zoobaza.com.ua/content/images/45/1024x768l80mc0/36089134238749.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>532114041</article>
-<name>Сухой корм для котов Fitmin Purity Urinary 10 кг (532114041)</name>
-<name_ua>Сухий корм для котів Fitmin Purity Urinary 10 кг (532114041)</name_ua>
+<name>Корм для котов Fitmin Purity Urinary 10 кг (532114041)</name>
+<name_ua>Корм для котів Fitmin Purity Urinary 10 кг (532114041)</name_ua>
 <description><![CDATA[<p>Fitmin Cat Purity Urinary — полнорационный беззерновой сухой корм для взрослых котов, который помогает поддерживать здоровье мочевыводящей системы.</p><ul><li>Производитель</li><li>Fitmin a.s., Чехия.75% белков животного происхождения;беззерновая рецептура;комплекс трав Herbs Vitality;технология Fresh meat (свежее мясо).</li><li>Состав: мясо (25% сушеная курица, 20% свежая курица, 5% сушеная индейка, 4% свиная печень, 3,5% сушеная рыба — треска, угорь, сардины), картофель, куриный жир, зеленый горошек, свекольное масло, яблоки, куриные яйца, пивные дрожжи, норвежское лососевое масло холодного отжима, инактивированные дрожжи Saccharomyces cerevisiae, лен, травяной комплекс (листья крапивы 0,25%, листья одуванчика, цветки ромашки, листья мелиссы, цветки липы 0,16%), клюква 1%, минералы, люцерна 0,5%, корень цикория, ягоды годжи 0,2%, юкка шидигера.</li><li>Аналитические составляющие: белок 34%, жир 20%, клетчатка 2,3%, зола 6,7%, кальций 1%, фосфор 0,8%, натрий 0,37%, магний 0,11%.</li></ul><ul><li>Энергетическая ценность 17,7 МДж/кг.</li><li>Норму кормления смотрите.</li></ul><p>На упаковке; свежая вода должна быть доступна постоянно. При наличии диагностированного заболевания согласуйте рацион с ветеринаром.</p>]]></description>
 <description_ua><![CDATA[<p>Fitmin Cat Purity Urinary — повнораціонний беззерновий сухий корм для дорослих котів, який допомагає підтримувати здоров'я сечовивідної системи.</p><ul><li>Виробник</li><li>Fitmin a.s., Чехія.75% білків тваринного походження;беззернова рецептура;комплекс трав Herbs Vitality;технологія Fresh meat (свіже м'ясо).</li><li>Склад: м'ясо (25% сушена курка, 20% свіжа курка, 5% сушена індичка, 4% свиняча печінка, 3,5% сушена риба — тріска, вугор, сардини), картопля, курячий жир, зелений горошок, бурякова олія, яблука, курячі яйця, пивні дріжджі, норвезька лососева олія холодного віджиму, інактивовані дріжджі Saccharomyces cerevisiae, льон, трав'яний комплекс (листя кропиви 0,25%, листя кульбаби, квіти ромашки, листя меліси, квіти липи 0,16%), журавлина 1%, мінерали, люцерна 0,5%, корінь цикорію, ягоди годжі 0,2%, юка шидигера.</li><li>Аналітичні складові: білок 34%, жир 20%, клітковина 2,3%, зола 6,7%, кальцій 1%, фосфор 0,8%, натрій 0,37%, магній 0,11%.</li></ul><ul><li>Енергетична цінність 17,7 МДж/кг.</li><li>Норму годування див.</li></ul><p>На упаковці; свіжа вода має бути доступна постійно. За наявності діагностованого захворювання узгодьте раціон з ветеринаром.</p>]]></description_ua>
 <param name="Вид тварини">коти</param>
 <param name="Вік тварини">дорослі</param>
-<param name="Вид корму">Сухий корм</param>
 <param name="Вага 1 шт">6.1 кг - 10 кг</param>
 <param name="Призначення">Основне годування</param>
 <param name="Рецептура">Без зернових</param>
@@ -10127,13 +10124,12 @@
 <picture>https://www.zoobaza.com.ua/content/images/2/1024x768l80mc0/90582157281755.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>512114011</article>
-<name>Сухой корм для котов Fitmin For Life Adult Chicken 8 кг (512114011)</name>
-<name_ua>Сухий корм для котів Fitmin For Life Adult Chicken 8 кг (512114011)</name_ua>
+<name>Корм для котов Fitmin For Life Adult Chicken 8 кг (512114011)</name>
+<name_ua>Корм для котів Fitmin For Life Adult Chicken 8 кг (512114011)</name_ua>
 <description><![CDATA[<p>Fitmin For Life Adult Chicken — полнорационный сухой корм класса Премиум для взрослых котов (от 12 мес.) на основе свежего куриного мяса.</p><ul><li>Содержит сбалансированное содержание минералов, витаминов и пребиотиков.87% животного белка.</li><li>Свежее куриное мясо — высокая вкусовая привлекательность; 91% заводчиков остались довольны реакцией котов на корм, 100% порекомендовали бы его знакомым.</li><li>Комплекс ухода за зубами с антибактериальной защитой ротовой полости снижает образование зубного налета и камня.</li><li>Рецептура с рисом и овсом, без пшеницы и кукурузы.</li><li>Лососевое масло — источник жирных кислот; экстракт юкки способствует лучшему пищеварению.</li><li>Состав: мясо (сушеная курица 35%, свежая курица 20%, гидролизованный куриный белок 3,8%), рис, птичий жир, овес, свекольная мякоть, яблочный жмых, семена гороха, куриные яйца, натуральный источник клетчатки, дрожжи, семена льна, лососевое масло 1%, инактивированные дрожжи Saccharomyces cerevisiae (бета-глюканы 0,7%), хлорид калия, корень цикория, юкка 0,01%.</li><li>Аналитические составляющие: сырой белок 34%, сырые жиры 18,5%, клетчатка 4,1%, зола 6,1%, кальций 1%, фосфор 0,8%, натрий 0,4%, магний 0,087%; энергетическая ценность 16,7 МДж/кг.</li><li>Кормление: норма для взрослого кота в зависимости от веса: 2 3 кг</li><li>30 40 г, 4 5 кг</li><li>45 55 г, 6 7 кг</li><li>60 70 г, 8 9 кг</li><li>80 90 г, 10 кг</li><li>100 г.</li></ul>]]></description>
 <description_ua><![CDATA[<p>Fitmin For Life Adult Chicken — повнораціонний сухий корм класу Преміум для дорослих котів (від 12 міс.) на основі свіжого курячого м'яса.</p><ul><li>Містить збалансований вміст мінералів, вітамінів і пребіотиків.87% тваринного білка.</li><li>Свіже куряче м'ясо — висока смаковитість; 91% заводчиків залишилися задоволені реакцією котів на корм, 100% порекомендували б його знайомим.</li><li>Комплекс догляду за зубами з антибактеріальним захистом ротової порожнини знижує утворення зубного нальоту та каменю.</li><li>Рецептура з рисом і вівсом, без пшениці та кукурудзи.</li><li>Лососева олія — джерело жирних кислот; екстракт юкки сприяє кращому травленню.</li><li>Склад: м'ясо (сушена курка 35%, свіжа курка 20%, гідролізований курячий білок 3,8%), рис, пташиний жир, овес, бурякова м'якоть, яблучний жмих, насіння гороху, курячі яйця, натуральне джерело клітковини, дріжджі, насіння льону, лососева олія 1%, інактивовані дріжджі Saccharomyces cerevisiae (бета-глюкани 0,7%), хлорид калію, корінь цикорію, юкка 0,01%.</li><li>Аналітичні складові: сирий білок 34%, сирі жири 18,5%, клітковина 4,1%, зола 6,1%, кальцій 1%, фосфор 0,8%, натрій 0,4%, магній 0,087%; енергетична цінність 16,7 МДж/кг.</li><li>Годування: норма для дорослого кота залежно від ваги: 2 3 кг</li><li>30 40 г, 4 5 кг</li><li>45 55 г, 6 7 кг</li><li>60 70 г, 8 9 кг</li><li>80 90 г, 10 кг</li><li>100 г.</li></ul>]]></description_ua>
 <param name="Вид тварини">коти</param>
 <param name="Вік тварини">дорослі</param>
-<param name="Вид корму">Сухий корм</param>
 <param name="Вага 1 шт">6.1 кг - 10 кг</param>
 <param name="Вік кота">Дорослі</param>
 <param name="Клас корму">Преміум</param>
@@ -10220,13 +10216,12 @@
 <picture>https://www.zoobaza.com.ua/content/images/6/1024x768l80mc0/95614070601012.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>512114017</article>
-<name>Сухой корм для котов Fitmin For Life Castrate Beef 8 кг (512114017)</name>
-<name_ua>Сухий корм для котів Fitmin For Life Castrate Beef 8 кг (512114017)</name_ua>
+<name>Корм для котов Fitmin For Life Castrate Beef 8 кг (512114017)</name>
+<name_ua>Корм для котів Fitmin For Life Castrate Beef 8 кг (512114017)</name_ua>
 <description><![CDATA[<p>Fitmin Cat For Life Castrate Beef — сухой корм премиум-класса для взрослых кастрированных котов и стерилизованных кошек.</p><ul><li>Рецептура на основе свежего мяса с комплексом ухода за зубами; содержит рис и овес, без пшеницы и кукурузы.84% белка животного происхожденияСвежее мясо в гранулах — основа рецептурыКомплекс ухода за зубами: антибактериальная защита ротовой полости, профилактика зубного налета и камняГовядина — источник эссенциальных аминокислот, железа и витамина B2Экстракт юкки способствует лучшему пищеварениюЛососевое масло — источник жирных кислотСостав: мясо (вяленая говядина 32%, свежая говядина 20%, гидролизованный куриный белок 3.8%), рис, овес, жир птицы, свекольная клетчатка, горох, яблочные выжимки, дрожжи, лососевое масло 1%, природный источник клетчатки, семена льна, хлорид калия, инактивированные дрожжи Saccharomyces cerevisiae (бета-глюканы) 0.7%, куриные яйца, карбонат кальция, шиповник, псиллиум, корень цикория, юкка 0.01%.</li><li>Аналитические составляющие: сырой белок 32%, сырые масла и жиры 16%, сырая клетчатка 3.9%, сырая зола 6.1%, кальций 0.9%, фосфор 0.8%, натрий 0.4%, магний 0.065%; энергия 16.24 МДж/кг.</li><li>Суточная норма для взрослого кота: весом 2 3 кг</li><li>35 45 г, 4 5 кг</li><li>55 65 г, 6 7 кг</li><li>75 85 г, 8 9 кг</li><li>90 100 г, 10 кг</li><li>110 г.</li></ul>]]></description>
 <description_ua><![CDATA[<p>Fitmin Cat For Life Castrate Beef — сухий корм преміум-класу для дорослих кастрованих котів і стерилізованих кішок.</p><ul><li>Рецептура на основі свіжого м'яса з комплексом догляду за зубами; містить рис і овес, без пшениці та кукурудзи.84% білка тваринного походженняСвіже м'ясо в гранулах — основа рецептуриКомплекс догляду за зубами: антибактеріальний захист ротової порожнини, профілактика зубного нальоту і каменюЯловичина — джерело есенціальних амінокислот, заліза та вітаміну B2Екстракт юки сприяє кращому травленнюЛососева олія — джерело жирних кислотСклад: м'ясо (в'ялена яловичина 32%, свіжа яловичина 20%, гідролізований курячий білок 3.8%), рис, овес, жир птиці, бурякова клітковина, горох, яблучні вичавки, дріжджі, лососева олія 1%, природне джерело клітковини, насіння льону, хлорид калію, інактивовані дріжджі Saccharomyces cerevisiae (бета-глюкани) 0.7%, курячі яйця, карбонат кальцію, шипшина, псиліум, корінь цикорію, юка 0.01%.</li><li>Аналітичні складові: сирий білок 32%, сирі олії та жири 16%, сира клітковина 3.9%, сира зола 6.1%, кальцій 0.9%, фосфор 0.8%, натрій 0.4%, магній 0.065%; енергія 16.24 МДж/кг.</li><li>Добова норма для дорослого кота: вагою 2 3 кг</li><li>35 45 г, 4 5 кг</li><li>55 65 г, 6 7 кг</li><li>75 85 г, 8 9 кг</li><li>90 100 г, 10 кг</li><li>110 г.</li></ul>]]></description_ua>
 <param name="Вид тварини">коти</param>
 <param name="Вік тварини">дорослі</param>
-<param name="Вид корму">Сухий корм</param>
 <param name="Вага 1 шт">6.1 кг - 10 кг</param>
 <param name="Клас корму">Преміум</param>
 <param name="Призначення">Для стерилізованих кішок</param>
@@ -10285,13 +10280,12 @@
 <picture>https://www.zoobaza.com.ua/content/images/9/1024x768l80mc0/60315879942034.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>512114023</article>
-<name>Сухой корм для котят Fitmin For Life Kitten 8 кг (512114023)</name>
-<name_ua>Сухий корм для кошенят Fitmin For Life Kitten 8 кг (512114023)</name_ua>
+<name>Корм для котят Fitmin For Life Kitten 8 кг (512114023)</name>
+<name_ua>Корм для кошенят Fitmin For Life Kitten 8 кг (512114023)</name_ua>
 <description><![CDATA[<p>Fitmin Cat For Life Kitten — сухой корм для котят, а также для беременных и кормящих кошек. Рецептура построена на свежем курином мясе, содержит рис и овес, без пшеницы и кукурузы.</p><ul><li>Упаковка 8 кг подойдет для питомников и владельцев нескольких котят.</li><li>Преимущества:содержит 89 % животного белка;свежее мясо в гранулах: основа рецептуры — курятина, которая легкая и хорошо усваивается;комплекс ухода за зубами с антибактериальной защитой ротовой полости помогает предотвращать образование налета и зубного камня;сбалансированное содержание минералов, витаминов и пребиотиков;экстракт юкки для лучшего пищеварения и лососевое масло как источник жирных кислот.</li><li>Состав: мясо (сушеная курятина 40 %, свежая курятина 20 %, гидролизованный куриный белок 3,8 %), рис, птичий жир, овес, свекольный жом, дрожжи, горох, лососевое масло 1,5 %, куриные яйца, сушеная сыворотка, яблочные выжимки, инактивированные дрожжи Saccharomyces cerevisiae (бетаглюканы) 0,7 %, льняное семя, хлорид калия, корень цикория, юкка 0,01 %.</li><li>Аналитические составляющие: белок 38 %, жир 22 %, клетчатка 2 %, зола 6,8 %, кальций 1,3 %, фосфор 0,9 %, натрий 0,38 %, магний 0,09 %; энергия 17,76 МДж/кг.</li><li>Суточную норму определяйте по таблице на упаковке в зависимости от возраста и веса котенка.</li></ul>]]></description>
 <description_ua><![CDATA[<p>Fitmin Cat For Life Kitten — сухий корм для кошенят, а також для вагітних і годуючих кішок. Рецептура побудована на свіжому курячому м'ясі, містить рис і овес, без пшениці та кукурудзи.</p><ul><li>Упаковка 8 кг підійде для розплідників і власників кількох кошенят.</li><li>Переваги:містить 89 % тваринного білка;свіже м'ясо в гранулах: основа рецептури — курятина, яка легка та добре засвоюється;комплекс догляду за зубами з антибактеріальним захистом ротової порожнини допомагає запобігати утворенню нальоту та зубного каменю;збалансований вміст мінералів, вітамінів і пребіотиків;екстракт юки для кращого травлення та лососева олія як джерело жирних кислот.</li><li>Склад: м'ясо (сушена курятина 40 %, свіжа курятина 20 %, гідролізований курячий білок 3,8 %), рис, пташиний жир, овес, буряковий жом, дріжджі, горох, лососева олія 1,5 %, курячі яйця, сушена сироватка, яблучні вичавки, інактивовані дріжджі Saccharomyces cerevisiae (бетаглюкани) 0,7 %, лляне насіння, хлорид калію, корінь цикорію, юка 0,01 %.</li><li>Аналітичні складові: білок 38 %, жир 22 %, клітковина 2 %, зола 6,8 %, кальцій 1,3 %, фосфор 0,9 %, натрій 0,38 %, магній 0,09 %; енергія 17,76 МДж/кг.</li><li>Добову норму визначайте за таблицею на упаковці залежно від віку та ваги кошеняти.</li></ul>]]></description_ua>
 <param name="Вид тварини">коти</param>
 <param name="Вік тварини">цуценята/кошенята</param>
-<param name="Вид корму">Сухий корм</param>
 <param name="Вага 1 шт">6.1 кг - 10 кг</param>
 <param name="Вік кота">Кошенята</param>
 <param name="Призначення">Для вагітних кішок, Для кішок-годувальниць</param>
@@ -10578,13 +10572,12 @@
 <picture>https://www.zoobaza.com.ua/content/images/23/1024x768l80mc0/48892209424423.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>531114041</article>
-<name>Сухой корм для собак Fitmin Purity GF Adult &amp; Junior Fish Menu 12 кг (531114041)</name>
-<name_ua>Сухий корм для собак Fitmin Purity GF Adult &amp; Junior Fish Menu 12 кг (531114041)</name_ua>
+<name>Корм для собак Fitmin Purity GF Adult &amp; Junior Fish Menu 12 кг (531114041)</name>
+<name_ua>Корм для собак Fitmin Purity GF Adult &amp; Junior Fish Menu 12 кг (531114041)</name_ua>
 <description><![CDATA[<p>Fitmin Purity GF Adult Junior с рыбой — полнорационный беззерновой безглютеновый сухой корм для юниоров и взрослых собак средних и крупных пород. Это монопротеиновая рецептура: единственный источник животного белка — рыбное мясо.</p><ul><li>Корм подходит щенкам от 5 месяцев и взрослым собакам.77% белков животного происхожденияМонопротеин: единственный источник животного белка — рыбное мясоБеззерновая рецептура, без пшеницы и кукурузы, для чувствительного пищеваренияОмега-3 жирные кислоты помогают поддерживать здоровые кожу и шерстьЛьняное семя, тыква, горох, черная смородина и травяной комплексГлюкозамин и хондроитинсульфат в составе; масло норвежского лосося холодного отжимаСостав: рыбное мясо (свежая сельдь 40%, сушеное рыбное мясо 20%, гидролизованный белок лосося 4%), фермерский картофель, горох 15,5%, птичий жир, свекольный жом, пивные дрожжи, семена льна, яблоки, масло норвежского лосося холодного отжима (с токоферолами), травяной комплекс 1% (крапива двудомная 0,23%, мелисса лекарственная, листья одуванчика лекарственного, цветки ромашки аптечной и липы сердцелистной), черная смородина 0,8%, тыква 0,5%, грибы шиитаке 0,4%, корень цикория 0,2%, годжи 0,1%, глюкозамин, хондроитинсульфат, юкка 0,012%.</li><li>Аналитические составляющие: сырой протеин 28%, сырые жиры и масла 12,5%, сырая клетчатка 4,3%, сырая зола 5,7%, кальций 1%, фосфор 0,8%; энергетическая ценность 15,23 МДж/1 кг.</li><li>Норму кормления смотрите.</li></ul><p>На упаковке.</p>]]></description>
 <description_ua><![CDATA[<p>Fitmin Purity GF Adult Junior з рибою — повнораціонний беззерновий безглютеновий сухий корм для юніорів і дорослих собак середніх та великих порід. Це монопротеїнова рецептура: єдине джерело тваринного білка — риб'яче м'ясо.</p><ul><li>Корм підходить цуценятам від 5 місяців і дорослим собакам.77% білків тваринного походженняМонопротеїн: єдине джерело тваринного білка — риб'яче м'ясоБеззернова рецептура, без пшениці та кукурудзи, для чутливого травленняОмега-3 жирні кислоти допомагають підтримувати здорові шкіру та шерстьЛляне насіння, гарбуз, горох, чорна смородина та трав'яний комплексГлюкозамін і хондроїтинсульфат у складі; олія норвезького лосося холодного віджимуСклад: риб'яче м'ясо (свіжий оселедець 40%, сушене риб'яче м'ясо 20%, гідролізований білок лосося 4%), фермерська картопля, горох 15,5%, пташиний жир, буряковий жом, пивні дріжджі, насіння льону, яблука, олія норвезького лосося холодного віджиму (з токоферолами), трав'яний комплекс 1% (кропива дводомна 0,23%, меліса лікарська, листя кульбаби лікарської, квітки ромашки лікарської та липи серцелистої), чорна смородина 0,8%, гарбуз 0,5%, гриби шиїтаке 0,4%, корінь цикорію 0,2%, годжі 0,1%, глюкозамін, хондроїтинсульфат, юка 0,012%.</li><li>Аналітичні складові: сирий протеїн 28%, сирі жири та олії 12,5%, сира клітковина 4,3%, сира зола 5,7%, кальцій 1%, фосфор 0,8%; енергетична цінність 15,23 МДж/1 кг.</li><li>Норму годування див.</li></ul><p>На упаковці.</p>]]></description_ua>
 <param name="Вид тварини">собаки</param>
 <param name="Вік тварини">усі віки</param>
-<param name="Вид корму">Сухий корм</param>
 <param name="Вага 1 шт">10.1 кг - 15 кг</param>
 <param name="Вік собаки">Дорослі, Молоді</param>
 <param name="Призначення">Основне годування</param>
@@ -10674,13 +10667,12 @@
 <picture>https://www.zoobaza.com.ua/content/images/27/1024x768l80mc0/40815728154622.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>531114015</article>
-<name>Сухой корм для щенков Fitmin Purity GF Puppy Fish 12 кг (531114015)</name>
-<name_ua>Сухий корм для цуценят Fitmin Purity GF Puppy Fish 12 кг (531114015)</name_ua>
+<name>Корм для щенков Fitmin Purity GF Puppy Fish 12 кг (531114015)</name>
+<name_ua>Корм для цуценят Fitmin Purity GF Puppy Fish 12 кг (531114015)</name_ua>
 <description><![CDATA[<ul><li>Fitmin Dog Purity GF Puppy Fish — полнорационный беззерновой и безглютеновый сухой корм для щенков всех пород в возрасте от 6 недель до 12 месяцев, а также для беременных и кормящих сук.</li><li>Преимущества:беззерновая и безглютеновая рецептура, бобовые с более низким гликемическим индексом;50% свежего рыбного мяса;78% белка животного происхождения;тыква и горох, черная смородина и семена льна (омега-3 жирные кислоты);расторопша и крапива;природные консерванты, токоферолы.</li><li>Состав: мясо (сельдь свежая 25%, ягнятина свежая 25%, рыба сушеная 16%, ягнятина сушеная 10%, гидролизованная печень 3%), фермерский картофель, горох 15,3%, птичий жир, свекольный жом, пивные дрожжи, семена льна, яблоки, масло норвежского лосося холодного отжима (защищенное токоферолами), травяной комплекс 1% (крапива двудомная 0,23%, мелисса лекарственная, листья одуванчика, цветки ромашки и липы), черная смородина 0,8%, тыква 0,5%, гриб шиитаке 0,4%, корень цикория, семена расторопши, юкка, имбирь 0,05%.</li><li>Аналитические составляющие: белок 30%, жир 20,5%, клетчатка 3,5%, зола 7%, кальций 1,4%, фосфор 1%, энергия 16,83 МДж/кг.</li><li>Суточную норму определяйте по возрасту и ожидаемому весу взрослой собаки по таблице на упаковке.</li></ul>]]></description>
 <description_ua><![CDATA[<ul><li>Fitmin Dog Purity GF Puppy Fish — повнораціонний беззерновий і безглютеновий сухий корм для цуценят усіх порід віком від 6 тижнів до 12 місяців, а також для вагітних і годуючих сук.</li><li>Переваги:беззернова та безглютенова рецептура, бобові з нижчим глікемічним індексом;50% свіжого рибного м'яса;78% білка тваринного походження;гарбуз і горох, чорна смородина та насіння льону (омега-3 жирні кислоти);розторопша і кропива;природні консерванти, токофероли.</li><li>Склад: м'ясо (оселедець свіжий 25%, ягнятина свіжа 25%, риба сушена 16%, ягнятина сушена 10%, гідролізована печінка 3%), фермерська картопля, горох 15,3%, пташиний жир, буряковий жом, пивні дріжджі, насіння льону, яблука, олія норвезького лосося холодного віджиму (захищена токоферолами), трав'яний комплекс 1% (кропива дводомна 0,23%, меліса лікарська, листя кульбаби, квітки ромашки та липи), чорна смородина 0,8%, гарбуз 0,5%, гриб шиїтаке 0,4%, корінь цикорію, насіння розторопші, юкка, імбир 0,05%.</li><li>Аналітичні складові: білок 30%, жир 20,5%, клітковина 3,5%, зола 7%, кальцій 1,4%, фосфор 1%, енергія 16,83 МДж/кг.</li><li>Добову норму визначайте за віком і очікуваною вагою дорослої собаки за таблицею на упаковці.</li></ul>]]></description_ua>
 <param name="Вид тварини">собаки</param>
 <param name="Вік тварини">цуценята/кошенята</param>
-<param name="Вид корму">Сухий корм</param>
 <param name="Вага 1 шт">10.1 кг - 15 кг</param>
 <param name="Вік собаки">Цуценята</param>
 <param name="Розмір тварини">Мініатюрні, Малі, Середні, Великі, Гігантські</param>
@@ -10769,13 +10761,12 @@
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4280-1.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>531114024</article>
-<name>Сухой корм для собак Fitmin Purity Rice Adult Fish &amp; Venison 12 кг (531114024)</name>
-<name_ua>Сухий корм для собак Fitmin Purity Rice Adult Fish &amp; Venison 12 кг (531114024)</name_ua>
+<name>Корм для собак Fitmin Purity Rice Adult Fish &amp; Venison 12 кг (531114024)</name>
+<name_ua>Корм для собак Fitmin Purity Rice Adult Fish &amp; Venison 12 кг (531114024)</name_ua>
 <description><![CDATA[<p>Fitmin Purity Rice Fish &amp; Venison — полнорационный сухой корм суперпремиум-класса для взрослых собак средних и крупных пород.</p><ul><li>Рецептура сочетает рыбу, свежую дичь и рис с травами.74% белка животного происхождения.</li><li>Рыба — источник витаминов A, D и группы B и йода для щитовидной железы.</li><li>Дичь — легкоусвояемое сырье, богатое минералами и витаминами группы B.</li><li>Тыква, яблоки и шпинат — природные антиоксиданты, поддерживают иммунитет и пищеварение.</li><li>Расторопша поддерживает печень, листья одуванчика стимулируют пищеварение.</li><li>Местное свежее сырье, природные консерванты.</li><li>Состав: мясо (35% свежая дичь, 16,2% сушеное мясо рыбы, 3,6% сушеная баранина, 3% свиная печень, 2% свежая сельдь), рис 33%, птичий жир, цельнозерновой рис 7%, свекольный жом, семена льна, пивные дрожжи, яблоки 2,2%, масло холодного отжима из норвежского лосося (защищенное токоферолами), люцерна, инактивированные дрожжи Saccharomyces cerevisiae, травяной комплекс 1% (крапива двудомная, мелисса лекарственная, листья одуванчика лекарственного 0,23%, цветки ромашки и липы), куриные яйца, шпинат 0,4%, гриб шиитаке 0,4%, корень цикория, семена расторопши, тыква 0,1%, акулий хрящ, юкка, глюкозамин, хондроитин сульфат, комплекс природных антиоксидантов.</li><li>Аналитические составляющие: белок 26,7%, жир 16%, клетчатка 2,9%, зола 6,8%, кальций 1,2%, фосфор 1%; энергия 16,14 МДж/кг.</li><li>Норму кормления смотрите.</li></ul><p>На упаковке.</p>]]></description>
 <description_ua><![CDATA[<p>Fitmin Purity Rice Fish &amp; Venison — повнораціонний сухий корм суперпреміум-класу для дорослих собак середніх та великих порід.</p><ul><li>Рецептура поєднує рибу, свіжу дичину та рис із травами.74% білка тваринного походження.</li><li>Риба — джерело вітамінів A, D і групи B та йоду для щитоподібної залози.</li><li>Дичина — легкозасвоювана сировина, багата на мінерали та вітаміни групи B.</li><li>Гарбуз, яблука та шпинат — природні антиоксиданти, підтримують імунітет і травлення.</li><li>Розторопша підтримує печінку, листя кульбаби стимулює травлення.</li><li>Місцева свіжа сировина, природні консерванти.</li><li>Склад: м'ясо (35% свіжа дичина, 16,2% сушене м'ясо риби, 3,6% сушена баранина, 3% свиняча печінка, 2% свіжий оселедець), рис 33%, пташиний жир, цільнозерновий рис 7%, буряковий жом, насіння льону, пивні дріжджі, яблука 2,2%, олія холодного віджиму з норвезького лосося (захищена токоферолами), люцерна, інактивовані дріжджі Saccharomyces cerevisiae, трав'яний комплекс 1% (кропива дводомна, меліса лікарська, листя кульбаби лікарської 0,23%, квіти ромашки та липи), курячі яйця, шпинат 0,4%, гриб шиїтаке 0,4%, корінь цикорію, насіння розторопші, гарбуз 0,1%, акулячий хрящ, юка, глюкозамін, хондроїтин сульфат, комплекс природних антиоксидантів.</li><li>Аналітичні складові: білок 26,7%, жир 16%, клітковина 2,9%, зола 6,8%, кальцій 1,2%, фосфор 1%; енергія 16,14 МДж/кг.</li><li>Норму годування див.</li></ul><p>На упаковці.</p>]]></description_ua>
 <param name="Вид тварини">собаки</param>
 <param name="Вік тварини">дорослі</param>
-<param name="Вид корму">Сухий корм</param>
 <param name="Вага 1 шт">10.1 кг - 15 кг</param>
 <param name="Вік собаки">Дорослі</param>
 <param name="Розмір тварини">Середні, Великі</param>
@@ -10816,13 +10807,12 @@
 <picture>https://www.zoobaza.com.ua/content/images/33/1024x768l80mc0/74199681562165.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>531114036</article>
-<name>Сухой корм для собак Fitmin Purity Rice Senior &amp; Light Venison &amp; Lamb 12 кг (531114036)</name>
-<name_ua>Сухий корм для собак Fitmin Purity Rice Senior &amp; Light Venison &amp; Lamb 12 кг (531114036)</name_ua>
+<name>Корм для собак Fitmin Purity Rice Senior &amp; Light Venison &amp; Lamb 12 кг (531114036)</name>
+<name_ua>Корм для собак Fitmin Purity Rice Senior &amp; Light Venison &amp; Lamb 12 кг (531114036)</name_ua>
 <description><![CDATA[<p>Fitmin Purity Rice Senior &amp; Light Venison &amp; Lamb — полнорационный сухой корм суперпремиум-класса со сниженным содержанием энергии для собак с избыточным весом и пожилых собак.</p><ul><li>Рецептура с рисом, свежей бараниной и дичью, шиитаке и соусом из шиповника.61% белков животного происхождения.</li><li>Сниженное содержание энергии — подходит собакам с избыточным весом и пожилым.</li><li>Баранина — источник витаминов группы B (B12, тиамин) и цинка.</li><li>Дичь — питательное, легкоусвояемое сырье с низким содержанием жира.</li><li>Черная смородина, шиповник и яблоки — источник витаминов и минеральных веществ.</li><li>В состав входят глюкозамин и хондроитинсульфат.</li><li>Состав: мясо (35% свежая баранина, 20% свежая дичь, 15,1% сушеная баранина, 3% свиная печень), рис 36,3%, цельнозерновой рис 9%, свекольный жом, семена льна, птичий жир, пивные дрожжи, фермерский картофель, яблоки 2,2%, люцерна, черная смородина 1%, лососевое масло холодного отжима из норвежского лосося (обработанное токоферолами), травяной комплекс 1% (крапива двудомная 0,23%, мелисса лекарственная, листья одуванчика лекарственного, цветки ромашки аптечной и липы сердцелистной), инактивированные дрожжи Saccharomyces cerevisiae, гриб шиитаке 0,4%, корень цикория, шиповник 0,15%, псиллиум, семена расторопши пятнистой, юкка, акулий хрящ, глюкозамин, хондроитинсульфат, ананас 0,02%, комплекс природных антиоксидантов.</li><li>Аналитические составляющие: сырой протеин 25%, сырые жиры и масла 10%, сырая клетчатка 3,5%, сырая зола 7,6%, кальций 1,5%, фосфор 1%; энергия 14,67 МДж/1 кг.</li><li>Норму кормления смотрите.</li></ul><p>На упаковке.</p>]]></description>
 <description_ua><![CDATA[<p>Fitmin Purity Rice Senior &amp; Light Venison &amp; Lamb — повнораціонний сухий корм суперпреміум-класу зі зниженим вмістом енергії для собак з надмірною вагою та літніх собак.</p><ul><li>Рецептура з рисом, свіжою бараниною та дичиною, шиїтаке та соусом із шипшини.61% білків тваринного походження.</li><li>Знижений вміст енергії — підходить собакам з надмірною вагою та літнім.</li><li>Баранина — джерело вітамінів групи B (B12, тіамін) і цинку.</li><li>Дичина — поживна, легкозасвоювана сировина з низьким вмістом жиру.</li><li>Чорна смородина, шипшина та яблука — джерело вітамінів і мінеральних речовин.</li><li>До складу входять глюкозамін і хондроїтинсульфат.</li><li>Склад: м'ясо (35% свіжа баранина, 20% свіжа дичина, 15,1% сушена баранина, 3% свиняча печінка), рис 36,3%, цільнозерновий рис 9%, буряковий жом, насіння льону, птахожир, пивні дріжджі, фермерська картопля, яблука 2,2%, люцерна, чорна смородина 1%, лососева олія холодного віджиму з норвезького лосося (оброблена токоферолами), трав'яний комплекс 1% (кропива дводомна 0,23%, меліса лікарська, листя кульбаби лікарського, квіти ромашки лікарської та липи серцелистої), інактивовані дріжджі Saccharomyces cerevisiae, гриб шиїтаке 0,4%, корінь цикорію, шипшина 0,15%, псиліум, насіння розторопші плямистої, юка, акулячий хрящ, глюкозамін, хондроїтинсульфат, ананас 0,02%, комплекс природних антиоксидантів.</li><li>Аналітичні складові: сирий протеїн 25%, сирі жири та олії 10%, сира клітковина 3,5%, сира зола 7,6%, кальцій 1,5%, фосфор 1%; енергія 14,67 МДж/1 кг.</li><li>Норму годування див.</li></ul><p>На упаковці.</p>]]></description_ua>
 <param name="Вид тварини">собаки</param>
 <param name="Вік тварини">літні</param>
-<param name="Вид корму">Сухий корм</param>
 <param name="Вік собаки">Літні</param>
 <param name="Клас корму">Суперпреміум</param>
 <param name="Призначення">Основне годування, Проти ожиріння</param>
@@ -10943,13 +10933,12 @@
 <picture>https://www.zoobaza.com.ua/content/images/43/1024x768l80mc0/47431497961734.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>511114050</article>
-<name>Сухой корм для собак Fitmin For Life Adult 12 кг (511114050)</name>
-<name_ua>Сухий корм для собак Fitmin For Life Adult 12 кг (511114050)</name_ua>
+<name>Корм для собак Fitmin For Life Adult 12 кг (511114050)</name>
+<name_ua>Корм для собак Fitmin For Life Adult 12 кг (511114050)</name_ua>
 <description><![CDATA[<p>Fitmin For Life Adult All Breeds — полнорационный сухой корм премиум-класса для взрослых собак всех пород с обычным уровнем активности.</p><ul><li>Содержит 20 % свежего мяса, а каждая гранула покрыта печеночной оболочкой.67 % белков животного происхождения;свежее мясо и печеночное покрытие гранул обеспечивают высокую вкусовую привлекательность;экстракт корня цикория действует как пребиотик и поддерживает кишечную микрофлору;омега-3 и омега-6 жирные кислоты для здоровой кожи и шерсти;лососевое масло поддерживает здоровую шерсть;одинаковая сырьевая основа в линейке For Life позволяет переходить между кормами без постепенного смешивания.</li><li>Состав: мясо (сушеное мясо птицы 21 %, свежее мясо /птица, свинина, говядина/ 20 %, гидролизованная свиная печень 3 %), пшеница, пшеничная мука, пшеничные отруби, рис, жир птицы, сушеный свекольный жом, пивные дрожжи, лососевое масло 1 %, минеральные вещества, сушеные яблочные выжимки 0,5 %, пшеничные зародыши, натуральная клетчатка, корень цикория 0,01 %, юкка 0,005 %.</li><li>Аналитические составляющие: сырой протеин 25 %, сырые масла и жиры 14,5 %, сырая клетчатка 3,7 %, сырая зола 6,3 %, кальций 1,2 %, фосфор 0,9 %.</li></ul><ul><li>Энергетическая ценность 15,8 МДж/кг.</li><li>Суточную норму определяйте по весу собаки по таблице на упаковке, разделяя ее на несколько кормлений.</li></ul><p>Свежая вода должна быть всегда доступна.</p>]]></description>
 <description_ua><![CDATA[<p>Fitmin For Life Adult All Breeds — повнораціонний сухий корм преміум-класу для дорослих собак усіх порід зі звичайним рівнем активності.</p><ul><li>Містить 20 % свіжого м'яса, а кожна гранула вкрита печінковою оболонкою.67 % білків тваринного походження;свіже м'ясо та печінкове покриття гранул забезпечують високу смакованість;екстракт кореня цикорію діє як пребіотик і підтримує кишкову мікрофлору;омега-3 та омега-6 жирні кислоти для здорової шкіри та шерсті;лососева олія підтримує здорову шерсть;однакова сировинна основа в лінійці For Life дозволяє переходити між кормами без поступового змішування.</li><li>Склад: м'ясо (сушене м'ясо птиці 21 %, свіже м'ясо /птиця, свинина, яловичина/ 20 %, гідролізована свиняча печінка 3 %), пшениця, пшеничне борошно, пшеничні висівки, рис, жир птиці, сушений буряковий жом, пивні дріжджі, лососева олія 1 %, мінеральні речовини, сушені яблучні вичавки 0,5 %, пшеничні зародки, натуральна клітковина, корінь цикорію 0,01 %, юка 0,005 %.</li><li>Аналітичні складові: сирий протеїн 25 %, сирі олії та жири 14,5 %, сира клітковина 3,7 %, сира зола 6,3 %, кальцій 1,2 %, фосфор 0,9 %.</li></ul><ul><li>Енергетична цінність 15,8 МДж/кг.</li><li>Добову норму визначайте за вагою собаки за таблицею на упаковці, розділяючи її на кілька годувань.</li></ul><p>Свіжа вода має бути завжди доступна.</p>]]></description_ua>
 <param name="Вид тварини">собаки</param>
 <param name="Вік тварини">дорослі</param>
-<param name="Вид корму">Сухий корм</param>
 <param name="Вага 1 шт">10.1 кг - 15 кг</param>
 <param name="Вік собаки">Дорослі</param>
 <param name="Розмір тварини">Мініатюрні, Малі, Середні, Великі, Гігантські</param>
@@ -10986,13 +10975,12 @@
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4294-1.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>511114053</article>
-<name>Сухой корм для собак Fitmin For Life Adult Mini 12 кг (511114053)</name>
-<name_ua>Сухий корм для собак Fitmin For Life Adult Mini 12 кг (511114053)</name_ua>
+<name>Корм для собак Fitmin For Life Adult Mini 12 кг (511114053)</name>
+<name_ua>Корм для собак Fitmin For Life Adult Mini 12 кг (511114053)</name_ua>
 <description><![CDATA[<p>Fitmin For Life Adult Mini — полнорационный сухой корм премиум-класса для взрослых собак мелких и миниатюрных пород весом до 13 кг с нормальной физической активностью. Гранулы небольшие, их удобно разгрызать даже маленькой собаке.</p><ul><li>Корм содержит 30% свежего мяса.</li><li>Свежее мясо и печеночная оболочка на поверхности каждой гранулы обеспечивают исключительную вкусовую привлекательность.</li><li>Экстракт корня цикория с высоким содержанием инулина действует как пребиотик и поддерживает пищеварение.</li><li>Сбалансированное соотношение омега-3 и омега-6 жирных кислот поддерживает здоровье кожи и шерсти.</li><li>С пивными дрожжами — природным источником витамина B.</li><li>Природный источник витаминов и минералов.</li><li>Состав: мясо (свежее мясо птицы, свинины и говядины 30%, сушеное мясо птицы 21%, гидролизованная свиная печень 3,5%), пшеница, пшеничная мука, жир птицы, рис, пшеничные отруби, сушеная сахарная свекольная мякоть, лососевое масло 1%, сушеный яблочный жом 0,5%, пивные дрожжи, зародыши пшеницы, натуральные волокна, минералы, корень цикория 0,01%, юкка 0,005%.</li><li>Аналитические составляющие: сырой протеин 26%, сырой жир 16,5%, сырая клетчатка 3%, сырая зола 6,3%, кальций 1,2%, фосфор 0,85%.</li></ul><ul><li>Энергетическая ценность</li><li>16,2 МДж/кг.</li><li>Суточная норма зависит от возраста и веса взрослой собаки; таблицу дозировки смотрите.</li></ul><p>На упаковке.</p>]]></description>
 <description_ua><![CDATA[<p>Fitmin For Life Adult Mini — повнораціонний сухий корм преміум-класу для дорослих собак малих та мініатюрних порід вагою до 13 кг із нормальною фізичною активністю. Гранули невеликі, їх зручно розгризати навіть маленькій собаці.</p><ul><li>Корм містить 30% свіжого м'яса.</li><li>Свіже м'ясо та печінкова оболонка на поверхні кожної гранули забезпечують виняткову смакованість.</li><li>Екстракт кореня цикорію з високим вмістом інуліну діє як пребіотик і підтримує травлення.</li><li>Збалансоване співвідношення омега-3 і омега-6 жирних кислот підтримує здоров'я шкіри та шерсті.</li><li>Із пивними дріжджами — природним джерелом вітаміну B.</li><li>Природне джерело вітамінів і мінералів.</li><li>Склад: м'ясо (свіже м'ясо птиці, свинини та яловичини 30%, сушене м'ясо птиці 21%, гідролізована свиняча печінка 3,5%), пшениця, пшеничне борошно, жир птиці, рис, пшеничні висівки, сушена цукрова бурякова м'якоть, лососева олія 1%, сушений яблучний жом 0,5%, пивні дріжджі, зародки пшениці, натуральні волокна, мінерали, корінь цикорію 0,01%, юка 0,005%.</li><li>Аналітичні складові: сирий протеїн 26%, сирий жир 16,5%, сира клітковина 3%, сира зола 6,3%, кальцій 1,2%, фосфор 0,85%.</li></ul><ul><li>Енергетична цінність</li><li>16,2 МДж/кг.</li><li>Добова норма залежить від віку та ваги дорослої собаки; таблицю дозування див.</li></ul><p>На упаковці.</p>]]></description_ua>
 <param name="Вид тварини">собаки</param>
 <param name="Вік тварини">дорослі</param>
-<param name="Вид корму">Сухий корм</param>
 <param name="Вага 1 шт">10.1 кг - 15 кг</param>
 <param name="Вік собаки">Дорослі</param>
 <param name="Розмір тварини">Малі, Мініатюрні</param>
@@ -11054,13 +11042,12 @@
 <picture>https://www.zoobaza.com.ua/content/images/48/1024x768l80mc0/94764719941905.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>511114066</article>
-<name>Сухой корм для щенков Fitmin For Life Puppy 12 кг (511114066)</name>
-<name_ua>Сухий корм для цуценят Fitmin For Life Puppy 12 кг (511114066)</name_ua>
+<name>Корм для щенков Fitmin For Life Puppy 12 кг (511114066)</name>
+<name_ua>Корм для цуценят Fitmin For Life Puppy 12 кг (511114066)</name_ua>
 <description><![CDATA[<p>Fitmin For Life Puppy — сухой корм для щенков всех пород со свежим мясом. Подходит для щенков до 12 месяцев, а также для беременных (с начала 3/3 беременности) и кормящих сук.</p><ul><li>Содержит 30% белка и 18% жира, энергетическая ценность</li><li>16,5 МДж/кг.75% белка животного происхождения.</li><li>Свежее мясо и печеночная оболочка на поверхности каждой гранулы.</li><li>Экстракт корня цикория как пребиотик для поддержки микрофлоры кишечника.</li><li>Жирные кислоты омега-3 и омега-6 для здоровой кожи и шерсти.</li><li>Состав: мясо (сушеное мясо птицы 27%, свежее мясо (птица, свинина, говядина) 25%, гидролизованная свиная печень 3,5%), птичий жир 11%, рис, пшеничная мука, пшеничные отруби, кукуруза, пшеница, гидролизованный белок птицы, свекольный жом, пивные дрожжи 2,5%, зародыши пшеницы, сушеный яблочный жом 1,5%, лососевое масло 0,4%, корень цикория 0,1%, юкка 0,05%.</li><li>Аналитические составляющие: сырой протеин 30%, сырые масла и жиры 18%, сырая клетчатка 2,9%, сырая зола 7,4%, кальций 1,4%, фосфор 1%.</li><li>Норму кормления смотрите.</li></ul><p>На упаковке.</p>]]></description>
 <description_ua><![CDATA[<p>Fitmin For Life Puppy — сухий корм для цуценят усіх порід зі свіжим м'ясом. Підходить для цуценят до 12 місяців, а також для вагітних (з початку 3/3 вагітності) і годуючих сук.</p><ul><li>Містить 30% білка та 18% жиру, енергетична цінність</li><li>16,5 МДж/кг.75% білка тваринного походження.</li><li>Свіже м'ясо та печінкова оболонка на поверхні кожної гранули.</li><li>Екстракт кореня цикорію як пребіотик для підтримки мікрофлори кишечника.</li><li>Жирні кислоти омега-3 та омега-6 для здорової шкіри та шерсті.</li><li>Склад: м'ясо (сушене м'ясо птиці 27%, свіже м'ясо (птиця, свинина, яловичина) 25%, гідролізована свиняча печінка 3,5%), пташиний жир 11%, рис, пшеничне борошно, пшеничні висівки, кукурудза, пшениця, гідролізований білок птиці, буряковий жом, пивні дріжджі 2,5%, зародки пшениці, сушений яблучний жом 1,5%, лососева олія 0,4%, корінь цикорію 0,1%, юка 0,05%.</li><li>Аналітичні складові: сирий протеїн 30%, сирі олії та жири 18%, сира клітковина 2,9%, сира зола 7,4%, кальцій 1,4%, фосфор 1%.</li><li>Норму годування див.</li></ul><p>На упаковці.</p>]]></description_ua>
 <param name="Вид тварини">собаки</param>
 <param name="Вік тварини">цуценята/кошенята</param>
-<param name="Вид корму">Сухий корм</param>
 <param name="Вага 1 шт">10.1 кг - 15 кг</param>
 <param name="Вік собаки">Цуценята</param>
 <param name="Розмір тварини">Мініатюрні, Малі, Середні, Великі, Гігантські</param>
@@ -11077,13 +11064,12 @@
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4298-1.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>511114059</article>
-<name>Сухой корм для собак Fitmin For Life Junior Large Breed 12 кг (511114059)</name>
-<name_ua>Сухий корм для собак Fitmin For Life Junior Large Breed 12 кг (511114059)</name_ua>
+<name>Корм для собак Fitmin For Life Junior Large Breed 12 кг (511114059)</name>
+<name_ua>Корм для собак Fitmin For Life Junior Large Breed 12 кг (511114059)</name_ua>
 <description><![CDATA[<p>Fitmin For Life Junior Large Breed — сухой корм для щенков и юниоров крупных и гигантских пород в возрасте от 5 до 18 месяцев.</p><ul><li>Подходит для пород с повышенной нагрузкой на суставы и собак с высокими энергетическими потребностями.</li><li>Преимущества:75% белков животного происхождения;свежее мясо и печеночная оболочка на поверхности каждой гранулы;экстракт корня цикория как пребиотик для поддержки микрофлоры кишечника;хондроитинсульфат и глюкозамин для питания суставов;лососевое масло для здоровой шерсти.</li><li>Состав: мясо (свежее мясо /птица, свинина, говядина/ 22,5%, сушеное мясо птицы 23%, гидролизованная свиная печень 3,5%), рис, пшеница, жир птицы, кукуруза, свекольный жом, гидролизованный белок птицы, пшеничные отруби, пивные дрожжи, зародыши пшеницы, сушеный яблочный жом 2%, минеральные вещества, лососевое масло, глюкозамин 0,15%, хондроитинсульфат 0,08%, корень цикория 0,05%, юкка 0,005%.</li><li>Аналитические составляющие: белок 27%, жир 16,5%, клетчатка 2,6%, зола 6,2%, кальций 1,25%, фосфор 0,8%; энергетическая ценность 16,4 МДж/кг.</li><li>Норму кормления в зависимости от возраста и взрослого веса собаки смотрите.</li></ul><p>На упаковке.</p>]]></description>
 <description_ua><![CDATA[<p>Fitmin For Life Junior Large Breed — сухий корм для цуценят і юніорів великих та гігантських порід віком від 5 до 18 місяців.</p><ul><li>Підходить для порід із підвищеним навантаженням на суглоби та собак із високими енергетичними потребами.</li><li>Переваги:75% білків тваринного походження;свіже м'ясо та печінкова оболонка на поверхні кожної гранули;екстракт кореня цикорію як пребіотик для підтримки мікрофлори кишечника;хондроїтинсульфат і глюкозамін для живлення суглобів;лососева олія для здорової шерсті.</li><li>Склад: м'ясо (свіже м'ясо /птиця, свинина, яловичина/ 22,5%, сушене м'ясо птиці 23%, гідролізована свиняча печінка 3,5%), рис, пшениця, жир птиці, кукурудза, буряковий жом, гідролізований білок птиці, пшеничні висівки, пивні дріжджі, зародки пшениці, сушений яблучний жом 2%, мінеральні речовини, лососева олія, глюкозамін 0,15%, хондроїтинсульфат 0,08%, корінь цикорію 0,05%, юка 0,005%.</li><li>Аналітичні складові: білок 27%, жир 16,5%, клітковина 2,6%, зола 6,2%, кальцій 1,25%, фосфор 0,8%; енергетична цінність 16,4 МДж/кг.</li><li>Норму годування залежно від віку та дорослої ваги собаки див.</li></ul><p>На упаковці.</p>]]></description_ua>
 <param name="Вид тварини">собаки</param>
 <param name="Вік тварини">цуценята/кошенята</param>
-<param name="Вид корму">Сухий корм</param>
 <param name="Вага 1 шт">10.1 кг - 15 кг</param>
 <param name="Вік собаки">Молоді</param>
 <param name="Розмір тварини">Великі</param>
@@ -11118,13 +11104,12 @@
 <picture>https://www.zoobaza.com.ua/content/images/1/1024x768l80mc0/31955535036714.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>511114064</article>
-<name>Сухой корм для собак Fitmin For Life Light &amp; Senior 12 кг (511114064)</name>
-<name_ua>Сухий корм для собак Fitmin For Life Light &amp; Senior 12 кг (511114064)</name_ua>
+<name>Корм для собак Fitmin For Life Light &amp; Senior 12 кг (511114064)</name>
+<name_ua>Корм для собак Fitmin For Life Light &amp; Senior 12 кг (511114064)</name_ua>
 <description><![CDATA[<p>Fitmin For Life Light &amp; Senior — сухой корм со сниженной калорийностью для взрослых и пожилых собак всех пород, а также для собак со склонностью к лишнему весу и низкой активностью.</p><ul><li>Вес упаковки</li><li>12 кг.</li><li>Преимущества:52% белков животного происхождения;свежее мясо и печеночная оболочка на гранулах;облегченная рецептура с тонкой клетчаткой в виде свекольного жома снижает содержание энергии;экстракт корня цикория действует как пребиотик и поддерживает кишечную микрофлору;лососевое масло и качественная клетчатка поддерживают пищеварение.</li><li>Состав: мясо (свежее мясо /птица, свинина, говядина/</li><li>20%, сушеное мясо птицы 12%, гидролизованная свиная печень 3,5%), кукуруза, пшеница, рис, пшеничная мука, пшеничные отруби, птичий жир, сушеный свекольный жом 2%, пивные дрожжи, сушеные яблочные выжимки 1%, зародыши пшеницы, лососевое масло, корень цикория 0,01%, юкка 0,005%.</li><li>Аналитические составляющие: сырой протеин 20%, сырые масла и жиры 8,2%, сырая клетчатка 3%, сырая зола 4,8%, кальций 0,8%, фосфор 0,7%.</li></ul><ul><li>Энергетическая ценность 14,8 МДж/кг.</li><li>Суточная норма зависит от веса взрослой собаки: например, 155 г для собаки 10 кг, 305 г для 25 кг.</li></ul><p>Полную таблицу смотрите на упаковке.</p>]]></description>
 <description_ua><![CDATA[<p>Fitmin For Life Light &amp; Senior — сухий корм із зниженою калорійністю для дорослих і літніх собак усіх порід, а також для собак зі схильністю до зайвої ваги та низькою активністю.</p><ul><li>Вага упаковки</li><li>12 кг.</li><li>Переваги:52% білків тваринного походження;свіже м'ясо та печінкова оболонка на гранулах;полегшена рецептура з тонкою клітковиною у вигляді бурякового жому знижує вміст енергії;екстракт кореня цикорію діє як пребіотик і підтримує кишкову мікрофлору;лососева олія та якісна клітковина підтримують травлення.</li><li>Склад: м'ясо (свіже м'ясо /птиця, свинина, яловичина/</li><li>20%, сушене м'ясо птиці 12%, гідролізована свиняча печінка 3,5%), кукурудза, пшениця, рис, пшеничне борошно, пшеничні висівки, пташиний жир, сушений буряковий жом 2%, пивні дріжджі, сушені яблучні вичавки 1%, зародки пшениці, лососева олія, корінь цикорію 0,01%, юка 0,005%.</li><li>Аналітичні складові: сирий протеїн 20%, сирі олії та жири 8,2%, сира клітковина 3%, сира зола 4,8%, кальцій 0,8%, фосфор 0,7%.</li></ul><ul><li>Енергетична цінність 14,8 МДж/кг.</li><li>Добова норма залежить від ваги дорослої собаки: наприклад, 155 г для собаки 10 кг, 305 г для 25 кг.</li></ul><p>Повну таблицю дивіться на упаковці.</p>]]></description_ua>
 <param name="Вид тварини">собаки</param>
 <param name="Вік тварини">літні</param>
-<param name="Вид корму">Сухий корм</param>
 <param name="Вага 1 шт">10.1 кг - 15 кг</param>
 <param name="Вік собаки">Літні</param>
 </offer>
@@ -11162,13 +11147,12 @@
 <picture>https://www.zoobaza.com.ua/content/images/3/1024x768l80mc0/22123089438104.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>511114060</article>
-<name>Сухой корм для собак Fitmin For Life Lamb &amp; Rice 12 кг (511114060)</name>
-<name_ua>Сухий корм для собак Fitmin For Life Lamb &amp; Rice 12 кг (511114060)</name_ua>
+<name>Корм для собак Fitmin For Life Lamb &amp; Rice 12 кг (511114060)</name>
+<name_ua>Корм для собак Fitmin For Life Lamb &amp; Rice 12 кг (511114060)</name_ua>
 <description><![CDATA[<p>Fitmin For Life Lamb &amp; Rice — сухой корм премиум-класса для взрослых собак всех пород, с ягненком и рисом.</p><ul><li>Предназначен для ежедневного кормления, подходит и собакам с чувствительным пищеварением или пониженной чувствительностью к глютену.78% животного белка.15% свежего мяса ягненка и субпродуктов; в целом 42,5% мясных компонентов.</li><li>Гипоаллергенная формула без пшеницы и кукурузы.</li><li>Свежее мясо и печеночная оболочка на поверхности каждой гранулы обеспечивают отличную вкусовую привлекательность.</li><li>Экстракт корня цикория действует как пребиотик и поддерживает микрофлору кишечника.</li><li>Состав: сушеное мясо птицы (19,5%), свежее мясо ягненка и субпродукты (15%), сушеное мясо ягненка (5%), гидролизованная печень ягненка (3%), белый рис (30%), дробленый рис (20%), жир птицы, мякоть сахарной свеклы, яблочный жом (2,7%), лососевое масло, пивные дрожжи, минералы, экстракт корня цикория (0,01%), юкка (0,005%).</li><li>Аналитические составляющие: сырой протеин</li><li>22%, сырые жиры и масла</li><li>15%, сырая клетчатка</li><li>2%, сырая зола</li><li>6,3%, кальций</li><li>1,5%, фосфор</li><li>0,9%.</li></ul><ul><li>Энергетическая ценность</li><li>16,2 МДж/кг.</li><li>Суточная норма для взрослой собаки весом 10 кг</li><li>140 г, 20 кг</li><li>240 г, 30 кг</li><li>320 г; полную таблицу смотрите.</li></ul><p>На упаковке.</p>]]></description>
 <description_ua><![CDATA[<p>Fitmin For Life Lamb &amp; Rice — сухий корм преміум-класу для дорослих собак усіх порід, з ягням і рисом.</p><ul><li>Призначений для щоденного годування, підходить і собакам із чутливим травленням або зниженою чутливістю до глютену.78% тваринного білка.15% свіжого м'яса ягняти та субпродуктів; загалом 42,5% м'ясних компонентів.</li><li>Гіпоалергенна формула без пшениці та кукурудзи.</li><li>Свіже м'ясо та печінкова оболонка на поверхні кожної гранули забезпечують відмінну смакованість.</li><li>Екстракт кореня цикорію діє як пребіотик і підтримує мікрофлору кишечника.</li><li>Склад: сушене м'ясо птиці (19,5%), свіже м'ясо ягняти та субпродукти (15%), сушене м'ясо ягняти (5%), гідролізована печінка ягняти (3%), білий рис (30%), дроблений рис (20%), жир птиці, м'якоть цукрового буряка, яблучний жом (2,7%), лососеве масло, пивні дріжджі, мінерали, екстракт кореня цикорію (0,01%), юка (0,005%).</li><li>Аналітичні складові: сирий протеїн</li><li>22%, сирі жири та олії</li><li>15%, сира клітковина</li><li>2%, сира зола</li><li>6,3%, кальцій</li><li>1,5%, фосфор</li><li>0,9%.</li></ul><ul><li>Енергетична цінність</li><li>16,2 МДж/кг.</li><li>Добова норма для дорослого собаки вагою 10 кг</li><li>140 г, 20 кг</li><li>240 г, 30 кг</li><li>320 г; повну таблицю див.</li></ul><p>На упаковці.</p>]]></description_ua>
 <param name="Вид тварини">собаки</param>
 <param name="Вік тварини">дорослі</param>
-<param name="Вид корму">Сухий корм</param>
 <param name="Вага 1 шт">10.1 кг - 15 кг</param>
 <param name="Вік собаки">Дорослі</param>
 <param name="Розмір тварини">Мініатюрні, Малі, Середні, Великі, Гігантські</param>
@@ -11209,13 +11193,12 @@
 <picture>https://www.zoobaza.com.ua/content/images/5/1024x768l80mc0/50318609737232.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>511114062</article>
-<name>Сухой корм для собак Fitmin For Life Lamb &amp; Rice Mini 12 кг (511114062)</name>
-<name_ua>Сухий корм для собак Fitmin For Life Lamb &amp; Rice Mini 12 кг (511114062)</name_ua>
+<name>Корм для собак Fitmin For Life Lamb &amp; Rice Mini 12 кг (511114062)</name>
+<name_ua>Корм для собак Fitmin For Life Lamb &amp; Rice Mini 12 кг (511114062)</name_ua>
 <description><![CDATA[<p>Fitmin For Life Mini Lamb &amp; Rice — сухой корм для взрослых собак мелких пород с ягненком и рисом.</p><ul><li>Гранулы подобраны по размеру для мелких пород, а форма в виде сердца облегчает разгрызание.79% белка животного происхожденияСвежее мясо и печеночная оболочка на поверхности каждой гранулы повышают вкусовые качества кормаГипоаллергенная рецептура без пшеницы и кукурузы, подходит собакам с чувствительным пищеварениемЭкстракт корня цикория действует как пребиотик и поддерживает микрофлору кишечникаСостав: мясо (сушеное мясо птицы 21%, свежее мясо ягненка и субпродукты 15%, сушеное мясо ягненка 5%, гидролизованная печень ягненка 3%), рис белый 24%, дробленый рис 24%, жир птицы, жом сахарной свеклы, яблочный жом 3,5%, лососевое масло, минеральные вещества, пивные дрожжи, корень цикория 0,01%, юкка 0,005%.</li><li>Аналитические составляющие: сырой протеин 24%, сырые масла и жиры 14%, сырая клетчатка 2,4%, сырая зола 6,4%, кальций 1,2%, фосфор 0,8%.</li></ul><ul><li>Энергетическая ценность 15,9 МДж/кг.</li><li>Суточная норма зависит от веса взрослой собаки: 45 г для собаки 1,5 кг, 90 г для 5 кг, 200 г для 12 кг.</li></ul><p>Подробнее смотрите. На упаковке.</p>]]></description>
 <description_ua><![CDATA[<p>Fitmin For Life Mini Lamb &amp; Rice — сухий корм для дорослих собак малих порід з ягням та рисом.</p><ul><li>Гранули підібрані за розміром для малих порід, а форма у вигляді серця полегшує розгризання.79% білка тваринного походженняСвіже м'ясо та печінкова оболонка на поверхні кожної гранули підвищують смакові якості кормуГіпоалергенна рецептура без пшениці та кукурудзи, підходить собакам із чутливим травленнямЕкстракт кореня цикорію діє як пребіотик і підтримує мікрофлору кишечникаСклад: м'ясо (сушене м'ясо птиці 21%, свіже м'ясо ягняти та субпродукти 15%, сушене м'ясо ягняти 5%, гідролізована печінка ягняти 3%), рис білий 24%, дроблений рис 24%, жир птиці, жом цукрового буряка, яблучний жом 3,5%, лососева олія, мінеральні речовини, пивні дріжджі, корінь цикорію 0,01%, юка 0,005%.</li><li>Аналітичні складові: сирий протеїн 24%, сирі олії та жири 14%, сира клітковина 2,4%, сира зола 6,4%, кальцій 1,2%, фосфор 0,8%.</li></ul><ul><li>Енергетична цінність 15,9 МДж/кг.</li><li>Добова норма залежить від ваги дорослого собаки: 45 г для собаки 1,5 кг, 90 г для 5 кг, 200 г для 12 кг.</li></ul><p>Докладніше див. На упаковці.</p>]]></description_ua>
 <param name="Вид тварини">собаки</param>
 <param name="Вік тварини">дорослі</param>
-<param name="Вид корму">Сухий корм</param>
 <param name="Вага 1 шт">10.1 кг - 15 кг</param>
 <param name="Вік собаки">Дорослі</param>
 <param name="Розмір тварини">Малі</param>
@@ -11257,13 +11240,12 @@
 <picture>https://www.zoobaza.com.ua/content/images/7/1024x768l80mc0/26120102818650.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>511114057</article>
-<name>Сухой корм для собак Fitmin For Life Duck &amp; Turkey 12 кг (511114057)</name>
-<name_ua>Сухий корм для собак Fitmin For Life Duck &amp; Turkey 12 кг (511114057)</name_ua>
+<name>Корм для собак Fitmin For Life Duck &amp; Turkey 12 кг (511114057)</name>
+<name_ua>Корм для собак Fitmin For Life Duck &amp; Turkey 12 кг (511114057)</name_ua>
 <description><![CDATA[<p>Fitmin For Life Duck &amp; Turkey — полнорационный сухой корм для взрослых собак всех пород на основе мяса утки и индейки с рисом.</p><ul><li>Рецептура содержит 43% мясных компонентов, не содержит пшеницы и кукурузы.</li><li>Преимущества:78% белка животного происхождения;свежее мясо и печеночная оболочка на поверхности гранул;гипоаллергенная рецептура без пшеницы и кукурузы, подходит для собак, чувствительных к глютену;экстракт корня цикория действует как пребиотик и поддерживает микрофлору кишечника;рис — источник энергии, который хорошо усваивается.</li><li>Состав: мясо (свежее мясо птицы 15%, сушеное мясо индейки 11%, сушеное мясо утки 9%, сушеное мясо птицы 5%, гидролизованная свиная печень 3%), белый рис 25%, дробленый рис 25%, жир птицы, мякоть сахарной свеклы, яблочный жом 2,5%, лососевое масло, минералы, пивные дрожжи, экстракт корня цикория 0,01%, юкка 0,005%.</li><li>Аналитические составляющие: сырой протеин 22%, сырой жир 14%, сырая клетчатка 2%, сырая зола 6,5%, кальций 1,4%, фосфор 0,9%; энергия 16,2 МДж/кг.</li><li>Суточная норма для взрослой собаки весом 10 кг</li><li>135 г, 20 кг</li><li>230 г, 30 кг</li><li>310 г; полную таблицу смотрите на упаковке.</li></ul>]]></description>
 <description_ua><![CDATA[<p>Fitmin For Life Duck &amp; Turkey — повнораціонний сухий корм для дорослих собак усіх порід на основі м'яса качки та індички з рисом.</p><ul><li>Рецептура містить 43% м'ясних компонентів, не містить пшениці та кукурудзи.</li><li>Переваги:78% білка тваринного походження;свіже м'ясо та печінкова оболонка на поверхні гранул;гіпоалергенна рецептура без пшениці та кукурудзи, підходить для собак, чутливих до глютену;екстракт кореня цикорію діє як пребіотик і підтримує мікрофлору кишечника;рис — джерело енергії, який добре засвоюється.</li><li>Склад: м'ясо (свіже м'ясо птиці 15%, сушене м'ясо індички 11%, сушене м'ясо качки 9%, сушене м'ясо птиці 5%, гідролізована свиняча печінка 3%), білий рис 25%, дроблений рис 25%, жир птиці, м'якоть цукрового буряка, яблучний жом 2,5%, лососеве масло, мінерали, пивні дріжджі, екстракт кореня цикорію 0,01%, юка 0,005%.</li><li>Аналітичні складові: сирий протеїн 22%, сирий жир 14%, сира клітковина 2%, сира зола 6,5%, кальцій 1,4%, фосфор 0,9%; енергія 16,2 МДж/кг.</li><li>Добова норма для дорослого собаки вагою 10 кг</li><li>135 г, 20 кг</li><li>230 г, 30 кг</li><li>310 г; повну таблицю дивіться на упаковці.</li></ul>]]></description_ua>
 <param name="Вид тварини">собаки</param>
 <param name="Вік тварини">дорослі</param>
-<param name="Вид корму">Сухий корм</param>
 <param name="Вага 1 шт">10.1 кг - 15 кг</param>
 <param name="Вік собаки">Дорослі</param>
 <param name="Розмір тварини">Мініатюрні, Малі, Середні, Великі, Гігантські</param>
@@ -11306,13 +11288,12 @@
 <picture>https://www.zoobaza.com.ua/content/images/9/1024x768l80mc0/95038093235202.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>511114055</article>
-<name>Сухой корм для собак Fitmin For Life Beef &amp; Rice 12 кг (511114055)</name>
-<name_ua>Сухий корм для собак Fitmin For Life Beef &amp; Rice 12 кг (511114055)</name_ua>
+<name>Корм для собак Fitmin For Life Beef &amp; Rice 12 кг (511114055)</name>
+<name_ua>Корм для собак Fitmin For Life Beef &amp; Rice 12 кг (511114055)</name_ua>
 <description><![CDATA[<p>Fitmin For Life Beef &amp; Rice — сухой корм премиум-класса с говядиной и рисом для взрослых собак всех пород от 12 месяцев. Содержит 43,5 % мясных компонентов, 26 % белка и 14 % жира.</p><ul><li>Гипоаллергенная рецептура подходит для ежедневного кормления, в том числе собакам, чувствительным к глютену.81 % белка животного происхождения, свежая говядина в составе;свежее мясо и печеночное покрытие на поверхности каждой гранулы;гипоаллергенная рецептура без пшеницы и кукурузы;экстракт корня цикория как пребиотик для поддержки микрофлоры кишечника;рис хорошо усваивается, не содержит глютена и является источником быстрой энергии.</li><li>Состав: мясо (сушеное мясо птицы 22,5 %, свежая говядина 13 %, сушеная говядина 5 %, гидролизованная свиная печень 3 %), рис белый 24 %, рис дробленый 24 %, жир птицы, свекольный жом, яблочные выжимки 2,5 %, лососевое масло, минеральные вещества, пивные дрожжи, корень цикория 0,01 %, юкка 0,005 %.</li><li>Аналитические составляющие: сырой белок 26 %, сырые масла и жиры 14,2 %, сырая клетчатка 2 %, сырая зола 6 %, кальций 1,2 %, фосфор 0,8 %.</li></ul><ul><li>Энергетическая ценность 16,2 МДж/кг.</li><li>Суточную норму подбирайте по весу собаки, например, для взрослой собаки весом 10 кг</li><li>135 г в сутки.</li></ul><p>Подробную таблицу кормления смотрите. На упаковке.</p>]]></description>
 <description_ua><![CDATA[<p>Fitmin For Life Beef &amp; Rice — сухий корм преміум-класу з яловичиною та рисом для дорослих собак усіх порід від 12 місяців. Містить 43,5 % м'ясних компонентів, 26 % білка та 14 % жиру.</p><ul><li>Гіпоалергенна рецептура підходить для щоденного годування, зокрема собакам, чутливим до глютену.81 % білка тваринного походження, свіжа яловичина в складі;свіже м'ясо та печінкове покриття на поверхні кожної гранули;гіпоалергенна рецептура без пшениці та кукурудзи;екстракт кореня цикорію як пребіотик для підтримки мікрофлори кишечника;рис добре засвоюється, не містить глютену та є джерелом швидкої енергії.</li><li>Склад: м'ясо (сушене м'ясо птиці 22,5 %, свіжа яловичина 13 %, сушена яловичина 5 %, гідролізована свиняча печінка 3 %), рис білий 24 %, рис дроблений 24 %, жир птиці, буряковий жом, яблучні вичавки 2,5 %, лососева олія, мінеральні речовини, пивні дріжджі, корінь цикорію 0,01 %, юка 0,005 %.</li><li>Аналітичні складові: сирий білок 26 %, сирі олії та жири 14,2 %, сира клітковина 2 %, сира зола 6 %, кальцій 1,2 %, фосфор 0,8 %.</li></ul><ul><li>Енергетична цінність 16,2 МДж/кг.</li><li>Денну норму підбирайте за вагою собаки, наприклад, для дорослого собаки вагою 10 кг</li><li>135 г на добу.</li></ul><p>Детальну таблицю годування див. На упаковці.</p>]]></description_ua>
 <param name="Вид тварини">собаки</param>
 <param name="Вік тварини">дорослі</param>
-<param name="Вид корму">Сухий корм</param>
 <param name="Вага 1 шт">10.1 кг - 15 кг</param>
 <param name="Вік собаки">Дорослі</param>
 <param name="Розмір тварини">Мініатюрні, Малі, Середні, Великі, Гігантські</param>
@@ -11412,13 +11393,12 @@
 <picture>https://www.zoobaza.com.ua/content/images/14/1024x768l80mc0/62888710291614.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>531114029</article>
-<name>Сухой корм для щенков Fitmin Purity Rice Puppy Lamb &amp; Salmon 12 кг (531114029)</name>
-<name_ua>Сухий корм для цуценят Fitmin Purity Rice Puppy Lamb &amp; Salmon 12 кг (531114029)</name_ua>
+<name>Корм для щенков Fitmin Purity Rice Puppy Lamb &amp; Salmon 12 кг (531114029)</name>
+<name_ua>Корм для цуценят Fitmin Purity Rice Puppy Lamb &amp; Salmon 12 кг (531114029)</name_ua>
 <description><![CDATA[<p>Fitmin Dog Purity Rice Puppy Lamb &amp; Salmon — полнорационный сухой корм для щенков всех пород в возрасте от 6 недель до 12 месяцев, а также для беременных и кормящих сук.</p><ul><li>Рецептура с рисом, свежей ягнятиной и лососем.73% белков животного происхождения;ягнятина — источник витаминов группы B и цинка;рыба — полноценный белок, жиры, витамины A, D и B;яблоки с пектинами поддерживают пищеварение;расторопша поддерживает печень, ромашка — пищеварительную и мочевыделительную системы;годжи поддерживают иммунитет.</li><li>Состав: мясо (40% свежее мясо ягненка, 15% сушеное мясо ягненка, 11% сушеная рыба, 3% печень ягненка, 1.5% свежее мясо лосося), рис 23%, птичий жир, цельнозерновой рис 6%, свекольная клетчатка, семена льна, пивные дрожжи, фермерский картофель, яблоки 2.2%, масло норвежского лосося холодного отжима (обработанное токоферолами), люцерна, инактивированные дрожжи Saccharomyces cerevisiae, травяной комплекс 1% (крапива двудомная, мелисса лекарственная, листья одуванчика, цветки ромашки 0.16% и липы), куриные яйца, грибы шиитаке 0.4%, корень цикория, семена расторопши, петрушка 0.05%, годжи 0.05%, юкка, комплекс натуральных антиоксидантов.</li><li>Аналитические составляющие: белок 30%, жир 19.5%, клетчатка 2.8%, зола 7.4%, кальций 1.6%, фосфор 1.15%; энергия 16.8 МДж/кг.</li><li>Суточную норму определяйте по возрасту и ожидаемому весу взрослой собаки согласно таблице на упаковке.</li></ul>]]></description>
 <description_ua><![CDATA[<p>Fitmin Dog Purity Rice Puppy Lamb &amp; Salmon — повнораціонний сухий корм для цуценят усіх порід віком від 6 тижнів до 12 місяців, а також для вагітних і годуючих сук.</p><ul><li>Рецептура з рисом, свіжою ягнятиною та лососем.73% білків тваринного походження;ягнятина — джерело вітамінів групи B і цинку;риба — повноцінний білок, жири, вітаміни A, D та B;яблука з пектинами підтримують травлення;розторопша підтримує печінку, ромашка — травну та сечовидільну системи;годжі підтримують імунітет.</li><li>Склад: мʼясо (40% свіже мʼясо ягняти, 15% сушене мʼясо ягняти, 11% сушена риба, 3% печінка ягняти, 1.5% свіже мʼясо лосося), рис 23%, пташиний жир, цільнозерновий рис 6%, буряча клітковина, насіння льону, пивні дріжджі, фермерська картопля, яблука 2.2%, олія норвезького лосося холодного віджиму (оброблена токоферолами), люцерна, інактивовані дріжджі Saccharomyces cerevisiae, трав'яний комплекс 1% (кропива дводомна, меліса лікарська, листя кульбаби, квіти ромашки 0.16% та липи), курячі яйця, гриби шиїтаке 0.4%, корінь цикорію, насіння розторопші, петрушка 0.05%, годжі 0.05%, юка, комплекс натуральних антиоксидантів.</li><li>Аналітичні складові: білок 30%, жир 19.5%, клітковина 2.8%, зола 7.4%, кальцій 1.6%, фосфор 1.15%; енергія 16.8 МДж/кг.</li><li>Добову норму визначайте за віком і очікуваною вагою дорослої собаки згідно з таблицею на упаковці.</li></ul>]]></description_ua>
 <param name="Вид тварини">собаки</param>
 <param name="Вік тварини">цуценята/кошенята</param>
-<param name="Вид корму">Сухий корм</param>
 <param name="Вага 1 шт">10.1 кг - 15 кг</param>
 <param name="Вік собаки">Цуценята</param>
 <param name="Розмір тварини">Мініатюрні, Малі, Середні, Великі, Гігантські</param>
@@ -14533,8 +14513,8 @@
 <param name="Матеріал">Оксфорд</param>
 <param name="EAN">4823118711325</param>
 </offer>
-<offer id="ZB4661" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="ZB4661" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1265.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675996</categoryId>
@@ -14551,8 +14531,8 @@
 <param name="Матеріал">Оксфорд</param>
 <param name="EAN">4823118701784</param>
 </offer>
-<offer id="ZB4663" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="ZB4663" available="false">
+<stock_quantity>0</stock_quantity>
 <price>473.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
@@ -14566,8 +14546,8 @@
 <param name="Вага, кг">0.3</param>
 <param name="Габарити, см">10х8х6</param>
 </offer>
-<offer id="ZB4664" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="ZB4664" available="false">
+<stock_quantity>0</stock_quantity>
 <price>473.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
@@ -14581,8 +14561,8 @@
 <param name="Вага, кг">0.3</param>
 <param name="Габарити, см">10х8х6</param>
 </offer>
-<offer id="ZB4665" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="ZB4665" available="false">
+<stock_quantity>0</stock_quantity>
 <price>485.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
@@ -14597,8 +14577,8 @@
 <param name="Вага, кг">0.3</param>
 <param name="Габарити, см">16х11х8</param>
 </offer>
-<offer id="ZB4666" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="ZB4666" available="false">
+<stock_quantity>0</stock_quantity>
 <price>485.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
@@ -17261,6 +17241,7 @@
 <param name="Розмір тварини">малі</param>
 <param name="Тип">Будиночок</param>
 <param name="Призначення">Для котів, Для собак</param>
+<param name="EAN">4823118707120</param>
 </offer>
 <offer id="ZB4852" available="true">
 <stock_quantity>2</stock_quantity>
@@ -17277,6 +17258,7 @@
 <param name="Розмір">42х37х37 см</param>
 <param name="Тип">Будиночок</param>
 <param name="Призначення">Для котів, Для собак</param>
+<param name="EAN">4823118707137</param>
 </offer>
 <offer id="ZB4853" available="true">
 <stock_quantity>2</stock_quantity>
@@ -18717,8 +18699,8 @@
 <param name="Тип">Лежак</param>
 <param name="EAN">4823118702415</param>
 </offer>
-<offer id="ZB4936" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB4936" available="true">
+<stock_quantity>2</stock_quantity>
 <price>1260.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
@@ -18732,8 +18714,8 @@
 <param name="Тип">Лежак</param>
 <param name="EAN">4823118702422</param>
 </offer>
-<offer id="ZB4937" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB4937" available="true">
+<stock_quantity>2</stock_quantity>
 <price>1584.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
@@ -27877,6 +27859,7 @@
 <param name="Тип">Будиночок</param>
 <param name="Колір">Сірий</param>
 <param name="Матеріал">Велюр</param>
+<param name="EAN">4823118701258</param>
 </offer>
 <offer id="ZBxs48231187012582" available="true">
 <stock_quantity>2</stock_quantity>
@@ -27910,6 +27893,7 @@
 <param name="Тип">Будиночок</param>
 <param name="Колір">Сірий</param>
 <param name="Матеріал">Велюр</param>
+<param name="EAN">4823118701265</param>
 </offer>
 <offer id="ZBxs48231187012652" available="true">
 <stock_quantity>2</stock_quantity>
@@ -27977,6 +27961,7 @@
 <param name="Тип">Лежак</param>
 <param name="Колір">Сірий</param>
 <param name="Матеріал">Велюр</param>
+<param name="EAN">4823118701333</param>
 </offer>
 <offer id="ZBxs48231187013332" available="true">
 <stock_quantity>2</stock_quantity>
@@ -28082,6 +28067,7 @@
 <param name="Тип">Лежак</param>
 <param name="Колір">Сірий</param>
 <param name="Матеріал">Велюр</param>
+<param name="EAN">4823118701456</param>
 </offer>
 <offer id="ZBxs48231187014562" available="true">
 <stock_quantity>2</stock_quantity>
@@ -28115,6 +28101,7 @@
 <param name="Тип">Лежак</param>
 <param name="Колір">Сірий</param>
 <param name="Матеріал">Велюр</param>
+<param name="EAN">4823118701463</param>
 </offer>
 <offer id="ZBxs48231187014632" available="true">
 <stock_quantity>2</stock_quantity>
@@ -28148,6 +28135,7 @@
 <param name="Тип">Лежак</param>
 <param name="Колір">Сірий</param>
 <param name="Матеріал">Велюр</param>
+<param name="EAN">4823118701470</param>
 </offer>
 <offer id="ZBxs48231187014702" available="true">
 <stock_quantity>2</stock_quantity>
@@ -28181,6 +28169,7 @@
 <param name="Тип">Лежак</param>
 <param name="Колір">Сірий</param>
 <param name="Матеріал">Велюр</param>
+<param name="EAN">4823118701487</param>
 </offer>
 <offer id="ZBxs48231187014872" available="true">
 <stock_quantity>2</stock_quantity>
@@ -28231,6 +28220,7 @@
 <param name="Тип">Лежак</param>
 <param name="Колір">Сірий</param>
 <param name="Матеріал">Велюр</param>
+<param name="EAN">4823118701500</param>
 </offer>
 <offer id="ZBxs48231187015002" available="true">
 <stock_quantity>2</stock_quantity>
@@ -28282,6 +28272,7 @@
 <param name="Тип">Лежак</param>
 <param name="Колір">Сірий</param>
 <param name="Матеріал">Велюр</param>
+<param name="EAN">4823118701593</param>
 </offer>
 <offer id="ZBxs48231187015932" available="true">
 <stock_quantity>2</stock_quantity>
@@ -28317,6 +28308,7 @@
 <param name="Тип">Лежак</param>
 <param name="Колір">Сірий</param>
 <param name="Матеріал">Велюр</param>
+<param name="EAN">4823118701609</param>
 </offer>
 <offer id="ZBxs48231187016092" available="true">
 <stock_quantity>2</stock_quantity>
@@ -28370,6 +28362,7 @@
 <param name="Тип">Лежак</param>
 <param name="Колір">Сірий</param>
 <param name="Матеріал">Велюр</param>
+<param name="EAN">4823118701623</param>
 </offer>
 <offer id="ZBxs48231187016232" available="true">
 <stock_quantity>2</stock_quantity>
@@ -28405,6 +28398,7 @@
 <param name="Тип">Лежак</param>
 <param name="Колір">Сірий</param>
 <param name="Матеріал">Велюр</param>
+<param name="EAN">4823118701630</param>
 </offer>
 <offer id="ZBxs48231187016302" available="true">
 <stock_quantity>2</stock_quantity>
@@ -28440,6 +28434,7 @@
 <param name="Тип">Лежак</param>
 <param name="Колір">Сірий</param>
 <param name="Матеріал">Велюр</param>
+<param name="EAN">4823118701647</param>
 </offer>
 <offer id="ZBxs48231187016472" available="true">
 <stock_quantity>2</stock_quantity>
@@ -28475,6 +28470,7 @@
 <param name="Тип">Лежак</param>
 <param name="Колір">Сірий</param>
 <param name="Матеріал">Велюр</param>
+<param name="EAN">4823118701654</param>
 </offer>
 <offer id="ZBxs48231187016542" available="true">
 <stock_quantity>2</stock_quantity>
@@ -28509,6 +28505,7 @@
 <param name="Тип">Лежак</param>
 <param name="Колір">Сірий</param>
 <param name="Матеріал">Велюр</param>
+<param name="EAN">4823118701715</param>
 </offer>
 <offer id="ZBxs48231187017152" available="true">
 <stock_quantity>2</stock_quantity>
@@ -28542,6 +28539,7 @@
 <param name="Тип">Лежак</param>
 <param name="Колір">Сірий</param>
 <param name="Матеріал">Велюр</param>
+<param name="EAN">4823118701722</param>
 </offer>
 <offer id="ZBxs48231187017222" available="true">
 <stock_quantity>2</stock_quantity>
@@ -28575,6 +28573,7 @@
 <param name="Тип">Лежак</param>
 <param name="Колір">Сірий</param>
 <param name="Матеріал">Велюр</param>
+<param name="EAN">4823118701739</param>
 </offer>
 <offer id="ZBxs48231187017392" available="true">
 <stock_quantity>2</stock_quantity>
@@ -28608,6 +28607,7 @@
 <param name="Тип">Лежак</param>
 <param name="Колір">Сірий</param>
 <param name="Матеріал">Велюр</param>
+<param name="EAN">4823118701746</param>
 </offer>
 <offer id="ZBxs48231187017462" available="true">
 <stock_quantity>2</stock_quantity>
