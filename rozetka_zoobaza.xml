@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-10-28 12:44">
+<yml_catalog date="2026-10-30 21:26">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -30932,7 +30932,7 @@
 <param name="Тематика">Повседневный</param>
 <param name="Кількість в упаковці, шт">1</param>
 <param name="Колір">Зелений</param>
-<param name="Сезон">Зима, Літо</param>
+<param name="Сезон">Літо, Зима</param>
 <param name="Тип">Бандана</param>
 <param name="Розмір">XS</param>
 <param name="EAN">1110000264223</param>
@@ -30957,7 +30957,7 @@
 <param name="Кількість в упаковці, шт">1</param>
 <param name="Колір">Зелений</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Літо</param>
+<param name="Сезон">Літо, Зима</param>
 <param name="Тип">Бандана</param>
 <param name="Розмір">S</param>
 <param name="EAN">1110000264230</param>
@@ -30982,7 +30982,7 @@
 <param name="Кількість в упаковці, шт">1</param>
 <param name="Колір">Зелений</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Літо</param>
+<param name="Сезон">Літо, Зима</param>
 <param name="Тип">Бандана</param>
 <param name="Розмір">M</param>
 <param name="EAN">1110000264247</param>
@@ -31007,7 +31007,7 @@
 <param name="Кількість в упаковці, шт">1</param>
 <param name="Колір">Зелений</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Літо</param>
+<param name="Сезон">Літо, Зима</param>
 <param name="Тип">Бандана</param>
 <param name="Розмір">L</param>
 <param name="EAN">1110000264254</param>
@@ -31032,7 +31032,7 @@
 <param name="Кількість в упаковці, шт">1</param>
 <param name="Колір">Різнобарвний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Літо</param>
+<param name="Сезон">Літо, Зима</param>
 <param name="Тип">Бандана</param>
 <param name="Розмір">XS</param>
 <param name="EAN">1110000264278</param>
@@ -31057,7 +31057,7 @@
 <param name="Кількість в упаковці, шт">1</param>
 <param name="Колір">Різнобарвний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Літо</param>
+<param name="Сезон">Літо, Зима</param>
 <param name="Тип">Бандана</param>
 <param name="Розмір">S</param>
 <param name="EAN">1110000264339</param>
@@ -31082,7 +31082,7 @@
 <param name="Кількість в упаковці, шт">1</param>
 <param name="Колір">Різнобарвний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Літо</param>
+<param name="Сезон">Літо, Зима</param>
 <param name="Тип">Бандана</param>
 <param name="Розмір">M</param>
 <param name="EAN">1110000264346</param>
@@ -31107,7 +31107,7 @@
 <param name="Кількість в упаковці, шт">1</param>
 <param name="Колір">Різнобарвний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Літо</param>
+<param name="Сезон">Літо, Зима</param>
 <param name="Тип">Бандана</param>
 <param name="Розмір">XS</param>
 <param name="EAN">1110000264421</param>
@@ -31132,7 +31132,7 @@
 <param name="Кількість в упаковці, шт">1</param>
 <param name="Колір">Різнобарвний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Літо</param>
+<param name="Сезон">Літо, Зима</param>
 <param name="Тип">Бандана</param>
 <param name="Розмір">S</param>
 <param name="EAN">1110000264438</param>
@@ -31157,7 +31157,7 @@
 <param name="Кількість в упаковці, шт">1</param>
 <param name="Колір">Різнобарвний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Літо</param>
+<param name="Сезон">Літо, Зима</param>
 <param name="Тип">Бандана</param>
 <param name="Розмір">M</param>
 <param name="EAN">1110000264445</param>
@@ -31782,7 +31782,7 @@
 <param name="Кількість в упаковці, шт">1</param>
 <param name="Колір">Різнобарвний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Літо</param>
+<param name="Сезон">Літо, Зима</param>
 <param name="Тип">Бандана</param>
 <param name="Розмір">XS</param>
 <param name="EAN">1110000264988</param>
@@ -31807,7 +31807,7 @@
 <param name="Кількість в упаковці, шт">1</param>
 <param name="Колір">Різнобарвний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Літо</param>
+<param name="Сезон">Літо, Зима</param>
 <param name="Тип">Бандана</param>
 <param name="Розмір">S</param>
 <param name="EAN">1110000264995</param>
@@ -37371,7 +37371,7 @@
 <param name="Кількість в упаковці, шт">2</param>
 <param name="Колір">Чорний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">3.8 см</param>
 <param name="EAN">748960859855</param>
@@ -37402,7 +37402,7 @@
 <param name="Кількість в упаковці, шт">2</param>
 <param name="Колір">Чорний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">4.4 см</param>
 <param name="EAN">748960282530</param>
@@ -37433,7 +37433,7 @@
 <param name="Кількість в упаковці, шт">2</param>
 <param name="Колір">Чорний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">5.1 см</param>
 <param name="EAN">748960540579</param>
@@ -37464,7 +37464,7 @@
 <param name="Кількість в упаковці, шт">2</param>
 <param name="Колір">Чорний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">5.7 см</param>
 <param name="EAN">748960451943</param>
@@ -37495,7 +37495,7 @@
 <param name="Кількість в упаковці, шт">2</param>
 <param name="Колір">Червоний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">3.8 см</param>
 <param name="EAN">748960579050</param>
@@ -37526,7 +37526,7 @@
 <param name="Кількість в упаковці, шт">2</param>
 <param name="Колір">Червоний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">4.4 см</param>
 <param name="EAN">748960416683</param>
@@ -37557,7 +37557,7 @@
 <param name="Кількість в упаковці, шт">2</param>
 <param name="Колір">Червоний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">5.1 см</param>
 <param name="EAN">748960111977</param>
@@ -37591,28 +37591,6 @@
 <param name="Тип">Взуття</param>
 <param name="Розмір">5.7 см</param>
 <param name="EAN">748960957322</param>
-</offer>
-<offer id="TX30625" available="true">
-<stock_quantity>2</stock_quantity>
-<price>1250.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>2183122</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30625-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30625-2.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30625-3.jpg</picture>
-<vendor>Ruffwear</vendor>
-<article>30625</article>
-<name>Складная миска для собак Ruffwear Quencher M Сине-голубой (30625)</name>
-<name_ua>Складна миска для собак Ruffwear Quencher M Синьо-блакитний (30625)</name_ua>
-<description><![CDATA[<p>Оставаться заряженным означает, что вы можете продолжать приключения в любом случае, а Quencher - оригинальная компактная миска для собак, предназначенная именно для этого. Эта складная тканевая миска, предназначенная для обеспечения собак едой и водой на ходу, складывается и помещается даже в кармане или рюкзаке. Она представляет собой компактную и легкую миску для пищи, оснащенную прочным и водонепроницаемым корпусом и легкой водонепроницаемой подкладкой.</p><p>Размер: 14 см;</p><p>Емкость: 4,2 чашки (1 л).</p>]]></description>
-<description_ua><![CDATA[<p>Залишатися зарядженим означає, що ви можете продовжувати пригоди у будь-якому випадку, а Quencher – оригінальна компактна миска для собак, призначена саме для цього. Ця складна тканинна миска, призначена для забезпечення собак їжею та водою на ходу, складається і поміщається навіть у кишені чи рюкзаку. Вона являє собою компактну та легку миску для їжі, оснащену міцним та водонепроникним корпусом та легкою водонепроникною підкладкою.</p><p>Розмір: 14 см;</p><p>Місткість: 4,2 чашки (1 л).</p>]]></description_ua>
-<param name="Тварина">Собака</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Серія">Quencher</param>
-<param name="Призначення">Для собак</param>
-<param name="Тип">Миски</param>
-<param name="Матеріал посуду">Поліестер</param>
-<param name="EAN">748960501310</param>
 </offer>
 <offer id="TX30626" available="true">
 <stock_quantity>2</stock_quantity>
@@ -42506,6 +42484,35 @@
 <param name="Тип">Комбінезони</param>
 <param name="Розмір">M 55</param>
 <param name="EAN">6410329341533</param>
+</offer>
+<offer id="TX31420" available="true">
+<stock_quantity>2</stock_quantity>
+<price>7790.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX31420-2.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX31420-3.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX31420-4.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX31420-1.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX31420-5.jpg</picture>
+<vendor>Hurtta</vendor>
+<article>31420</article>
+<name>Дождевик комбинезон для собак Hurtta Mudventure Overall ECO 60M Зеленый (31420)</name>
+<name_ua>Дощовик комбінезон для собак Hurtta Mudventure Overall ECO 60M Зелений (31420)</name_ua>
+<description><![CDATA[<p>Неважно, дождливое ли это утро или заснеженный вечер — Mudventure Overall ECO позаботится о комфорте и сухости вашей собаки в любую погоду. Изготовленный из 100% переработанного материала, этот водонепроницаемый комбинезон – безопасный выбор для любимца и планеты.</p><p><strong>Преимущества комбинезона Mudventure Overall ECO:</strong></p><p>Защита в любую погоду Надежно защищает от дождя, снега и ветра, оставляя шерсть сухой и чистой.</p><p>Идеальная посадка: Легко регулируется с помощью эластичных шнуров – вы можете точно подогнать длину спины, ног, груди, талии и шеи.</p><p>Легкость использования: Удобная конструкция позволяет быстро одевать и снимать комбинезон, даже если ваш пес нетерпелив к прогулкам.</p><p>Комфорт без компромиссов: Специальный Rainstopper-ворот защищает шею от попадания влаги, а широкая проклеенная ветровая планка гарантирует дополнительную непогоду.</p><p>Подходит для всего сезона: Комбинезон идеально носится как по отдельности, так и в сочетании с утеплительной одеждой в холодную погоду.</p><p>Защита от грязи: Помогает избежать песка, грязи и грязи на шерсти – меньше уборки дома после прогулки.</p><p>Удобно для прогулок на поводке: Верхнее отверстие позволяет легко прикрепить поводок к шлейке, защищая от попадания воды внутрь.</p><p>Mudventure Overall ECO – комфортная сухость и чистота в одном стильном решении.</p>]]></description>
+<description_ua><![CDATA[<p>Неважливо, чи це дощовий ранок чи засніжений вечір — Mudventure Overall ECO подбає про комфорт та сухість вашої собаки за будь-якої погоди. Виготовлений із 100% переробленого матеріалу, цей водонепроникний комбінезон — безпечний вибір для улюбленця та планети.</p><p><strong>Переваги комбінезона Mudventure Overall ECO:</strong></p><p>Захист у будь-яку погоду: Надійно захищає від дощу, снігу та вітру, залишаючи шерсть сухою та чистою.</p><p>Ідеальна посадка: Легко регулюється за допомогою еластичних шнурів — ви можете точно підігнати довжину спини, ніг, грудей, талії та шиї.</p><p>Легкість використання: Зручна конструкція дозволяє швидко одягати та знімати комбінезон, навіть якщо ваш пес нетерплячий до прогулянок.</p><p>Комфорт без компромісів: Спеціальний Rainstopper-воріт захищає шию від потрапляння вологи, а широка проклеєна вітрова планка гарантує додаткову стійкість до негоди.</p><p>Підходить для всього сезону: Комбінезон ідеально носиться як окремо, так і в поєднанні з утеплювальним одягом у холодну погоду.</p><p>Захист від бруду: Допомагає уникнути піску, багнюки та бруду на шерсті — менше прибирання вдома після прогулянки.</p><p>Зручно для прогулянок на повідці: Верхній отвір дозволяє легко прикріпити повідець до шлеї, захищаючи від потрапляння води всередину.</p><p>Mudventure Overall ECO — комфортна сухість і чистота в одному стильному рішенні.</p>]]></description_ua>
+<param name="Особливості">Со светоотражающими элементами</param>
+<param name="Матеріал">Трикотаж</param>
+<param name="Вид">Комбінезон</param>
+<param name="Обхват груди">65-85 см</param>
+<param name="Обхват шиї">45-60 см</param>
+<param name="Кількість в упаковці, шт">1</param>
+<param name="Колір">Зелений</param>
+<param name="Тварина">Собака</param>
+<param name="Сезон">Демісезон, Літо</param>
+<param name="Тип">Комбінезони</param>
+<param name="Розмір">M 60</param>
+<param name="EAN">6410329341540</param>
 </offer>
 <offer id="TX31421" available="true">
 <stock_quantity>2</stock_quantity>
@@ -54052,26 +54059,6 @@
 <param name="Для кого">Для собак</param>
 <param name="EAN">7071652024945</param>
 </offer>
-<offer id="TX40639" available="true">
-<stock_quantity>2</stock_quantity>
-<price>3290.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4626659</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX40639-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX40639-2.jpg</picture>
-<vendor>Non-stop dogwear</vendor>
-<article>40639</article>
-<name>Шлея для собак Non-stop dogwear Line harness 5.0 Бирюзовый 8 (40639)</name>
-<name_ua>Шлейка для собак Non-stop dogwear Line harness 5.0 Бірюзовий 8 (40639)</name_ua>
-<description><![CDATA[<p>Line Harness 5.0 – это удобная и универсальная короткая подтяжка, разработанная для хайкинга, треккинга и ежедневных прогулок. Благодаря эргономичному дизайну, она обеспечивает максимальный комфорт и свободу движений собаки.</p><p><strong>Многофункциональность</strong></p><p><strong>Шлейка имеет несколько точек крепления поводка:</strong></p><ul><li>На спине – для обычных прогулок.</li><li>Под грудью – для трекингового поводка, предотвращающего запутывание.</li><li>На груди (от размера 3) – для мягкого контроля тяги.</li></ul><p><strong>Удобная и безопасная</strong></p><p>Y-образный вырез в зоне шеи не ограничивает движения плеч и не затрудняет дыхание. Мягкая внутренняя подкладка без твердых швов предотвращает натирку. Подтяжка регулируется в области груди, а прочные пряжки Duraflex позволяют легко надевать и снимать ее.</p><p><strong>Прочные и функциональные материалы</strong></p><p>Изготовлен из прочного нейлона со вставками Hypalon в зонах наибольшего износа. Закрытая ячеистая пена не впитывает воду, а светоотражающие элементы 3M улучшают видимость в темноте.</p><p>Идеальный выбор для собак, ценящих комфорт и свободу движений!</p>]]></description>
-<description_ua><![CDATA[<p>Line Harness 5.0 – це зручна та універсальна коротка шлейка, розроблена для хайкінгу, трекінгу та щоденних прогулянок. Завдяки ергономічному дизайну вона забезпечує максимальний комфорт і свободу рухів собаки.</p><p><strong>Багатофункціональність</strong></p><p><strong>Шлейка має кілька точок кріплення повідця:</strong></p><ul><li>На спині – для звичайних прогулянок.</li><li>Під грудьми – для трекінгового повідця, що запобігає заплутуванню.</li><li>На грудях (від розміру 3) – для м’якого контролю тяги.</li></ul><p><strong>Зручна та безпечна</strong></p><p>Y-подібний виріз у зоні шиї не обмежує рух плечей і не ускладнює дихання. М’яка внутрішня підкладка без твердих швів запобігає натиранню. Шлейка регулюється в області грудей, а міцні пряжки Duraflex дозволяють легко надягати та знімати її.</p><p><strong>Міцні та функціональні матеріали</strong></p><p>Виготовлена з міцного нейлону із вставками Hypalon у зонах найбільшого зносу. Закрита коміркова піна не вбирає воду, а світловідбивні елементи 3M покращують видимість у темряві.</p><p>Ідеальний вибір для собак, які цінують комфорт і свободу рухів!</p>]]></description_ua>
-<param name="Колір">Бірюзовий</param>
-<param name="Розмір">8</param>
-<param name="Тварина">Собака</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Для кого">Для собак</param>
-<param name="EAN">7071652024983</param>
-</offer>
 <offer id="TX40662" available="true">
 <stock_quantity>2</stock_quantity>
 <price>5810.00</price>
@@ -63941,35 +63928,6 @@
 <param name="Кількість в упаковці, шт">1</param>
 <param name="EAN">4066239167613</param>
 </offer>
-<offer id="TX46363" available="true">
-<stock_quantity>2</stock_quantity>
-<price>609.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>3439219</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46363-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46363-2.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46363-3.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46363-4.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46363-5.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46363-6.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46363-7.jpg</picture>
-<vendor>FuzzYard</vendor>
-<article>46363</article>
-<name>Мягкая игрушка для собак FuzzYard Коко Коала S (46363)</name>
-<name_ua>М&apos;яка іграшка для собак FuzzYard Коко Коала S (46363)</name_ua>
-<description><![CDATA[<p>Познакомьтесь с Coco Koala — праздничной плюшевой коалой, которая пришла, чтобы растопить сердца (и, возможно, стащить парочку вкусняшек, пока никто не видит). С мягкой пушистой шерсткой и очаровательной шапочкой Санты, эта коала готова влететь в игрушечную коллекцию вашего питомца и привнести туда настоящую новогоднюю магию. Хотите уютных рождественских обнимашек? Пожалуйста. Нужна шумная игра с пищалкой? Coco всегда за любую движуху. И честно — вы когда-нибудь видели коалу такой стильной в праздничном образе? У вашего пса появился новый лучший друг на сезон (и надолго после него).</p><p>Когда речь идёт о плюшевых игрушках, никто не делает их так, как FuzzYard! Эти оригинальные и забавные supaw-игрушки созданы в Австралии и оснащены пищалкой для ulti-mutt удовольствия от игры. FuzzYard известен и любим собаками по всему миру!</p><p><strong>Особенности и преимущества:</strong></p><p><strong>Отправка из Калифорнии</strong></p><p><strong>Внутренняя пищалка, привлекающая внимание</strong></p><p><strong>Двойной слой и прочная прошивка</strong></p><p><strong>Можно стирать в машине</strong></p><p>100% полиэстер. Цветостойкий, нетоксичный, неаллергенный.</p><p>Материалы:100% полиэстер (внешний материал и наполнитель) с внутренней пищалкой.</p><p><strong>Уход:</strong></p><p><strong>Деликатная стирка в холодной воде с похожими цветами</strong></p><p><strong>Не отбеливать</strong></p><p><strong>Не сдавать в химчистку</strong></p><p><strong>Не гладить</strong></p><p><strong>Не сушить в сушилке</strong></p><p><strong>Размеры:</strong></p><p>Small: 17 cm × 10 cm × 20 cmLarge: 25 cm × 13.5 cm × 28 cm.</p>]]></description>
-<description_ua><![CDATA[<p>Знайомтесь із Coco Koala — святковою плюшевою красунею, яка точно вкраде серця (і, можливо, пару ласощів, поки ніхто не бачить). З м’яким пухнастим хутром та невідпірною шапочкою Санти, ця коала готова увірватися у колекцію іграшок вашого улюбленця і привнести туди трішки різдвяної магії. Хочете різдвяних обіймів? Будь ласка. Бажаєте веселу гру з пискуном? Coco вже тут як тут. І серйозно — ви колись бачили коалу настільки стильну у святковому вбранні? У вашого песика з’явився новий найкращий друг на сезон (і надовго після нього).</p><p>Коли йдеться про плюшеві іграшки, ніхто не робить їх так, як FuzzYard! Ці оригінальні та кумедні supaw-іграшки створені в Австралії та оснащені пискуном для ulti-mutt задоволення від гри. FuzzYard люблять собаки по всьому світу!</p><p><strong>Особливості та переваги:</strong></p><p><strong>Внутрішній пискун, що привертає увагу</strong></p><p><strong>Подвійний шар і прошивка для додаткової міцності</strong></p><p><strong>Машинне прання</strong></p><p>100% поліестер. Коліростійкий, нетоксичний, неалергенний.</p><p>Матеріали:100% поліестер (зовнішній шар і наповнювач) з внутрішнім пискуном.</p><p><strong>Догляд:</strong></p><p><strong>Делікатне прання у холодній воді з подібними кольорами</strong></p><p><strong>Не вибілювати</strong></p><p><strong>Не прати хімічно</strong></p><p><strong>Не прасувати</strong></p><p><strong>Не сушити в сушарці</strong></p><p><strong>Розміри:</strong></p><p>Small: 17 cm × 10 cm × 20 cmLarge: 25 cm × 13.5 cm × 28 cm.</p>]]></description_ua>
-<param name="Тип">М&apos;яка іграшка для собак</param>
-<param name="Колір">Сірий</param>
-<param name="Розмір">S</param>
-<param name="Вік">Взрослые</param>
-<param name="Тварина">Собака</param>
-<param name="Кількість в упаковці, шт">1</param>
-<param name="Особливості">С пищалкой</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Вид">М&apos;які іграшки</param>
-<param name="EAN">9345719114589</param>
-</offer>
 <offer id="TX46364" available="true">
 <stock_quantity>2</stock_quantity>
 <price>711.00</price>
@@ -64022,29 +63980,6 @@
 <param name="Матеріал">Поліестер</param>
 <param name="Вид">М&apos;які іграшки</param>
 <param name="EAN">9345719114879</param>
-</offer>
-<offer id="TX46370" available="true">
-<stock_quantity>2</stock_quantity>
-<price>619.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>3439219</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46370-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46370-2.jpg</picture>
-<vendor>FuzzYard</vendor>
-<article>46370</article>
-<name>Мягкая игрушка для собак FuzzYard Пряничный Фигурист (46370)</name>
-<name_ua>М&apos;яка іграшка для собак FuzzYard Пряниковий Фігурист (46370)</name_ua>
-<description><![CDATA[<p>Праздничная игрушка Biscuit Blader приносит сахар, специи и немного весёлого пищика — чтобы сделать праздники ещё слаще! С ледяными коньками, сияющими глазками и бабочкой, которая говорит «готов впечатлять», этот пряничный милый герой дарит радость в каждом весёлом кусе.</p><p><strong>Преимущества:</strong></p><p><strong>Дизайн в Австралии</strong></p><p><strong>Встроенный пищик, привлекающий внимание</strong></p><p><strong>Двойной слой и прочные швы для долговечности</strong></p><p><strong>Можно стирать в машинке</strong></p><p>100% полиэстер, безопасная краска, нетоксично и гипоаллергенно.</p>]]></description>
-<description_ua><![CDATA[<p>Святкова іграшка Biscuit Blader приносить цукор, спеції та трохи веселого пищика — щоб зробити свята ще солодшими! З морозними ковзанами, сяючими оченятами та метеликом, що каже «готовий вражати», цей пряниковий милий герой дарує радість у кожному веселому кусі.</p><p><strong>Переваги:</strong></p><p><strong>Дизайн в Австралії</strong></p><p><strong>Вбудований пищик, який привертає увагу</strong></p><p><strong>Подвійний шар та міцні шви для довговічності</strong></p><p><strong>Можна прати в машинці</strong></p><p>100% поліестер, безпечна фарба, нетоксична та неалергенна.</p>]]></description_ua>
-<param name="Тип">М&apos;яка іграшка для собак</param>
-<param name="Колір">Бежевий</param>
-<param name="Вік">Взрослые</param>
-<param name="Тварина">Собака</param>
-<param name="Кількість в упаковці, шт">1</param>
-<param name="Особливості">С пищалкой</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Вид">М&apos;які іграшки</param>
-<param name="EAN">9345719114794</param>
 </offer>
 <offer id="TX46371" available="true">
 <stock_quantity>2</stock_quantity>
