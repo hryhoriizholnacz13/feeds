@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-02 18:38">
+<yml_catalog date="2026-11-03 21:29">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -11209,8 +11209,8 @@
 <param name="Рецептура">Без зернових</param>
 <param name="Основні інгредієнти">Курка</param>
 </offer>
-<offer id="ZB4233" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="ZB4233" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1070.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -11492,8 +11492,8 @@
 <param name="Вага 1 шт">До 500 г</param>
 <param name="Тип упаковки">Паучі</param>
 </offer>
-<offer id="ZB4248" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="ZB4248" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1018.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -11839,8 +11839,8 @@
 <param name="Призначення">Для стерилізованих кішок</param>
 <param name="Основні інгредієнти">Лосось</param>
 </offer>
-<offer id="ZB4264" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="ZB4264" available="false">
+<stock_quantity>0</stock_quantity>
 <price>105.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -11856,8 +11856,8 @@
 <param name="Вага 1 шт">До 500 г</param>
 <param name="Тип упаковки">Паучі</param>
 </offer>
-<offer id="ZB4265" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="ZB4265" available="false">
+<stock_quantity>0</stock_quantity>
 <price>105.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -12169,8 +12169,8 @@
 <param name="Призначення">Основне годування, Проти ожиріння</param>
 <param name="Основні інгредієнти">Ягня</param>
 </offer>
-<offer id="ZB4279" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="ZB4279" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1346.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -12262,8 +12262,8 @@
 <param name="Призначення">Основне годування, Проти ожиріння</param>
 <param name="Основні інгредієнти">Рис, Оленина, Ягня</param>
 </offer>
-<offer id="ZB4283" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="ZB4283" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1346.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -12431,8 +12431,8 @@
 <param name="Клас корму">Преміум</param>
 <param name="Призначення">Основне годування</param>
 </offer>
-<offer id="ZB4295" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="ZB4295" available="false">
+<stock_quantity>0</stock_quantity>
 <price>3215.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -12627,8 +12627,8 @@
 <param name="Призначення">Гіпоалергенний</param>
 <param name="Основні інгредієнти">Ягня, Рис</param>
 </offer>
-<offer id="ZB4304" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="ZB4304" available="false">
+<stock_quantity>0</stock_quantity>
 <price>3786.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -12674,8 +12674,8 @@
 <param name="Призначення">Основне годування, Гіпоалергенний</param>
 <param name="Основні інгредієнти">Качка, Індичка</param>
 </offer>
-<offer id="ZB4306" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="ZB4306" available="false">
+<stock_quantity>0</stock_quantity>
 <price>3786.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -12745,8 +12745,8 @@
 <param name="Призначення">Гіпоалергенний</param>
 <param name="Основні інгредієнти">Яловичина, Рис</param>
 </offer>
-<offer id="ZB4309" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="ZB4309" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1070.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -17063,15 +17063,16 @@
 </offer>
 <offer id="ZB4673" available="true">
 <stock_quantity>2</stock_quantity>
-<price>1184.00</price>
+<price>1620.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675996</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/7ddd6242bc77b926.jpg</picture>
 <vendor>ЗооБаза</vendor>
-<name>Сумка ЗооБаза Люк</name>
-<name_ua>Сумка ЗооБаза Люк</name_ua>
+<name>Сумка ЗооБаза Люк №0</name>
+<name_ua>Сумка ЗооБаза Люк №0</name_ua>
 <description><![CDATA[<p><strong>Сумка-переноска Люк</strong></p><p>Компактная тканевая сумка черного цвета для перевозки животного. У нее длинный плечевой ремень и отдельная верхняя ручка, поэтому ее можно нести и на плече, и в руке.застежка-молния на крышке;металлические люверсы по бокам для вентиляции;узкие боковые карманы-вставки;плотное дно, которое помогает сумке держать форму. Прежде чем заказывать, учтите длину животного и вес, который вам удобно нести на плече.</p>]]></description>
 <description_ua><![CDATA[<p><strong>Сумка-переноска Люк</strong></p><p>Компактна тканинна сумка чорного кольору для перевезення тварини. Вона має довгий плечовий ремінь і окрему верхню ручку, тому її можна нести і на плечі, і в руці.застібка-блискавка на кришці;металеві вічка з боків для вентиляції;вузькі бокові кишені-вставки;щільне дно, яке допомагає сумці тримати форму. Перш ніж замовляти, зважте довжину тварини й вагу, яку вам зручно нести на плечі.</p>]]></description_ua>
+<param name="Розмір">№0</param>
 <param name="Тип">Сумка-переноска</param>
 <param name="Особливості">З відділенням для аксесуарів</param>
 </offer>
@@ -18815,6 +18816,48 @@
 <param name="Матеріал">Вельвет</param>
 <param name="EAN">4823118710519</param>
 </offer>
+<offer id="ZB4792" available="true">
+<stock_quantity>2</stock_quantity>
+<price>648.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>4675999</categoryId>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/f009220d24f08844.jpg</picture>
+<vendor>ЗооБаза</vendor>
+<name>Лежак ЗооБаза Рекс 32х43х12,5 см</name>
+<name_ua>Лежак ЗооБаза Рекс 32х43х12,5 см</name_ua>
+<description><![CDATA[<p>Выбирайте по длине животного, когда оно спит вытянувшись: нужен запас, чтобы оно могло расслабиться.</p>]]></description>
+<description_ua><![CDATA[<p>Обирайте за довжиною тварини, коли вона спить витягнувшись: потрібен запас, щоб вона могла розслабитися.</p>]]></description_ua>
+<param name="Розмір">32х43х12,5 см</param>
+<param name="Тип">Лежак</param>
+</offer>
+<offer id="ZB4793" available="true">
+<stock_quantity>2</stock_quantity>
+<price>752.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>4675999</categoryId>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/f009220d24f08844.jpg</picture>
+<vendor>ЗооБаза</vendor>
+<name>Лежак ЗооБаза Рекс 37,5х49,5х13 см</name>
+<name_ua>Лежак ЗооБаза Рекс 37,5х49,5х13 см</name_ua>
+<description><![CDATA[<p>Выбирайте по длине животного, когда оно спит вытянувшись: нужен запас, чтобы оно могло расслабиться.</p>]]></description>
+<description_ua><![CDATA[<p>Обирайте за довжиною тварини, коли вона спить витягнувшись: потрібен запас, щоб вона могла розслабитися.</p>]]></description_ua>
+<param name="Розмір">37,5х49,5х13 см</param>
+<param name="Тип">Лежак</param>
+</offer>
+<offer id="ZB4794" available="true">
+<stock_quantity>2</stock_quantity>
+<price>860.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>4675999</categoryId>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/f009220d24f08844.jpg</picture>
+<vendor>ЗооБаза</vendor>
+<name>Лежак ЗооБаза Рекс 42,5х56х13,5 см</name>
+<name_ua>Лежак ЗооБаза Рекс 42,5х56х13,5 см</name_ua>
+<description><![CDATA[<p>Выбирайте по длине животного, когда оно спит вытянувшись: нужен запас, чтобы оно могло расслабиться.</p>]]></description>
+<description_ua><![CDATA[<p>Обирайте за довжиною тварини, коли вона спить витягнувшись: потрібен запас, щоб вона могла розслабитися.</p>]]></description_ua>
+<param name="Розмір">42,5х56х13,5 см</param>
+<param name="Тип">Лежак</param>
+</offer>
 <offer id="ZB4795" available="true">
 <stock_quantity>2</stock_quantity>
 <price>954.00</price>
@@ -18830,35 +18873,33 @@
 <param name="Тип">Лежак</param>
 <param name="EAN">4823118702781</param>
 </offer>
-<offer id="ZB4796" available="false">
-<stock_quantity>0</stock_quantity>
-<price>1197.00</price>
+<offer id="ZB4796" available="true">
+<stock_quantity>2</stock_quantity>
+<price>1071.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/f009220d24f08844.jpg</picture>
 <vendor>ЗооБаза</vendor>
-<name>Лежак ЗооБаза Рекс 500х690х145 см</name>
-<name_ua>Лежак ЗооБаза Рекс 500х690х145 см</name_ua>
+<name>Лежак ЗооБаза Рекс 50х69х14,5 см</name>
+<name_ua>Лежак ЗооБаза Рекс 50х69х14,5 см</name_ua>
 <description><![CDATA[<p>Выбирайте по длине животного, когда оно спит вытянувшись: нужен запас, чтобы оно могло расслабиться.</p>]]></description>
 <description_ua><![CDATA[<p>Обирайте за довжиною тварини, коли вона спить витягнувшись: потрібен запас, щоб вона могла розслабитися.</p>]]></description_ua>
-<param name="Розмір">500х690х145 см</param>
+<param name="Розмір">50х69х14,5 см</param>
 <param name="Тип">Лежак</param>
-<param name="EAN">4820033206110</param>
 </offer>
-<offer id="ZB4797" available="false">
-<stock_quantity>0</stock_quantity>
-<price>1386.00</price>
+<offer id="ZB4797" available="true">
+<stock_quantity>2</stock_quantity>
+<price>1215.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/f009220d24f08844.jpg</picture>
 <vendor>ЗооБаза</vendor>
-<name>Лежак ЗооБаза Рекс 540х760х155 см</name>
-<name_ua>Лежак ЗооБаза Рекс 540х760х155 см</name_ua>
+<name>Лежак ЗооБаза Рекс 54х76х15,5 см</name>
+<name_ua>Лежак ЗооБаза Рекс 54х76х15,5 см</name_ua>
 <description><![CDATA[<p>Выбирайте по длине животного, когда оно спит вытянувшись: нужен запас, чтобы оно могло расслабиться.</p>]]></description>
 <description_ua><![CDATA[<p>Обирайте за довжиною тварини, коли вона спить витягнувшись: потрібен запас, щоб вона могла розслабитися.</p>]]></description_ua>
-<param name="Розмір">540х760х155 см</param>
+<param name="Розмір">54х76х15,5 см</param>
 <param name="Тип">Лежак</param>
-<param name="EAN">4820033206127</param>
 </offer>
 <offer id="ZB4798" available="true">
 <stock_quantity>2</stock_quantity>
@@ -18875,20 +18916,19 @@
 <param name="Тип">Лежак</param>
 <param name="EAN">4820177253797</param>
 </offer>
-<offer id="ZB4799" available="false">
-<stock_quantity>0</stock_quantity>
-<price>1782.00</price>
+<offer id="ZB4799" available="true">
+<stock_quantity>2</stock_quantity>
+<price>1521.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/f009220d24f08844.jpg</picture>
 <vendor>ЗооБаза</vendor>
-<name>Лежак ЗооБаза Рекс 660х890х165 см</name>
-<name_ua>Лежак ЗооБаза Рекс 660х890х165 см</name_ua>
+<name>Лежак ЗооБаза Рекс 66х89х16,5 см</name>
+<name_ua>Лежак ЗооБаза Рекс 66х89х16,5 см</name_ua>
 <description><![CDATA[<p>Выбирайте по длине животного, когда оно спит вытянувшись: нужен запас, чтобы оно могло расслабиться.</p>]]></description>
 <description_ua><![CDATA[<p>Обирайте за довжиною тварини, коли вона спить витягнувшись: потрібен запас, щоб вона могла розслабитися.</p>]]></description_ua>
-<param name="Розмір">660х890х165 см</param>
+<param name="Розмір">66х89х16,5 см</param>
 <param name="Тип">Лежак</param>
-<param name="EAN">4820177253803</param>
 </offer>
 <offer id="ZB4800" available="true">
 <stock_quantity>2</stock_quantity>
@@ -23318,8 +23358,8 @@
 <param name="Тип">Лежак</param>
 <param name="Призначення">Для котів, Для собак</param>
 </offer>
-<offer id="ZB5081" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="ZB5081" available="false">
+<stock_quantity>0</stock_quantity>
 <price>105.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -23357,8 +23397,8 @@
 <param name="Призначення">Основне годування</param>
 <param name="Основні інгредієнти">Індичка</param>
 </offer>
-<offer id="ZB5083" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="ZB5083" available="false">
+<stock_quantity>0</stock_quantity>
 <price>202.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -37461,34 +37501,6 @@
 <param name="Для кого">Для собак</param>
 <param name="EAN">4019008304719</param>
 </offer>
-<offer id="TX29675" available="true">
-<stock_quantity>2</stock_quantity>
-<price>3380.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4626659</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX29675-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX29675-2.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX29675-3.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX29675-4.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX29675-5.jpg</picture>
-<vendor>Wolters</vendor>
-<article>29675</article>
-<name>Шлейка для собак смягченная с ручкой Wolters Active Pro Comfort 7 80-95 см Синий (29675)</name>
-<name_ua>Шлейка для собак пом&apos;якшена з ручкою Wolters Active Pro Comfort 7 80-95 см Синій (29675)</name_ua>
-<description><![CDATA[<p>Обеспечьте вашего четырехлапого друга полной свободой движений благодаря шлейке Wolters Active Pro Comfort. Эта шлейка поражает легкостью и комфортом для вашего любимца. Благодаря мягкой подкладке с сеткой, ремни пропускают воздух, избегая нагрева даже при длительном ношении.</p><p>Мягкая нагрудная пластина расположена низко на груди собаки, гарантируя полную свободу гортани. Прочные быстросъемные застежки обеспечивают легкое одевание и снятие. Регулируемые ремни на груди и животе позволяют подстроить шлейку под индивидуальный размер вашего любимца, что обеспечивает идеальное прилегание к телу любой собаки, включая породы с широкой грудной клеткой, таких как мопсы или бульдоги.</p><p>Дополнительная ручка на спине позволяет хозяину быстро реагировать на опасные ситуации. Благодаря удобной и компактной посадке, эта шлея также очень подходит для собачьих видов спорта.</p><p>Все продукты серии Active Pro Comfort изготовлены из высококачественного, крепкого нейлона. Светоотражающие вставки обеспечивают хорошую видимость в сумерках и тьме.</p><p><strong>Совет по чистке:</strong></p><p>Шлею можно стирать в мешке для белья в деликатном режиме при температуре до 30 градусов. Обязательно тщательно высушите металлическую фурнитуру после стирки во избежание ржавения.</p><p><strong>Детали продукта:</strong></p><p><strong>Легкая и комфортная для ношения;</strong></p><p><strong>Мягкие пластины на груди и животе для особого комфорта;</strong></p><p><strong>Идеально подходит для собак с широкой грудной клеткой, таких как мопсы или бульдоги;</strong></p><p><strong>Изготовлена из высококачественного прочного нейлона;</strong></p><p><strong>Глубокая нагрудная пластина обеспечивает полную свободу гортани собаки;</strong></p><p><strong>Внутренняя часть с дышащей сетчатой тканью во избежание перегрева;</strong></p><p><strong>Дополнительная ручка на спине для быстрого вмешательства в опасных ситуациях;</strong></p><p><strong>Светоотражающие вставки для видимости в темноте;</strong></p><p><strong>Плавная регулировка на груди и поясе;</strong></p><p><strong>Крепкие застежки;</strong></p><p>Можно стирать.</p>]]></description>
-<description_ua><![CDATA[<p>Забезпечте вашого чотирилапого друга повною свободою рухів завдяки шлеї Wolters Active Pro Comfort. Ця шлея вражає своєю легкістю та комфортом для вашого улюбленця. Завдяки м'якій підкладці з сіткою, ремені пропускають повітря, уникаючи нагрівання навіть при тривалому носінні.</p><p>М'яка нагрудна пластина розташована низько на грудях собаки, гарантуючи повну свободу гортані. Міцні швидкознімні застібки забезпечують легке одягання та зняття. Регульовані ремені на грудях і животі дозволяють підлаштувати шлею під індивідуальний розмір вашого улюбленця, що забезпечує ідеальне прилягання до тіла будь-якої собаки, включаючи породи з широкою грудною клітиною, такі як мопси чи бульдоги.</p><p>Додаткова ручка на спині дозволяє господарю швидко реагувати на небезпечні ситуації. Завдяки зручній і компактній посадці, ця шлея також дуже підходить для собачих видів спорту.</p><p>Усі продукти серії Active Pro Comfort виготовлені з високоякісного, міцного нейлону. Світловідбиваючі вставлення забезпечують хорошу видимість в сутінках і темряві.</p><p><strong>Порада з чистки:</strong></p><p>Шлею можна прати в мішку для білизни в делікатному режимі при температурі до 30 градусів. Обов'язково ретельно висушіть металеву фурнітуру після прання, щоб уникнути ржавіння.</p><p><strong>Деталі продукту:</strong></p><p><strong>Легка та комфортна для носіння;</strong></p><p><strong>М'які пластини на грудях і животі для особливого комфорту;</strong></p><p><strong>Ідеально підходить для собак з широкою грудною кліткою, таких як мопси або бульдоги;</strong></p><p><strong>Виготовлена з високоякісного міцного нейлону;</strong></p><p><strong>Глибока нагрудна пластина забезпечує повну свободу гортані собаки;</strong></p><p><strong>Внутрішня частина з дихаючою сітчастою тканиною для уникнення перегріву;</strong></p><p><strong>Додаткова ручка на спині для швидкого втручання в небезпечних ситуаціях;</strong></p><p><strong>Світловідбиваючі вставлення для видимості в темряві;</strong></p><p><strong>Плавне регулювання на грудях і поясі;</strong></p><p><strong>Міцні застібки;</strong></p><p>Можна прати.</p>]]></description_ua>
-<param name="Колір">Синій</param>
-<param name="Розмір">7</param>
-<param name="Тварина">Собака</param>
-<param name="Ширина">25 мм</param>
-<param name="Особливості">С ручкой</param>
-<param name="Матеріал">Нейлон</param>
-<param name="Серія">Active Pro Comfort</param>
-<param name="Обхват груди">80-95 см</param>
-<param name="Обхват шиї">40-45 см</param>
-<param name="Для кого">Для собак</param>
-<param name="EAN">4019008282635</param>
-</offer>
 <offer id="TX29726" available="true">
 <stock_quantity>2</stock_quantity>
 <price>1385.00</price>
@@ -38318,34 +38330,6 @@
 <param name="Для кого">Для собак</param>
 <param name="EAN">4019008625777</param>
 </offer>
-<offer id="TX30069" available="true">
-<stock_quantity>2</stock_quantity>
-<price>4500.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>3935762</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30069-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30069-2.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30069-3.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30069-4.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30069-5.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30069-6.jpg</picture>
-<vendor>Wolters</vendor>
-<article>30069</article>
-<name>Попона дождевик для собак Wolters Modern Classic 60 см Коричневый (30069)</name>
-<name_ua>Попона дощовик для собак Wolters Modern Classic 60 см Коричневий (30069)</name_ua>
-<description><![CDATA[<p>Если вы ищете надежную и стильную куртку для собак, наша куртка Wolters Outdoor Jacket Modern Classic станет идеальным выбором. Дождевик изготовлен из легко чистящегося полиэстера, имеет удобную подкладку из мягкого флиса и оснащен светоотражающей полоской на шее для улучшенной видимости в условиях темноты.</p><p>Очень широкий воротничок эффективно защищает чувствительную область шеи вашей собаки. Затяжки на воротнике и сзади позволяют регулировать ширину воротника в соответствии с размером шеи, а также регулировать нижний шов под заднюю часть тела. Мягкая резинка на животе обеспечивает комфорт при ношении куртки. Чтобы надеть дождевик, нужно просто просунуть его через голову собаки, а застежки-липучки на животе делают этот процесс еще более легким.</p><p>Благодаря водонепроницаемой молнии, вшитой в ткань, вы можете легко использовать амуницию.</p><p>Куртка доступна как в классическом крое, так и в специальном для такс и других собачек с узкой и длинной спинкой.</p><p>Еще одним преимуществом является то, что Wolters не используют перфторуглерод (PFC) в производстве курток для собак. Эти опасные химические соединения часто используются для создания водонепроницаемых мембран и водо- и грязеотталкивающих покрытий. Однако бренд полностью отказывается от использования PFC в целях сохранения здоровья людей, животных и окружающей среды и использует экологически безопасную гидроизоляцию ecorepel. Система ecorepel эмулирует естественную водоотталкивающую защиту пера утки и гарантирует, что ваши изделия будут оставаться чистыми и сухими (до 10000 миллиметров водного столба). Кроме того, куртка ветрозащитная и дышащая.</p><p>Совет по очистке: Куртку можно стирать при температуре 30 градусов по Цельсию на деликатном режиме. Пожалуйста, используйте мягкое моющее средство и удерживайтесь от использования для смягчения ткани. Рекомендуется сушить на воздухе, избегая сушильной машины.</p><p><strong>Детали продукта:</strong></p><p><strong>Идеально подходит для осени и зимы;</strong></p><p><strong>Стильная палитра цветов;</strong></p><p><strong>Доступны специальные размеры для такс;</strong></p><p><strong>Особенно водо- и грязеотталкивающий благодаря гидроизоляции ecorepel;</strong></p><p>100% без PFC (без вредных пер- и полифторуглеродов);</p><p><strong>Очень широкий воротничок для защиты шеи собаки;</strong></p><p><strong>Подложен удобным мягким флисом;</strong></p><p>Водонепроницаемость до 10 000 мм водного столба;</p><p><strong>Ветрозащитный и дышащий;</strong></p><p><strong>Оснащен водонепроницаемой системой молнии Zip&amp;Go;</strong></p><p><strong>С прорезями на ячейке и нижнем шве для идеальной посадки;</strong></p><p><strong>Со светоотражающей полоской на шее;</strong></p><p>100% полиэстер.</p>]]></description>
-<description_ua><![CDATA[<p>Якщо ви шукаєте надійну та стильну куртку для собаки, наша куртка Wolters Outdoor Jacket Modern Classic стане ідеальним вибором. Дощовик виготовлений з поліестеру, який легко чиститься, має зручну підкладку з м'якого флісу та обладнаний світловідбиваючою смужкою на шиї для поліпшеної видимості в умовах темряви.</p><p>Дуже широкий комірець ефективно захищає чутливу область шиї вашої собаки. Затяжки на комірі та ззаду на дощовику дозволяють регулювати ширину коміра відповідно до розміру шиї, а також регулювати нижній шов під розмір задньої частини тіла. М'яка гумка на животі забезпечує комфорт при носінні куртки. Щоб одягнути дощовик, потрібно просто просунути його через голову собаки, а застібки-липучки на животі роблять цей процес ще легшим.</p><p>Завдяки водонепроникній блискавці, вшитій у тканину, ви можете легко використовувати амуніцію.</p><p>Куртка доступна як в класичному крої, так і в спеціальному для такс та інших песиків із вузькою та довгою спиною.</p><p>Ще однією перевагою є те, що Wolters не використовують перфторуглероди (PFC) у виробництві курток для собак. Ці небезпечні хімічні сполуки часто використовуються для створення водонепроникних мембран та водо- та брудовідштовхувальних покриттів. Проте, бренд повністю відмовляється від використання PFC з метою збереження здоров'я людей, тварин та навколишнього середовища, і використовує екологічно безпечну гідроізоляцію ecorepel. Система ecorepel емулює природний водовідштовхувальний захист пера качки та гарантує, що ваші вироби будуть залишатися чистими та сухими (до 10000 міліметрів водного стовпа). Крім того, куртка є вітрозахисною та дихаючою.</p><p>Порада з очищення: Куртку можна прати при температурі 30 градусів за Цельсієм на делікатному режимі. Будь ласка, використовуйте м'який миючий засіб та утримуйтеся від використання засобів для пом'якшення тканини. Рекомендується сушити на повітрі, уникаючи сушільної машини.</p><p><strong>Деталі продукту:</strong></p><p><strong>Ідеально підходить для осені та зими;</strong></p><p><strong>Стильна палітра кольорів;</strong></p><p><strong>Доступні спеціальні розміри для такс;</strong></p><p><strong>Особливо водо- та брудовідштовхувальний завдяки гідроізоляції ecorepel;</strong></p><p>100% без PFC (без шкідливих пер- та поліфторвуглеців);</p><p><strong>Дуже широкий комірець для захисту шиї собаки;</strong></p><p><strong>Підкладений зручним м'яким флісом;</strong></p><p>Водонепроникність до 10000 мм водного стовпа;</p><p><strong>Вітрозахисний і дихаючий;</strong></p><p><strong>Оснащений водонепроникною системою блискавки Zip &amp; Go;</strong></p><p><strong>З прорізями на комірці та нижньому шві для ідеальної посадки;</strong></p><p><strong>Зі світловідбиваючою смужкою на шиї;</strong></p><p>100% поліестер.</p>]]></description_ua>
-<param name="Довжина">65 см</param>
-<param name="Особливості">Водонепроницаемая ; Со светоотражающими элементами</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Вид">Дощовики</param>
-<param name="Тематика">Повседневный</param>
-<param name="Колір">Коричневий</param>
-<param name="Тварина">Собака</param>
-<param name="Тип">Дощовики</param>
-<param name="Розмір">60 см</param>
-<param name="EAN">4019008710541</param>
-</offer>
 <offer id="TX30072" available="true">
 <stock_quantity>2</stock_quantity>
 <price>3150.00</price>
@@ -39097,33 +39081,6 @@
 <param name="Розмір">48 см</param>
 <param name="EAN">4019008539883</param>
 </offer>
-<offer id="TX30148" available="true">
-<stock_quantity>2</stock_quantity>
-<price>1650.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>3935762</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30148-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30148-2.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30148-3.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30148-4.jpg</picture>
-<vendor>Wolters</vendor>
-<article>30148</article>
-<name>Вязаный свитер для собаки Wolters Moose с узором Лось 50 см Красный (30148)</name>
-<name_ua>В&apos;язаний светр для собаки Wolters Moose з візерунком Лось 50 см Червоний (30148)</name_ua>
-<description><![CDATA[<p>Свитер для собак – это не просто стильный аксессуар. Так же, как и у людей, у собак есть индивидуальное чувство холода. В частности, маленькие собаки быстро начинают замерзать в холодную погоду. Удобный свитер может подарить им уют и облегчить жизнь тем, у кого есть проблемы со здоровьем. Свитера для собак от Wolters изготовлены из комфортного материала, обеспечивая плотное прилегание и удобство для вашего четырехлапого друга.</p><p>Удобный вязаный свитер – это уютная альтернатива собачьей куртке, отлично подходящая для вечеров дома. Мягкий материал из полиэстера дарит вашей собаке тепло и уют, а стильный узор с норвежским оленем делает этот свитер особенно волшебным. Обещаем, в праздничные дни внимание всех будет приковано к вашему пушистому другу. Высокий воротник чрезвычайно удобен и гарантирует идеальное прилегание, что делает этот свитер особенно популярным среди быстро замерзающих собак.</p><p>Совет по очистке: Свитер можно стирать при температуре 30 градусов C в деликатном режиме. Используйте мягкое моющее средство и избегайте использования средств для смягчения ткани. Сушить на воздухе, избегать использования сушильной машины.</p><p><strong>Детали продукта:</strong></p><p><strong>Удобный свитер для собаки на прохладные дни;</strong></p><p><strong>Сезонный дизайн со стильным узором норвежского оленя;</strong></p><p><strong>Приятный и очень удобный материал;</strong></p><p><strong>Идеален для холодных праздничных зимних дней;</strong></p><p><strong>Высокий воротник гарантирует хорошее прилегание;</strong></p><p><strong>Отличная альтернатива куртке для собаки;</strong></p><p><strong>Легко чистить и стирать;</strong></p><p>100% полиэстер.</p>]]></description>
-<description_ua><![CDATA[<p>Светр для собак - це не просто стильний аксесуар. Так само, як і у людей, у собак є індивідуальне відчуття холоду. Зокрема, маленькі собаки швидко починають мерзнути у холодну погоду. Зручний светрик може надати їм затишок і полегшити життя тим, у кого є проблеми зі здоров’ям. Светрики для собак від Wolters виготовлені з комфортного матеріалу, забезпечуючи щільне прилягання та зручність для вашого чотирилапого друга.</p><p>Зручний в’язаний светр – це затишна альтернатива собачій куртці і відмінно підходить для проведення вечорів вдома. М'який матеріал з поліестеру дарує вашій собаці тепло та затишок, а стильний візерунок із норвезьким оленем робить цей светрик особливо чарівним. Обіцяємо, у святкові дні увага всіх буде прикута до вашого пухнастого друга. Високий комір надзвичайно зручний та гарантує ідеальне прилягання, що робить цей светрик особливо популярним серед собак, які швидко замерзають.</p><p>Порада щодо очищення: Цей светрик можна прати при температурі 30 градусів C у делікатному режимі. Будь ласка, використовуйте м’який миючий засіб і уникайте використання засобів для пом’якшення тканини. Сушити на повітрі, уникати використання сушильної машини.</p><p><strong>Деталі продукту:</strong></p><p><strong>Зручний светрик для собаки на прохолодні дні;</strong></p><p><strong>Сезонний дизайн зі стильним норвезьким оленем;</strong></p><p><strong>Приємний і дуже зручний матеріал;</strong></p><p><strong>Ідеальний для холодних святкових зимових днів;</strong></p><p><strong>Високий комір гарантує гарне прилягання;</strong></p><p><strong>Відмінна альтернатива куртці для собаки;</strong></p><p><strong>Легко чистити та прати;</strong></p><p>100% поліестер.</p>]]></description_ua>
-<param name="Довжина">50 см</param>
-<param name="Особливості">С узором</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Вид">Светри</param>
-<param name="Тематика">Новый год</param>
-<param name="Колір">Червоний</param>
-<param name="Тварина">Собака</param>
-<param name="Сезон">Зима</param>
-<param name="Тип">Светри</param>
-<param name="Розмір">50 см</param>
-<param name="EAN">4019008390675</param>
-</offer>
 <offer id="TX30152" available="true">
 <stock_quantity>2</stock_quantity>
 <price>1150.00</price>
@@ -39366,33 +39323,6 @@
 <param name="Тип">Светри</param>
 <param name="Розмір">35 см</param>
 <param name="EAN">4019008424141</param>
-</offer>
-<offer id="TX30162" available="true">
-<stock_quantity>2</stock_quantity>
-<price>1450.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>3935762</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30162-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30162-2.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30162-3.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30162-4.jpg</picture>
-<vendor>Wolters</vendor>
-<article>30162</article>
-<name>Вязаный свитер для собаки Wolters Thore 40 см Зеленый (30162)</name>
-<name_ua>В&apos;язаний светр для собаки Wolters Thore 40 см Зелений (30162)</name_ua>
-<description><![CDATA[<p>Свитер для собак – это не просто стильный аксессуар. Так же, как и у людей, у собак есть индивидуальное чувство холода. В частности, маленькие собаки быстро начинают замерзать в холодную погоду. Удобный свитер может подарить им уют и облегчить жизнь тем, у кого есть проблемы со здоровьем. Свитера для собак от Wolters изготовлены из комфортного материала, обеспечивая плотное прилегание и удобство для вашего четырехлапого друга.</p><p>Удобный вязаный свитер – это уютная альтернатива собачьей куртке, отлично подходящая для вечеров дома. Мягкий материал из полиэстера дарит вашей собаке тепло и уют, а стильный Скандинавский узор делает этот свитер особенно волшебным. Обещаем, в праздничные дни внимание всех будет приковано к вашему пушистому другу. Высокий воротник чрезвычайно удобен и гарантирует идеальное прилегание, что делает этот свитер особенно популярным среди быстро замерзающих собак.</p><p>Совет по очистке: Свитер можно стирать при температуре 30 градусов C в деликатном режиме. Используйте мягкое моющее средство и избегайте использования средств для смягчения ткани. Сушить на воздухе, избегать использования сушильной машины.</p><p><strong>Детали продукта:</strong></p><p><strong>Удобный свитер для собаки на прохладные дни;</strong></p><p><strong>Сезонный дизайн со стильным скандинавским узором;</strong></p><p><strong>Приятный и очень удобный материал;</strong></p><p><strong>Идеален для холодных праздничных зимних дней;</strong></p><p><strong>Высокий воротник гарантирует хорошее прилегание;</strong></p><p><strong>Отличная альтернатива куртке для собаки;</strong></p><p><strong>Легко чистить и стирать;</strong></p><p>100% полиэстер.</p>]]></description>
-<description_ua><![CDATA[<p>Светр для собак - це не просто стильний аксесуар. Так само, як і у людей, у собак є індивідуальне відчуття холоду. Зокрема, маленькі собаки швидко починають мерзнути у холодну погоду. Зручний светрик може надати їм затишок і полегшити життя тим, у кого є проблеми зі здоров’ям. Светрики для собак від Wolters виготовлені з комфортного матеріалу, забезпечуючи щільне прилягання та зручність для вашого чотирилапого друга.</p><p>Зручний в’язаний светр – це затишна альтернатива собачій куртці і відмінно підходить для проведення вечорів вдома. М'який матеріал з поліестеру дарує вашій собаці тепло та затишок, а стильний скандинавський візерунок робить цей светрик особливо чарівним. Обіцяємо, у святкові дні увага всіх буде прикута до вашого пухнастого друга. Високий комір надзвичайно зручний та гарантує ідеальне прилягання, що робить цей светрик особливо популярним серед собак, які швидко замерзають.</p><p>Порада щодо очищення: Цей светрик можна прати при температурі 30 градусів C у делікатному режимі. Будь ласка, використовуйте м’який миючий засіб і уникайте використання засобів для пом’якшення тканини. Сушити на повітрі, уникати використання сушильної машини.</p><p><strong>Деталі продукту:</strong></p><p><strong>Зручний светрик для собаки на прохолодні дні;</strong></p><p><strong>Сезонний дизайн із стильним скандинавським візерунком;</strong></p><p><strong>Приємний і дуже зручний матеріал;</strong></p><p><strong>Ідеальний для холодних святкових зимових днів;</strong></p><p><strong>Високий комір гарантує гарне прилягання;</strong></p><p><strong>Відмінна альтернатива куртці для собаки;</strong></p><p><strong>Легко чистити та прати;</strong></p><p>100% поліестер.</p>]]></description_ua>
-<param name="Довжина">50 см</param>
-<param name="Особливості">С узором</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Вид">Светри</param>
-<param name="Тематика">Новый год</param>
-<param name="Колір">Зелений</param>
-<param name="Тварина">Собака</param>
-<param name="Сезон">Зима</param>
-<param name="Тип">Светри</param>
-<param name="Розмір">40 см</param>
-<param name="EAN">4019008424158</param>
 </offer>
 <offer id="TX30163" available="true">
 <stock_quantity>2</stock_quantity>
@@ -39860,10 +39790,10 @@
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30505-3.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30505-4.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30505-5.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30505-6.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30505-8.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30505-9.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30505-10.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30505-6.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30505-11.jpg</picture>
 <vendor>Ruffwear</vendor>
 <article>30505</article>
@@ -39885,6 +39815,42 @@
 <param name="Тип">Дощовики</param>
 <param name="Розмір">S</param>
 <param name="EAN">748960934781</param>
+</offer>
+<offer id="TX30507" available="true">
+<stock_quantity>2</stock_quantity>
+<price>3750.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30507-1.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30507-2.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30507-3.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30507-4.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30507-5.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30507-6.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30507-7.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30507-9.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30507-10.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30507-11.jpg</picture>
+<vendor>Ruffwear</vendor>
+<article>30507</article>
+<name>Дождевик для собак Ruffwear Sun Shower L Сине-оливковый (30507)</name>
+<name_ua>Дощовик для собак Ruffwear Sun Shower L Синьо-оливковий (30507)</name_ua>
+<description><![CDATA[<p>Когда на улице должен быть дождь, Sun Shower - это идеальная куртка для выгула и прогулок. Её водонепроницаемая оболочка, дополненная складным воротником и рисунком TailGate, обеспечивает расширенную защиту шеи, спины и бедер, чтобы ваш питомец оставался сухим даже во влажные дни. Легкая и без утеплителя, Sun Shower подходит как самостоятельная куртка, так и в качестве верхнего слоя для борьбы с дождем в холодные дни.</p><p>Материалы и узоры были обновлены для увеличения покрытия, а также добавлено отверстие для поводка, что позволяет носить куртку поверх ошейника или шлейки.</p>]]></description>
+<description_ua><![CDATA[<p>Коли на вулиці має бути дощ, Sun Shower – це ідеальна куртка для вигулу та прогулянок. Її водонепроникна оболонка, доповнена складним коміром та малюнком TailGate, забезпечує розширений захист шиї, спини та стегон, щоб ваш вихованець залишався сухим навіть у вологі дні. Легка і без утеплювача, Sun Shower підходить як самостійна куртка, так і як верхній шар для боротьби з дощем в холодні дні.</p><p>Матеріали та візерунки були оновлені для збільшення покриття, а також додано отвір для повідця, що дозволяє носити куртку поверх нашийника чи шлейки.</p>]]></description_ua>
+<param name="Довжина">71 см</param>
+<param name="Особливості">Водонепроницаемая</param>
+<param name="Матеріал">Поліестер</param>
+<param name="Вид">Дощовики</param>
+<param name="Тематика">Повседневный</param>
+<param name="Обхват груди">81-91 см</param>
+<param name="Обхват шиї">67,5 см</param>
+<param name="Кількість в упаковці, шт">1</param>
+<param name="Колір">Синій з зеленим</param>
+<param name="Тварина">Собака</param>
+<param name="Сезон">Демісезон</param>
+<param name="Тип">Дощовики</param>
+<param name="Розмір">L</param>
+<param name="EAN">748960280673</param>
 </offer>
 <offer id="TX30539" available="true">
 <stock_quantity>2</stock_quantity>
@@ -42197,38 +42163,6 @@
 <param name="Обхват груди">81-107 см</param>
 <param name="Для кого">Для собак</param>
 <param name="EAN">748960421182</param>
-</offer>
-<offer id="TX30786" available="true">
-<stock_quantity>2</stock_quantity>
-<price>2990.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4626659</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30786-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30786-2.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30786-3.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30786-7.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30786-4.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30786-6.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30786-8.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30786-9.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30786-10.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30786-11.jpg</picture>
-<vendor>Ruffwear</vendor>
-<article>30786</article>
-<name>Повседневная шлейка для собак Ruffwear Front Range XXS 33-43 см Серо-коричневый (30786)</name>
-<name_ua>Повсякденна шлейка для собак Ruffwear Front Range XXS 33-43 см Сіро-коричневий (30786)</name_ua>
-<description><![CDATA[<p>Front Range представляет собой мягкую повседневную шлейку для собак, которая легко одевается и комфортно сидит на животе собаки. Этот важный элемент экипировки для собак, которые готовы к приключениям вместе со своими владельцами, имеет две опции крепления поводка: алюминиевое V-образное кольцо в центре спины собаки для обычных прогулок и усиленное переднее крепление на груди собаки, чтобы предотвратить тягу поводка. Карман для идентификационных жетонов обеспечивает бесшумный доступ к ним, а светоотражающая вставка и петля для фонарика The Beacon улучшают видимость в условиях недостаточной освещенности.</p><p>Конструкция с подкладкой из пеноматериала для комфортного длительного ношения.</p><p>Четыре точки регулировки для оптимальной посадки.</p><p>Две точки крепления поводка: алюминиевое V-образное кольцо на спине и усиленная петля на груди.</p>]]></description>
-<description_ua><![CDATA[<p>Front Range є м'якою повсякденною шлейкою для собак, яка легко одягається і комфортно сидить на животі собаки. Цей важливий елемент екіпірування для собак, які завжди готові до пригод разом зі своїми власниками, має дві опції кріплення повідця: алюмінієве V-подібне кільце в центрі спини собаки для звичайних прогулянок та посилене переднє кріплення на грудях собаки, щоб запобігти потягу повідця. Кишеня для ідентифікаційних жетонів забезпечує безшумний доступ до них, а світловідбивна вставка та петля для ліхтарика The Beacon покращують видимість в умовах недостатнього освітлення.</p><p>Конструкція з підкладкою з піноматеріалу для тривалого та комфортного носіння.</p><p>Чотири точки регулювання для оптимальної посадки.</p><p>Дві точки кріплення повідця: алюмінієве V-подібне кільце на спині та посилена петля на грудях.</p>]]></description_ua>
-<param name="Колір">Сіро-коричневий</param>
-<param name="Розмір">XXS</param>
-<param name="Тварина">Собака</param>
-<param name="Особливості">Активный образ жизни</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Серія">Front Range</param>
-<param name="Сезон">Демісезон</param>
-<param name="Обхват груди">33-43 см</param>
-<param name="Для кого">Для собак</param>
-<param name="EAN">748960208660</param>
 </offer>
 <offer id="TX30790" available="true">
 <stock_quantity>2</stock_quantity>
@@ -60419,29 +60353,6 @@
 <param name="Розмір">5.1/5.7 см</param>
 <param name="EAN">748960289027</param>
 </offer>
-<offer id="TX41989" available="true">
-<stock_quantity>2</stock_quantity>
-<price>1750.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>2183122</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41989-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41989-2.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41989-3.jpg</picture>
-<vendor>Ruffwear</vendor>
-<article>41989</article>
-<name>Коврик под миску собак Ruffwear Basecamp Серый (41989)</name>
-<name_ua>Килимок під миску для собак Ruffwear Basecamp Сірий (41989)</name_ua>
-<description><![CDATA[<p>Начало приключений всегда начинается в базовом лагере, а коврик для миски для собак Basecamp - это место, где ваш пушистый друг может набраться сил и энергии перед следующим путешествием в горы, по лесу или по тропам. Этот коврик для еды и воды оснащен прочным основанием с покрытием из переработанного TPE и прочными стенками, которые удерживают пролитые жидкости и выдерживают неистовство нетерпеливых собак. Он вмещает две миски рядом и сделан в стиле топографической карты, который вдохновляет на будущие исследования на свежем воздухе.</p><p>Внешние замеры: 52 x 32 x 3 см;</p><p>Внутренние замеры: 46 x 26 x 2,5 см.</p>]]></description>
-<description_ua><![CDATA[<p>Початок пригод завжди починається в базовому таборі, а килимок для миски для собак Basecamp - це місце, де ваш пухнастий друг може набратися сил і енергії перед наступною подорожжю в гори, лісом або стежками. Цей килимок для їжі та води оснащений міцною основою з покриттям із переробленого TPE та міцними стінками, які утримують пролиті рідини та витримують шаленство нетерплячих собак. Він містить дві миски поруч і зроблений у стилі топографічної карти, який надихає на майбутні дослідження на свіжому повітрі.</p><p>Зовнішні виміри: 52 х 32 х 3 см;</p><p>Внутрішні виміри: 46 x 26 x 2,5 см.</p>]]></description_ua>
-<param name="Тварина">Собака</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Серія">Basecamp</param>
-<param name="Призначення">Для собак</param>
-<param name="Колір">Сірий</param>
-<param name="Тип">Килимки під миски</param>
-<param name="Матеріал посуду">Поліестер</param>
-<param name="EAN">748960061494</param>
-</offer>
 <offer id="TX41996" available="true">
 <stock_quantity>2</stock_quantity>
 <price>5250.00</price>
@@ -65372,33 +65283,6 @@
 <param name="Розмір">M</param>
 <param name="EAN">4250990439403</param>
 </offer>
-<offer id="TX46028" available="true">
-<stock_quantity>2</stock_quantity>
-<price>3025.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>3970650</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46028-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46028-2.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46028-4.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46028-3.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46028-5.jpg</picture>
-<vendor>Cloud7</vendor>
-<article>46028</article>
-<name>Кожаный ошейник для собак Cloud7 Prince Park Зеленый S (46028)</name>
-<name_ua>Шкіряний нашийник для собак Cloud7 Prince Park Зелений S (46028)</name_ua>
-<description><![CDATA[<ul><li>Кожаный ошейник для миниатюрных и маленьких собак, изготовленный вручную из натуральной кожи растительного дубления в оттенке коньячного коричневого с яркими контрастными деталями.</li><li>Для крупных пород доступна версия Kings Park.</li></ul><p><strong>Преимущества:</strong></p><p><strong>Прочные и полностью натуральные материалы</strong></p><p><strong>Эко-кожа без агрессивных химикатов</strong></p><p><strong>Ручная прошивка для повышенной износостойкости</strong></p><p><strong>Ручная работа, изготовлено в Италии</strong></p><p>Коллекция Prince Park создана специально для маленьких и миниатюрных собак. Каждый ошейник, шлейка и поводок изготавливаются вручную из очень мягкой и долговечной кожи.</p><ul><li>Процесс растительного дубления в сочетании с обработкой натуральными маслами и восками придаёт коже глубокий оттенок и характер, а со временем она обретает уникальную патину.</li><li>Фурнитура выполнена из высококачественной латуни, а аксессуар украшен фирменной кожаной биркой с тиснением C7.</li></ul><p>Регулярный уход поможет сохранить мягкость и прочность изделия на долгие годы.</p><p>Обратите внимание: из-за натурального способа дубления возможно лёгкое окрашивание при трении.</p><p><strong>Материалы:</strong></p><p><strong>Кожа: натуральная коровья кожа растительного дубления</strong></p><p><strong>Фурнитура: латунь</strong></p><ul><li>Уход:Натуральная кожа со временем органично и благородно изменяется.</li><li>Для сохранения мягкости и эластичности рекомендуется периодически обрабатывать кожу маслом или кондиционером.</li></ul>]]></description>
-<description_ua><![CDATA[<ul><li>Шкіряний нашийник для мініатюрних та малих собак, виготовлений вручну з натуральної рослинно-дубленої шкіри у відтінку коньячного коричневого з контрастними акцентами.</li><li>Для більших порід доступна версія Kings Park.</li></ul><p><strong>Переваги:</strong></p><p><strong>Натуральні та надзвичайно зносостійкі матеріали</strong></p><p><strong>Екологічна шкіра без агресивних хімікатів</strong></p><p><strong>Ручне прошивання для максимальної міцності</strong></p><p><strong>Виготовлено вручну в Італії</strong></p><p>Колекція Prince Park створена спеціально для мініатюрних та малих собак. Кожен нашийник, шлея та повідець виготовляються вручну з надзвичайно м’якої та довговічної шкіри.</p><ul><li>Рослинне дублення та обробка натуральними оліями й воском надають матеріалу благородного вигляду та насиченого кольору, який з часом набуває індивідуальної патини.</li><li>Фурнітура виготовлена з високоякісної латуні, а на нашийнику розміщено фірмовий шкіряний ярличок з тисненням C7.</li></ul><p>Регулярний догляд допоможе зберегти м’якість та еластичність шкіри на довгі роки.</p><p>Зверніть увагу: через природний спосіб дублення можливе легке фарбування у місцях тертя.</p><p><strong>Матеріали:</strong></p><p><strong>Шкіра: натуральна шкіра корови, рослинного дублення</strong></p><p><strong>Фурнітура: латунь</strong></p><ul><li>Догляд:Натуральна шкіра органічно та шляхетно “старіє” з часом.</li><li>Для збереження м’якості та еластичності рекомендується періодично обробляти шкіру спеціальною олією або кондиціонером.</li></ul>]]></description_ua>
-<param name="Ширина">1,2 см</param>
-<param name="Обхват шиї">25-30 см</param>
-<param name="Тип">Нашийники</param>
-<param name="Тварина">Собака</param>
-<param name="Призначення">Для собак</param>
-<param name="Для кого">Для собак</param>
-<param name="Матеріал">Натуральна шкіра</param>
-<param name="Колір">Зелений</param>
-<param name="Розмір">S</param>
-<param name="EAN">4250990438925</param>
-</offer>
 <offer id="TX46029" available="true">
 <stock_quantity>2</stock_quantity>
 <price>3025.00</price>
@@ -66411,28 +66295,6 @@
 <param name="Вид">М&apos;які іграшки</param>
 <param name="EAN">9345719096113</param>
 </offer>
-<offer id="TX46377" available="true">
-<stock_quantity>2</stock_quantity>
-<price>767.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>3439219</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46377-1.jpg</picture>
-<vendor>FuzzYard</vendor>
-<article>46377</article>
-<name>Мягкая игрушка для собак FuzzYard Скандинавский Оленёнок (46377)</name>
-<name_ua>М&apos;яка іграшка для собак FuzzYard Скандинавський Оленя (46377)</name_ua>
-<description><![CDATA[<p>Минималистичные игрушки из вельвета с хлопковой обратной стороной — это не только очаровательный спутник для вашего питомца, но и стильное дополнение к коллекции Life и праздничному декору вашего дома. Рождественский Олень выполнен из фактурной вельветовой ткани с ультрамягкими пушистыми элементами, создающими уютный и изысканный вид. Внутренний пищик делает игру ещё увлекательнее и удерживает внимание питомца надолго.</p><p>Коллекция Life сочетает трендовые цвета, текстуры и высококачественные материалы для тех, кто ценит лучшее и для себя, и для своих животных. Материалы FuzzYard Life тщательно подобраны с акцентом на тактильность и эстетику, создавая стильные изделия, которые гармонично вписываются в интерьер и обеспечивают комфорт премиального рівня.</p><p><strong>Преимущества:</strong></p><p><strong>Дизайн в Австралии</strong></p><p><strong>Красивая вельветовая текстура</strong></p><p><strong>Хлопковая оболочка и наполнитель из полиэфирного волокна со встроенным пищиком</strong></p><p>Размер:13 × 8 × 31 см.</p>]]></description>
-<description_ua><![CDATA[<p>Мінімалістичні кордройні іграшки з бавовняною зворотною стороною — це не лише чарівний компаньйон для вашого улюбленця, а й стильне доповнення до колекції Life та святкового декору вашого дому. Різдвяний Оленик створений з фактурної кордройної тканини та ультрам’яких пухнастих акцентів, які виглядають елегантно та затишно. Вбудований пищик робить гру ще цікавішою — ваш улюбленець буде захоплений надовго.</p><p>Колекція Life поєднує трендові палітри, текстури та високоякісні тканини для тих, хто прагне найкращого як для себе, так і для свого хвостатого друга. Матеріали FuzzYard Life ретельно відібрані з акцентом на тактильність та естетику, створюючи стильні предмети, що гармонійно доповнюють ваш простір та дарують розкішний комфорт.</p><p><strong>Переваги:</strong></p><p><strong>Дизайн в Австралії</strong></p><p><strong>Вишукана кордройна текстура</strong></p><p><strong>Бавовняна оболонка та поліефірний наповнювач із вбудованим пищиком</strong></p><p>Розмір:13 × 8 × 31 см.</p>]]></description_ua>
-<param name="Тип">М&apos;яка іграшка для собак</param>
-<param name="Колір">Коричневий</param>
-<param name="Вік">Взрослые</param>
-<param name="Тварина">Собака</param>
-<param name="Кількість в упаковці, шт">1</param>
-<param name="Особливості">С пищалкой</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Вид">М&apos;які іграшки</param>
-<param name="EAN">9345719096120</param>
-</offer>
 <offer id="TX46378" available="true">
 <stock_quantity>2</stock_quantity>
 <price>767.00</price>
@@ -66840,30 +66702,6 @@
 <param name="Колір">Сірий</param>
 <param name="Розмір">S</param>
 <param name="EAN">9345719115203</param>
-</offer>
-<offer id="TX46593" available="true">
-<stock_quantity>2</stock_quantity>
-<price>674.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>3779482</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46593-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46593-2.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46593-3.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46593-4.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46593-5.jpg</picture>
-<vendor>FuzzYard</vendor>
-<article>46593</article>
-<name>Диспенсер для гигиенических пакетов FuzzYard LIFE Atelier Серый (46593)</name>
-<name_ua>Диспенсер для гігієнічних пакетів FuzzYard LIFE Atelier Сірий (46593)</name_ua>
-<description><![CDATA[<p><strong>FuzzYard Life Atelier — стильный диспенсер для пакетов</strong></p><p>Аксессуар из коллекции FuzzYard Life Atelier сочетает в себе эстетику и функциональность. Выполненный из премиальной веганской кожи с мягкой текстурой, он предлагает утончённый взгляд на ежедневную необходимость. Незаметная молния надежно удерживает пакетики, а встроенный слот обеспечивает быстрый и удобный доступ.</p><p>Карабин с матовым золотистым покрытием легко крепится к поводку или сумке, а дополнительная петля из веганской кожи позволяет выбрать альтернативный способ фиксации.</p><ul><li>Лёгкий, продуманный и практичный — подходит для стандартного рулона пакетов.</li><li>Atelier.</li></ul><p>Создано с намерением. С заботой в каждой деталі.</p><ul><li>Atelier — пространство, где рождаются идеи.</li><li>Здесь материалы, фактуры и детали соединяются осознанно.</li></ul><p>Вдохновлённая мастерскими, наполненными продуманностью и лёгкостью, коллекция FuzzYard Life Atelier создана для того, чтобы органично вписываться в вашу жизнь — дома и в движении.</p><p>Премиальная веганская кожа, фурнитура с матовым золотистым оттенком, баланс структуры и простоты. Спокойная палитра — Slate Grey, Myrtle Green, Sandstone, Soft Blush и French Blue — гармонично дополняет любой стиль, доказывая, что хороший дизайн не только виден, но и ощущается.</p><p><strong>Особенности и преимущества:</strong></p><p><strong>Премиальная веганская кожа с мягкой текстурой</strong></p><p><strong>Дискретная молния удерживает пакеты внутри</strong></p><p><strong>Встроенный слот для быстрого доступа</strong></p><p><strong>Карабин с золотистым матовым покрытием для крепления к поводку или сумке</strong></p><p><strong>Петля из веганской кожи для альтернативного способа фиксации</strong></p><p>Размеры:9 × 5,5 × 5,5 см — подходит для одного рулона пакетов.</p>]]></description>
-<description_ua><![CDATA[<p><strong>FuzzYard Life Atelier — стильний диспенсер для пакетів</strong></p><p>Ця модель із колекції FuzzYard Life Atelier гармонійно поєднує форму й функціональність. Виготовлений із преміальної веганської шкіри з м’якою текстурою, диспенсер пропонує вишуканий погляд на щоденний аксесуар. Непомітна блискавка надійно утримує пакетики, а вбудований отвір дозволяє швидко та зручно їх діставати.</p><p>Карабін із металу золотистого відтінку легко кріпиться до повідця чи сумки, а додаткова петля з веганської шкіри забезпечує альтернативний спосіб фіксації.</p><ul><li>Легкий, продуманий до дрібниць і практичний — підходить для стандартних рулонів пакетів.</li><li>Atelier.</li></ul><p>Створено з наміром. Виготовлено з турботою.</p><ul><li>Atelier — це простір, де народжуються ідеї.</li><li>Тут фактури, матеріали та деталі поєднуються усвідомлено.</li></ul><p>Надихнувшись майстернями, де відчутна продуманість і легкість, колекція FuzzYard Life Atelier створена так, щоб бездоганно вписуватися у ваш ритм життя — вдома чи на прогулянці.</p><p>Преміальна веганська шкіра, фурнітура із золотистим матовим покриттям, баланс структури та простоти. Продумана палітра — Slate Grey, Myrtle Green, Sandstone, Soft Blush і French Blue — природно інтегрується в будь-який стиль, доводячи, що хороший дизайн не лише видно — його відчуваєш.</p><p><strong>Особливості та переваги:</strong></p><p><strong>Преміальна веганська шкіра з м’якою, текстурованою поверхнею</strong></p><p><strong>Непомітна блискавка для надійного зберігання пакетів</strong></p><p><strong>Вбудований отвір для швидкого доступу</strong></p><p><strong>Карабін золотистого відтінку легко кріпиться до повідця або сумки</strong></p><p><strong>Додаткова петля з веганської шкіри для універсального кріплення</strong></p><p>Розміри:9 × 5,5 × 5,5 см — підходить для одного рулону пакетів.</p>]]></description_ua>
-<param name="Тип">Диспенсер для гігієнічних пакетів</param>
-<param name="Колір">Сірий</param>
-<param name="Тип">Диспенсери</param>
-<param name="Кількість в упаковці, шт">1</param>
-<param name="Матеріал">Эко-кожа</param>
-<param name="Вид">Для пакетиків</param>
-<param name="EAN">9345719115456</param>
 </offer>
 <offer id="TX46594" available="true">
 <stock_quantity>2</stock_quantity>
