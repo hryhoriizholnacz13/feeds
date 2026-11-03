@@ -579,30 +579,6 @@
 <param name="Колір">Коричневий</param>
 <param name="EAN">4823118702286</param>
 </offer>
-<offer id="ZB3438" available="true">
-<stock_quantity>2</stock_quantity>
-<price>1170.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4675999</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3438-1.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/39/1208x800l80mc0/57131251568895.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/39/1208x800l80mc0/84200940109561.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/39/1208x684l80mc0/17502079601014.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/39/1208x800l80mc0/32173131366488.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/39/1200x900l80mc0/24129483998326.jpeg</picture>
-<vendor>ЗооБаза</vendor>
-<article>7691</article>
-<name>Лежак-понтон ЗооБаза Вояж 55х65 см коричневый (7691)</name>
-<name_ua>Лежак-понтон ЗооБаза Вояж 55х65 см коричневий (7691)</name_ua>
-<description><![CDATA[<p>Лежак-понтон Вояж — овальный лежак с объемным мягким бортом по всему периметру и плоским матрасом посередине. Борт заметно выше дна, поэтому собака может положить на него голову.</p><ul><li>Сбоку есть яркая молния контрастного цвета.</li><li>По старым описаниям, борт набит холлофайбером, а матрас — синтепоном.</li></ul><ul><li>Матрас съемный.</li><li>Выбирайте размер по длине собаки, когда она спит: в лежаке животное должно удобно выпрямиться или свернуться, не упираясь в борт.</li></ul>]]></description>
-<description_ua><![CDATA[<p>Лежак-понтон Вояж — овальний лежак з об'ємним м'яким бортом по всьому периметру та плоским матрацом посередині. Борт помітно вищий за дно, тож собака може покласти на нього голову.</p><ul><li>Збоку є яскрава блискавка контрастного кольору.</li><li>За старими описами, борт набитий холлофайбером, а матрац — синтепоном.</li></ul><ul><li>Матрац знімний.</li><li>Обирайте розмір за довжиною собаки, коли вона спить: у лежаку тварина має зручно випрямитися або згорнутися, не впираючись у борт.</li></ul>]]></description_ua>
-<param name="Розмір">55х65 см</param>
-<param name="Вага, кг">0.4</param>
-<param name="Тип">Лежак</param>
-<param name="Призначення">Для собак</param>
-<param name="Колір">Коричневий</param>
-<param name="EAN">4823118702286</param>
-</offer>
 <offer id="ZB3439" available="true">
 <stock_quantity>2</stock_quantity>
 <price>1886.00</price>
@@ -654,25 +630,6 @@
 <description><![CDATA[<p>Лежак-понтон Вояж — овальный лежак с объемным мягким бортом по всему периметру и плоским матрасом посередине. Борт заметно выше дна, поэтому собака может положить на него голову.</p><ul><li>Сбоку есть яркая молния контрастного цвета.</li><li>По старым описаниям, борт набит холлофайбером, а матрас — синтепоном.</li></ul><ul><li>Матрас съемный.</li><li>Выбирайте размер по длине собаки, когда она спит: в лежаке животное должно удобно выпрямиться или свернуться, не упираясь в борт.</li></ul>]]></description>
 <description_ua><![CDATA[<p>Лежак-понтон Вояж — овальний лежак з об'ємним м'яким бортом по всьому периметру та плоским матрацом посередині. Борт помітно вищий за дно, тож собака може покласти на нього голову.</p><ul><li>Збоку є яскрава блискавка контрастного кольору.</li><li>За старими описами, борт набитий холлофайбером, а матрац — синтепоном.</li></ul><ul><li>Матрац знімний.</li><li>Обирайте розмір за довжиною собаки, коли вона спить: у лежаку тварина має зручно випрямитися або згорнутися, не впираючись у борт.</li></ul>]]></description_ua>
 <param name="Розмір">65х75 см</param>
-<param name="Вага, кг">0.4</param>
-<param name="Тип">Лежак</param>
-<param name="Призначення">Для собак</param>
-<param name="Колір">Сірий</param>
-<param name="EAN">4823118702323</param>
-</offer>
-<offer id="ZB3442" available="true">
-<stock_quantity>2</stock_quantity>
-<price>1170.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4675999</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3442-1.jpg</picture>
-<vendor>ЗооБаза</vendor>
-<article>303672</article>
-<name>Лежак-понтон ЗооБаза Вояж 55х65 см серый (303672)</name>
-<name_ua>Лежак-понтон ЗооБаза Вояж 55х65 см сірий (303672)</name_ua>
-<description><![CDATA[<p>Лежак-понтон Вояж — овальный лежак с объемным мягким бортом по всему периметру и плоским матрасом посередине. Борт заметно выше дна, поэтому собака может положить на него голову.</p><ul><li>Сбоку есть яркая молния контрастного цвета.</li><li>По старым описаниям, борт набит холлофайбером, а матрас — синтепоном.</li></ul><ul><li>Матрас съемный.</li><li>Выбирайте размер по длине собаки, когда она спит: в лежаке животное должно удобно выпрямиться или свернуться, не упираясь в борт.</li></ul>]]></description>
-<description_ua><![CDATA[<p>Лежак-понтон Вояж — овальний лежак з об'ємним м'яким бортом по всьому периметру та плоским матрацом посередині. Борт помітно вищий за дно, тож собака може покласти на нього голову.</p><ul><li>Збоку є яскрава блискавка контрастного кольору.</li><li>За старими описами, борт набитий холлофайбером, а матрац — синтепоном.</li></ul><ul><li>Матрац знімний.</li><li>Обирайте розмір за довжиною собаки, коли вона спить: у лежаку тварина має зручно випрямитися або згорнутися, не впираючись у борт.</li></ul>]]></description_ua>
-<param name="Розмір">55х65 см</param>
 <param name="Вага, кг">0.4</param>
 <param name="Тип">Лежак</param>
 <param name="Призначення">Для собак</param>
@@ -18816,48 +18773,6 @@
 <param name="Матеріал">Вельвет</param>
 <param name="EAN">4823118710519</param>
 </offer>
-<offer id="ZB4792" available="true">
-<stock_quantity>2</stock_quantity>
-<price>648.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4675999</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/f009220d24f08844.jpg</picture>
-<vendor>ЗооБаза</vendor>
-<name>Лежак ЗооБаза Рекс 32х43х12,5 см</name>
-<name_ua>Лежак ЗооБаза Рекс 32х43х12,5 см</name_ua>
-<description><![CDATA[<p>Выбирайте по длине животного, когда оно спит вытянувшись: нужен запас, чтобы оно могло расслабиться.</p>]]></description>
-<description_ua><![CDATA[<p>Обирайте за довжиною тварини, коли вона спить витягнувшись: потрібен запас, щоб вона могла розслабитися.</p>]]></description_ua>
-<param name="Розмір">32х43х12,5 см</param>
-<param name="Тип">Лежак</param>
-</offer>
-<offer id="ZB4793" available="true">
-<stock_quantity>2</stock_quantity>
-<price>752.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4675999</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/f009220d24f08844.jpg</picture>
-<vendor>ЗооБаза</vendor>
-<name>Лежак ЗооБаза Рекс 37,5х49,5х13 см</name>
-<name_ua>Лежак ЗооБаза Рекс 37,5х49,5х13 см</name_ua>
-<description><![CDATA[<p>Выбирайте по длине животного, когда оно спит вытянувшись: нужен запас, чтобы оно могло расслабиться.</p>]]></description>
-<description_ua><![CDATA[<p>Обирайте за довжиною тварини, коли вона спить витягнувшись: потрібен запас, щоб вона могла розслабитися.</p>]]></description_ua>
-<param name="Розмір">37,5х49,5х13 см</param>
-<param name="Тип">Лежак</param>
-</offer>
-<offer id="ZB4794" available="true">
-<stock_quantity>2</stock_quantity>
-<price>860.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4675999</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/f009220d24f08844.jpg</picture>
-<vendor>ЗооБаза</vendor>
-<name>Лежак ЗооБаза Рекс 42,5х56х13,5 см</name>
-<name_ua>Лежак ЗооБаза Рекс 42,5х56х13,5 см</name_ua>
-<description><![CDATA[<p>Выбирайте по длине животного, когда оно спит вытянувшись: нужен запас, чтобы оно могло расслабиться.</p>]]></description>
-<description_ua><![CDATA[<p>Обирайте за довжиною тварини, коли вона спить витягнувшись: потрібен запас, щоб вона могла розслабитися.</p>]]></description_ua>
-<param name="Розмір">42,5х56х13,5 см</param>
-<param name="Тип">Лежак</param>
-</offer>
 <offer id="ZB4795" available="true">
 <stock_quantity>2</stock_quantity>
 <price>954.00</price>
@@ -30663,6 +30578,144 @@
 <param name="Колір">Коричневий</param>
 <param name="Матеріал">Велюр</param>
 <param name="EAN">4823094311090</param>
+</offer>
+<offer id="ZBxs4823094311250" available="true">
+<stock_quantity>2</stock_quantity>
+<price>900.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>4675999</categoryId>
+<picture>https://basmati.com.ua/extra/cd3a55e3973de7.jpg</picture>
+<vendor>ЗооБаза</vendor>
+<name>Коврик ЗооБаза Mouse №1 50х58х4 коричневый</name>
+<name_ua>Килимок ЗооБаза Mouse №1 50х58х4 коричневий</name_ua>
+<description><![CDATA[<p>Ткань мебельный велюр+ холлофайбер, матрас достается. Наполнитель -поролон+холофайбер, ткань-мебельный велюр. Цвет: коричневый. Размер: №1 50х58х4.</p>]]></description>
+<description_ua><![CDATA[<p>Тканина меблевий велюр+ холлофайбер, матрац достається. Наповнювач -поролон+холофайбер, тканина-меблевий велюр. Колір: коричневий. Розмір: №1 50х58х4.</p>]]></description_ua>
+<param name="Розмір">№1 50х58х4</param>
+<param name="Висота, см">4</param>
+<param name="Тип">Килимок, підстилка</param>
+<param name="Колір">Коричневий</param>
+<param name="Матеріал">Велюр</param>
+<param name="EAN">4823094310857</param>
+</offer>
+<offer id="ZBxs48230943112502c1" available="true">
+<stock_quantity>2</stock_quantity>
+<price>1269.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>4675999</categoryId>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/ae20049d291fb1b5.jpg</picture>
+<vendor>ЗооБаза</vendor>
+<name>Диван ЗооБаза Каскад прямоугольный №1 40х50 красный и серый</name>
+<name_ua>Диван ЗооБаза Каскад прямокутний №1 40х50 червоний і сірий</name_ua>
+<description><![CDATA[<p>Мебельная ткань рогожка, комбинируется в двух цветах. Ткань: плащевая ткань , наполнитель. Размер: №1 40х50.</p>]]></description>
+<description_ua><![CDATA[<p>Меблева тканина рогожка, комбінується в двох кольорах. Тканина: плащова тканина , наповнюва. Розмір: №1 40х50.</p>]]></description_ua>
+<param name="Розмір">№1 40х50</param>
+<param name="Тип">Лежак</param>
+<param name="Колір">Різнокольоровий</param>
+<param name="Матеріал">Інший</param>
+<param name="EAN">4823094311250</param>
+</offer>
+<offer id="ZBxs48230943112502c2" available="true">
+<stock_quantity>2</stock_quantity>
+<price>1269.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>4675999</categoryId>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/ae20049d291fb1b5.jpg</picture>
+<vendor>ЗооБаза</vendor>
+<name>Диван ЗооБаза Каскад прямоугольный №1 40х50 синий и серый</name>
+<name_ua>Диван ЗооБаза Каскад прямокутний №1 40х50 синій і сірий</name_ua>
+<description><![CDATA[<p>Мебельная ткань рогожка, комбинируется в двух цветах. Ткань: плащевая ткань , наполнитель. Размер: №1 40х50.</p>]]></description>
+<description_ua><![CDATA[<p>Меблева тканина рогожка, комбінується в двох кольорах. Тканина: плащова тканина , наповнюва. Розмір: №1 40х50.</p>]]></description_ua>
+<param name="Розмір">№1 40х50</param>
+<param name="Тип">Лежак</param>
+<param name="Колір">Різнокольоровий</param>
+<param name="Матеріал">Інший</param>
+<param name="EAN">4823094311250</param>
+</offer>
+<offer id="ZBxs48230943112502c3" available="true">
+<stock_quantity>2</stock_quantity>
+<price>1269.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>4675999</categoryId>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/ae20049d291fb1b5.jpg</picture>
+<vendor>ЗооБаза</vendor>
+<name>Диван ЗооБаза Каскад прямоугольный №1 40х50 бежевый и коричневый</name>
+<name_ua>Диван ЗооБаза Каскад прямокутний №1 40х50 бежевий і коричневий</name_ua>
+<description><![CDATA[<p>Мебельная ткань рогожка, комбинируется в двух цветах. Ткань: плащевая ткань , наполнитель. Размер: №1 40х50.</p>]]></description>
+<description_ua><![CDATA[<p>Меблева тканина рогожка, комбінується в двох кольорах. Тканина: плащова тканина , наповнюва. Розмір: №1 40х50.</p>]]></description_ua>
+<param name="Розмір">№1 40х50</param>
+<param name="Тип">Лежак</param>
+<param name="Колір">Різнокольоровий</param>
+<param name="Матеріал">Інший</param>
+<param name="EAN">4823094311250</param>
+</offer>
+<offer id="ZBxs4823094311267" available="true">
+<stock_quantity>2</stock_quantity>
+<price>900.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>4675999</categoryId>
+<picture>https://basmati.com.ua/extra/cd3a55e3973de7.jpg</picture>
+<vendor>ЗооБаза</vendor>
+<name>Коврик ЗооБаза Mouse №1 50х58х4 фиолетовый</name>
+<name_ua>Килимок ЗооБаза Mouse №1 50х58х4 фіолетовий</name_ua>
+<description><![CDATA[<p>Ткань мебельный велюр+ холлофайбер, матрас достается. Наполнитель -поролон+холофайбер, ткань-мебельный велюр. Цвет: фиолетовый. Размер: №1 50х58х4.</p>]]></description>
+<description_ua><![CDATA[<p>Тканина меблевий велюр+ холлофайбер, матрац достається. Наповнювач -поролон+холофайбер, тканина-меблевий велюр. Колір: фіолетовий. Розмір: №1 50х58х4.</p>]]></description_ua>
+<param name="Розмір">№1 50х58х4</param>
+<param name="Висота, см">4</param>
+<param name="Тип">Килимок, підстилка</param>
+<param name="Колір">Фіолетовий</param>
+<param name="Матеріал">Велюр</param>
+<param name="EAN">4823094310857</param>
+</offer>
+<offer id="ZBxs48230943112672c1" available="true">
+<stock_quantity>2</stock_quantity>
+<price>1512.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>4675999</categoryId>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/ae20049d291fb1b5.jpg</picture>
+<vendor>ЗооБаза</vendor>
+<name>Диван ЗооБаза Каскад прямоугольный №2 50х70 красный и серый</name>
+<name_ua>Диван ЗооБаза Каскад прямокутний №2 50х70 червоний і сірий</name_ua>
+<description><![CDATA[<p>Мебельная ткань рогожка, комбинируется в двух цветах. Ткань: плащевая ткань , наполнитель. Размер: №2 50х70.</p>]]></description>
+<description_ua><![CDATA[<p>Меблева тканина рогожка, комбінується в двох кольорах. Тканина: плащова тканина , наповнюва. Розмір: №2 50х70.</p>]]></description_ua>
+<param name="Розмір">№2 50х70</param>
+<param name="Тип">Лежак</param>
+<param name="Колір">Різнокольоровий</param>
+<param name="Матеріал">Інший</param>
+<param name="EAN">4823094311267</param>
+</offer>
+<offer id="ZBxs48230943112672c2" available="true">
+<stock_quantity>2</stock_quantity>
+<price>1512.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>4675999</categoryId>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/ae20049d291fb1b5.jpg</picture>
+<vendor>ЗооБаза</vendor>
+<name>Диван ЗооБаза Каскад прямоугольный №2 50х70 синий и серый</name>
+<name_ua>Диван ЗооБаза Каскад прямокутний №2 50х70 синій і сірий</name_ua>
+<description><![CDATA[<p>Мебельная ткань рогожка, комбинируется в двух цветах. Ткань: плащевая ткань , наполнитель. Размер: №2 50х70.</p>]]></description>
+<description_ua><![CDATA[<p>Меблева тканина рогожка, комбінується в двох кольорах. Тканина: плащова тканина , наповнюва. Розмір: №2 50х70.</p>]]></description_ua>
+<param name="Розмір">№2 50х70</param>
+<param name="Тип">Лежак</param>
+<param name="Колір">Різнокольоровий</param>
+<param name="Матеріал">Інший</param>
+<param name="EAN">4823094311267</param>
+</offer>
+<offer id="ZBxs48230943112672c3" available="true">
+<stock_quantity>2</stock_quantity>
+<price>1512.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>4675999</categoryId>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/ae20049d291fb1b5.jpg</picture>
+<vendor>ЗооБаза</vendor>
+<name>Диван ЗооБаза Каскад прямоугольный №2 50х70 бежевый и коричневый</name>
+<name_ua>Диван ЗооБаза Каскад прямокутний №2 50х70 бежевий і коричневий</name_ua>
+<description><![CDATA[<p>Мебельная ткань рогожка, комбинируется в двух цветах. Ткань: плащевая ткань , наполнитель. Размер: №2 50х70.</p>]]></description>
+<description_ua><![CDATA[<p>Меблева тканина рогожка, комбінується в двох кольорах. Тканина: плащова тканина , наповнюва. Розмір: №2 50х70.</p>]]></description_ua>
+<param name="Розмір">№2 50х70</param>
+<param name="Тип">Лежак</param>
+<param name="Колір">Різнокольоровий</param>
+<param name="Матеріал">Інший</param>
+<param name="EAN">4823094311267</param>
 </offer>
 <offer id="ZBxs4823094311274" available="true">
 <stock_quantity>2</stock_quantity>
