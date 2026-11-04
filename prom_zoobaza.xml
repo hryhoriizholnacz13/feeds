@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-03 20:01">
+<yml_catalog date="2026-11-04 08:01">
 <shop>
 <categories>
 <category id="105501">Одяг для тварин</category>
@@ -26877,6 +26877,32 @@
 <param name="Розмір">46х62х14 см</param>
 <description><![CDATA[Лежак Рекс   округлий лежак із бортами по всьому периметру, який ми шиємо самі в. Тканини різні: чорно-білий геометричний візерунок, однотонний бежевий і темно-синій із дрібним орнаментом.Розміри, см:32х43х12,5; 37х49,5х13; 42,5х56х13,5; 46х62х14; 50х69х14,5; 54х76х15,5; 58х82х16; 66х89х16,5;32х43х12; 37х49х13; 42х56х13.Обирайте за довжиною тварини, коли вона спить витягнувшись: потрібен запас, щоб вона могла розслабитися. Доставка Новою Поштою по Україні, для магазинів і дропшиперів є оптові умови.]]></description>
 </offer>
+<offer id="ZB4796" available="true" selling_type="r">
+<name>Лежак Рекс - 50х69х14</name>
+<categoryId>1057</categoryId>
+<portal_category_id>181206</portal_category_id>
+<price>1071.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>2</quantity_in_stock>
+<picture>https://www.zoobaza.com.ua/content/images/47/48249426584783_+3b5a041b34.jpg</picture>
+<vendor>ЗооБаза</vendor>
+<vendorCode>ZB4796</vendorCode>
+<param name="Розмір">50х69х14,5 см</param>
+<description><![CDATA[Лежак Рекс   округлий лежак із бортами по всьому периметру, який ми шиємо самі в. Тканини різні: чорно-білий геометричний візерунок, однотонний бежевий і темно-синій із дрібним орнаментом.Розміри, см:32х43х12,5; 37х49,5х13; 42,5х56х13,5; 46х62х14; 50х69х14,5; 54х76х15,5; 58х82х16; 66х89х16,5;32х43х12; 37х49х13; 42х56х13.Обирайте за довжиною тварини, коли вона спить витягнувшись: потрібен запас, щоб вона могла розслабитися. Доставка Новою Поштою по Україні, для магазинів і дропшиперів є оптові умови.]]></description>
+</offer>
+<offer id="ZB4797" available="true" selling_type="r">
+<name>Лежак Рекс - 54х76х15</name>
+<categoryId>1057</categoryId>
+<portal_category_id>181206</portal_category_id>
+<price>1215.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>2</quantity_in_stock>
+<picture>https://www.zoobaza.com.ua/content/images/48/66681520666212_+e9d00a51d4.jpg</picture>
+<vendor>ЗооБаза</vendor>
+<vendorCode>ZB4797</vendorCode>
+<param name="Розмір">54х76х15,5 см</param>
+<description><![CDATA[Лежак Рекс   округлий лежак із бортами по всьому периметру, який ми шиємо самі в. Тканини різні: чорно-білий геометричний візерунок, однотонний бежевий і темно-синій із дрібним орнаментом.Розміри, см:32х43х12,5; 37х49,5х13; 42,5х56х13,5; 46х62х14; 50х69х14,5; 54х76х15,5; 58х82х16; 66х89х16,5;32х43х12; 37х49х13; 42х56х13.Обирайте за довжиною тварини, коли вона спить витягнувшись: потрібен запас, щоб вона могла розслабитися. Доставка Новою Поштою по Україні, для магазинів і дропшиперів є оптові умови.]]></description>
+</offer>
 <offer id="ZB4798" available="true" selling_type="r">
 <name>Лежак Рекс - 58х82х16</name>
 <categoryId>1057</categoryId>
@@ -26888,6 +26914,58 @@
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB4798</vendorCode>
 <param name="Розмір">58х82х16 см</param>
+<description><![CDATA[Лежак Рекс   округлий лежак із бортами по всьому периметру, який ми шиємо самі в. Тканини різні: чорно-білий геометричний візерунок, однотонний бежевий і темно-синій із дрібним орнаментом.Розміри, см:32х43х12,5; 37х49,5х13; 42,5х56х13,5; 46х62х14; 50х69х14,5; 54х76х15,5; 58х82х16; 66х89х16,5;32х43х12; 37х49х13; 42х56х13.Обирайте за довжиною тварини, коли вона спить витягнувшись: потрібен запас, щоб вона могла розслабитися. Доставка Новою Поштою по Україні, для магазинів і дропшиперів є оптові умови.]]></description>
+</offer>
+<offer id="ZB4799" available="true" selling_type="r">
+<name>Лежак Рекс - 66х89х16</name>
+<categoryId>1057</categoryId>
+<portal_category_id>181206</portal_category_id>
+<price>1521.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>2</quantity_in_stock>
+<picture>https://www.zoobaza.com.ua/content/images/50/20839212584475_+e25d6ccbec.jpg</picture>
+<vendor>ЗооБаза</vendor>
+<vendorCode>ZB4799</vendorCode>
+<param name="Розмір">66х89х16,5 см</param>
+<description><![CDATA[Лежак Рекс   округлий лежак із бортами по всьому периметру, який ми шиємо самі в. Тканини різні: чорно-білий геометричний візерунок, однотонний бежевий і темно-синій із дрібним орнаментом.Розміри, см:32х43х12,5; 37х49,5х13; 42,5х56х13,5; 46х62х14; 50х69х14,5; 54х76х15,5; 58х82х16; 66х89х16,5;32х43х12; 37х49х13; 42х56х13.Обирайте за довжиною тварини, коли вона спить витягнувшись: потрібен запас, щоб вона могла розслабитися. Доставка Новою Поштою по Україні, для магазинів і дропшиперів є оптові умови.]]></description>
+</offer>
+<offer id="ZB4800" available="true" selling_type="r">
+<name>Лежак Рекс - 32х43х12</name>
+<categoryId>1057</categoryId>
+<portal_category_id>181206</portal_category_id>
+<price>711.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>2</quantity_in_stock>
+<picture>https://www.zoobaza.com.ua/content/images/1/77430957366199_+8e007fb4e8.jpg</picture>
+<vendor>ЗооБаза</vendor>
+<vendorCode>ZB4800</vendorCode>
+<param name="Розмір">32х43х12 см</param>
+<description><![CDATA[Лежак Рекс   округлий лежак із бортами по всьому периметру, який ми шиємо самі в. Тканини різні: чорно-білий геометричний візерунок, однотонний бежевий і темно-синій із дрібним орнаментом.Розміри, см:32х43х12,5; 37х49,5х13; 42,5х56х13,5; 46х62х14; 50х69х14,5; 54х76х15,5; 58х82х16; 66х89х16,5;32х43х12; 37х49х13; 42х56х13.Обирайте за довжиною тварини, коли вона спить витягнувшись: потрібен запас, щоб вона могла розслабитися. Доставка Новою Поштою по Україні, для магазинів і дропшиперів є оптові умови.]]></description>
+</offer>
+<offer id="ZB4801" available="true" selling_type="r">
+<name>Лежак Рекс - 37х49х13</name>
+<categoryId>1057</categoryId>
+<portal_category_id>181206</portal_category_id>
+<price>837.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>2</quantity_in_stock>
+<picture>https://www.zoobaza.com.ua/content/images/2/47686741984660_+7f8757623d.jpg</picture>
+<vendor>ЗооБаза</vendor>
+<vendorCode>ZB4801</vendorCode>
+<param name="Розмір">37х49х13 см</param>
+<description><![CDATA[Лежак Рекс   округлий лежак із бортами по всьому периметру, який ми шиємо самі в. Тканини різні: чорно-білий геометричний візерунок, однотонний бежевий і темно-синій із дрібним орнаментом.Розміри, см:32х43х12,5; 37х49,5х13; 42,5х56х13,5; 46х62х14; 50х69х14,5; 54х76х15,5; 58х82х16; 66х89х16,5;32х43х12; 37х49х13; 42х56х13.Обирайте за довжиною тварини, коли вона спить витягнувшись: потрібен запас, щоб вона могла розслабитися. Доставка Новою Поштою по Україні, для магазинів і дропшиперів є оптові умови.]]></description>
+</offer>
+<offer id="ZB4802" available="true" selling_type="r">
+<name>Лежак Рекс - 42х56х13</name>
+<categoryId>1057</categoryId>
+<portal_category_id>181206</portal_category_id>
+<price>972.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>2</quantity_in_stock>
+<picture>https://www.zoobaza.com.ua/content/images/3/75054423515962_+e0101af1d4.jpg</picture>
+<vendor>ЗооБаза</vendor>
+<vendorCode>ZB4802</vendorCode>
+<param name="Розмір">42х56х13 см</param>
 <description><![CDATA[Лежак Рекс   округлий лежак із бортами по всьому периметру, який ми шиємо самі в. Тканини різні: чорно-білий геометричний візерунок, однотонний бежевий і темно-синій із дрібним орнаментом.Розміри, см:32х43х12,5; 37х49,5х13; 42,5х56х13,5; 46х62х14; 50х69х14,5; 54х76х15,5; 58х82х16; 66х89х16,5;32х43х12; 37х49х13; 42х56х13.Обирайте за довжиною тварини, коли вона спить витягнувшись: потрібен запас, щоб вона могла розслабитися. Доставка Новою Поштою по Україні, для магазинів і дропшиперів є оптові умови.]]></description>
 </offer>
 <offer id="ZB4810" available="true" selling_type="r">
@@ -28175,7 +28253,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/21/15625860974401_+3cbdc4302c.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/21/278x209l80mc0/93044936544297.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB4920</vendorCode>
 <param name="Колір">бежевый+коричневый</param>
@@ -29155,32 +29232,6 @@
 <param name="Вага, кг">0.3</param>
 <description><![CDATA[Гамак для шиншили — виріб власного виробництва. Розмір: 24х15х9. Доставка Новою Поштою по всій Україні.]]></description>
 </offer>
-<offer id="ZBxs4820033206110" available="true" selling_type="r">
-<name>Лежак Рекс - №5 50х69х14</name>
-<categoryId>1057</categoryId>
-<portal_category_id>181206</portal_category_id>
-<price>1071.00</price>
-<currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
-<picture>https://basmati.com.ua/extra/cd0a1673113d37.jpg</picture>
-<vendor>ЗооБаза</vendor>
-<vendorCode>ZBxs4820033206110</vendorCode>
-<param name="Розмір">№5 50х69х14</param>
-<description><![CDATA[Лежак Рекс — виріб власного виробництва. Тканина бязь. Основа поролон, матрац синтепон Дно спанбонд, матрац достається. меблевий велюр+оздоблення рогожка+поролон+синтепон. Розмір: №5 50х69х14. У лінійці 6 розмірів — від 32х43х12 до 66х89х16. Доставка Новою Поштою по всій Україні.]]></description>
-</offer>
-<offer id="ZBxs4820033206127" available="true" selling_type="r">
-<name>Лежак Рекс - №6 54х76х15</name>
-<categoryId>1057</categoryId>
-<portal_category_id>181206</portal_category_id>
-<price>1215.00</price>
-<currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
-<picture>https://basmati.com.ua/extra/cd0a1673113d37.jpg</picture>
-<vendor>ЗооБаза</vendor>
-<vendorCode>ZBxs4820033206127</vendorCode>
-<param name="Розмір">№6 54х76х15</param>
-<description><![CDATA[Лежак Рекс — виріб власного виробництва. Тканина бязь. Основа поролон, матрац синтепон Дно спанбонд, матрац достається. меблевий велюр+оздоблення рогожка+поролон+синтепон. Розмір: №6 54х76х15. У лінійці 6 розмірів — від 32х43х12 до 66х89х16. Доставка Новою Поштою по всій Україні.]]></description>
-</offer>
 <offer id="ZBxs4820177253384" available="true" selling_type="r">
 <name>Іграшка м&apos;яка &quot;Кошеня&quot;, плюш - 11х26</name>
 <categoryId>105504</categoryId>
@@ -29194,19 +29245,6 @@
 <param name="Розмір">11х26</param>
 <param name="Габарити, см">11х26</param>
 <description><![CDATA[Іграшка м'яка "Кошеня", плюш — виріб власного виробництва. Розмір: 11х26. Доставка Новою Поштою по всій Україні.]]></description>
-</offer>
-<offer id="ZBxs4820177253803" available="true" selling_type="r">
-<name>Лежак Рекс - №8 66х89х16</name>
-<categoryId>1057</categoryId>
-<portal_category_id>181206</portal_category_id>
-<price>1521.00</price>
-<currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
-<picture>https://basmati.com.ua/extra/cd0a1673113d37.jpg</picture>
-<vendor>ЗооБаза</vendor>
-<vendorCode>ZBxs4820177253803</vendorCode>
-<param name="Розмір">№8 66х89х16</param>
-<description><![CDATA[Лежак Рекс — виріб власного виробництва. Тканина бязь. Основа поролон, матрац синтепон Дно спанбонд, матрац достається. меблевий велюр+оздоблення рогожка+поролон+синтепон. Розмір: №8 66х89х16. У лінійці 6 розмірів — від 32х43х12 до 66х89х16. Доставка Новою Поштою по всій Україні.]]></description>
 </offer>
 <offer id="ZBxs4820177254466" available="true" selling_type="r">
 <name>Іграшка м&apos;яка &quot;Миша&quot;, плюш - 9х7</name>
@@ -29642,45 +29680,6 @@
 <param name="Габарити, см">105х140</param>
 <param name="Вага, кг">0.4</param>
 <description><![CDATA[Лежак-понтон Вояж внутрішній чохол — виріб власного виробництва. Тканина оксфорд (вологостійкий)+синтепон +холлофайбер в додатковому чохлі. Колір: сірий. На фото модель може бути в іншому кольорі — колір цього товару: сірий. Розмір: №4 105х140. Доставка Новою Поштою по всій Україні.]]></description>
-</offer>
-<offer id="ZBxs4823118702750" available="true" selling_type="r">
-<name>Лежак Рекс - №1 32х43х12</name>
-<categoryId>1057</categoryId>
-<portal_category_id>181206</portal_category_id>
-<price>648.00</price>
-<currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
-<picture>https://basmati.com.ua/extra/4ab35e3b51eb49.jpg</picture>
-<vendor>ЗооБаза</vendor>
-<vendorCode>ZBxs4823118702750</vendorCode>
-<param name="Розмір">№1 32х43х12</param>
-<description><![CDATA[Лежак Рекс — виріб власного виробництва. Щільна тканина плащова. Основа поролон, матрац синтепон Дно спанбонд, матрац достається та має два кольори. меблевий велюр+оздоблення рогожка+поролон+синтепон. Розмір: №1 32х43х12. У лінійці 6 розмірів — від 32х43х12 до 66х89х16. Доставка Новою Поштою по всій Україні.]]></description>
-</offer>
-<offer id="ZBxs4823118702767" available="true" selling_type="r">
-<name>Лежак Рекс - №2 37х49х13</name>
-<categoryId>1057</categoryId>
-<portal_category_id>181206</portal_category_id>
-<price>752.00</price>
-<currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
-<picture>https://basmati.com.ua/extra/4ab35e3b51eb49.jpg</picture>
-<vendor>ЗооБаза</vendor>
-<vendorCode>ZBxs4823118702767</vendorCode>
-<param name="Розмір">№2 37х49х13</param>
-<description><![CDATA[Лежак Рекс — виріб власного виробництва. Щільна тканина плащова. Основа поролон, матрац синтепон Дно спанбонд, матрац достається та має два кольори. меблевий велюр+оздоблення рогожка+поролон+синтепон. Розмір: №2 37х49х13. У лінійці 6 розмірів — від 32х43х12 до 66х89х16. Доставка Новою Поштою по всій Україні.]]></description>
-</offer>
-<offer id="ZBxs4823118702774" available="true" selling_type="r">
-<name>Лежак Рекс - №3 42х56х13</name>
-<categoryId>1057</categoryId>
-<portal_category_id>181206</portal_category_id>
-<price>860.00</price>
-<currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
-<picture>https://basmati.com.ua/extra/4ab35e3b51eb49.jpg</picture>
-<vendor>ЗооБаза</vendor>
-<vendorCode>ZBxs4823118702774</vendorCode>
-<param name="Розмір">№3 42х56х13</param>
-<description><![CDATA[Лежак Рекс — виріб власного виробництва. Щільна тканина плащова. Основа поролон, матрац синтепон Дно спанбонд, матрац достається та має два кольори. меблевий велюр+оздоблення рогожка+поролон+синтепон. Розмір: №3 42х56х13. У лінійці 6 розмірів — від 32х43х12 до 66х89х16. Доставка Новою Поштою по всій Україні.]]></description>
 </offer>
 <offer id="ZBxs4823118702842" available="false" selling_type="r">
 <name>Лежак Сенді прямокутний Голді - сірий, L 70х90х20</name>
