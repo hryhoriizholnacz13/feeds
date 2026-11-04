@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-03 20:01">
+<yml_catalog date="2026-11-04 08:01">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -18801,6 +18801,7 @@
 <description_ua><![CDATA[<p>Обирайте за довжиною тварини, коли вона спить витягнувшись: потрібен запас, щоб вона могла розслабитися.</p>]]></description_ua>
 <param name="Розмір">50х69х14,5 см</param>
 <param name="Тип">Лежак</param>
+<param name="EAN">4820033206110</param>
 </offer>
 <offer id="ZB4797" available="true">
 <stock_quantity>2</stock_quantity>
@@ -18815,6 +18816,7 @@
 <description_ua><![CDATA[<p>Обирайте за довжиною тварини, коли вона спить витягнувшись: потрібен запас, щоб вона могла розслабитися.</p>]]></description_ua>
 <param name="Розмір">54х76х15,5 см</param>
 <param name="Тип">Лежак</param>
+<param name="EAN">4820033206127</param>
 </offer>
 <offer id="ZB4798" available="true">
 <stock_quantity>2</stock_quantity>
@@ -18844,6 +18846,7 @@
 <description_ua><![CDATA[<p>Обирайте за довжиною тварини, коли вона спить витягнувшись: потрібен запас, щоб вона могла розслабитися.</p>]]></description_ua>
 <param name="Розмір">66х89х16,5 см</param>
 <param name="Тип">Лежак</param>
+<param name="EAN">4820177253803</param>
 </offer>
 <offer id="ZB4800" available="true">
 <stock_quantity>2</stock_quantity>
@@ -66228,6 +66231,35 @@
 <param name="Кількість в упаковці, шт">1</param>
 <param name="EAN">4066239167613</param>
 </offer>
+<offer id="TX46363" available="true">
+<stock_quantity>2</stock_quantity>
+<price>609.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3439219</categoryId>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46363-1.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46363-2.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46363-3.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46363-4.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46363-5.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46363-6.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46363-7.jpg</picture>
+<vendor>FuzzYard</vendor>
+<article>46363</article>
+<name>Мягкая игрушка для собак FuzzYard Коко Коала S (46363)</name>
+<name_ua>М&apos;яка іграшка для собак FuzzYard Коко Коала S (46363)</name_ua>
+<description><![CDATA[<p>Познакомьтесь с Coco Koala — праздничной плюшевой коалой, которая пришла, чтобы растопить сердца (и, возможно, стащить парочку вкусняшек, пока никто не видит). С мягкой пушистой шерсткой и очаровательной шапочкой Санты, эта коала готова влететь в игрушечную коллекцию вашего питомца и привнести туда настоящую новогоднюю магию. Хотите уютных рождественских обнимашек? Пожалуйста. Нужна шумная игра с пищалкой? Coco всегда за любую движуху. И честно — вы когда-нибудь видели коалу такой стильной в праздничном образе? У вашего пса появился новый лучший друг на сезон (и надолго после него).</p><p>Когда речь идёт о плюшевых игрушках, никто не делает их так, как FuzzYard! Эти оригинальные и забавные supaw-игрушки созданы в Австралии и оснащены пищалкой для ulti-mutt удовольствия от игры. FuzzYard известен и любим собаками по всему миру!</p><p><strong>Особенности и преимущества:</strong></p><p><strong>Отправка из Калифорнии</strong></p><p><strong>Внутренняя пищалка, привлекающая внимание</strong></p><p><strong>Двойной слой и прочная прошивка</strong></p><p><strong>Можно стирать в машине</strong></p><p>100% полиэстер. Цветостойкий, нетоксичный, неаллергенный.</p><p>Материалы:100% полиэстер (внешний материал и наполнитель) с внутренней пищалкой.</p><p><strong>Уход:</strong></p><p><strong>Деликатная стирка в холодной воде с похожими цветами</strong></p><p><strong>Не отбеливать</strong></p><p><strong>Не сдавать в химчистку</strong></p><p><strong>Не гладить</strong></p><p><strong>Не сушить в сушилке</strong></p><p><strong>Размеры:</strong></p><p>Small: 17 cm × 10 cm × 20 cmLarge: 25 cm × 13.5 cm × 28 cm.</p>]]></description>
+<description_ua><![CDATA[<p>Знайомтесь із Coco Koala — святковою плюшевою красунею, яка точно вкраде серця (і, можливо, пару ласощів, поки ніхто не бачить). З м’яким пухнастим хутром та невідпірною шапочкою Санти, ця коала готова увірватися у колекцію іграшок вашого улюбленця і привнести туди трішки різдвяної магії. Хочете різдвяних обіймів? Будь ласка. Бажаєте веселу гру з пискуном? Coco вже тут як тут. І серйозно — ви колись бачили коалу настільки стильну у святковому вбранні? У вашого песика з’явився новий найкращий друг на сезон (і надовго після нього).</p><p>Коли йдеться про плюшеві іграшки, ніхто не робить їх так, як FuzzYard! Ці оригінальні та кумедні supaw-іграшки створені в Австралії та оснащені пискуном для ulti-mutt задоволення від гри. FuzzYard люблять собаки по всьому світу!</p><p><strong>Особливості та переваги:</strong></p><p><strong>Внутрішній пискун, що привертає увагу</strong></p><p><strong>Подвійний шар і прошивка для додаткової міцності</strong></p><p><strong>Машинне прання</strong></p><p>100% поліестер. Коліростійкий, нетоксичний, неалергенний.</p><p>Матеріали:100% поліестер (зовнішній шар і наповнювач) з внутрішнім пискуном.</p><p><strong>Догляд:</strong></p><p><strong>Делікатне прання у холодній воді з подібними кольорами</strong></p><p><strong>Не вибілювати</strong></p><p><strong>Не прати хімічно</strong></p><p><strong>Не прасувати</strong></p><p><strong>Не сушити в сушарці</strong></p><p><strong>Розміри:</strong></p><p>Small: 17 cm × 10 cm × 20 cmLarge: 25 cm × 13.5 cm × 28 cm.</p>]]></description_ua>
+<param name="Тип">М&apos;яка іграшка для собак</param>
+<param name="Колір">Сірий</param>
+<param name="Розмір">S</param>
+<param name="Вік">Взрослые</param>
+<param name="Тварина">Собака</param>
+<param name="Кількість в упаковці, шт">1</param>
+<param name="Особливості">С пищалкой</param>
+<param name="Матеріал">Поліестер</param>
+<param name="Вид">М&apos;які іграшки</param>
+<param name="EAN">9345719114589</param>
+</offer>
 <offer id="TX46364" available="true">
 <stock_quantity>2</stock_quantity>
 <price>711.00</price>
@@ -66280,6 +66312,29 @@
 <param name="Матеріал">Поліестер</param>
 <param name="Вид">М&apos;які іграшки</param>
 <param name="EAN">9345719114879</param>
+</offer>
+<offer id="TX46370" available="true">
+<stock_quantity>2</stock_quantity>
+<price>619.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3439219</categoryId>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46370-1.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46370-2.jpg</picture>
+<vendor>FuzzYard</vendor>
+<article>46370</article>
+<name>Мягкая игрушка для собак FuzzYard Пряничный Фигурист (46370)</name>
+<name_ua>М&apos;яка іграшка для собак FuzzYard Пряниковий Фігурист (46370)</name_ua>
+<description><![CDATA[<p>Праздничная игрушка Biscuit Blader приносит сахар, специи и немного весёлого пищика — чтобы сделать праздники ещё слаще! С ледяными коньками, сияющими глазками и бабочкой, которая говорит «готов впечатлять», этот пряничный милый герой дарит радость в каждом весёлом кусе.</p><p><strong>Преимущества:</strong></p><p><strong>Дизайн в Австралии</strong></p><p><strong>Встроенный пищик, привлекающий внимание</strong></p><p><strong>Двойной слой и прочные швы для долговечности</strong></p><p><strong>Можно стирать в машинке</strong></p><p>100% полиэстер, безопасная краска, нетоксично и гипоаллергенно.</p>]]></description>
+<description_ua><![CDATA[<p>Святкова іграшка Biscuit Blader приносить цукор, спеції та трохи веселого пищика — щоб зробити свята ще солодшими! З морозними ковзанами, сяючими оченятами та метеликом, що каже «готовий вражати», цей пряниковий милий герой дарує радість у кожному веселому кусі.</p><p><strong>Переваги:</strong></p><p><strong>Дизайн в Австралії</strong></p><p><strong>Вбудований пищик, який привертає увагу</strong></p><p><strong>Подвійний шар та міцні шви для довговічності</strong></p><p><strong>Можна прати в машинці</strong></p><p>100% поліестер, безпечна фарба, нетоксична та неалергенна.</p>]]></description_ua>
+<param name="Тип">М&apos;яка іграшка для собак</param>
+<param name="Колір">Бежевий</param>
+<param name="Вік">Взрослые</param>
+<param name="Тварина">Собака</param>
+<param name="Кількість в упаковці, шт">1</param>
+<param name="Особливості">С пищалкой</param>
+<param name="Матеріал">Поліестер</param>
+<param name="Вид">М&apos;які іграшки</param>
+<param name="EAN">9345719114794</param>
 </offer>
 <offer id="TX46371" available="true">
 <stock_quantity>2</stock_quantity>
