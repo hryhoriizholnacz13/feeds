@@ -36239,7 +36239,7 @@
 <portal_category_id>603</portal_category_id>
 <price>7619.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_90ac5365-55b4-11e8-b68c-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000000835_12_4000.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000000835_64064h-1000x1000.jpg</picture>
@@ -40960,7 +40960,7 @@
 <param name="Гарантія">36 місяців</param>
 <description><![CDATA[Вузька пральна машина MIDEA MFE 06W60/W-UA з потужним двигуном та вдосконаленою системою шумоізоляції відрізняється тихою роботою та оптимальним енергоспоживанням. Незважаючи на компактні габарити, машина здатна за один цикл випрати до 6 кг білизни. Великий вибір програм і режимів, серед яких є додаткове полоскання та попереднє прання, дозволяє правильно доглядати речі з різних тканин. Бракує часу на повний цикл прання? Програми швидкого прання заощаджують Ваш час та скорочують тривалість прання, зберігаючи при цьому бездоганний результат. Якщо потрібно швидко освіжити пару футболок, підійде швидке прання 15 хвилин. Для більшої кількості білизни використовуйте триваліші цикли. Тепер Ви можете прати, навіть якщо Ви на роботі або в магазині. Функція відкладеного старту активує програму без вашої участі. Вам потрібно лише завантажити білизну в барабан, подбати про пральний засіб та встановити зручний для Вас час прання. З рештою машина впорається самостійно. Завдяки тому, що глибина машини складає всього 40 см, вона легко вміщується навіть у невеликій ванній. Незважаючи на це, за функціональністю та ємністю MIDEA MFE 06W60/W-UA практично нічим не відрізняється від повногабаритних пральних машин і відмінно справляється з пранням навіть великої кількості білизни.]]></description>
 </offer>
-<offer id="HT26858" available="true" selling_type="r">
+<offer id="HT26858" available="false" selling_type="r">
 <name>Пральна машина Saturn ST-WK7605 Green (двобак. 6,5кг)</name>
 <categoryId>230</categoryId>
 <portal_category_id>603</portal_category_id>
@@ -42621,7 +42621,7 @@
 <portal_category_id>63023</portal_category_id>
 <price>5619.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>13</quantity_in_stock>
+<quantity_in_stock>12</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011067_342311643.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011067_342311644.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011067_342311645.jpg</picture>
@@ -45044,7 +45044,7 @@
 <portal_category_id>608</portal_category_id>
 <price>1741.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012075_img_0_105_2612_0.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012075_img_0_105_2612_1.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012075_img_0_105_2612_2.jpg</picture>
@@ -49406,6 +49406,42 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Праска FIRST FA-5640-2 від First Austria – це ідеальний вибір для мандрівників, які цінують бездоганний вигляд свого одягу під час подорожей. Ця компактна парова праска поєднує в собі високу функціональність і зручність, що робить її незамінним аксесуаром в дорозі. Праска має складну ручку, завдяки якій легко упакувати її у валізу чи сумку. Вона забезпечує потужний викид пари, що становить 13 грамів на хвилину, що дозволяє ефективно впоратися навіть з найбільшими складками. Окрім того, модель оснащена 293 отворами для викиду пари, що забезпечує рівномірний розподіл пари і полегшує процес прасування. Для додаткового комфорту праска має регулятор температури, що дозволяє адаптувати її до різних типів тканин, таких як бавовна, шовк, вовна чи синтетика. Це забезпечує оптимальні результати без ризику пошкодження матеріалів. Можливість вмикати або вимикати викид пари додає гнучкості у використанні, дозволяючи вам адаптувати прасування під свої потреби. Праска також має функцію перемикання між різними напругами (110-120, 220 і 240 В), що робить її зручною для використання в різних країнах. Це забезпечує можливість прасування незалежно від місця перебування. У комплект входять мірний стаканчик та футляр для зручності зберігання та транспортування. Таким чином, праска FIRST FA-5640-2 є відмінним вибором для тих, хто хоче підтримувати свій одяг у бездоганному стані навіть під час подорожей.]]></description>
 </offer>
+<offer id="HT32357" available="false" selling_type="r">
+<name>Холодильник Samsung RB38C600EEL/UA</name>
+<categoryId>218</categoryId>
+<portal_category_id>602</portal_category_id>
+<price>33000.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>1</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013794_444988720.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013794_444988721.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013794_444988723.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000013794_444988722.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000013794_444988725.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000013794_444988726.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000013794_444988728.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/8_000013794_444988727.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/9_000013794_444988724.jpg</picture>
+<vendor>Samsung</vendor>
+<vendorCode>HT32357</vendorCode>
+<country>Польща</country>
+<param name="Колір">Бежевий</param>
+<param name="Споживана потужність">320 кВт/рік</param>
+<param name="Тип управління">Електронне</param>
+<param name="Ширина">59.5 см</param>
+<param name="Клас енергоспоживання">А+</param>
+<param name="Об&apos;єм морозильної камери">112 л</param>
+<param name="Система охолодження">NoFrost</param>
+<param name="Тип компресора">Інверторний</param>
+<param name="Об&apos;єм холодильної камери">273 л</param>
+<param name="Автономне збереження холоду">18 год</param>
+<param name="Загальний об&apos;єм">400 л</param>
+<param name="Вага">70 кг</param>
+<param name="Висота">203 cм</param>
+<param name="Глибина">65.8 см</param>
+<param name="Гарантія">36 місяців</param>
+<description><![CDATA[Розумно заощаджуйте енергію Режим SmartThings AI Energy - до 10%Зменшуйте споживання електроенергії до 10% за допомогою режиму AI Energy. Якщо ваш середній рахунок за електрику перевищує встановлену вами норму, цей режим допоможе вам заощадити. Режим AI Energy оптимізує швидкість компресора та цикл розморожування залежно від способу використання та навколишнього середовища. Більше простору всередині Технологія SpaceMaxЗберігайте більше продуктів у великому холодильнику об'ємом 385 літрів з глибиною 600 мм. Унікальна технологія SpaceMax використовує спеціальну високоуретанову ізоляцію, яка дає змогу зробити стінки набагато тоншими, не погіршуючи водночас енергоефективності. Таким чином, всередині стає більше простору. SmartThings вдома SmartThings EnergyКеруйте споживанням енергії, щоб скоротити викиди вуглекислого газу в атмосферу і заощадити гроші. SmartThings Energy дає поради щодо енергоефективності. Він також відстежує енергоспоживання приладів у режимі реального часу та порівнює його з попереднім місяцем. SmartThings Home Care Розумне обслуговування. Легкий догляд.Організовуйте, готуйте та купуйте їжу ефективніше. SmartThings Food дає змогу створювати список продуктів у вашому холодильнику та керувати термінами їх придатності, щоб ви могли перевірити, що у вас є. Він також рекомендує персоналізовані рецепти на основі ваших уподобань. Рівномірно охолоджує від кута до кута Всебічне охолодженняГарантує, що вся ваша їжа належним чином охолоджена. Система всебічного охолодження рівномірно охолоджує кожне відділення від кута до кута. Вона постійно перевіряє температуру і забезпечує циркуляцію холодного повітря через оптимально розташовані вентиляційні отвори. Довговічна свіжість продуктів без утворення льоду Система No Frost з автоматичним розморожуваннямНе витрачайте час та енергію на розморожування холодильника. Технологія No Frost покращує циркуляцію повітря для підтримання постійної температури, що запобігає утворенню льоду. Завдяки їй необхідна температура досягається набагато швидше, і система охолодження працює з меншим навантаженням. Швидке охолодження та заморожування за потребою Power Cool + Power FreezeНасолоджуйтеся швидким охолодженням. Одним натисканням кнопки Power Cool інтенсивно вдуває холодне повітря в холодильник, щоб швидко охолодити ваші продукти або улюблені напої. Power Freeze забезпечує швидке подавання холодного повітря в морозильну камеру. Чистота, надійність і захист Легке очищенняОчистити задню стінку вашого холодильника набагато простіше. Захисний короб захищає кабелі та легко очищається, тож можна не переживати за комплектуючі холодильника. Відкриваються на 90° навіть біля стіни Зручне відкриття дверейРозмістіть холодильник у зручному для вас місці, не звертаючи уваги на стіни. Конструкція реверсивних дверей дає змогу відчиняти їх на 90°, не зачіпаючи жодної стіни. Таким чином, ви можете розмістити холодильник у найзручнішому місці, а дверцята повністю відкриватимуться до рівня бічної стіни.]]></description>
+</offer>
 <offer id="HT32367" available="true" selling_type="r">
 <name>Праска ASTOR SG 2072 (кераміка)</name>
 <categoryId>271</categoryId>
@@ -51288,7 +51324,7 @@
 <portal_category_id>500901</portal_category_id>
 <price>54988.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014298_464621886.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000014298_464621884.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000014298_464621889.jpg</picture>
@@ -54135,7 +54171,7 @@
 <portal_category_id>63708</portal_category_id>
 <price>680.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>11</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000151731.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000151732.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000151733.jpg</picture>
@@ -60154,7 +60190,7 @@
 <portal_category_id>602</portal_category_id>
 <price>19400.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>19</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166481.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166482.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166483.jpg</picture>
@@ -64729,7 +64765,7 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Фен Saturn ST-HC7216: досконалість у кожній деталіФен Saturn ST-HC7216 AC Motor є ідеальним поєднанням потужності та інноваційних технологій, що робить його незамінним інструментом для професійного та домашнього використання. Завдяки мотору змінного струму (AC Motor) потужністю 2400 Вт, цей фен забезпечує високу продуктивність та довговічність. Професійний підхід до дизайну та функціональності дозволяє користувачам насолоджуватися швидким та ефективним процесом сушіння волосся.Турмалінове покриття нагрівального елемента забезпечує рівномірний розподіл тепла та мінімізує ризик пошкодження волосся. Це дозволяє зберігати природний блиск та здоров'я волосся навіть при регулярному використанні. З двома режимами швидкості та трьома режимами температури, фен Saturn ST-HC7216 пропонує індивідуальні налаштування, які підходять для будь-якого типу волосся та стилю укладання.Ідеальний вибір для професійного укладанняШвидкість повітряного потоку в 60 км/год дозволяє швидко та ефективно сушити та укладати волосся, що особливо важливо для зайнятих людей, які цінують свій час. Насадка-концентратор забезпечує точний напрямок повітряного потоку, що сприяє створенню акуратних та стійких укладок. Функція іонізації допомагає знизити статичну електрику, роблячи волосся гладким і слухняним.Для додаткової зручності та безпеки фен оснащений функцією холодного обдування, яка дозволяє закріпити укладання та надати волоссю природного блиску. Захист від перегріву гарантує тривалий термін служби пристрою, а петелька для підвішування полегшує зберігання та доступ до фену у будь-який час. Довжина шнура 2.4 метра забезпечує свободу рухів та комфорт у використанні.Надійність та стиль в одному пристроїЕлегантний чорний колір фена Saturn ST-HC7216 додає стильності та чудово вписується в будь-який інтер'єр ванної кімнати або салону краси. Гарантія на 24 місяці підтверджує високу якість та надійність пристрою, що робить його чудовим вибором для тих, хто шукає довговічність та ефективність в одному продукті.З феном Saturn ST-HC7216 AC Motor кожен користувач зможе насолодитися професійними результатами без зайвих зусиль. Цей пристрій поєднує в собі сучасні технології та практичні функції, забезпечуючи оптимальну турботу про ваше волосся щодня.]]></description>
 </offer>
-<offer id="HT35427" available="true" selling_type="r">
+<offer id="HT35427" available="false" selling_type="r">
 <name>Фен SATURN-ST-HC7263</name>
 <categoryId>289</categoryId>
 <portal_category_id>617</portal_category_id>
@@ -67315,7 +67351,7 @@
 <portal_category_id>642</portal_category_id>
 <price>3913.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178581.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178582.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178583.jpg</picture>
@@ -72940,7 +72976,7 @@
 <portal_category_id>607</portal_category_id>
 <price>5363.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>12</quantity_in_stock>
+<quantity_in_stock>11</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185991.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185992.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185993.jpg</picture>
@@ -74335,7 +74371,7 @@
 <portal_category_id>606</portal_category_id>
 <price>3571.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187391.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187392.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187393.jpg</picture>
@@ -75651,7 +75687,7 @@
 <portal_category_id>642</portal_category_id>
 <price>4119.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184611.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184612.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184613.jpg</picture>
@@ -75841,7 +75877,7 @@
 <portal_category_id>608</portal_category_id>
 <price>4845.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189451.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189452.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189453.jpg</picture>
@@ -76644,7 +76680,7 @@
 <portal_category_id>606</portal_category_id>
 <price>1786.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_e578171d-6968-11e8-a892-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000001000_4409662.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000001000_4409973.jpg</picture>
