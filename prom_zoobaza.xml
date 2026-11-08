@@ -36599,7 +36599,7 @@
 <portal_category_id>64422</portal_category_id>
 <price>976.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000001829_RIP5017-C-1.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_31e34c37-44b0-11e9-b6d2-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3000001829.jpg</picture>
@@ -38482,7 +38482,7 @@
 <portal_category_id>642</portal_category_id>
 <price>8244.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000009431_44558949.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000009431_44558950.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000009431_44558951.jpg</picture>
@@ -39593,7 +39593,7 @@
 <portal_category_id>63708</portal_category_id>
 <price>673.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>19</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000009968_eb532183-4e3c-400c-83c5-44db08244c0a.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000009968_7c4725dd-1570-4d18-acd6-9967d8411c51.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000009968_6a5c5d48-882d-4885-9306-a1381db3eb22.jpg</picture>
@@ -44171,7 +44171,7 @@
 <portal_category_id>64404</portal_category_id>
 <price>295.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011907_1722423124747.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011907_320620307.jpg</picture>
 <vendor>СЛОН</vendor>
@@ -44668,7 +44668,7 @@
 <portal_category_id>641</portal_category_id>
 <price>1182.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>48</quantity_in_stock>
+<quantity_in_stock>47</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012031_w530_falltrbmr_411b5551.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012031_w530_fallts6fg_59f5ade9.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012031_w530_falltt4ej_838707c1.jpg</picture>
@@ -45637,6 +45637,38 @@
 <param name="Вага">0,5 кг</param>
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[З формою MAXMARK MK-R100 ви зможете радувати свою сім'ю смачною і ароматною випічкою кожен день. Форма для випічки пирога MAXMARK MK-R100 - це кругла форма зі сталі з антипригарним покриттям, з затискачем і знімним дном прекрасно підходить для випічки фруктових бісквітів та сирних пирогів. Такий посуд не вбирає ніяких запахів, легко миється.]]></description>
+</offer>
+<offer id="HT30857" available="true" selling_type="r">
+<name>Праска Tefal FV6830E0</name>
+<categoryId>271</categoryId>
+<portal_category_id>609</portal_category_id>
+<price>4015.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>2</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012291_329183822.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012291_329183823.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012291_329183824.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000012291_329183825.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000012291_329183826.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000012291_329183827.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000012291_329183828.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/8_000012291_329183829.jpg</picture>
+<vendor>Tefal</vendor>
+<vendorCode>HT30857</vendorCode>
+<country>Франція</country>
+<param name="Колір">Синій</param>
+<param name="Призначення">Побутове</param>
+<param name="Споживана потужність">2800 Вт</param>
+<param name="Регулятор температури">Так</param>
+<param name="Об&apos;єм резервуару для води">270 мл</param>
+<param name="Покриття підошви">Durilium Airglide</param>
+<param name="Постійна подача пари">50 г/хв</param>
+<param name="Тип праски">З парою</param>
+<param name="Паровий удар">250 г/хв</param>
+<param name="Вага">1,65 кг</param>
+<param name="Розмір">34 х 14 х 18 см</param>
+<param name="Гарантія">12 міс</param>
+<description><![CDATA[Праска Tefal Ultragliss Anti-Calc Plus створена, щоб зробити прасування простим і зручним і радувати вас бездоганними результатами день за днем. Праска оснащена потужністю 2800 Вт для швидкого нагрівання та подає постійну пару зі швидкістю 50 г/хв для більш ефективного прасування. Паровий удар досягає 250 г/хв і допомагає розгладжувати щільні тканини та стійкі складки. Ексклюзивний знімний колектор для накипу полегшує очищення праски та дозволяє підтримувати його довгу службу. Підошва Durilium Airglide гарантує максимальний розподіл пари завдяки 100% активним паровим отворам, захищена від подряпин і довго залишається ідеально гладкою. Подаруйте вашим речам якісніший догляд із праскою Tefal Ultragliss Anti-Calc Plus. Простий догляд та довговічність Ексклюзивний колектор для накипу допомагає легко доглядати праску і забезпечує її довгий термін служби. Потужність 2800 Вт Праска оснащена потужністю 2800 Вт для швидкого нагріву, максимально ефективної роботи та бездоганних результатів день за днем. Ефективне прасування Постійна пара до 50 г/хв робить кожне прасування більш легким, швидким та ефективним. Потужний паровий удар Потужний паровий удар досягає швидкості 250 г/хв і допомагає швидко та ефективно розгладжувати щільні тканини та стійкі складки. Максимальний розподіл пари Завдяки 100% активним паровим отворам пара поширюється по всій підошві праски. Підошва має на 30% більше парових отворів у порівнянні з попереднім поколінням прасок Ultragliss для максимальної ефективності прасування. Високоякісна підошва Durilium Airglide - підошва №1 від Tefal. Вона зроблена за запатентованою технологією та гарантує максимальний розподіл пари, вражаючу ефективність прасування і дійсно довгий термін служби. Екофункція Спеціальна екофункція знижує споживання електроенергії на 20% для скорочення витрат на електрику та збереження навколишнього середовища. Ідеальна точність Носик праски має особливу форму, яка дозволяє легко розгладжувати тканини навколо ґудзиків. Зручне вертикальне відпарювання Відпарювання делікатних та широких тканин стає простіше завдяки вертикальній роботі. Ідеально для позбавлення від складок на костюмах та іншому висячому одязі та тканинах — навіть на шторах. Довгий термін служби Праска прослужить досить довго і щоразу радуватиме бездоганними результатами прасування завдяки довговічній підошві із захистом від подряпин.]]></description>
 </offer>
 <offer id="HT30858" available="true" selling_type="r">
 <name>Мультипіч-фритюрниця ZELMER ZAF 9000 Dual</name>
@@ -49578,7 +49610,7 @@
 <portal_category_id>63708</portal_category_id>
 <price>805.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>17</quantity_in_stock>
+<quantity_in_stock>16</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013822_467528612.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013822_467528613.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013822_467528614.jpg</picture>
@@ -51881,7 +51913,7 @@
 <portal_category_id>15230303</portal_category_id>
 <price>3432.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014617_maxmark_mk-bl2712b.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000014617_maxmark_mk-bl2704l.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000014617__maxmark_mk-bl2704l.jpg</picture>
@@ -60170,7 +60202,7 @@
 <portal_category_id>71109</portal_category_id>
 <price>1298.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166411.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166412.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166413.jpg</picture>
@@ -71777,7 +71809,7 @@
 <portal_category_id>151602</portal_category_id>
 <price>504.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000168001.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000168002.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000168003.jpg</picture>
@@ -71880,7 +71912,7 @@
 <portal_category_id>6370714</portal_category_id>
 <price>36494.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184411.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184412.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184413.jpg</picture>
@@ -72202,7 +72234,7 @@
 <portal_category_id>61601</portal_category_id>
 <price>1244.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>49</quantity_in_stock>
+<quantity_in_stock>48</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184761.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184762.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184763.jpg</picture>
