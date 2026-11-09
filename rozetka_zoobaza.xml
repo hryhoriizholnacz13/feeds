@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-05 20:00">
+<yml_catalog date="2026-11-09 20:01">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -12103,8 +12103,8 @@
 <param name="Призначення">Основне годування</param>
 <param name="Основні інгредієнти">Риба</param>
 </offer>
-<offer id="ZB4273" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB4273" available="true">
+<stock_quantity>2</stock_quantity>
 <price>2242.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -12338,8 +12338,8 @@
 <param name="Призначення">Основне годування, Проти ожиріння</param>
 <param name="Основні інгредієнти">Рис, Оленина, Ягня</param>
 </offer>
-<offer id="ZB4283" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB4283" available="true">
+<stock_quantity>2</stock_quantity>
 <price>1346.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -12750,8 +12750,8 @@
 <param name="Призначення">Основне годування, Гіпоалергенний</param>
 <param name="Основні інгредієнти">Качка, Індичка</param>
 </offer>
-<offer id="ZB4306" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="ZB4306" available="true">
+<stock_quantity>2</stock_quantity>
 <price>3786.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -59391,32 +59391,6 @@
 <param name="Для кого">Для собак</param>
 <param name="EAN">748960090487</param>
 </offer>
-<offer id="TX41895" available="true">
-<stock_quantity>2</stock_quantity>
-<price>4050.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4626659</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41895-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41895-2.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41895-3.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41895-4.jpg</picture>
-<vendor>Ruffwear</vendor>
-<article>41895</article>
-<name>Поддерживающая шлейка для служебных собак Ruffwear Web Master M 69-81 см Ярко-красный (41895)</name>
-<name_ua>Підтримуюча шлейка для службових собак Ruffwear Web Master M 69-81 см Яскраво-червоний (41895)</name_ua>
-<description><![CDATA[<p>Шлейка Web Master – это безопасная, поддерживающая и универсальная амуниция, разработанная для помощи собакам в маневрировании и преодолевании препятствий. Ее тонкий, но прочный перфорированный пеноматериал обеспечивает хорошую вентиляцию и поддержку, не ограничивая свободу движений. Пять точек регулировки гарантируют надежную посадку, а мягкие ремни на груди и животе делают шлейку Web Master комфортной для ежедневного использования.</p><p>Эта шлейка предпочтительна многими спасателями собак при лавинных бедствиях, служебными собачьими руководителями, а также собаками-помощниками с ампутированными конечностями и специалистами в области безопасности. Она отлично подходит как замена обычной повседневной шлейке и ошейнику для собак, которые путешествуют, занимаются альпинизмом или нуждаются в помощи при передвижении.</p>]]></description>
-<description_ua><![CDATA[<p>Шлейка Web Master – це безпечна, підтримуюча та універсальна амуніція, розроблена для допомоги собакам у маневруванні та доланні перешкод. Її тонкий, але міцний перфорований піноматеріал забезпечує хорошу вентиляцію та підтримку, не обмежуючи свободу рухів. П'ять точок регулювання гарантують надійну посадку, а м'які ремені на грудях та животі роблять шлейку Web Master комфортною для щоденного використання.</p><p>Ця шлейка переважна багатьма рятувальниками собак при лавинних лихах, службовими собачими керівниками, а також собаками-помічниками з ампутованими кінцівками та фахівцями в галузі безпеки. Вона відмінно підходить як заміна звичайній повсякденній шлейці і нашийнику для собак, які подорожують, займаються альпінізмом або потребують допомоги при пересуванні.</p>]]></description_ua>
-<param name="Колір">Ярко-красный</param>
-<param name="Розмір">M</param>
-<param name="Тварина">Собака</param>
-<param name="Особливості">Активный образ жизни</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Серія">Web Master</param>
-<param name="Сезон">Демісезон</param>
-<param name="Обхват груди">69-81 см</param>
-<param name="Для кого">Для собак</param>
-<param name="EAN">748960485771</param>
-</offer>
 <offer id="TX41896" available="true">
 <stock_quantity>2</stock_quantity>
 <price>4050.00</price>
@@ -60783,32 +60757,6 @@
 <param name="Тип">Комбінезони</param>
 <param name="Розмір">M 55</param>
 <param name="EAN">6410329347450</param>
-</offer>
-<offer id="TX42088" available="true">
-<stock_quantity>2</stock_quantity>
-<price>7790.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>3935762</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42088-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42088-2.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42088-3.jpg</picture>
-<vendor>Hurtta</vendor>
-<article>42088</article>
-<name>Дождевик комбинезон для собак Hurtta Mudventure Overall ECO Черный размер M 60 (60M) (42088)</name>
-<name_ua>Дощовик комбінезон для собак Hurtta Mudventure Overall ECO Чорний розмір M 60 (60M) (42088)</name_ua>
-<description><![CDATA[<p>Неважно, дождливое ли это утро или заснеженный вечер — Mudventure Overall ECO позаботится о комфорте и сухости вашей собаки в любую погоду. Изготовленный из 100% переработанного материала, этот водонепроницаемый комбинезон – безопасный выбор для любимца и планеты.</p><p><strong>Преимущества комбинезона Mudventure Overall ECO:</strong></p><p>Защита в любую погоду Надежно защищает от дождя, снега и ветра, оставляя шерсть сухой и чистой.</p><p>Идеальная посадка: Легко регулируется с помощью эластичных шнуров – вы можете точно подогнать длину спины, ног, груди, талии и шеи.</p><p>Легкость использования: Удобная конструкция позволяет быстро одевать и снимать комбинезон, даже если ваш пес нетерпелив к прогулкам.</p><p>Комфорт без компромиссов: Специальный Rainstopper-ворот защищает шею от попадания влаги, а широкая проклеенная ветровая планка гарантирует дополнительную непогоду.</p><p>Подходит для всего сезона: Комбинезон идеально носится как по отдельности, так и в сочетании с утеплительной одеждой в холодную погоду.</p><p>Защита от грязи: Помогает избежать песка, грязи и грязи на шерсти – меньше уборки дома после прогулки.</p><p>Удобно для прогулок на поводке: Верхнее отверстие позволяет легко прикрепить поводок к шлейке, защищая от попадания воды внутрь.</p><p>Mudventure Overall ECO – комфортная сухость и чистота в одном стильном решении.</p>]]></description>
-<description_ua><![CDATA[<p>Неважливо, чи це дощовий ранок чи засніжений вечір — Mudventure Overall ECO подбає про комфорт та сухість вашої собаки за будь-якої погоди. Виготовлений із 100% переробленого матеріалу, цей водонепроникний комбінезон — безпечний вибір для улюбленця та планети.</p><p><strong>Переваги комбінезона Mudventure Overall ECO:</strong></p><p>Захист у будь-яку погоду: Надійно захищає від дощу, снігу та вітру, залишаючи шерсть сухою та чистою.</p><p>Ідеальна посадка: Легко регулюється за допомогою еластичних шнурів — ви можете точно підігнати довжину спини, ніг, грудей, талії та шиї.</p><p>Легкість використання: Зручна конструкція дозволяє швидко одягати та знімати комбінезон, навіть якщо ваш пес нетерплячий до прогулянок.</p><p>Комфорт без компромісів: Спеціальний Rainstopper-воріт захищає шию від потрапляння вологи, а широка проклеєна вітрова планка гарантує додаткову стійкість до негоди.</p><p>Підходить для всього сезону: Комбінезон ідеально носиться як окремо, так і в поєднанні з утеплювальним одягом у холодну погоду.</p><p>Захист від бруду: Допомагає уникнути піску, багнюки та бруду на шерсті — менше прибирання вдома після прогулянки.</p><p>Зручно для прогулянок на повідці: Верхній отвір дозволяє легко прикріпити повідець до шлеї, захищаючи від потрапляння води всередину.</p><p>Mudventure Overall ECO — комфортна сухість і чистота в одному стильному рішенні.</p>]]></description_ua>
-<param name="Особливості">Со светоотражающими элементами</param>
-<param name="Матеріал">Трикотаж</param>
-<param name="Вид">Комбінезон</param>
-<param name="Обхват груди">65-85 см</param>
-<param name="Обхват шиї">45-60 см</param>
-<param name="Колір">Чорний</param>
-<param name="Тварина">Собака</param>
-<param name="Сезон">Демісезон, Літо</param>
-<param name="Тип">Комбінезони</param>
-<param name="Розмір">M 60</param>
-<param name="EAN">6410329347467</param>
 </offer>
 <offer id="TX42089" available="true">
 <stock_quantity>2</stock_quantity>
@@ -79684,7 +79632,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT12242" available="true">
-<stock_quantity>1</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>2859.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80155</categoryId>
@@ -80870,6 +80818,7 @@
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000010289_photo_5472071932250800788_y.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000010289_1701254992956727.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000010289_1701254995107564.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000010289_170125499417532.jpg</picture>
 <vendor>YarSoft</vendor>
 <article>ST-PHN001</article>
 <name>Держатель для телефона YarSoft Standy ST-PHN001 (ST-PHN001)</name>
@@ -82528,7 +82477,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT23891" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>5791.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80142</categoryId>
@@ -83212,7 +83161,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT25414" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>3885.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80162</categoryId>
@@ -83447,7 +83396,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT26002" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>6175.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4631249</categoryId>
@@ -83546,7 +83495,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT26364" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>26963.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80123</categoryId>
@@ -83583,7 +83532,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT26369" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>19988.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80123</categoryId>
@@ -83713,7 +83662,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT26698" available="true">
-<stock_quantity>57</stock_quantity>
+<stock_quantity>56</stock_quantity>
 <price>14969.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -84887,8 +84836,8 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT29403" available="true">
-<stock_quantity>4</stock_quantity>
-<price>1939.00</price>
+<stock_quantity>10</stock_quantity>
+<price>1959.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80143</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_3013741f-fbe0-11ed-8a51-dc4a3e701323.jpg</picture>
@@ -85175,38 +85124,6 @@
 <param name="Діаметр">28 см</param>
 <param name="Вага">1,37 кг</param>
 </offer>
-<offer id="HT29556" available="true">
-<stock_quantity>2</stock_quantity>
-<price>5188.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80142</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000010988_244978546.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000010988_279020814.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000010988_279020786.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000010988_279020791.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000010988_279020808.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000010988_279020795.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/8_000010988_279020799.jpg</picture>
-<vendor>CASTLE</vendor>
-<article>CPE-40R</article>
-<name>Духовка CASTLE CPE-40R (CPE-40R)</name>
-<name_ua>Духовка CASTLE CPE-40R (CPE-40R)</name_ua>
-<description><![CDATA[<p>Электрическая печь Castle CPE-40 предназначена для бытовых нужд, которые она способна удовлетворить, подарив вам безупречно приготовленные блюда. В данной модификации использованы нагревательные элементы из нержавеющей стали. Один из них (нижний) спрятан в корпусе, за счет чего тепло еще более эффективно распределяется внутри камеры. Стоит заметить, что верхний и нижний нагрев можно комбинировать или же включать отдельно, что позволит вам воплотить в жизнь еще больше любимых рецептур. Стеклянная дверь состоит из двух слоев материала. За счет этого духовка не нагревается с внешней стороны. Уплотнители помогают удерживать тепло внутри, в то время как дверца остается надежно закрытой. Защитное металлическое крепление позволит стеклу прочно зафиксироваться на своем месте, не сдвигаясь даже во время сильных толчков. Представленная электропечь оснащена таймером, который можно запрограммировать на период до 90 минут непрерывной работы. По окончании выбранного срока вы услышите сигнал, который оповестит о том, что техника отключилась. Управлять электрической печью очень просто. Перед вами панель с тремя регуляторами механического типа, каждый из которых отвечает за определенную функцию: один программирует время работы таймера, вторым выставляют температуру, третий используют как программатор, которым выбирают тип нагрева. Внешний вид техники безупречно подходит под большую часть интерьерных решений: ее классический форм-фактор, стальные стенки и отсутствие лишнего одобряется большинством. При этом печь прочно стоит на 4 небольших ножках, которые не дают ей ерзать по поверхности.</p>]]></description>
-<description_ua><![CDATA[<p>Електрична піч Castle CPE-40 призначена для побутових потреб, які вона здатна задовольнити, подарувавши вам бездоганно зроблені страви. У даній модифікації використані нагрівальні елементи з неіржавіючої сталі. Один з них (нижній) захований в корпусі, за рахунок чого тепло ще більш ефективно розподіляється всередині камери. Варто зауважити, що верхній і нижній нагрів можна комбінувати або ж включати окремо, що дозволить вам втілити в життя ще більше улюблених рецептур. Скляні двері складаються з двох шарів матеріалу. За рахунок цього духовка не нагрівається з зовнішньої сторони. Ущільнювачі допомагають утримувати тепло всередині, в той час як дверцята залишаються надійно закритими. Захисне металеве кріплення дозволить склу міцно зафіксуватися на своєму місці, не зрушуючи навіть під час сильних поштовхів. Представлена електропіч оснащена таймером, який можна запрограмувати на період до 90 хвилин безперервної роботи. По закінченню обраного терміну ви почуєте сигнал, який сповістить про те, що техніка відключилася. Керувати електричною піччю дуже просто. Перед вами панель з трьома регуляторами механічного типу, кожен з яких відповідає за певну функцію: один програмує час роботи таймера, другим виставляють температуру, третій використовують як програматор, яким вибирають тип нагріву. Зовнішність техніки бездоганно підходить під більшу частину інтер'єрних рішень: її класичний форм-фактор, сталеві стінки і відсутність зайвого схвалюється більшістю. При цьому піч міцно стоїть на 4 невеликих ніжках, які не дають їй соватися по поверхні.</p>]]></description_ua>
-<param name="Тип">Духовка</param>
-<param name="Колір">Чорний з червоним</param>
-<param name="Споживана потужність">1300 Вт</param>
-<param name="Тип управління">Механічне</param>
-<param name="Номінальна напруга">220 В</param>
-<param name="Об&apos;єм духовки">40 л</param>
-<param name="Тип духової шафи">Електрична</param>
-<param name="Максимальна температура нагріву">до 300 °C</param>
-<param name="Матеріал корпусу">Метал</param>
-<param name="Кількість програм приготування">3</param>
-<param name="Конвекція">Так</param>
-<param name="Розмір">52 х 51 х 31,5 см</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
 <offer id="HT29595" available="true">
 <stock_quantity>3</stock_quantity>
 <price>4416.00</price>
@@ -85422,11 +85339,10 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT29826" available="true">
-<stock_quantity>1</stock_quantity>
-<price>11619.00</price>
+<stock_quantity>5</stock_quantity>
+<price>12282.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011261_7116281_1.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011261_7116281.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011261_7116281.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000011261_1733480484836.jpg</picture>
@@ -85986,8 +85902,8 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30209" available="true">
-<stock_quantity>1</stock_quantity>
-<price>13750.00</price>
+<stock_quantity>6</stock_quantity>
+<price>13963.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011644_356787107.jpg</picture>
@@ -86213,7 +86129,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30364" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>1476.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81234</categoryId>
@@ -88468,7 +88384,7 @@
 <param name="Гарантія">60 міс</param>
 </offer>
 <offer id="HT31351" available="true">
-<stock_quantity>13</stock_quantity>
+<stock_quantity>11</stock_quantity>
 <price>576.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4672863</categoryId>
@@ -88518,8 +88434,8 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT31384" available="true">
-<stock_quantity>6</stock_quantity>
-<price>1966.00</price>
+<stock_quantity>14</stock_quantity>
+<price>2025.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80155</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012821_410699355.jpg</picture>
@@ -88545,8 +88461,8 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31386" available="true">
-<stock_quantity>2</stock_quantity>
-<price>4957.00</price>
+<stock_quantity>4</stock_quantity>
+<price>5036.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80142</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012822_421057491.jpg</picture>
@@ -88573,7 +88489,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31388" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>3375.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4631249</categoryId>
@@ -88747,8 +88663,8 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT31522" available="true">
-<stock_quantity>1</stock_quantity>
-<price>16182.00</price>
+<stock_quantity>2</stock_quantity>
+<price>16413.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012959_432274844.jpg</picture>
@@ -88886,8 +88802,8 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31549" available="true">
-<stock_quantity>3</stock_quantity>
-<price>1483.00</price>
+<stock_quantity>7</stock_quantity>
+<price>1496.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80156</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012984_426282159.jpg</picture>
@@ -89929,8 +89845,8 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT32067" available="true">
-<stock_quantity>2</stock_quantity>
-<price>4831.00</price>
+<stock_quantity>3</stock_quantity>
+<price>4937.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4631249</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013504_459776939.jpg</picture>
@@ -89955,7 +89871,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT32068" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>4824.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4631249</categoryId>
@@ -90029,8 +89945,8 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT32071" available="true">
-<stock_quantity>1</stock_quantity>
-<price>3614.00</price>
+<stock_quantity>3</stock_quantity>
+<price>3653.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80153</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013509_417565813.jpg</picture>
@@ -91011,7 +90927,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT32373" available="true">
-<stock_quantity>8</stock_quantity>
+<stock_quantity>7</stock_quantity>
 <price>2890.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>651392</categoryId>
@@ -91079,7 +90995,7 @@
 <param name="Підтримка відеовикликів">Так</param>
 </offer>
 <offer id="HT32385" available="true">
-<stock_quantity>17</stock_quantity>
+<stock_quantity>16</stock_quantity>
 <price>857.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80071</categoryId>
@@ -91156,8 +91072,8 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT32435" available="true">
-<stock_quantity>1</stock_quantity>
-<price>2654.00</price>
+<stock_quantity>3</stock_quantity>
+<price>2694.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80697</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013872_471082300.jpg</picture>
@@ -91286,8 +91202,8 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT32470" available="true">
-<stock_quantity>2</stock_quantity>
-<price>1159.00</price>
+<stock_quantity>4</stock_quantity>
+<price>1178.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81226</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013912_424625359.jpg</picture>
@@ -91318,7 +91234,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT32473" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>1624.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80151</categoryId>
@@ -91346,8 +91262,8 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT32474" available="true">
-<stock_quantity>1</stock_quantity>
-<price>2383.00</price>
+<stock_quantity>3</stock_quantity>
+<price>2416.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80153</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013907_ad_4132%20big.jpg</picture>
@@ -91606,8 +91522,8 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT32667" available="true">
-<stock_quantity>2</stock_quantity>
-<price>4216.00</price>
+<stock_quantity>4</stock_quantity>
+<price>4282.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4631249</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014104_446306609.jpg</picture>
@@ -93026,8 +92942,8 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT33200" available="true">
-<stock_quantity>1</stock_quantity>
-<price>1238.00</price>
+<stock_quantity>3</stock_quantity>
+<price>1271.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80161</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014637_2692155.jpg</picture>
@@ -93744,8 +93660,8 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT33387" available="true">
-<stock_quantity>2</stock_quantity>
-<price>1112.00</price>
+<stock_quantity>6</stock_quantity>
+<price>1125.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3495687</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000014824_498682386.jpg</picture>
@@ -93773,8 +93689,8 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT33390" available="true">
-<stock_quantity>2</stock_quantity>
-<price>4269.00</price>
+<stock_quantity>4</stock_quantity>
+<price>4341.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4631249</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_Castle%20CW-108R.jpg</picture>
@@ -94087,7 +94003,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT33557" available="true">
-<stock_quantity>15</stock_quantity>
+<stock_quantity>14</stock_quantity>
 <price>4209.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4631249</categoryId>
@@ -94565,7 +94481,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT33723" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>2575.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4631249</categoryId>
@@ -94593,8 +94509,8 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT33724" available="true">
-<stock_quantity>2</stock_quantity>
-<price>2998.00</price>
+<stock_quantity>4</stock_quantity>
+<price>3018.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4631249</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/000015161.jpg</picture>
@@ -96063,6 +95979,32 @@
 <description_ua><![CDATA[<p>Вакуумний пакувальник Mesko MS 4492 легко захистить вашу їжу та подовже термін її зберігання. Вакуумний пакувальник Mesko MS 4492 має дві функції - забезпечує вакуумне пакування, завдяки видаленню повітря з поліетиленового пакета і дозволяє зварювати краї пакета і герметично закривати його. Ви можете використовувати обидві ці функції одну за одною або просто щільно закрити пакет. Рекомендовано використовувати пакети шириною не більше 28 см.</p>]]></description_ua>
 <param name="Тип">Вакууматор</param>
 <param name="Потужність">100 Вт</param>
+<param name="Гарантія">24 місяці</param>
+</offer>
+<offer id="HT34106" available="true">
+<stock_quantity>4</stock_quantity>
+<price>14788.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>80122</categoryId>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155591.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155592.jpg</picture>
+<vendor>CASTLE</vendor>
+<article>CG-60X</article>
+<name>Плита газовая CASTLE CG-60X (CG-60X)</name>
+<name_ua>Плита газова CASTLE CG-60X (CG-60X)</name_ua>
+<description><![CDATA[<p>Съемное стеклоСъемное стекло может быть полностью снято, что делает очистку легче щелчка пальцем.</p>]]></description>
+<description_ua><![CDATA[<p>Знімне склоЗнімне скло може бути повністю знято, що робить очищення легшим клацання пальцем.</p>]]></description_ua>
+<param name="Тип">Плита газова</param>
+<param name="Колір">Сірий з чорним</param>
+<param name="Ширина">60 см</param>
+<param name="Керування">Механічне</param>
+<param name="Тип духової шафи">Газова</param>
+<param name="Тип варильної панелі">Газова</param>
+<param name="Електропідпал">Так</param>
+<param name="Кількість конфорок">4</param>
+<param name="Вага">35,5 кг</param>
+<param name="Висота">86.5 см</param>
+<param name="Глибина">60 см</param>
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT34107" available="true">
@@ -98949,7 +98891,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT34918" available="true">
-<stock_quantity>13</stock_quantity>
+<stock_quantity>12</stock_quantity>
 <price>14875.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -99185,37 +99127,6 @@
 <param name="Висота">70 см</param>
 <param name="Глибина">65 см</param>
 <param name="Гарантія">12 місяців</param>
-</offer>
-<offer id="HT34962" available="true">
-<stock_quantity>2</stock_quantity>
-<price>28619.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80164</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165861.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165862.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165863.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165864.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165865.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165866.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165867.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165868.jpg</picture>
-<vendor>DeLonghi</vendor>
-<article>ECAM 290.85.SBX</article>
-<name>Кофемашина DeLonghi ECAM 290.85.SBX MAGNIFICA EVO (ECAM 290.85.SBX)</name>
-<name_ua>Кавомашина DeLonghi ECAM 290.85.SBX MAGNIFICA EVO (ECAM 290.85.SBX)</name_ua>
-<description><![CDATA[<p>С кофемашиной De'Longhi Magnifica Evo вы приготовите отличный кофе одним нажатием в уюте своего дома. Откройте для себя интуитивно понятное управление с цветными кнопками для прямого выбора любимого напитка. Благодаря уникальной системе вспенивания молока LatteCrema Hot ваш кофе с молоком будет иметь идеальный вкус.</p><ul><li>А с новой функцией “My Latte” вы сможете настроить свой молочный напиток по желанию и сохранить его в памяти кофемашины.</li><li>Автоматическая система вспенивания молокаСтальная кофемолка с 13-уровневой регулировкой помолаДавление 15 барОдновременное приготовление 2 кофейных напитковИнтуитивно понятная персонализацияВкусный капучино со сливочной пенкойЗапатентованная система LatteCrema Hot автоматически приготовит идеальный капучино со сливочно-молочной пенкой.</li></ul><ul><li>Для облегчения обслуживания системы капучинатор оснащен функцией самоочистки, которая запускает цикл промывки водой и паром.</li><li>Выберите вкус вашего любимого кофеОткройте для себя интуитивно понятную панель управления с цветными кнопками для прямого выбора любимого напитка.</li></ul><p>Чтобы кофе всегда готовился в соответствии с вашим вкусом, можно настроить размер и интенсивность кофе. Благодаря функции «My Latte» вы также можете настроить свой любимый молочный напиток, а затем сохранить его в памяти устройства.</p><ul><li>В настройках также можно выбрать желаемую температуру воды для приготовления напитка.</li><li>Всегда свежемолотый кофеАвтоматические кофемашины De'Longhi имеют встроенную стальную кофемолку с 13-ступенчатым уровнем помола.</li></ul><p>Ее стальные жернова чрезвычайно точны, устойчивы к повреждениям и не влияют на вкусовые ощущения.</p><ul><li>Кроме того, благодаря беспроводной системе заваривания количество кофейной пыли, которая остается в кофемолке, сведено к минимуму.</li><li>Съемный заварочный блокВажной частью кофемашины является заварочный блок, который дозирует и уплотняет свежемолотый кофе.</li></ul><p>Запатентованный заварочный блок De'Longhi оснащен регулируемой камерой, которая может обрабатывать разное количество кофе в зависимости от типа выбранного напитка. Кроме того, заварочный блок De'Longhi можно легко снимать и промывать один раз в месяц проточной водой.</p>]]></description>
-<description_ua><![CDATA[<p>З кавомашиною De'Longhi Magnifica Evo ви приготуєте чудову каву одним натисканням у затишку свого дому. Відкрийте для себе інтуїтивно зрозуміле керування з кольоровими кнопками для прямого вибору улюбленого напою. Завдяки унікальній системі спінювання молока LatteCrema Hot ваша кава з молоком матиме ідеальний смак.</p><ul><li>А з новою функцією “My Latte” ви зможете налаштувати свій молочний напій за бажанням та зберегти його в пам'яті кавомашини.</li><li>Автоматична система спінювання молокаСталева кавомолка з 13-рівневим регулюванням помелуТиск 15 барОдночасне приготування 2 кавових напоївІнтуїтивно зрозуміла персоналізаціяСмачне капучино з вершковою пінкоюЗапатентована система LatteCrema Hot автоматично приготує ідеальне капучино з вершково-молочною пінкою.</li></ul><ul><li>Для полегшення обслуговування системи капучинатор оснащено функцією самоочищення, яка запускає цикл промивання водою та парою.</li><li>Виберіть смак вашої улюбленої кавиВідкрийте для себе інтуїтивно зрозумілу панель керування з кольоровими кнопками для прямого вибору улюбленого напою.</li></ul><p>Щоб кава завжди готувалася відповідно до вашого смаку, можна налаштувати розмір та інтенсивність кави. Завдяки функції «My Latte» ви також можете налаштувати свій улюблений молочний напій, а потім зберегти його в пам’яті пристрою.</p><ul><li>У налаштуваннях також можна вибрати бажану температуру води для приготування напою.</li><li>Завжди свіжозмелена каваАвтоматичні кавомашини De'Longhi мають вбудовану сталеву кавомолку з 13-ступеневим рівнем помелу.</li></ul><p>Її сталеві жорна надзвичайно точні, стійкі до пошкоджень і не впливають на смакові відчуття.</p><ul><li>Крім того, завдяки бездротовій системі заварювання кількість кавового пилу, який залишається в кавомолці, зведено до мінімуму.</li><li>Знімний заварювальний блокВажливою частиною кавомашини є заварювальний блок, який дозує та згущує свіжозмелену каву.</li></ul><p>Запатентований заварювальний блок De'Longhi оснащений регульованою камерою, яка може обробляти різну кількість кави в залежності від типу вибраного напою. Крім того, заварювальний блок De'Longhi можна легко знімати та промивати один раз на місяць проточною водою.</p>]]></description_ua>
-<param name="Тип">Кавомашина</param>
-<param name="Колір">Нержавіюча сталь з чорним</param>
-<param name="Керування">Сенсорне</param>
-<param name="Матеріал корпусу">Пластик + метал</param>
-<param name="Об&apos;єм резервуару для води">1,8 л</param>
-<param name="Тип кави">Зерновий, Мелений</param>
-<param name="Тип кавоварки">Кавомашина</param>
-<param name="Тиск пару">15 бар</param>
-<param name="Місткість контейнера для зерен">250 г</param>
-<param name="Вага">9.5 кг</param>
-<param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT34963" available="true">
 <stock_quantity>1</stock_quantity>
@@ -100089,7 +100000,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35089" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>5981.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80027</categoryId>
@@ -101083,8 +100994,8 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35252" available="true">
-<stock_quantity>1</stock_quantity>
-<price>2303.00</price>
+<stock_quantity>3</stock_quantity>
+<price>2819.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80156</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171071.jpg</picture>
@@ -101109,8 +101020,8 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35253" available="true">
-<stock_quantity>3</stock_quantity>
-<price>12582.00</price>
+<stock_quantity>4</stock_quantity>
+<price>12769.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171151.jpg</picture>
@@ -103629,7 +103540,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35453" available="true">
-<stock_quantity>108</stock_quantity>
+<stock_quantity>107</stock_quantity>
 <price>285.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4672913</categoryId>
@@ -104011,34 +103922,6 @@
 <param name="Висота">85 см</param>
 <param name="Глибина">56 см</param>
 <param name="Гарантія">36 місяців</param>
-</offer>
-<offer id="HT35484" available="true">
-<stock_quantity>1</stock_quantity>
-<price>17688.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80124</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175331.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175333.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175334.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175335.jpg</picture>
-<vendor>Electrolux</vendor>
-<article>EWS6406BU</article>
-<name>Стиральная машина Electrolux EWS6406BU (EWS6406BU)</name>
-<name_ua>Пральна машина Electrolux EWS6406BU (EWS6406BU)</name_ua>
-<description><![CDATA[<p>Компактная стиральная машина с фронтальной загрузкой Electrolux EWS6406BUСистема SensiCare адаптирует цикл к загрузке для предотвращения чрезмерной стирки одежды.</p><ul><li>Благодаря этому одежда сохраняет свой вид дольше, а вода и электроэнергия расходуются экономнее.</li><li>Не нужно тратить на стирку больше времени, чем она требует.</li></ul><ul><li>С помощью 4-этапной функции Time Manager можно сократить продолжительность стирки, сэкономив время.</li><li>Программа Rapid позволяет быстро стирать одежду с небольшим загрязнением.</li></ul><ul><li>Стирайте 1,5 кг белья всего за 14 минут.</li><li>Опция "Дополнительное смягчение" осуществляет предварительное замачивание и равномерно распределяет одежду перед добавлением кондиционера, обеспечивая его попадание в каждое волокно, ощущение мягкости и свежий аромат каждой вещи на дольше.</li><li>Наша антиаллергенная функция "Анти-аллергия с паром" сочетает водяной пар с высокоэффективной программой стирки для удаления бактерий, вирусов и аллергенов с одежды.</li></ul>]]></description>
-<description_ua><![CDATA[<p>Компактна пральна машина з фронтальним завантаженням Electrolux EWS6406BUСистема SensiCare адаптує цикл до завантаження для запобігання надмірному пранню одягу.</p><ul><li>Завдяки цьому одяг зберігає свій вигляд довше, а вода і електроенергія витрачаються економніше.</li><li>Не потрібно витрачати на прання більше часу, ніж воно потребує.</li></ul><ul><li>За допомогою 4-етапної функції Time Manager можна скоротити тривалість прання, заощадивши час.</li><li>Програма Rapid дозволяє швидко прати одяг із невеликим забрудненням.</li></ul><ul><li>Періть 1,5 кг білизни всього за 14 хвилин.</li><li>Опція "Додаткове пом'якшення" здійснює попереднє замочування та рівномірно розподіляє одяг перед додаванням кондиціонеру, забезпечуючи його попадання до кожного волокна, відчуття м'якості та свіжий аромат кожної речі на довше.</li><li>Наша антиалергенна функція "Анти-алергія з парою" поєднує водяну пару з високоефективною програмою прання для видалення бактерій, вірусів та алергенів з одягу.</li></ul>]]></description_ua>
-<param name="Тип">Пральна машина</param>
-<param name="Колір">Білий</param>
-<param name="Ширина">59.5 см</param>
-<param name="Керування">Електронне</param>
-<param name="Клас енергоспоживання">А</param>
-<param name="Макс. швидкість віджиму">1000 об/хв</param>
-<param name="Тип пральної машини">Автомат</param>
-<param name="Двигун">Інверторний</param>
-<param name="Кількість програм">14</param>
-<param name="Висота">85 см</param>
-<param name="Глибина">37.7 см</param>
-<param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35490" available="true">
 <stock_quantity>2</stock_quantity>
@@ -105239,7 +105122,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35685" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>2631.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80140</categoryId>
@@ -105944,39 +105827,6 @@
 <param name="Вага">2,2 кг</param>
 <param name="Гарантія">24 місяці</param>
 </offer>
-<offer id="HT35743" available="true">
-<stock_quantity>1</stock_quantity>
-<price>28725.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80203</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178822.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178823.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178824.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178825.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178826.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178827.jpg</picture>
-<vendor>Beko</vendor>
-<article>B1RFNE314W</article>
-<name>Морозильная камера Beko B1RFNE314W 187 см (B1RFNE314W)</name>
-<name_ua>Морозильна камера Beko B1RFNE314W 187 см (B1RFNE314W)</name_ua>
-<description><![CDATA[<p>Морозильная камераB1RFNE314WНаслаждайтесь тишиной и надежностью каждый день: инверторный компрессор ProSmart работает максимально бесшумно и экономит электроэнергию, а яркая LED-подсветка обеспечивает отличный обзор на каждом уровне.</p><ul><li>Прочные стеклянные полки и надежные ящики легко выдерживают большой вес, тогда как конструкция SmoothFit и перенавешиваемая дверца позволяют ставить холодильник вплотную к стене — она откроется на 90°, не задевая соседнюю мебель.</li><li>LED подсветкаВнутри холодильника установлено яркое светодиодное освещение, которое работает очень эффективно.</li></ul><p>Оно потребляет совсем мало энергии, но при этом света достаточно, чтобы хорошо видеть все полки.</p><ul><li>Это надежное решение, которое помогает быстро найти то, что вам нужно.</li><li>Изменение направленияоткрывания дверейЭтот холодильник можно подстроить под любую планировку кухни, потому что дверцу можно перевесить.</li></ul><p>Вы сами выбираете, в какую сторону она будет открываться — влево или вправо.</p><ul><li>Это особенно полезно, если вы хотите поставить два прибора рядом, чтобы они открывались в разные стороны.</li><li>Прочные стеклянные полкиВам не нужно переживать за целостность полок, когда вы ставите в холодильник что-то тяжелое, например большую кастрюлю с едой.</li></ul><p>Каждая полка изготовлена из закаленного стекла и выдерживает до 25 кг нагрузки.</p><ul><li>Они надежно защищены от царапин и случайных трещин, что делает их намного практичнее обычного стекла.</li><li>Надежные полки и ящикиВнутренние полки сделаны из закаленного стекла, поэтому они очень прочные и выдерживают большой вес.</li></ul><p>В нижней части холодильной камеры есть специальный ящик для овощей и фруктов, где температура обычно немного ниже.</p><ul><li>Это помогает хранить продукты в идеальном состоянии.</li><li>Инверторныйкомпрессор ProSmartСердцем этого холодильника является современный инверторный двигатель, который работает очень тихо и стабильно.</li></ul><p>Он автоматически подстраивается под изменения температуры, что позволяет существенно экономить на электроэнергии.</p><ul><li>Такой компрессор работает надежнее и дольше обычных, обеспечивая спокойствие в вашем доме.</li><li>Петли SmoothFitБлагодаря специальным петлям дверца не выступает в сторону, когда вы ее открываете.</li></ul><p>Это позволяет установить холодильник вплотную к кухонной стене или мебели, экономя место. Даже если открыть дверь на 90 градусов, ящики внутри будут выдвигаться полностью без каких-либо препятствий.</p>]]></description>
-<description_ua><![CDATA[<p>Морозильна камераB1RFNE314WНасолоджуйтеся тишею та надійністю щодня: інверторний компресор ProSmart працює максимально безшумно та заощаджує електроенергію, а яскрава LED-підсвітка забезпечує чудовий огляд на кожному рівні.</p><ul><li>Міцні скляні полиці та надійні ящики легко витримують велику вагу, тоді як конструкція SmoothFit і дверцята, що перенавішуються, дозволяють ставити холодильник впритул до стіни — вони відкриються на 90°, не зачіпаючи сусідні меблі.</li><li>LED підсвіткаВсередині холодильника встановлено яскраве світлодіодне освітлення, яке працює дуже ефективно.</li></ul><p>Воно споживає зовсім мало енергії, але при цьому світла достатньо, щоб добре бачити всі полиці.</p><ul><li>Це надійне рішення, яке допомагає швидко знайти те, що вам потрібно.</li><li>Зміна напрямкувідкривання дверейЦей холодильник можна підлаштувати під будь-яке планування кухні, бо дверцята можна перевісити.</li></ul><p>Ви самі обираєте, в який бік вони будуть відчинятися — вліво чи вправо.</p><ul><li>Це особливо корисно, якщо ви хочете поставити два прилади поруч, щоб вони відкривалися в різні боки.</li><li>Міцні скляні полиціВам не потрібно переживати за цілісність полиць, коли ви ставите в холодильник щось важке, наприклад, велику каструлю з їжею.</li></ul><p>Кожна полиця виготовлена із загартованого скла і витримує до 25 кг навантаження.</p><ul><li>Вони надійно захищені від подряпин і випадкових тріщин, що робить їх набагато практичнішими за звичайне скло.</li><li>Надійні полиці і ящикиВнутрішні полиці зроблені із загартованого скла, тому вони дуже міцні і витримують велику вагу.</li></ul><p>В нижній частині холодильної камери є спеціальний ящик для овочів і фруктів, де температура зазвичай трохи нижча.</p><ul><li>Це допомагає зберігати продукти в ідеальному стані.</li><li>Інверторнийкомпресор ProSmartСерцем цього холодильника є сучасний інверторний двигун, який працює дуже тихо і стабільно.</li></ul><p>Він автоматично підлаштовується під зміни температури, що дозволяє суттєво економити на електроенергії.</p><ul><li>Такий компресор працює надійніше і довше за звичайні, забезпечуючи спокій у вашому домі.</li><li>Петлі SmoothFitЗавдяки спеціальним петлям дверцята не виступають убік, коли ви їх відкриваєте.</li></ul><p>Це дозволяє встановити холодильник впритул до кухонної стіни чи меблів, економлячи місце. Навіть якщо відкрити двері на 90 градусів, ящики всередині будуть висуватися повністю без жодних перешкод.</p>]]></description_ua>
-<param name="Тип">Морозильна камера</param>
-<param name="Колір">Білий</param>
-<param name="Кількість відділень">8</param>
-<param name="Ширина">59,7 см</param>
-<param name="Керування">Механічне</param>
-<param name="Клас енергоспоживання">Е</param>
-<param name="Тип камери">Камера</param>
-<param name="Система охолодження">NoFrost</param>
-<param name="Тип компресора">Інверторний</param>
-<param name="Автономне збереження холоду">11 год</param>
-<param name="Загальний об&apos;єм">287 л</param>
-<param name="Вага">68,5 кг</param>
-<param name="Висота">186,5 см</param>
-<param name="Глибина">70,9 см</param>
-<param name="Гарантія">36 місяців</param>
-</offer>
 <offer id="HT35745" available="true">
 <stock_quantity>3</stock_quantity>
 <price>10132.00</price>
@@ -106178,7 +106028,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35761" available="true">
-<stock_quantity>12</stock_quantity>
+<stock_quantity>11</stock_quantity>
 <price>828.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80697</categoryId>
@@ -106801,38 +106651,6 @@
 <param name="DVB-T">Так</param>
 <param name="Частота розгортки екрана">60 Гц</param>
 <param name="Діагональ екрана">55&quot;</param>
-<param name="Гарантія">24 місяці</param>
-</offer>
-<offer id="HT35830" available="true">
-<stock_quantity>1</stock_quantity>
-<price>23188.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80037</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180171.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180172.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180173.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180174.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180175.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180176.jpg</picture>
-<vendor>Hisense</vendor>
-<article>50E7S</article>
-<name>Телевизор Hisense 50E7S Smart TV (50E7S)</name>
-<name_ua>Телевізор Hisense 50E7S Smart TV (50E7S)</name_ua>
-<description><![CDATA[<p>Новое воплощение цветаПосмотрите, как изображение приобретает больше яркости и выразительности, а каждая сцена будто оживает в пространстве с технологией Hi-QLED Colour.</p><ul><li>Раскрывая еще больше тонких и реалистичных оттенков в сиянии квантовых точек, она обеспечит невероятную красочность, которая создает визуальное наслаждение.</li><li>Больше звука.</li></ul><p>Кинематографический контрастHisense создает впечатление кинозала благодаря технологиям Dolby, что раскрывает кинематографическое видение.</p><ul><li>Dolby Vision HDR прорисовывает больше контраста и насыщенного глубокого цвета, тогда как Dolby Atmos создаст мощное глубокое аудио, которое погружает в сердце событий.</li><li>Неизменно лучшее изображениеПросматривайте все в разрешении 4K с телевизором, который изменит любой тип контента независимо от исходного качества.</li></ul><p>Мощный интеллект машинного обучения распознает каждую сцену и объект на экране, чтобы прорисовать все движения, контуры и текстуры, которые создают реалистичный просмотр.</p><ul><li>Так все ваши любимые фильмы, шоу и телевизионные передачи подарят максимум впечатлений с изображением, которое будто оживает на экране.</li><li>AI Smooth MotionОживляет динамикуHisense сохраняет реалистичность каждого кадра, как бы ни сгущались события.</li></ul><p>Благодаря технологии AI Smooth Motion, которая точно определяет динамику на экране, он будет прогнозировать движения и подставлять недостающие кадры, чтобы сохранить невероятную плавность.</p><ul><li>И больше никаких рывков и размытия, смотрите ли вы спортивные трансляции или погружаетесь в игры.</li><li>Game Mode Plusзахватывающий яркий геймплейИграйте ярко и побеждайте с выдающейся скоростью вместе с режимом Game Mode Plus в Hisense.</li></ul><ul><li>Благодаря технологиям VRR и ALLM со стандартной частотой обновления 60 Гц игровой процесс будет лишен малейших задержек, а каждый выстрел станет сокрушительным благодаря мгновенной реакции.</li><li>Игровая панельВаш путь к быстрой победеУправляйте настройками, не отвлекаясь от гейминга, с интуитивной игровой панелью, которая собрала все необходимое для победы.</li></ul><p>Выбирайте лучшие параметры от соотношения сторон и разрешения до активного прицела, AMD FreeSync, частоты кадров, яркости и глубины черного для прекрасного обзора, даже когда события ускоряются или когда спускаетесь во мрак.</p><ul><li>А для полного контроля в игре – отслеживайте все показатели в режиме реального времени.</li><li>Filmmaker ModeОригинальная подача – в каждом моментеСмотрите фильмы в той подаче, которую задумал режиссер, чтобы почувствовать больше.</li></ul><p>Успейте заметить каждый тонкий акцент, оригинальные краски заката и плавность движений, в которых раскроется именно та идея, которую закладывал автор.</p><ul><li>Просто активируйте режим Filmmaker Mode, и он отключит всю оптимизацию с AI, чтобы сохранить оригинальное соотношение сторон, частоту кадров, палитру цветов и звук для идеального восприятия.</li><li>AI датчик яркостиИдеальный цветовой тон – при любом освещенииHisense подстроится под любое освещение в комнате, динамически настраивая палитру цветов для комфортного просмотра днем или вечером.</li></ul><p>Наслаждайтесь яркими красками в гостиной, залитой солнечным светом, или погружайтесь в мягкие теплые тона, когда освещение приглушается, с полностью адаптивным управлением цветом благодаря AI датчику освещения в Hisense.100% нативный опыт развлеченийГолосовое управление – вместо пультаУправляйте развлечениями просто с помощью голоса вместо того, чтобы долго вводить запросы и запускать программы.</p><ul><li>Просто нажимайте кнопку и произносите команду, будь то название фильма, управление громкостью или просмотр погоды на неделю вперед – с помощью простого диалога с вашим голосовым помощником.</li><li>Режим Eye CareБольше впечатлений – меньше усталостиНаслаждайтесь фильмами часами без малейшей усталости благодаря режиму Eye Care, который снижает нагрузку на зрение.</li></ul><ul><li>Динамически уменьшая излучение синего света и смягчая цветовой тон, он сделает изображение полностью комфортным для зрения, сохраняя всю реалистичность и выразительность цвета.</li><li>OS VIDAAЛучший мир развлеченийOS VIDAA собрала безграничную коллекцию развлечений, чтобы вы могли смотреть больше: от любимых фильмов и сериалов до концертов, шоу и спортивных трансляций.</li></ul><p>Точно проанализировав все ваши предпочтения и список просмотров, она предложит только лучший контент, который точно подарит максимум впечатлений.</p><ul><li>Просто погружайтесь в просмотр и забудьте о поисках!</li><li>Одна экосистемаПодключение без границТранслируйте любой контент, чтобы сразу погружаться в просмотр без настройки и подключений.</li></ul><p>Погружайтесь в любимые сюжеты, даже если уже начали просмотр на смартфоне, или просто передавайте на большой экран телевизора Hisense.</p><ul><li>А благодаря полному набору высокоскоростных интерфейсов, включая HDMI, USB и Bluetooth, вы сможете легко подключать саундбар, игровую консоль и внешние накопители для любых развлечений.</li><li>EzPlay 3.0Один пульт – безграничное управлениеУправляйте развлечениями с помощью одного пульта от телевизора, полностью совместимого с саундбаром.</li></ul><ul><li>Благодаря технологии EzPlay 3.0, которая объединяет все устройства Hisense в единую экосистему, вы сможете управлять звуковой панелью в режиме реального времени, создавая настоящую гармонию аудио для просмотра и погружения в музыку.</li><li>Широкий выбор диагоналейИдеальный для любых интерьеровВыбирайте свой идеальный формат Hisense TV, подбираете ли вы телевизор для дома, конференц-зала или большого офиса.</li></ul><p>Благодаря широкому выбору диагоналей вы сможете найти идеальный телевизор для любых назначений с неизменно лучшим качеством изображения и функциональностью для просмотра.</p>]]></description>
-<description_ua><![CDATA[<p>Нове втілення кольоруПогляньте, як зображення набуває більше яскравості та виразності, а кожна сцена ніби оживає у просторі з технологією Hi-QLED Colour.</p><ul><li>Розкриваючи ще більше тонких і реалістичних відтінків у сяйві квантових точок, вона забезпечить неймовірну барвистість, що створює візуальну насолоду.</li><li>Більше звуку.</li></ul><p>Кінематографічний контрастHisense створює враження кінозалу завдяки технологіям Dolby, що розкриває кінематографічне бачення.</p><ul><li>Dolby Vision HDR промальовує більше контрасту та насиченого глибокого кольору, тоді як Dolby Atmos створить потужне глибоке аудіо, що занурює у серце подій.</li><li>Незмінно найкраще зображенняПереглядайте все в роздільній здатності 4K з телевізором, який змінить будь-який тип контенту незалежно від вихідної якості.</li></ul><p>Потужний інтелект машинного навчання розпізнає кожну сцену та об'єкт на екрані, щоб промалювати всі рухи, контури та текстури, що створюють реалістичний перегляд.</p><ul><li>Так усі ваші улюблені фільми, шоу і телевізійні передачі подарують максимум вражень із зображенням, що ніби оживає на екрані.</li><li>AI Smooth MotionПожвавлює динамікуHisense зберігає реалістичність кожного кадру, як би не згущувалися події.</li></ul><p>Завдяки технології AI Smooth Motion, що точно визначає динаміку на екрані, він прогнозуватиме рухи і підставлятиме недостатні кадри, щоб зберегти неймовірну плавність.</p><ul><li>І більше ніяких ривків і розмиття, переглядаєте ви спортивні трансляції або занурюєтеся в ігри.</li><li>Game Mode Plusзахоплюючий яскравий геймплейГрайте яскраво і перемагайте з визначною швидкістю разом з режимом Game Mode Plus в Hisense.</li></ul><ul><li>Завдяки технологіям VRR і ALLM зі стандартною частотою оновлення 60 Гц ігровий процес буде позбавлений найменших затримок, а кожен постріл стане нищівним завдяки миттєвій реакції.</li><li>Ігрова панельВаш шлях до швидкої перемогиКеруйте налаштуваннями, не відволікаючись від геймінгу, з інтуїтивною ігровою панеллю, що зібрала все необхідне для перемоги.</li></ul><p>Вибирайте найкращі параметри від співвідношення сторін та роздільної здатності до активного прицілу, AMD FreeSync, частоти кадрів, яскравості та глибини чорного для прекрасного огляду, навіть коли події прискорюються або коли спускаєтесь у морок.</p><ul><li>А для повного контролю у грі – відстежуйте усі показники у режимі реального часу.</li><li>Filmmaker ModeОригінальна подача – у кожному моментіПереглядайте фільми в тій подачі, яку задумали режисер, щоб відчути більше.</li></ul><p>Встигніть помітити кожен тонкий акцент, оригінальні фарби заходу сонця і плавність рухів, в яких розкриється саме та ідея, яку закладав автор.</p><ul><li>Просто активуйте режим Filmmaker Mode, і він відключить всю оптимізацію з AI, щоб зберегти оригінальне співвідношення сторін, частоту кадрів, палітру кольорів і звук для ідеального сприйняття.</li><li>AI датчик яскравостіІдеальний колірний тон – у будь-якому освітленніHisense підлаштується під будь-яке освітлення в кімнаті, динамічно налаштовуючи палітру кольорів для комфортного перегляду вдень або ввечері.</li></ul><p>Насолоджуйтеся яскравими фарбами у вітальні, залитій сонячним світлом, або поринайте в м'які теплі тони, коли освітлення приглушується, з повністю адаптивним керуванням кольором завдяки AI датчику освітлення в Hisense.100% нативний досвід розвагГолосове керування – замість пультаКеруйте розвагами просто за допомогою голосу замість того, щоб довго вводити запити та запускати програми.</p><ul><li>Просто натискайте кнопку та вимовляйте команду, будь то назва фільму, керування гучністю або перегляд погоди на тиждень вперед – за допомогою простого діалогу з вашим голосовим помічником.</li><li>Режим Eye CareБільше вражень – менше втомиНасолоджуйтесь фільмами годинник без найменшої втоми завдяки режиму Eye Care, що знижує навантаження на зір.</li></ul><ul><li>Динамічно зменшуючи випромінювання синього світла та пом'якшуючи колірний тон, він зробить зображення повністю комфортним для зору, зберігаючи всю реалістичність та виразність кольору.</li><li>OS VIDAAНайкращий світ розвагOS VIDAA зібрала безмежну колекцію розваг, щоб ви могли переглядати більше від улюблених фільмів та серіалів до концертів, шоу та спортивних трансляцій.</li></ul><p>Точно проаналізувавши всі ваші уподобання та список переглядів, вона запропонує лише найкращий контент, який точно подарує максимум вражень.</p><ul><li>Просто поринайте в перегляд і забудьте про пошуки!</li><li>Одна екосистемаПідключення без кордонівТранслюйте будь-який контент, щоб відразу занурюватися у перегляд без налаштування та підключень.</li></ul><p>Поринайте в улюблені сюжети, навіть якщо вже почали перегляд на смартфоні або просто передавайте на великий екран телевізора Hisense.</p><ul><li>А завдяки повному набору високошвидкісних інтерфейсів, включаючи HDMI, USB та Bluetooth, ви зможете легко підключати саундбар, ігрову консоль та зовнішні накопичувачі для будь-яких розваг.</li><li>EzPlay 3.0Один пульт – безмежне керуванняКеруйте розвагами за допомогою одного пульта від телевізора, повністю сумісного із саундбаром.</li></ul><ul><li>Завдяки технології EzPlay 3.0, що об'єднує всі Hisense пристрої в єдину екосистему, ви зможете керувати звуковою панеллю в режимі реального часу, створюючи справжню гармонію аудіо для перегляду і занурення в музику.</li><li>Широкий вибір діагоналейІдеальний для будь-яких інтер'єрівВибирайте свій ідеальний формат Hisense TV, чи ви підбираєте телевізор для дому, конференц-залу або великого офісу.</li></ul><p>Завдяки широкому вибору діагоналей ви зможете знайти ідеальний телевізор для будь-яких призначень із незмінно кращою якістю зображення та функціональністю для перегляду.</p>]]></description_ua>
-<param name="Тип">Телевізор</param>
-<param name="Колір">Чорний</param>
-<param name="Bluetooth">Так</param>
-<param name="Wi-Fi">Так</param>
-<param name="Операційна система">VIDAA U6.0</param>
-<param name="Роздільна здатність відео">4K (3840 x 2160)</param>
-<param name="DVB-C">Так</param>
-<param name="DVB-S2">Так</param>
-<param name="DVB-T2">Так</param>
-<param name="SmartTV">Так</param>
-<param name="Тип тюнера">Цифровий</param>
-<param name="Частота розгортки екрана">60 Гц</param>
-<param name="Діагональ екрана">50&quot;</param>
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35831" available="true">
@@ -108495,7 +108313,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35994" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>24494.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80164</categoryId>
@@ -108714,8 +108532,8 @@
 <param name="Гарантія">60 міс</param>
 </offer>
 <offer id="HT36017" available="true">
-<stock_quantity>1</stock_quantity>
-<price>3600.00</price>
+<stock_quantity>3</stock_quantity>
+<price>3653.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80153</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184121.jpg</picture>
@@ -109851,8 +109669,8 @@
 <param name="Глибина">55 см</param>
 </offer>
 <offer id="HT36094" available="true">
-<stock_quantity>2</stock_quantity>
-<price>11344.00</price>
+<stock_quantity>6</stock_quantity>
+<price>11475.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185551.jpg</picture>
@@ -110530,36 +110348,6 @@
 <param name="Матеріал решіток">Емальована сталь</param>
 <param name="Висота">85 см</param>
 <param name="Глибина">50 см</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
-<offer id="HT36143" available="true">
-<stock_quantity>1</stock_quantity>
-<price>13688.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80124</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187132.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187133.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187134.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187136.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187137.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187138.jpg</picture>
-<vendor>Vestfrost</vendor>
-<article>MWM106T3IS</article>
-<name>Стиральная машина Vestfrost MWM106T3IS (MWM106T3IS)</name>
-<name_ua>Пральна машина Vestfrost MWM106T3IS (MWM106T3IS)</name_ua>
-<description><![CDATA[<p>ИНВЕРТОРНЫЙ МОТОР. Инверторный мотор работает заметно тише, потребляет меньше энергии и служит намного дольшеКЛАСС ЭНЕРГОПОТРЕБЛЕНИЯ А +++. Техника VESTFROST соответствует самым жестким требованиям нашего времени по экономии электроэнергии. Экономьте с нами - ради лучшей жизни в будущем. Все приборы соответствуют высокому классу энергопотребления А ++, А+++, что позволяет экономить до 40% электроэнергииФУНКЦИЯ "ЗАЩИТА ОТ ДЕТЕЙ". Чтобы дети случайно не включили прибор или не изменили текущие настройки, в бытовой технике VESTFROST предусмотрена блокировка «Замок от детей»LED ДИСПЛЕЙ. Стильный и функциональный LED дисплей, благодаря такому удобному дисплею Вы сможете управлять режимами работы прибора VESTFROST.</p>]]></description>
-<description_ua><![CDATA[<p>ІНВЕРТОРНИЙ МОТОР. Інверторний мотор працює помітно тихіше, споживає менше енергії і служить набагато довшеКЛАС ЕНЕРГОСПОЖИВАННЯ А +++. Техніка VESTFROST відповідає найжорсткішим вимогам нашого часу щодо економії електроенергії. Економте з нами - заради кращого життя в майбутньому. Всі прилади відповідають високому класу енергоспоживання А ++, А+++, що дозволяє економити до 40% електроенергіїФУНКЦІЯ "ЗАХИСТ ВІД ДІТЕЙ". Щоб діти випадково не включили прилад або змінили поточні настройки, в побутовій техніці VESTFROST передбачено блокування «Замок від дітей»LED ДИСПЛЕЙ. Стильний і функціональний LED дисплей, завдяки такому зручному дисплею Ви зможете управляти режимами роботи приладу VESTFROST.</p>]]></description_ua>
-<param name="Тип">Пральна машина</param>
-<param name="Колір">Білий</param>
-<param name="Ширина">59,5 см</param>
-<param name="Керування">Електронно-механічне</param>
-<param name="Макс. швидкість віджиму">1360 об/хв</param>
-<param name="Максимальне завантаження">6 кг</param>
-<param name="Тип пральної машини">Автомат</param>
-<param name="Двигун">Інверторний</param>
-<param name="Кількість програм">15</param>
-<param name="Висота">85 см</param>
-<param name="Глибина">41 см</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT36147" available="true">
@@ -111469,7 +111257,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT36207" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>4625.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80225</categoryId>
