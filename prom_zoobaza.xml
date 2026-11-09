@@ -20815,7 +20815,6 @@
 <price>1872.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
-<picture>https://www.zoobaza.com.ua/content/images/23/1208x800l80mc0/38848461920079.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/23/1208x800l80mc0/57669114609032.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3522</vendorCode>
@@ -21059,7 +21058,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/36/70795106065879_+ba355a4cd0.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/36/1208x800l80mc0/19154233448597.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/36/1208x800l80mc0/42886485495131.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/36/1208x800l80mc0/29783466159218.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/36/1208x800l80mc0/90953857737119.jpeg</picture>
@@ -22090,7 +22088,6 @@
 <picture>https://www.zoobaza.com.ua/content/images/31/13649021844843_+a7d8b9ee70.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/13690169430141.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/83039358517092.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/42235294167406.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/29056808191262.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/45372593525425.jpeg</picture>
 <vendor>ЗооБаза</vendor>
@@ -28321,6 +28318,7 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/21/15625860974401_+3cbdc4302c.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/21/278x209l80mc0/93044936544297.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB4920</vendorCode>
 <param name="Колір">бежевый+коричневый</param>
@@ -37297,7 +37295,7 @@
 <portal_category_id>609</portal_category_id>
 <price>929.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_99c773aa-b44a-11ed-8a4c-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_99c773aa-b44a-11ed-8a4c-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_99c773aa-b44a-11ed-8a4c-dc4a3e701323.jpg</picture>
@@ -59690,7 +59688,7 @@
 <name>Пральна машина Candy EY 27SB7-S (7 кг, інвертор)</name>
 <categoryId>229</categoryId>
 <portal_category_id>603</portal_category_id>
-<price>19374.00</price>
+<price>14875.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>13</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165021.jpg</picture>
@@ -64505,7 +64503,7 @@
 <portal_category_id>64302</portal_category_id>
 <price>854.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000173821.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000173822.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000173823.jpg</picture>
@@ -64892,7 +64890,7 @@
 <portal_category_id>602</portal_category_id>
 <price>15444.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000174151.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000174152.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000174153.jpg</picture>
@@ -69201,7 +69199,7 @@
 <portal_category_id>607</portal_category_id>
 <price>11238.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180531.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180532.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180533.jpg</picture>
@@ -72234,7 +72232,7 @@
 <portal_category_id>61601</portal_category_id>
 <price>1244.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>48</quantity_in_stock>
+<quantity_in_stock>47</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184761.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184762.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184763.jpg</picture>
