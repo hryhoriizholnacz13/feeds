@@ -1459,7 +1459,6 @@
 <price>1872.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
-<picture>https://www.zoobaza.com.ua/content/images/23/1208x800l80mc0/38848461920079.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/23/1208x800l80mc0/57669114609032.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>8456</article>
@@ -1747,7 +1746,6 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3535-1.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/36/1208x800l80mc0/19154233448597.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/36/1208x800l80mc0/29783466159218.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/36/1208x800l80mc0/90953857737119.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/36/1208x800l80mc0/64633101942745.jpeg</picture>
@@ -3265,7 +3263,6 @@
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3630-1.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/13690169430141.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/83039358517092.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/42235294167406.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/29056808191262.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303761</article>
@@ -39181,34 +39178,6 @@
 <param name="Розмір">48 см</param>
 <param name="EAN">4019008539814</param>
 </offer>
-<offer id="TX30143" available="true">
-<stock_quantity>2</stock_quantity>
-<price>3650.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>3935762</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30143-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30143-2.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30143-3.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30143-4.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30143-5.jpg</picture>
-<vendor>Wolters</vendor>
-<article>30143</article>
-<name>Куртка парка для собак Wolters Amundsen для Мопсов и Бульдогов 48 см Оливковый (30143)</name>
-<name_ua>Куртка парку для собак Wolters Amundsen для Мопсів та Бульдогів 48 см Оливковий (30143)</name_ua>
-<description><![CDATA[<p>Зимняя куртка Wolters Winter Jacket Amundsen идеально подходит для тех, кто следит за трендами и ищет стильную и теплую куртку для своего любимца. Изготовлена из легкоочищаемого полиэстера. Куртка имеет комфортную подкладку из мягкого согревающего флиса и оснащена светоотражающиеми полосками, улучшающими видимость в темноте и слабом освещении. Утепленный воротник состоит из искусственного меха, а мягкая резинка на животе обеспечивает комфорт во время ношения. Куртка оснащена застежками-липучками на шее и кнопками на животе для легкого надевания. Предназначена для комфортного использования амуниции благодаря водонепроницаемой молнии, вставленной в ткань, что позволяет привязать собаку к шлейке через куртку. Одним из преимуществ является отсутствие использования вредных перфторуглеродов (PFC), вместо них используется экологически чистая гидроизоляция ecorepel. Эта система имитирует естественную водоотталкивающую защиту утиных перьев, обеспечивая чистоту и сухость изделия (до 10000 мм водного столба). Куртка также ветрозащитная и дышащая. Куртку можно стирать в деликатном режиме при температуре 30 градусов по цельсию, используя мягкое моющее средство. Куртку следует сушить естественным путем.</p><p><strong>Характеристики продукта:</strong></p><p><strong>С воротником из искусственного меха;</strong></p><p><strong>Доступны специальные размеры для мопсов, бульдогов, такс;</strong></p><p><strong>Подкладка с удобным мягким флисом;</strong></p><p><strong>Доступны специальные размеры для мопсов, бульдогов и т.п.;</strong></p><p><strong>Водо- и грязеотталкивающая благодаря гидроизоляции ecorepel;</strong></p><p>100% без PFC;</p><p>Водонепроницаемость до 10 000 мм воды;</p><p><strong>Защищена от ветра, но дышащая;</strong></p><p><strong>Оснащена водонепроницаемой системой молнии Zip&amp;Go;</strong></p><p><strong>С молнией на шее;</strong></p><p><strong>Мягкая резинка на животе делает куртку удобной в носке;</strong></p><p><strong>Оснащена светоотражающими элементами;</strong></p><p>100% полиэстер.</p>]]></description>
-<description_ua><![CDATA[<p>Зимова куртка Wolters Winter Jacket Amundsen ідеально підходить для тих, хто слідкує за трендами та шукає стильну та теплу куртку для свого улюбленця. Виготовлена з поліестеру, який легко чиститься. Куртка має комфортну підкладку із м'якого зігріваючого флісу та світловідбиваючі смужки, що поліпшують видимість у темряві та при слабкому освітленні. Утеплений комір складається зі штучного хутра, а м'яка гумка на животі забезпечує комфорт під час носіння. Куртка оснащена застібками-липучками на шиї та кнопками на животі для легкості надягання. Призначена для практичного використання амуніції завдяки водонепроникній блискавці, вставленій у тканину, що дозволяє прив'язати собаку до шлейки через куртку. Однією з переваг є відсутність використання шкідливих перфторуглеродів (PFC), замість них використовується екологічно чиста гідроізоляція ecorepel. Ця система імітує природний водовідштовхувальний захист качиного пір'я, забезпечуючи чистоту та сухість виробу (до 10000 мм водного стовпа). Куртка також вітрозахисна та дихаюча. Куртку можна прати в делікатному режимі при температурі 30 градусів по цельсію, використовуючи м'який миючий засіб. Куртку слід сушити на повітрі.</p><p><strong>Характеристики продукту:</strong></p><p><strong>З коміром із штучного хутра;</strong></p><p><strong>Доступні спеціальні розміри для мопсів, бульдогів, такс;</strong></p><p><strong>Підкладка зі зручним м'яким флісом;</strong></p><p><strong>Доступні спеціальні розміри для мопсів, бульдогів тощо;</strong></p><p><strong>Водо- та брудовідштовхувальна завдяки гідроізоляції ecorepel;</strong></p><p>100% без PFC;</p><p>Водонепроникність до 10000 мм води;</p><p><strong>Вітрозахисна і дихаюча;</strong></p><p><strong>Оснащена водонепроникною системою блискавки Zip &amp; Go;</strong></p><p><strong>З блискавкою на шиї;</strong></p><p><strong>М'яка гумка на животі робить куртку зручною в носінні;</strong></p><p><strong>Оснащена світловідбиваючими елементами;</strong></p><p>100% поліестер.</p>]]></description_ua>
-<param name="Довжина">48 см</param>
-<param name="Особливості">Со светоотражающими элементами</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Вид">Куртки</param>
-<param name="Тематика">Повседневный</param>
-<param name="Колір">Оливковий</param>
-<param name="Тварина">Собака</param>
-<param name="Сезон">Зима</param>
-<param name="Тип">Куртки</param>
-<param name="Розмір">48 см</param>
-<param name="EAN">4019008539883</param>
-</offer>
 <offer id="TX30152" available="true">
 <stock_quantity>2</stock_quantity>
 <price>1150.00</price>
@@ -59212,6 +59181,32 @@
 <param name="Для кого">Для собак</param>
 <param name="EAN">748960537487</param>
 </offer>
+<offer id="TX41882" available="true">
+<stock_quantity>2</stock_quantity>
+<price>4050.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>4626659</categoryId>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41882-1.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41882-2.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41882-3.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41882-5.jpg</picture>
+<vendor>Ruffwear</vendor>
+<article>41882</article>
+<name>Поддерживающая шлейка для служебных собак Ruffwear Web Master XXS 33-43 см Серый (41882)</name>
+<name_ua>Підтримуюча шлейка для службових собак Ruffwear Web Master XXS 33-43 см Сірий (41882)</name_ua>
+<description><![CDATA[<p>Шлейка Web Master – это безопасная, поддерживающая и универсальная амуниция, разработанная для помощи собакам в маневрировании и преодолевании препятствий. Ее тонкий, но прочный перфорированный пеноматериал обеспечивает хорошую вентиляцию и поддержку, не ограничивая свободу движений. Пять точек регулировки гарантируют надежную посадку, а мягкие ремни на груди и животе делают шлейку Web Master комфортной для ежедневного использования.</p><p>Эта шлейка предпочтительна многими спасателями собак при лавинных бедствиях, служебными собачьими руководителями, а также собаками-помощниками с ампутированными конечностями и специалистами в области безопасности. Она отлично подходит как замена обычной повседневной шлейке и ошейнику для собак, которые путешествуют, занимаются альпинизмом или нуждаются в помощи при передвижении.</p>]]></description>
+<description_ua><![CDATA[<p>Шлейка Web Master – це безпечна, підтримуюча та універсальна амуніція, розроблена для допомоги собакам у маневруванні та доланні перешкод. Її тонкий, але міцний перфорований піноматеріал забезпечує хорошу вентиляцію та підтримку, не обмежуючи свободу рухів. П'ять точок регулювання гарантують надійну посадку, а м'які ремені на грудях та животі роблять шлейку Web Master комфортною для щоденного використання.</p><p>Ця шлейка переважна багатьма рятувальниками собак при лавинних лихах, службовими собачими керівниками, а також собаками-помічниками з ампутованими кінцівками та фахівцями в галузі безпеки. Вона відмінно підходить як заміна звичайній повсякденній шлейці і нашийнику для собак, які подорожують, займаються альпінізмом або потребують допомоги при пересуванні.</p>]]></description_ua>
+<param name="Колір">Сірий</param>
+<param name="Розмір">XXS</param>
+<param name="Тварина">Собака</param>
+<param name="Особливості">Активный образ жизни</param>
+<param name="Матеріал">Поліестер</param>
+<param name="Серія">Web Master</param>
+<param name="Сезон">Демісезон</param>
+<param name="Обхват груди">33-43 см</param>
+<param name="Для кого">Для собак</param>
+<param name="EAN">748960373948</param>
+</offer>
 <offer id="TX41883" available="true">
 <stock_quantity>2</stock_quantity>
 <price>4050.00</price>
@@ -61279,32 +61274,6 @@
 <param name="Фасовка">390 г</param>
 <param name="EAN">9421016594467</param>
 </offer>
-<offer id="TX42168" available="true">
-<stock_quantity>2</stock_quantity>
-<price>456.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>1461202</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42168-5.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42168-6.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42168-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42168-2.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42168-3.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42168-4.jpg</picture>
-<vendor>ZIWI</vendor>
-<article>42168</article>
-<name>Полнорационный влажный корм для собак ZIWI Peak Series Курица 390 г (42168)</name>
-<name_ua>Повнораціонний вологий корм для собак ZIWI Peak Series Курка 390 г (42168)</name_ua>
-<description><![CDATA[<p><strong>Ziwi Peak Chicken Dog Petfood Can — Курица | Полнорационный консервированный корм для собак</strong></p><p>Курица, свободно бегающая под небом Новой Зеландии – это не только красиво, но и нравственно, натурально и вкусно. Ziwi Peak Chicken – идеальный вариант для собак всех возрастов: от щенков до сеньоров.</p><p>В составе преимущественно ингредиенты животного происхождения: мясо, субпродукты, морепродукты и кости, а также добавлены суперфуды Z-BOOST. Все это – в удобном формате консервы.</p><p><strong>Основные преимущества:</strong></p><p>Моно-белковая формула с курицей – отлично подходит для чувствительного пищеварения.</p><p><strong>Полноценный и сбалансированный рацион на каждый день</strong></p><p>Можно использовать как топер до сухого корма или вкусное лакомство.</p><p><strong>Без зерна, картофеля, глицерина и мясных отходов</strong></p><p><strong>Произведено в Новой Зеландии, с заботой о животных и природе</strong></p><p><strong>Ключевые нутриенты и их польза:</strong></p><p>Омега-3 и Омега-6 жирные кислоты.</p><p>Помогают поддерживать здоровую кожу, блестящую шерсть, работу сердца, мозга и иммунитета.</p><p>Источники: мясо птицы, зеленые мидии, морепродукты.</p><p><strong>Глюкозамин и хондроитин</strong></p><p>Способствуют подвижности суставов, уменьшают износ хрящей – важно для активных собак и старших любимцев.</p><p>Источники: курица, мясо, кости.</p><p><strong>Таурин</strong></p><p>Необходим для сердечно-сосудистой системы, зрения, пищеварения и иммунитета. Синтезируется в организме собак, но дополнительное поступление из рациона полезно.</p><p><strong>Кальций</strong></p><p>Для крепких костей и зубов, а также для правильной работы мышц и нервной системы.</p><p>Источник: измельченные кости, как в естественном рационе хищников.</p><p><strong>Цинк</strong></p><p>Способствует укреплению иммунитета, заживлению, росту и развитию щенков.</p><p>Источники: мясо птицы и красное мясо.</p><p><strong>Витамины группы B:</strong></p><p>B1 (Тиамин): энергетический обмен и работа нервной системы.</p><p>B3 (Ниацин): ферментативные процессы.</p><p>B5 (Пантотеновая кислота): обмен энергии.</p><p><strong>Биотин: здоровье кожи и шерсти, синтез жирных кислот</strong></p><p>Источники: печень, почки, яйца, органы, рыба.</p><p>Ziwi Peak Chicken Dog Can – это когда вы хотите дать своей собаке лучшее из природы без компромиссов Вкусно, питательно, нравственно.</p>]]></description>
-<description_ua><![CDATA[<p><strong>Ziwi Peak Chicken Dog Petfood Can — Курка Повнораціонний консервований корм для собак</strong></p><p>Курка, що вільно бігає під небом Нової Зеландії — це не тільки красиво, а й етично, натурально та смачно. Ziwi Peak Chicken — ідеальний варіант для собак усіх вікових категорій: від цуценят до сеньйорів.</p><p>У складі — переважно інгредієнти тваринного походження: м’ясо, субпродукти, морепродукти та кістки, а також додані суперфуди Z-BOOST. Усе це — в зручному форматі консерви.</p><p><strong>Основні переваги:</strong></p><p><strong>Моно-білкова формула з куркою — чудово підходить для чутливого травлення</strong></p><p><strong>Повноцінний та збалансований раціон на щодень</strong></p><p><strong>Можна використовувати як топер до сухого корму або смачні ласощі</strong></p><p><strong>Без зерна, картоплі, гліцерину та м’ясних відходів</strong></p><p><strong>Вироблено в Новій Зеландії, з турботою про тварин і природу</strong></p><p><strong>Ключові нутрієнти та їх користь:</strong></p><p>Омега-3 та Омега-6 жирні кислоти.</p><p>Допомагають підтримувати здорову шкіру, блискучу шерсть, роботу серця, мозку та імунітету.</p><p>Джерела: м'ясо птиці, зелені мідії, морепродукти.</p><p><strong>Глюкозамін і хондроїтин</strong></p><p>Сприяють рухливості суглобів, зменшують зношення хрящів — важливо для активних собак і старших улюбленців.</p><p>Джерела: курка, м’ясо, кістки.</p><p><strong>Таурин</strong></p><p>Необхідний для серцево-судинної системи, зору, травлення та імунітету. Синтезується в організмі собак, але додаткове надходження з раціону корисне.</p><p><strong>Кальцій</strong></p><p>Для міцних кісток і зубів, а також для правильної роботи м’язів та нервової системи.</p><p>Джерело: подрібнені кістки, як у природному раціоні хижаків.</p><p><strong>Цинк</strong></p><p>Сприяє зміцненню імунітету, загоєнню, росту та розвитку цуценят.</p><p>Джерела: м’ясо птиці та червоне м’ясо.</p><p><strong>Вітаміни групи B:</strong></p><p>B1 (Тіамін): енергетичний обмін і робота нервової системи.</p><p>B3 (Ніацин): ферментативні процеси.</p><p>B5 (Пантотенова кислота): обмін енергії.</p><p><strong>Біотин: здоров’я шкіри та шерсті, синтез жирних кислот</strong></p><p>Джерела: печінка, нирки, яйця, органи, риба.</p><p>Ziwi Peak Chicken Dog Can — це коли ви хочете дати своєму собаці краще з природи без компромісів. Смачно, поживно, етично.</p>]]></description_ua>
-<param name="Тип">Повнораціонний вологий корм для собак</param>
-<param name="Тип">Вологий корм</param>
-<param name="Клас">Холистик</param>
-<param name="Вік">Щенки ; Взрослые ; Пожилые ; Беременные</param>
-<param name="Тварина">Собака</param>
-<param name="Інгредієнти">Курка</param>
-<param name="Фасовка">390 г</param>
-<param name="EAN">9421016594863</param>
-</offer>
 <offer id="TX42169" available="true">
 <stock_quantity>2</stock_quantity>
 <price>456.00</price>
@@ -61330,32 +61299,6 @@
 <param name="Інгредієнти">Скумбрия ; Ягненок</param>
 <param name="Фасовка">390 г</param>
 <param name="EAN">9421016594283</param>
-</offer>
-<offer id="TX42170" available="true">
-<stock_quantity>2</stock_quantity>
-<price>512.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>1461202</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42170-5.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42170-6.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42170-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42170-2.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42170-3.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42170-4.jpg</picture>
-<vendor>ZIWI</vendor>
-<article>42170</article>
-<name>Полнорационный влажный корм для собак ZIWI Peak Series Оленина 390 г (42170)</name>
-<name_ua>Повнораціонний вологий корм для собак ZIWI Peak Series Оленина 390 г (42170)</name_ua>
-<description><![CDATA[<p><strong>Ziwi Peak Venison Dog Petfood Can - Оленина | Полнорационный консервированный корм для собак</strong></p><p>Огромные просторы Новой Зеландии с умеренным климатом создают идеальные условия для свободного выпаса оленей, питающихся травами на родных пастбищах. Эти животные выращиваются нравственно, имея достаточно пространства для свободного движения.</p><p>Ziwi Peak Venison – это моно-белковое питание, которое идеально подходит для собак с чувствительным желудком. Благодаря этому рецепту, вы сможете вместе с вашим любимцем наслаждаться приключениями по полной! Полноценное и сбалансированное питание PeakPrey для собак на любом этапе жизни, от щенков до старших собак.</p><p><strong>Основные преимущества:</strong></p><p>Моно-белковый состав из оленины – подходит для собак с чувствительным пищеварением.</p><p><strong>Полноценное питание для собак разных возрастов — от щенков до сеньоров</strong></p><p><strong>Без зерна, картофеля, глицерина и мясных отходов</strong></p><p>Можно использовать как основное питание, до сухого корма или вкусное лакомство.</p><p><strong>Ключевые нутриенты и их польза:</strong></p><p>Омега-3 и Омега-6 жирные кислоты.</p><p>Поддерживают здоровье кожи и шерсти, а также помогают мозгу, сердцу и иммунной системе работать должным образом.</p><p>Источники: морепродукты (зеленая мидия из Новой Зеландии), оленина.</p><p><strong>Глюкозамин и хондроитин</strong></p><p>Поддерживают здоровье суставов, предотвращают их износ, что особенно важно для старших собак и щенков.</p><p>Источники: оленина, мясо, кости.</p><p><strong>Таурин</strong></p><p>Важен для нормального зрения, сердечной функции, пищеварения и поддержания иммунной системы.</p><p>Источники: мясо, рыба.</p><p><strong>Кальций</strong></p><p>Для крепких костей и зубов, а также для правильной работы сердца, мышц и нервов.</p><p>Источники: измельченные кости, оленина.</p><p><strong>Фосфор</strong></p><p>Способствует формированию крепких костей и зубов и поддерживает рост и восстановление клеток.</p><p>Источники: кости, органы.</p><p><strong>Натрий</strong></p><p>Важен для настроения, умственной концентрации и поддержания равновесия жидкостей в организме.</p><p>Источники: мясо, морепродукты.</p><p><strong>Селен</strong></p><p>Предохраняет клеточные мембраны от окислительного повреждения и поддерживает иммунную систему.</p><p>Фолиевая кислота (B9).</p><p>Важна для метаболизма аминокислот и нуклеотидов и синтеза митохондриальных белков.</p><p>Ziwi Peak Venison – это идеальное решение для тех, кто ищет сбалансированное и вкусное питание для своей собаки, с учетом потребностей в чувствительном пищеварении и здоровье суставов.</p>]]></description>
-<description_ua><![CDATA[<p><strong>Ziwi Peak Venison Dog Petfood Can — Оленина Повнораціонний консервований корм для собак</strong></p><p>Величезні простори Нової Зеландії з її помірним кліматом створюють ідеальні умови для вільного випасу оленів, які харчуються травами на рідних пасовищах. Ці тварини вирощуються етично, маючи достатньо простору для вільного руху.</p><p>Ziwi Peak Venison — це моно-білкове харчування, яке ідеально підходить для собак з чутливим шлунком. Завдяки цьому рецепту, ви зможете разом з вашим улюбленцем насолоджуватися пригодами на повну! Повноцінне та збалансоване харчування PeakPrey для собак на будь-якому етапі життя, від цуценят до старших собак.</p><p><strong>Основні переваги:</strong></p><p><strong>Моно-білковий склад з оленини — підходить для собак з чутливим травленням</strong></p><p><strong>Повноцінне харчування для собак різних вікових категорій — від цуценят до сеньйорів</strong></p><p><strong>Без зерна, картоплі, гліцерину та м'ясних відходів</strong></p><p><strong>Можна використовувати як основне харчування, топер до сухого корму або смачні ласощі</strong></p><p><strong>Ключові нутрієнти та їх користь:</strong></p><p>Омега-3 та Омега-6 жирні кислоти.</p><p>Підтримують здоров'я шкіри та шерсті, а також допомагають мозку, серцю та імунній системі працювати належним чином.</p><p>Джерела: морепродукти (зелена мідія з Нової Зеландії), оленина.</p><p><strong>Глюкозамін і хондроїтин</strong></p><p>Підтримують здоров'я суглобів, запобігають їхньому зношенню, що особливо важливо для старших собак і цуценят.</p><p>Джерела: оленина, м'ясо, кістки.</p><p><strong>Таурин</strong></p><p>Важливий для нормального зору, серцевої функції, травлення та підтримки імунної системи.</p><p>Джерела: м'ясо, риба.</p><p><strong>Кальцій</strong></p><p>Для міцних кісток і зубів, а також для правильної роботи серця, м'язів і нервів.</p><p>Джерела: подрібнені кістки, оленина.</p><p><strong>Фосфор</strong></p><p>Сприяє формуванню міцних кісток і зубів та підтримує ріст і відновлення клітин.</p><p>Джерела: кістки, органи.</p><p><strong>Натрій</strong></p><p>Важливий для настрою, розумової концентрації та підтримки рівноваги рідин в організмі.</p><p>Джерела: м'ясо, морепродукти.</p><p><strong>Селен</strong></p><p>Захищає клітинні мембрани від окислювального пошкодження та підтримує імунну систему.</p><p>Фолієва кислота (B9).</p><p>Важлива для метаболізму амінокислот і нуклеотидів та для синтезу мітохондріальних білків.</p><p>Ziwi Peak Venison — це ідеальне рішення для тих, хто шукає збалансоване та смачне харчування для свого собаки, з урахуванням потреб в чутливому травленні та здоров'ї суглобів.</p>]]></description_ua>
-<param name="Тип">Повнораціонний вологий корм для собак</param>
-<param name="Тип">Вологий корм</param>
-<param name="Клас">Холистик</param>
-<param name="Вік">Щенки ; Взрослые ; Пожилые ; Беременные</param>
-<param name="Тварина">Собака</param>
-<param name="Інгредієнти">Оленина</param>
-<param name="Фасовка">390 г</param>
-<param name="EAN">9421016594528</param>
 </offer>
 <offer id="TX42171" available="true">
 <stock_quantity>2</stock_quantity>
@@ -65991,29 +65934,6 @@
 <param name="Матеріал">Поліестер</param>
 <param name="Вид">М&apos;які іграшки</param>
 <param name="EAN">9345719114879</param>
-</offer>
-<offer id="TX46370" available="true">
-<stock_quantity>2</stock_quantity>
-<price>619.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>3439219</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46370-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46370-2.jpg</picture>
-<vendor>FuzzYard</vendor>
-<article>46370</article>
-<name>Мягкая игрушка для собак FuzzYard Пряничный Фигурист (46370)</name>
-<name_ua>М&apos;яка іграшка для собак FuzzYard Пряниковий Фігурист (46370)</name_ua>
-<description><![CDATA[<p>Праздничная игрушка Biscuit Blader приносит сахар, специи и немного весёлого пищика — чтобы сделать праздники ещё слаще! С ледяными коньками, сияющими глазками и бабочкой, которая говорит «готов впечатлять», этот пряничный милый герой дарит радость в каждом весёлом кусе.</p><p><strong>Преимущества:</strong></p><p><strong>Дизайн в Австралии</strong></p><p><strong>Встроенный пищик, привлекающий внимание</strong></p><p><strong>Двойной слой и прочные швы для долговечности</strong></p><p><strong>Можно стирать в машинке</strong></p><p>100% полиэстер, безопасная краска, нетоксично и гипоаллергенно.</p>]]></description>
-<description_ua><![CDATA[<p>Святкова іграшка Biscuit Blader приносить цукор, спеції та трохи веселого пищика — щоб зробити свята ще солодшими! З морозними ковзанами, сяючими оченятами та метеликом, що каже «готовий вражати», цей пряниковий милий герой дарує радість у кожному веселому кусі.</p><p><strong>Переваги:</strong></p><p><strong>Дизайн в Австралії</strong></p><p><strong>Вбудований пищик, який привертає увагу</strong></p><p><strong>Подвійний шар та міцні шви для довговічності</strong></p><p><strong>Можна прати в машинці</strong></p><p>100% поліестер, безпечна фарба, нетоксична та неалергенна.</p>]]></description_ua>
-<param name="Тип">М&apos;яка іграшка для собак</param>
-<param name="Колір">Бежевий</param>
-<param name="Вік">Взрослые</param>
-<param name="Тварина">Собака</param>
-<param name="Кількість в упаковці, шт">1</param>
-<param name="Особливості">С пищалкой</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Вид">М&apos;які іграшки</param>
-<param name="EAN">9345719114794</param>
 </offer>
 <offer id="TX46371" available="true">
 <stock_quantity>2</stock_quantity>
@@ -81045,7 +80965,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT19524" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>980.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80161</categoryId>
@@ -99552,7 +99472,7 @@
 </offer>
 <offer id="HT34918" available="true">
 <stock_quantity>13</stock_quantity>
-<price>19374.00</price>
+<price>14875.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165021.jpg</picture>
@@ -103811,7 +103731,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35408" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>920.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80163</categoryId>
@@ -104148,7 +104068,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT35433" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>15444.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -107603,7 +107523,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35820" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>11238.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80131</categoryId>
@@ -110145,7 +110065,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT36046" available="true">
-<stock_quantity>48</stock_quantity>
+<stock_quantity>47</stock_quantity>
 <price>1291.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4634449</categoryId>
