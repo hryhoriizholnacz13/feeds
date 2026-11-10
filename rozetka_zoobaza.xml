@@ -79901,7 +79901,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT13837" available="true">
-<stock_quantity>40</stock_quantity>
+<stock_quantity>38</stock_quantity>
 <price>1278.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81229</categoryId>
@@ -79989,7 +79989,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT14152" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>1919.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>112986</categoryId>
@@ -81248,7 +81248,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT22395" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>2336.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80155</categoryId>
@@ -81313,7 +81313,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT22562" available="true">
-<stock_quantity>12</stock_quantity>
+<stock_quantity>11</stock_quantity>
 <price>2303.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80180</categoryId>
@@ -82607,7 +82607,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT23894" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>6463.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80142</categoryId>
@@ -82666,7 +82666,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT24044" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>1079.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4674720</categoryId>
@@ -82787,7 +82787,7 @@
 <param name="Гарантія">60 міс</param>
 </offer>
 <offer id="HT24439" available="true">
-<stock_quantity>9</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>716.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80071</categoryId>
@@ -82914,6 +82914,7 @@
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000007399_ZMM1010B_W3.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000007399_ZMM1010B_W4.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000007399_ZMM1011_4.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/8_000007399_ZMM1011_5.jpg</picture>
 <vendor>Zelmer</vendor>
 <article>ZMM1010B</article>
 <name>Мясорубка Zelmer ZMM1010B (ZMM1010B)</name>
@@ -82966,7 +82967,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT24854" available="true">
-<stock_quantity>33</stock_quantity>
+<stock_quantity>31</stock_quantity>
 <price>1344.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81229</categoryId>
@@ -83266,7 +83267,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT25414" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>3885.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80162</categoryId>
@@ -83699,7 +83700,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT26638" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>22813.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -83733,7 +83734,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT26694" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>14119.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -83767,7 +83768,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT26698" available="true">
-<stock_quantity>56</stock_quantity>
+<stock_quantity>50</stock_quantity>
 <price>14969.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -83802,7 +83803,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT26759" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>11907.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -84660,7 +84661,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT29040" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>1245.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -85448,7 +85449,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT29699" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>11819.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
@@ -85549,7 +85550,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT29755" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>15444.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
@@ -85634,7 +85635,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT29826" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>12282.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
@@ -86606,7 +86607,7 @@
 <param name="Гарантія">6 місяців</param>
 </offer>
 <offer id="HT30466" available="true">
-<stock_quantity>9</stock_quantity>
+<stock_quantity>7</stock_quantity>
 <price>312.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4626138</categoryId>
@@ -86752,7 +86753,7 @@
 <param name="Призначення">Для пилососа</param>
 </offer>
 <offer id="HT30474" available="true">
-<stock_quantity>13</stock_quantity>
+<stock_quantity>8</stock_quantity>
 <price>312.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4626138</categoryId>
@@ -86852,7 +86853,7 @@
 </offer>
 <offer id="HT30483" available="true">
 <stock_quantity>3</stock_quantity>
-<price>5288.00</price>
+<price>5850.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80142</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011918_4908076366_w640_h640_pich-elektrichna-goodgrill.jpg</picture>
@@ -87176,7 +87177,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30597" available="true">
-<stock_quantity>42</stock_quantity>
+<stock_quantity>38</stock_quantity>
 <price>1258.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81667</categoryId>
@@ -88490,7 +88491,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31044" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>8</stock_quantity>
 <price>18738.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80141</categoryId>
@@ -88585,36 +88586,6 @@
 <param name="Глибина">49 см</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
-<offer id="HT31172" available="true">
-<stock_quantity>2</stock_quantity>
-<price>39375.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80125</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000012609_323126006.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000012609_323126008.jpg</picture>
-<vendor>Gorenje</vendor>
-<article>NRK720EAXL4</article>
-<name>Холодильник Gorenje NRK720EAXL4 (NRK720EAXL4)</name>
-<name_ua>Холодильник Gorenje NRK720EAXL4 (NRK720EAXL4)</name_ua>
-<description><![CDATA[<p>NoFrost Plus Одна из лучших систем охлаждения на рынке, установленная в морозильном отсеке, предотвращает накопление льда и инея. Это помогает снизить потребление электроэнергии, одновременно поддерживая в холодильном отсеке идеальный микроклимат для хранения продуктов свежими. Благодаря циркуляции ионизированного воздуха продукты не высыхают и сохраняют все витамины и минералы. Inverter Compressor Инверторные компрессоры работают бесшумно, имеют более длительный срок службы и экономичнее по сравнению с обычными компрессорами. Каждый раз, когда из-за открывания дверцы температура внутри холодильника растет, инверторный компрессор обеспечивает быстрое и эффективное охлаждение, что предотвращает порчу продуктов. FastFreeze Замораживает продукты при температуре -24 °C, сохраняя большинство минералов. Примерно через 2 дня функция будет автоматически выключена, и температура в морозильном отделении вернется к предварительно установленному значению. MultiFlow 360° Система вентиляции MultiFlow 360° равномерно распределяет воздух в холодильной камере, поддерживая его оптимальную циркуляцию и наилучшие условия хранения продуктов. SensoTech Switch Большой и четкий светодиодный дисплей обеспечивает мгновенное управление настройками температуры. Функции, такие как FastFreeze и режим «Отпуск», можно включить одним касанием. А в случае внезапного повышения температуры встроенный сигнал сразу предупредит вас. LedLight Ленточное LED освещение в холодильниках ION generation от Gorenje имеет два больших преимущества - эстетическое и функциональное. Помимо обеспечения отличной обзорности содержимого холодильника, оно отличается также и высокой энергоэффективностью. Оно служит до 3 раз дольше, чем обычная лампочка накаливания, и потребляет в 10 раз меньше энергии. Easy cleaning Инновационное глянцевое гладкое покрытие внутри отделений обеспечивает легкую чистку холодильников с морозильными камерами Gorenje GardenFresh, чтобы еда сохраняла питательные свойства и не портилась. EcoMode В случае вашего длительного отсутствия холодильник может работать в режиме экономии электроэнергии, поскольку дверца все время закрыта.</p>]]></description>
-<description_ua><![CDATA[<p>NoFrost Plus Одна з найкращих систем охолодження на ринку, яку встановлено в морозильному відсіку, запобігає накопиченню льоду та інею. Це допомагає знизити споживання електроенергії, одночасно підтримуючи в холодильному відсіку ідеальний мікроклімат для зберігання продуктів свіжими. Завдяки циркуляції іонізованого повітря продукти не висихають і зберігають усі вітаміни та мінерали. Inverter Compressor Інверторні компресори працюють безшумно, мають довший термін служби та економніші в порівнянні зі звичайними компресорами. Кожного разу, коли через відкривання дверцят температура всередині холодильника зростає, інверторний компресор забезпечує швидке й ефективне охолодження, що запобігає псуванню продуктів. FastFreeze Заморожує продукти при температурі -24 °C, зберігаючи більшість мінералів. Приблизно через 2 дні, функцію буде автоматично вимкнено і температура у морозильному відділенні повернеться до попередньо встановленого значення. MultiFlow 360° Система вентиляції MultiFlow 360° рівномірно розподіляє повітря в холодильній камері, підтримуючи його оптимальну циркуляцію та найкращі умови зберігання продуктів. SensoTech Switch Великий і чіткий світлодіодний дисплей забезпечує миттєве керування налаштуваннями температури. Функції, як-от FastFreeze і режим «Відпустка», можна ввімкнути одним дотиком. А в разі раптового підвищення температури вбудований сигнал одразу попередить вас. LedLight Стрічкове LED освітлення у холодильниках ION generation від Gorenje має дві великі переваги - естетичну і функціональну. Окрім забезпечення відмінної оглядовості вмісту холодильника, воно вирізняється також і високою енергоефективністю. Воно служить до 3 разів довше, ніж звичайна лампочка розжарювання, і споживає у 10 разів менше енергії. Easy cleaning Інноваційне глянцеве гладке покриття всередині відділень забезпечує легке чищення холодильників із морозильними камерами Gorenje GardenFresh, щоб їжа зберігала поживні властивості та не псувалася. EcoMode У разі вашої тривалої відсутності холодильник може працювати в режимі заощадження електроенергії, оскільки дверцята весь час закриті.</p>]]></description_ua>
-<param name="Тип">Холодильник</param>
-<param name="Колір">Сірий</param>
-<param name="Споживана потужність">292 кВт*рік</param>
-<param name="Тип управління">Електронне</param>
-<param name="Ширина">70.4 см</param>
-<param name="Клас енергоспоживання">А++</param>
-<param name="Об&apos;єм морозильної камери">109 л</param>
-<param name="Система охолодження">NoFrost</param>
-<param name="Тип компресора">Інверторний</param>
-<param name="Об&apos;єм холодильної камери">347 л</param>
-<param name="Автономне збереження холоду">12 год</param>
-<param name="Загальний об&apos;єм">456 л</param>
-<param name="Вага">88 кг</param>
-<param name="Висота">200 см</param>
-<param name="Глибина">69.4 см</param>
-<param name="Гарантія">24 місяці</param>
-</offer>
 <offer id="HT31188" available="true">
 <stock_quantity>1</stock_quantity>
 <price>1549.00</price>
@@ -88641,37 +88612,6 @@
 <param name="Кількість насадок">6</param>
 <param name="Вага">0,64 кг</param>
 <param name="Гарантія">12 місяців</param>
-</offer>
-<offer id="HT31197" available="true">
-<stock_quantity>1</stock_quantity>
-<price>5049.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80176</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012634_406381795.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012634_408832278.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012634_408832275.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000012634_408832277.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000012634_408832280.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000012634_408832284.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000012634_408832287.jpg</picture>
-<vendor>Zelmer</vendor>
-<article>ZMM3512B</article>
-<name>Мясорубка Zelmer ZMM3512B шинковка (ZMM3512B)</name>
-<name_ua>М`ясорубка Zelmer ZMM3512B шинковка (ZMM3512B)</name_ua>
-<description><![CDATA[<p>ВЫСОКАЯ МОЩНОСТЬ И ЭФФЕКТИВНОСТЬ Мясорубка Zelmer ZMM3512B имеет максимальную мощность 1500 Вт, что позволяет измельчать до 2 кг мяса всего за одну минуту. Такая высокая производительность обеспечивает быстрое и удобное приготовление ингредиентов для ваших любимых блюд. ДВЕ РЕШЕТКИ И ДВУСТОРОННИЙ НОЖ В комплекте — две решетки с разным диаметром отверстий, что позволяет выбрать желаемую текстуру фарша в соответствии с потребностями. Решетка со средними отверстиями идеально подходит для ежедневных блюд, а с большими — пригодится при приготовлении бургеров. Двусторонний нож легко устанавливается и обеспечивает точное и качественное измельчение. ФУНКЦИЯ РЕВЕРСА Устройство оснащено функцией реверса — изменения направления вращения двигателя. Это особенно полезно при обработке твердых ингредиентов, обеспечивая плавную и бесперебойную работу мясорубки. НАСАДКА ДЛЯ КОЛБАСОК Готовьте вкусные домашние колбаски с помощью специальной насадки, которая облегчает их формирование. Это идеальное решение для ценителей домашних вкусностей, которые хотят иметь полный контроль над составом блюд. ТЕРКА В КОМПЛЕКТЕ Мясорубка ZMM3512B также укомплектована теркой с двумя видами режущих барабанов. Благодаря ей вы быстро подготовите ингредиенты для салатов, драников или других блюд, экономя время и усилия. ПРОЧНОСТЬ И БЕЗОПАСНОСТЬ Zelmer ZMM3512B — это надежный прибор с нескользящими ножками, которые гарантируют устойчивость во время работы. Прочная конструкция из высококачественных материалов обеспечивает долговечность и безотказную эксплуатацию каждый день.</p>]]></description>
-<description_ua><![CDATA[<p>ВИСОКА ПОТУЖНІСТЬ ТА ЕФЕКТИВНІСТЬ М’ясорубка Zelmer ZMM3512B має максимальну потужність 1500 Вт, що дозволяє подрібнювати до 2 кг м’яса всього за одну хвилину. Така висока продуктивність забезпечує швидке й зручне приготування інгредієнтів для ваших улюблених страв. ДВІ РЕШІТКИ ТА ДВОСТОРОННІЙ НІЖ У комплекті — дві решітки з різним діаметром отворів, що дозволяє обрати бажану текстуру фаршу відповідно до потреб. Решітка зі середніми отворами ідеально підходить для щоденних страв, а з більшими — стане в пригоді при приготуванні бургерів. Двосторонній ніж легко встановлюється та забезпечує точне й якісне подрібнення. ФУНКЦІЯ РЕВЕРСУ Пристрій оснащений функцією реверсу — зміни напрямку обертання двигуна. Це особливо корисно під час обробки твердих інгредієнтів, забезпечуючи плавну й безперебійну роботу м’ясорубки. НАСАДКА ДЛЯ КОВБАСОК Готуйте смачні домашні ковбаски за допомогою спеціальної насадки, що полегшує їх формування. Це ідеальне рішення для поціновувачів домашніх смаколиків, які хочуть мати повний контроль над складом страв. ТЕРТКА В КОМПЛЕКТІ М’ясорубка ZMM3512B також укомплектована терткою з двома видами ріжучих барабанів. Завдяки їй ви швидко підготуєте інгредієнти для салатів, дерунів або інших страв, заощаджуючи час та зусилля. МІЦНІСТЬ І БЕЗПЕКА Zelmer ZMM3512B — це надійний прилад із нековзними ніжками, що гарантують стійкість під час роботи. Міцна конструкція з високоякісних матеріалів забезпечує довговічність та безвідмовну експлуатацію кожного дня.</p>]]></description_ua>
-<param name="Тип">М`ясорубка</param>
-<param name="Колір">Білий</param>
-<param name="Споживана потужність">1500 Вт</param>
-<param name="Кількість швидкостей">1</param>
-<param name="Продуктивність">2 кг/хв</param>
-<param name="Матеріал корпусу">Пластик</param>
-<param name="Насадка для ковбас">Так</param>
-<param name="Реверс">Так</param>
-<param name="Тип ножа">Двосторонній</param>
-<param name="Насадка для шинковки/тертки">Так</param>
-<param name="Вага">3.3 кг</param>
-<param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT31201" available="true">
 <stock_quantity>1</stock_quantity>
@@ -88884,7 +88824,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31386" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>5036.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80142</categoryId>
@@ -88925,29 +88865,6 @@
 <description_ua><![CDATA[<p>Пилосос CASTLE CW-101B забезпечує можливість здійснити прибирання з високою продуктивністю. А все завдяки тому, що ця техніка має потужність 2000 Вт та всмоктує забруднення з великою силою. Так ви зможете прибрати будь-які ділянки, особливо не обтяжуючи себе.</p>]]></description_ua>
 <param name="Тип">Порохотяг</param>
 <param name="Колір">Синій</param>
-<param name="Споживана потужність">2000 Вт</param>
-<param name="Живлення">від мережі</param>
-<param name="Керування">На корпусі</param>
-<param name="Тип пилососа">Для сухого прибирання з мішком</param>
-<param name="Вид прибирання">Сухе</param>
-<param name="Об`єм пилозбірника">3 л</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
-<offer id="HT31389" available="true">
-<stock_quantity>4</stock_quantity>
-<price>3435.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4631249</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012826_421051608.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000012826_421051613.jpg</picture>
-<vendor>CASTLE</vendor>
-<article>CW-101R</article>
-<name>Пылесос CASTLE CW-101R (CW-101R)</name>
-<name_ua>Порохотяг CASTLE CW-101R (CW-101R)</name_ua>
-<description><![CDATA[<p>Пылесос CASTLE CW-101R обеспечивает возможность провести уборку с высокой производительностью. А все благодаря тому, что эта техника имеет мощность 2000 Вт и всасывает загрязнения с большой силой. Так вы сможете убрать любые участки, особо не утруждая себя.</p>]]></description>
-<description_ua><![CDATA[<p>Пилосос CASTLE CW-101R забезпечує можливість здійснити прибирання з високою продуктивністю. А все завдяки тому, що ця техніка має потужність 2000 Вт і всмоктує забруднення з великою силою. Так ви зможете прибрати будь-які ділянки, особливо не обтяжуючи себе.</p>]]></description_ua>
-<param name="Тип">Порохотяг</param>
-<param name="Колір">Червоний</param>
 <param name="Споживана потужність">2000 Вт</param>
 <param name="Живлення">від мережі</param>
 <param name="Керування">На корпусі</param>
@@ -89430,7 +89347,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31712" available="true">
-<stock_quantity>13</stock_quantity>
+<stock_quantity>12</stock_quantity>
 <price>1601.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80071</categoryId>
@@ -89502,7 +89419,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31803" available="true">
-<stock_quantity>32</stock_quantity>
+<stock_quantity>31</stock_quantity>
 <price>424.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -94074,7 +93991,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT33242" available="true">
-<stock_quantity>13</stock_quantity>
+<stock_quantity>12</stock_quantity>
 <price>1741.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80071</categoryId>
@@ -94864,37 +94781,6 @@
 <param name="Розмір">31.9 x 102.5 x 23.8/63.8 x 81.9 x 30.9 см</param>
 <param name="Гарантія">36 місяців</param>
 </offer>
-<offer id="HT33477" available="true">
-<stock_quantity>1</stock_quantity>
-<price>9663.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>81089</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014914_484406736.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000014914_484406774.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000014914_484406759.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000014914_484406791.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000014914_484406906.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000014914_484406882.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/8_000014914_484406890.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/9_000014914_484406935.jpg</picture>
-<vendor>Zelmer</vendor>
-<article>ZAF 9230 Maxi</article>
-<name>Мультипечь-фритюрница Zelmer ZAF 9230 Maxi (ZAF 9230 Maxi)</name>
-<name_ua>Мультипіч-фритюрниця Zelmer ZAF 9230 Maxi (ZAF 9230 Maxi)</name_ua>
-<description><![CDATA[<p>Многофункциональная мультипечь – идеальное решение для вашей кухни! Мощность и эффективность Эта мультипечь на 1800 Вт сочетает высокую производительность и энергоэффективность, позволяя быстро готовить разнообразные блюда. Благодаря объему 23 литра вы сможете готовить как небольшие порции, так и полноценные блюда для всей семьи. Умные автоматические программы для легкого приготовления Встроенные 8 автоматических программ обеспечивают идеальное приготовление мяса, рыбы, выпечки, овощей и других блюд. Вам не нужно вручную настраивать параметры – просто выберите нужную программу, и устройство сделает все само! Контроль температуры и безупречный результат Благодаря регулировке температуры до 230°C у вас есть полный контроль над процессом приготовления. Будь то нежная выпечка или хрустящая корочка на мясе – каждое блюдо будет приготовлено идеально. Таймер до 60 минут и автоматическое отключение обеспечивают комфорт и безопасность в использовании. Комплект аксессуаров для еще большего удобства В комплекте идет 6 аксессуаров, которые расширяют возможности приготовления: 4 противня – для выпекания и запекания разных блюд Решетка для гриля – для создания ароматной и сочной корочки Крючки для гриля – для удобного приготовления мяса и овощей Безопасность и комфорт в каждой детали Внутренняя подсветка – удобно контролировать процесс приготовления без открывания дверцы Ручка, которая не нагревается – предотвращает ожоги Защита от перегрева – обеспечивает безопасную эксплуатацию Нескользящие ножки – гарантируют устойчивость устройства на любой поверхности Эта мультипечь – идеальный выбор для тех, кто ценит комфорт, многофункциональность и качество в каждой детали!</p>]]></description>
-<description_ua><![CDATA[<p>Багатофункціональна мультипіч – ідеальне рішення для вашої кухні! Потужність та ефективність Ця мультипіч на 1800 Вт поєднує високу продуктивність та енергоефективність, дозволяючи швидко готувати різноманітні страви. Завдяки об’єму 23 літри ви зможете готувати як невеликі порції, так і повноцінні страви для всієї родини. Розумні автоматичні програми для легкого приготування Вбудовані 8 автоматичних програм забезпечують ідеальне приготування м’яса, риби, випічки, овочів та інших страв. Вам не потрібно вручну налаштовувати параметри – просто виберіть потрібну програму, і пристрій зробить усе сам! Контроль температури та бездоганний результат Завдяки регулюванню температури до 230°C ви маєте повний контроль над процесом приготування. Будь то ніжна випічка або хрустка скоринка на м’ясі – кожна страва буде приготовлена ідеально. Таймер до 60 хвилин та автоматичне відключення забезпечують комфорт та безпеку у використанні. Комплект аксесуарів для ще більшої зручності У комплекті йде 6 аксесуарів, які розширюють можливості приготування: 4 дека – для випікання та запікання різних страв Решітка для гриля – для створення ароматної та соковитої скоринки Гачки для гриля – для зручного приготування м'яса та овочів Безпека та комфорт у кожній деталі Внутрішнє підсвічування – зручно контролювати процес приготування без відкривання дверцят Ручка, що не нагрівається – запобігає опікам Захист від перегріву – забезпечує безпечну експлуатацію Нековзкі ніжки – гарантують стійкість пристрою на будь-якій поверхні Ця мультипіч – ідеальний вибір для тих, хто цінує комфорт, багатофункціональність та якість у кожній деталі!</p>]]></description_ua>
-<param name="Тип">Мультипіч-фритюрниця</param>
-<param name="Колір">Чорний</param>
-<param name="Об`єм">23 л</param>
-<param name="Призначення">Побутове</param>
-<param name="Споживана потужність">1800 Вт</param>
-<param name="Тип управління">Електронне</param>
-<param name="Матеріал корпусу">Пластик</param>
-<param name="Кількість програм приготування">8</param>
-<param name="Температура нагріву">230 °C</param>
-<param name="Вага">7.6 кг</param>
-<param name="Гарантія">24 місяці</param>
-</offer>
 <offer id="HT33508" available="true">
 <stock_quantity>3</stock_quantity>
 <price>603.00</price>
@@ -95037,7 +94923,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT33573" available="true">
-<stock_quantity>12</stock_quantity>
+<stock_quantity>11</stock_quantity>
 <price>24313.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -95132,7 +95018,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT33599" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>5539.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80142</categoryId>
@@ -95483,32 +95369,6 @@
 <param name="Матеріал корпусу">Пластик</param>
 <param name="Вага">2 кг</param>
 <param name="Розмір">9.5 х 40 х 23 см</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
-<offer id="HT33721" available="true">
-<stock_quantity>3</stock_quantity>
-<price>6097.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4631249</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/000015158.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/100015158.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/200015158.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/300015158.jpg</picture>
-<vendor>CASTLE</vendor>
-<article>CW-111H</article>
-<name>Пылесос CASTLE CW-111H (CW-111H)</name>
-<name_ua>Порохотяг CASTLE CW-111H (CW-111H)</name_ua>
-<description><![CDATA[<p>Пылесос CASTLE CW-111H — это удобный и эффективный помощник для ежедневной уборки в доме, офисе или мастерской. Модель сочетает в себе высокую мощность всасывания, универсальность в использовании и простоту в обслуживании. Благодаря прочному корпусу и функциональной конструкции пылесос подходит как для сухой, так и для влажной уборки. Сборник для пыли и жидкостей изготовлен из надежного материала, устойчивого к износу, что гарантирует долговечность эксплуатации. Фильтрационная система обеспечивает задержку мелкодисперсной пыли, сохраняя воздух в помещении чистым. CASTLE CW-111H имеет удобные колеса для легкого перемещения, эргономичную ручку и насадки, входящие в комплект, благодаря чему можно убирать разные типы поверхностей — от пола до мебели или труднодоступных щелей.</p>]]></description>
-<description_ua><![CDATA[<p>Пилосос CASTLE CW-111H — це зручний і ефективний помічник для щоденного прибирання в будинку, офісі або майстерні. Модель поєднує в собі високу потужність всмоктування, універсальність у використанні та простоту в обслуговуванні. Завдяки міцному корпусу та функціональній конструкції, пилосос підходить як для сухого, так і вологого прибирання. Збірник для пилу й рідин виготовлений із надійного матеріалу, стійкого до зношування, що гарантує довговічність експлуатації. Фільтраційна система забезпечує затримку дрібнодисперсного пилу, зберігаючи повітря в приміщенні чистим. CASTLE CW-111H має зручні колеса для легкого переміщення, ергономічну ручку та насадки, що входять до комплекту, завдяки чому можна прибирати різні типи поверхонь — від підлоги до меблів чи важкодоступних щілин.</p>]]></description_ua>
-<param name="Тип">Порохотяг</param>
-<param name="Колір">Чорний</param>
-<param name="Споживана потужність">750 Вт</param>
-<param name="Живлення">від мережі</param>
-<param name="Керування">Механічне</param>
-<param name="Вид прибирання">Сухе</param>
-<param name="Об`єм пилозбірника">2 л</param>
-<param name="Довжина шнура">5 м</param>
-<param name="Рівень шуму">80 дБ</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT33722" available="true">
@@ -96325,42 +96185,6 @@
 <param name="Розмір">14,1 х 59,5 х 56,6 см</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
-<offer id="HT33873" available="true">
-<stock_quantity>1</stock_quantity>
-<price>22900.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80123</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153111.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153112.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153113.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153114.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153115.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153116.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153117.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153118.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153119.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/00001531199.jpg</picture>
-<vendor>Whirlpool</vendor>
-<article>WH4ID10CS60</article>
-<name>Посудомоечная машина Whirlpool WH4ID10CS60 (WH4ID10CS60)</name>
-<name_ua>Посудомийна машина Whirlpool WH4ID10CS60 (WH4ID10CS60)</name_ua>
-<description><![CDATA[<p>Широкий функционал Посудомоечная машина Whirlpool WSIC 3M27 C отлично сочетает в себе современные технологии, экономное энергопотребление и эстетичный дизайн. С помощью удобного электронного управления и небольшого дисплея вы можете легким движением руки выбрать нужную программу, температурный режим и установить время. Продуманная конструкция Разработчики оборудовали посудомоечную машину регулируемыми ножками, благодаря которым ее можно надежно разместить на любом полу. Благодаря своему компактному размеру модель легко найдет свой уголок даже на самой маленькой кухне. Невозможно обойти стороной и надежную систему защиты от перелива воды, которая в случае любых неприятностей моментально перекрывает подачу воды. Хорошая вместимость Whirlpool WSIC 3M27 C легко вмещает в себя до 10 комплектов посуды, чего вполне достаточно для средней семьи. Благодаря специальным модульным корзинам FlexiSpace вы можете эффективно размещать даже большую посуду нестандартных размеров, например сковородку или кастрюлю. Вместе с тем регулируемая по высоте верхняя корзина позволяет создать дополнительное пространство. Исключительная практичность В основе посудомоечной машины лежит мощный инверторный двигатель, который отличается не только эффективной работой, но и практически незаметным уровнем шума (47 дБ). Отдельного внимания заслуживает функция половинной загрузки, которая позволяет помыть всего лишь несколько тарелок или чашек. При этом точное время начала мойки можно установить с помощью удобного таймера отсрочки старта.</p>]]></description>
-<description_ua><![CDATA[<p>Широкий функціонал Посудомийна машина Whirlpool WSIC 3M27 C відмінно поєднує в собі сучасні технології, економічне енергоспоживання та естетичний дизайн. За допомогою зручного електронного керування та невеликого дисплея ви можете легким рухом руки вибрати потрібну програму, температурний режим і встановити час. Продумана конструкція Розробники обладнали посудомийну машину регульованими ніжками, завдяки яким її можна надійно розмістити на будь-якій підлозі. Завдяки своєму компактному розміру модель легко знайде свій куточок навіть на найменшій кухні. Неможливо обійти стороною і надійну систему захисту від переливання води, яка, в разі будь-яких неприємностей, моментально перекриває подачу води. Хороша місткість Whirlpool WSIC 3M27 C легко вміщує в собі до 10 комплектів посуду, чого цілком достатньо для середньої сім'ї. Завдяки спеціальним модульним кошикам FlexiSpace ви можете ефективно розміщувати навіть великий посуд нестандартних розмірів, наприклад сковорідку або каструлю. Разом з тим регульована по висоті верхня корзина дозволяє створити додатковий простір. Виняткова практичність В основі посудомийної машини лежить потужний інверторний двигун, який відрізняється не тільки ефективною роботою, але і практично непомітним рівнем шуму (47 дБ). На окрему увагу заслуговує функція половинного завантаження, яка дозволяє помити всього лише кілька тарілок або чашок. При цьому точний час початку мийки можна встановити за допомогою зручного таймера відстрочки старту.</p>]]></description_ua>
-<param name="Тип">Посудомийна машина</param>
-<param name="Споживана потужність">189 кВт/рік</param>
-<param name="Ширина">44,8 см</param>
-<param name="Керування">Електронне</param>
-<param name="Клас енергоспоживання">А+++</param>
-<param name="Кількість програм мийки">9</param>
-<param name="Місткість комплектів посуду">10</param>
-<param name="Споживання води">9 л</param>
-<param name="Тип сушіння">Конденсаційний</param>
-<param name="Індикація промінь на підлозі">Так</param>
-<param name="Особливості">Відстрочка старту</param>
-<param name="Вага">21,6 кг</param>
-<param name="Висота">82 см</param>
-<param name="Глибина">55,5 см</param>
-</offer>
 <offer id="HT33876" available="true">
 <stock_quantity>2</stock_quantity>
 <price>16132.00</price>
@@ -96526,13 +96350,9 @@
 <currencyId>UAH</currencyId>
 <categoryId>80141</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153731.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153732.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153733.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153734.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153735.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153736.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153737.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153738.jpg</picture>
 <vendor>Gorenje</vendor>
 <article>BOSX6737E13BG</article>
 <name>Духовой шкаф Gorenje BOSX6737E13BG (BOSX6737E13BG)</name>
@@ -97088,7 +96908,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT34106" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>14788.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
@@ -97665,7 +97485,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT34239" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>3534.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81089</categoryId>
@@ -99826,7 +99646,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT34780" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>5341.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81089</categoryId>
@@ -100573,7 +100393,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT34972" available="true">
-<stock_quantity>11</stock_quantity>
+<stock_quantity>9</stock_quantity>
 <price>16388.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -100683,7 +100503,7 @@
 <param name="Гарантія">25 місяців</param>
 </offer>
 <offer id="HT34996" available="true">
-<stock_quantity>34</stock_quantity>
+<stock_quantity>32</stock_quantity>
 <price>19294.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -100924,7 +100744,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35026" available="true">
-<stock_quantity>37</stock_quantity>
+<stock_quantity>34</stock_quantity>
 <price>212.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4672913</categoryId>
@@ -101219,7 +101039,7 @@
 <param name="Гарантія">14 днів</param>
 </offer>
 <offer id="HT35075" available="true">
-<stock_quantity>10</stock_quantity>
+<stock_quantity>9</stock_quantity>
 <price>21775.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -102004,7 +101824,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35191" available="true">
-<stock_quantity>1</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>25300.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80141</categoryId>
@@ -102505,7 +102325,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35252" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>2819.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80156</categoryId>
@@ -102531,7 +102351,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35253" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>12769.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
@@ -102561,7 +102381,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35254" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>2310.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81667</categoryId>
@@ -102908,7 +102728,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35287" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>3600.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80176</categoryId>
@@ -104243,7 +104063,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35396" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>3119.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -104709,7 +104529,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35424" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>854.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81227</categoryId>
@@ -105103,7 +104923,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35453" available="true">
-<stock_quantity>107</stock_quantity>
+<stock_quantity>104</stock_quantity>
 <price>285.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4672913</categoryId>
@@ -105539,7 +105359,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35491" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>1159.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80155</categoryId>
@@ -105813,7 +105633,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35540" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>19475.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
@@ -106263,7 +106083,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35605" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>1675.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80155</categoryId>
@@ -106782,37 +106602,8 @@
 <param name="Глибина">27,5 см</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
-<offer id="HT35685" available="true">
-<stock_quantity>1</stock_quantity>
-<price>2631.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80140</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178535.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178536.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178537.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178539.jpg</picture>
-<vendor>Minola</vendor>
-<article>HPL 522 BL</article>
-<name>Вытяжка Minola HPL 522 BL (HPL 522 BL)</name>
-<name_ua>Витяжка Minola HPL 522 BL (HPL 522 BL)</name_ua>
-<description><![CDATA[<p>Вытяжка Minola HPL 522 BL: мощность и стиль на вашей кухнеВытяжка Minola HPL 522 BL — это идеальное сочетание эстетики и функциональности для современной кухни. Это устройство обеспечивает эффективную очистку воздуха благодаря мощному двигателю мощностью 80 Вт и максимальной производительности 450 м³/ч.</p><ul><li>Это позволяет быстро и эффективно удалять запахи и дым, создавая комфортную атмосферу в вашем доме.</li><li>Эта вытяжка имеет диаметр воздуховода 120 мм и поддерживает два режима работы: отвод и циркуляция, что делает ее универсальным решением для любой кухни.</li></ul><ul><li>Независимо от того, готовите ли вы на газовой плите или на электрической, Minola HPL 522 BL обеспечит оптимальное качество воздуха.</li><li>Дизайн и удобство использованияВытяжка Minola HPL 522 BL имеет стильный черный корпус с декоративными элементами из стекла, что добавляет элегантности и современности вашей кухне.</li></ul><ul><li>Ее компактные размеры — ширина 49,5 см и высота 8 см — позволяют легко интегрировать ее в любой интерьер, не занимая много пространства.</li><li>Управление вытяжкой осуществляется с помощью кнопочных и кулисных переключателей, что обеспечивает удобство и простоту в эксплуатации.</li></ul><ul><li>Вы можете выбрать одну из трех скоростей работы, чтобы настроить устройство под свои потребности, обеспечивая максимальную эффективность очистки воздуха.</li><li>Эффективность и надежностьMinola HPL 522 BL оснащена алюминиевым жировым фильтром, который легко снимается и моется, обеспечивая длительную и бесперебойную работу вытяжки.</li></ul><ul><li>Максимальный уровень шума составляет всего 63 дБ, что делает ее тихой и ненавязчивой во время работы.</li><li>Освещение на основе светодиодных ламп мощностью 1x1.5 Вт обеспечивает яркое и энергоэффективное освещение рабочей зоны, что значительно улучшает удобство во время приготовления пищи.</li></ul><p>Также наличие одного двигателя обеспечивает стабильную и надежную работу вытяжки.</p>]]></description>
-<description_ua><![CDATA[<p>Витяжка Minola HPL 522 BL: потужність і стиль у вашій кухніВитяжка Minola HPL 522 BL — це ідеальне поєднання естетики та функціональності для сучасної кухні. Цей пристрій забезпечує ефективне очищення повітря завдяки потужному двигуну потужністю 80 Вт і максимальній продуктивності 450 м³/год.</p><ul><li>Це дозволяє швидко та ефективно видаляти запахи та дим, створюючи комфортну атмосферу у вашому домі.</li><li>Ця витяжка має діаметр повітропровода 120 мм і підтримує два режими роботи: відведення та циркуляція, що робить її універсальним рішенням для будь-якої кухні.</li></ul><ul><li>Незалежно від того, чи ви готуєте на газовій плиті, чи на електричній, Minola HPL 522 BL забезпечить оптимальну якість повітря.</li><li>Дизайн і зручність використанняВитяжка Minola HPL 522 BL має стильний чорний корпус з декоративними елементами зі скла, що додає елегантності та сучасності вашій кухні.</li></ul><ul><li>Її компактні розміри — ширина 49,5 см і висота 8 см — дозволяють легко інтегрувати її в будь-який інтер'єр, не займаючи багато простору.</li><li>Керування витяжкою здійснюється за допомогою кнопкових та кулісних перемикачів, що забезпечує зручність і простоту в експлуатації.</li></ul><ul><li>Ви можете вибрати одну з трьох швидкостей роботи, щоб налаштувати пристрій під свої потреби, забезпечуючи максимальну ефективність очищення повітря.</li><li>Ефективність і надійністьMinola HPL 522 BL оснащена алюмінієвим жировим фільтром, який легко знімається та миється, забезпечуючи тривалу та безперебійну роботу витяжки.</li></ul><ul><li>Максимальний рівень шуму становить лише 63 дБ, що робить її тихою та ненав'язливою під час роботи.</li><li>Освітлення на основі світлодіодних ламп потужністю 1x1.5 Вт забезпечує яскраве та енергоефективне освітлення робочої зони, що значно покращує зручність під час приготування їжі.</li></ul><p>Також, наявність одного двигуна забезпечує стабільну та надійну роботу витяжки.</p>]]></description_ua>
-<param name="Тип">Витяжка</param>
-<param name="Колір">Чорний</param>
-<param name="Кількість швидкостей">3</param>
-<param name="Ширина">49.5 см</param>
-<param name="Керування">Механічне</param>
-<param name="Продуктивність">650 куб.м/г</param>
-<param name="Тип конструкції">Плоска</param>
-<param name="Кількість моторів">1</param>
-<param name="Матеріал корпусу">Метал</param>
-<param name="Вага">5,5 кг</param>
-<param name="Висота">8 см</param>
-<param name="Глибина">44 см</param>
-<param name="Гарантія">25 місяців</param>
-</offer>
 <offer id="HT35686" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>2773.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80140</categoryId>
@@ -106841,7 +106632,7 @@
 <param name="Гарантія">25 місяців</param>
 </offer>
 <offer id="HT35687" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>2625.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80140</categoryId>
@@ -107366,7 +107157,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35736" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>2396.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81229</categoryId>
@@ -108239,7 +108030,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35819" available="true">
-<stock_quantity>10</stock_quantity>
+<stock_quantity>9</stock_quantity>
 <price>10313.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80131</categoryId>
@@ -108678,62 +108469,6 @@
 <param name="Глибина">65.3 см</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
-<offer id="HT35862" available="true">
-<stock_quantity>1</stock_quantity>
-<price>3402.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80162</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180902.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180903.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180904.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180905.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180906.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180907.jpg</picture>
-<vendor>Gorenje</vendor>
-<article>MO17E1BH</article>
-<name>Микроволновая печь Gorenje MO17E1BH (MO17E1BH)</name>
-<name_ua>Мікрохвильова піч Gorenje MO17E1BH (MO17E1BH)</name_ua>
-<description><![CDATA[<p>AquaCleanНикаких хлопот с уходомЗабудьте об изнурительной очистке камеры микроволновой печи от жира и остатков еды. Благодаря уникальной технологии AquaClean вы сможете наслаждаться легким уходом. Просто налейте воду в термостойкий стакан или уютную керамическую чашку, поместите ее в печь и активируйте программу.</p><ul><li>Деликатный пар размягчит даже самые стойкие загрязнения, чтобы вы могли потом просто протереть их губкой, возвращая исключительный блеск глянца GORENJE.</li><li>Задействовав короткие и мощные микроволны, GORENJE обеспечит деликатное размораживание заготовок.</li></ul><p>Тепло равномерно передается от уже нагретых областей продукта к холодным, обеспечивая максимально равномерное оттаивание. Специальная настройка Speed Defrost поможет быстро подготовить ингредиенты для приготовления блюд, даже если на них находится больше льда.360° rotating plateМедленно вращающаяся тарелкаИдеальное приготовление и разогрев еды без холодных зон обеспечит современная GORENJE.</p><ul><li>Благодаря плавному вращению тарелки внутри камеры она обеспечит эффективное и равномерное распределение микроволн, гарантируя, что каждый кусочек вашей еды будет нагрет идеально.</li><li>Несколько уровней воздействияГибкая настройкаОбъединяя несколько уровней мощности: 100%, 70%, 50%, 30% и 10%, микроволновая печь поможет подобрать оптимальные условия приготовления для разных блюд.</li></ul><p>Для ускоренного разогрева подойдет максимальный режим. Средняя интенсивность будет удачной для деликатного приготовления на пару или жарки. А низкая мощность хоть и более щадящая, требует особого внимания: продукты могут потерять часть своей влаги. Раскройте все преимущества GORENJE и наслаждайтесь пользованием.</p>]]></description>
-<description_ua><![CDATA[<p>AquaCleanЖодного клопоту з доглядомЗабудьте про виснажливе очищення камери мікрохвильової печі від жиру та залишків їжі. Завдяки унікальній технології AquaClean ви зможете насолоджуватися легким доглядом. Просто налийте воду в термостійку склянку або затишну керамічну чашку, помістіть її в піч і активуйте програму.</p><ul><li>Делікатна пара розм'якшить навіть найстійкіші забруднення, щоб ви могли потім просто протерти їх губкою, повертаючи винятковий блиск глянцю GORENJE.</li><li>Задіявши короткі та потужні мікрохвилі, GORENJE забезпечить делікатне розморожування заготовок.</li></ul><p>Тепло рівномірно передається від уже нагрітих областей продукту до холодних, забезпечуючи максимально рівномірне відтавання. Спеціальне налаштування Speed Defrost допоможе швидко підготувати інгредієнти для приготування страв, навіть якщо на них знаходиться більше льоду.360° rotating plateТарілка, що повільно обертаєтьсяІдеальне приготування та розігрівання їжі без холодних зон забезпечить сучасна GORENJE.</p><ul><li>Завдяки плавному обертанню тарілки всередині камери вона забезпечить ефективний і рівномірний розподіл мікрохвиль, гарантуючи, що кожен шматочок вашої їжі буде нагрітий ідеально.</li><li>Кілька рівнів впливуГнучке налаштуванняОб'єднуючи кілька рівнів потужності: 100%, 70%, 50%, 30% і 10%, мікрохвильова піч допоможе підібрати оптимальні умови приготування для різних страв.</li></ul><p>Для прискореного розігрівання підійде максимальний режим. Середня інтенсивність буде вдалою для делікатного приготування на пару або смаження. А низька потужність хоч і більш щадна, вимагає особливої уваги: продукти можуть втратити частину своєї вологи. Розкрийте всі переваги GORENJE і насолоджуйтеся користуванням.</p>]]></description_ua>
-<param name="Тип">Мікрохвильова піч</param>
-<param name="Колір">Чорний</param>
-<param name="Об`єм">17 л</param>
-<param name="Ширина">45,5 см</param>
-<param name="Керування">Механічне</param>
-<param name="Кількість рівнів">5</param>
-<param name="Тип НВЧ">Соло (Звичайний)</param>
-<param name="Внутрішнє покриття">біо-керамічна емаль</param>
-<param name="Діаметр поворотного столу">25,5 см</param>
-<param name="Висота">26,1 см</param>
-<param name="Глибина">35,3 см</param>
-<param name="Гарантія">24 місяці</param>
-</offer>
-<offer id="HT35864" available="true">
-<stock_quantity>1</stock_quantity>
-<price>8838.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80203</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000181091.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000181092.jpg</picture>
-<vendor>Indesit</vendor>
-<article>INCF 1004 UA</article>
-<name>Морозильный ларь Indesit INCF 1004 UA (INCF 1004 UA)</name>
-<name_ua>Морозильна скриня Indesit INCF 1004 UA (INCF 1004 UA)</name_ua>
-<description><![CDATA[<p>Морозильный ларь Indesit INCF 1004 UA станет практичным решением для длительного хранения замороженных продуктов дома, на даче или в подсобном помещении.</p><ul><li>Общий объем 98 л обеспечивает достаточно места для запасов, а отдельная установка позволяет удобно разместить устройство в любом подходящем месте.</li><li>Модель оснащена статической системой охлаждения и надежным обычным компрессором, который обеспечивает стабильное поддержание низкой температуры.</li></ul><ul><li>Мощность замораживания до 6 кг продуктов в сутки позволяет быстро замораживать свежие продукты, а функция быстрого замораживания способствует лучшему сохранению их вкусовых свойств и питательной ценности.</li><li>Электронное управление с блоком, расположенным на внешней панели, обеспечивает простую настройку работы морозильного ларя.</li></ul><ul><li>В случае отключения электроэнергии модель способна автономно сохранять холод до 13,5 часа, помогая дольше поддерживать оптимальные условия хранения продуктов.</li><li>Морозильная камера оборудована одним отделением и съемной корзиной, что позволяет удобно организовать внутреннее пространство и быстро получить доступ к продуктам, которые используются чаще всего.</li></ul><ul><li>Хладагент R600a обеспечивает эффективную работу системы охлаждения, а уровень шума 40 дБ делает эксплуатацию комфортной в повседневном использовании.</li><li>Особенностью Indesit INCF 1004 UA является возможность работы в неотапливаемых помещениях при температуре до -15 °C, что делает модель отличным выбором для гаража, кладовой или загородного дома.</li></ul><p>Морозильный ларь сочетает экономное энергопотребление, надежную работу и практичность, обеспечивая удобное хранение продуктов в течение всего года.</p>]]></description>
-<description_ua><![CDATA[<p>Морозильна скриня Indesit INCF 1004 UA стане практичним рішенням для тривалого зберігання заморожених продуктів удома, на дачі або в підсобному приміщенні.</p><ul><li>Загальний об'єм 98 л забезпечує достатньо місця для запасів, а окреме встановлення дозволяє зручно розмістити пристрій у будь-якому відповідному місці.</li><li>Модель оснащена статичною системою охолодження та надійним звичайним компресором, який забезпечує стабільне підтримання низької температури.</li></ul><ul><li>Потужність заморожування до 6 кг продуктів на добу дозволяє швидко заморожувати свіжі продукти, а функція швидкого заморожування сприяє кращому збереженню їхніх смакових властивостей і поживної цінності.</li><li>Електронне керування з блоком, розташованим на зовнішній панелі, забезпечує просте налаштування роботи морозильної скрині.</li></ul><ul><li>У разі відключення електроенергії модель здатна автономно зберігати холод до 13,5 години, допомагаючи довше підтримувати оптимальні умови зберігання продуктів.</li><li>Морозильна камера обладнана одним відділенням і знімним кошиком, що дозволяє зручно організувати внутрішній простір та швидко отримати доступ до продуктів, які використовуються найчастіше.</li></ul><ul><li>Холодоагент R600a забезпечує ефективну роботу системи охолодження, а рівень шуму 40 дБ робить експлуатацію комфортною в повсякденному використанні.</li><li>Особливістю Indesit INCF 1004 UA є можливість роботи в неопалюваних приміщеннях за температури до -15 °C, що робить модель чудовим вибором для гаража, комори чи заміського будинку.</li></ul><p>Морозильна скриня поєднує економне енергоспоживання, надійну роботу та практичність, забезпечуючи зручне зберігання продуктів протягом усього року.</p>]]></description_ua>
-<param name="Тип">Морозильна скриня</param>
-<param name="Колір">Білий</param>
-<param name="Ширина">54,5 см</param>
-<param name="Керування">Механічне</param>
-<param name="Клас енергоспоживання">А++</param>
-<param name="Тип камери">Скриня</param>
-<param name="Система охолодження">Статична</param>
-<param name="Тип компресора">Звичайний</param>
-<param name="Загальний об&apos;єм">98 л</param>
-<param name="Висота">85 см</param>
-<param name="Глибина">55 см</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
 <offer id="HT35865" available="true">
 <stock_quantity>4</stock_quantity>
 <price>10200.00</price>
@@ -108875,42 +108610,14 @@
 <param name="Матеріал покриття">Антипригарне</param>
 <param name="Діаметр">24 см</param>
 </offer>
-<offer id="HT35879" available="true">
-<stock_quantity>8</stock_quantity>
-<price>30938.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80125</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180946.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180947.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180948.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180949.jpg</picture>
-<vendor>Whirlpool</vendor>
-<article>WHK 26373 XBR6EA</article>
-<name>Холодильник Whirlpool WHK 26373 XBR6EA (WHK 26373 XBR6EA)</name>
-<name_ua>Холодильник Whirlpool WHK 26373 XBR6EA (WHK 26373 XBR6EA)</name_ua>
-<description><![CDATA[<p>Двухкамерный холодильник Whirlpool WHK 26373 XBR6EA — это современное решение для кухни, которое сочетает технологичность, удобство и стильный дизайн. Общий объем 370 литров позволяет комфортно разместить все необходимые продукты, обеспечивая порядок и легкий доступ к ним.</p><ul><li>Инверторный компрессор поддерживает стабильную температуру, снижает уровень шума и помогает экономить электроэнергию, что делает модель практичной для ежедневного использования.</li><li>Благодаря технологии Dual NoFrost холодильник не требует ручного размораживания, а продукты дольше сохраняют свежесть без образования льда и лишней влаги.</li></ul><p>Системы FreshLock и ProFresh создают оптимальные условия для хранения разных типов продуктов, а возможность регулирования влажности позволяет адаптировать микроклимат под овощи, фрукты или зелень.</p><ul><li>Отдельный ящик для молочных продуктов помогает поддерживать порядок внутри камеры.</li><li>Металлическая задняя панель способствует равномерному распределению холода и более быстрому восстановлению температуры после открывания дверцы.</li></ul><p>Дисплей на двери с LED-индикацией обеспечивает удобное управление настройками и придает холодильнику современный вид.</p><ul><li>Технология PerfectFit позволяет устанавливать прибор максимально плотно к стенам или мебели, оптимизируя пространство кухни.</li><li>Дополнительные функции, такие как режим «Отпуск», быстрое замораживание, сигнал открытой двери и возможность перенавешивания дверцы, делают эксплуатацию максимально комфортной.</li></ul><p>Эта модель станет надежным выбором для тех, кто ценит функциональность, долговечность и современный стиль в бытовой технике.</p>]]></description>
-<description_ua><![CDATA[<p>Двокамерний холодильник Whirlpool WHK 26373 XBR6EA — це сучасне рішення для кухні, яке поєднує технологічність, зручність та стильний дизайн. Загальний об’єм 370 літрів дозволяє комфортно розмістити всі необхідні продукти, забезпечуючи порядок і легкий доступ до них.</p><ul><li>Інверторний компресор підтримує стабільну температуру, знижує рівень шуму та допомагає економити електроенергію, що робить модель практичною для щоденного використання.</li><li>Завдяки технології Dual NoFrost холодильник не потребує ручного розморожування, а продукти довше зберігають свіжість без утворення льоду та зайвої вологи.</li></ul><p>Системи FreshLock і ProFresh створюють оптимальні умови для зберігання різних типів продуктів, а можливість регулювання вологості дозволяє адаптувати мікроклімат під овочі, фрукти чи зелень.</p><ul><li>Окрема шухляда для молочних продуктів допомагає підтримувати порядок усередині камери.</li><li>Металева задня панель сприяє рівномірному розподілу холоду та швидшому відновленню температури після відкривання дверцят.</li></ul><p>Дисплей на дверях із LED-індикацією забезпечує зручне керування налаштуваннями та додає холодильнику сучасного вигляду.</p><ul><li>Технологія PerfectFit дозволяє встановлювати прилад максимально щільно до стін або меблів, оптимізуючи простір кухні.</li><li>Додаткові функції, такі як режим «Відпустка», швидке заморожування, сигнал відкритих дверей і можливість перевішування дверцят, роблять експлуатацію максимально комфортною.</li></ul><p>Ця модель стане надійним вибором для тих, хто цінує функціональність, довговічність і сучасний стиль у побутовій техніці.</p>]]></description_ua>
-<param name="Тип">Холодильник</param>
-<param name="Колір">Сірий</param>
-<param name="Ширина">59.5 см</param>
-<param name="Керування">Електронне</param>
-<param name="Клас енергоспоживання">C</param>
-<param name="Об&apos;єм морозильної камери">118 л</param>
-<param name="Система охолодження">NoFrost</param>
-<param name="Тип компресора">Інверторний</param>
-<param name="Об&apos;єм холодильної камери">252 л</param>
-<param name="Автономне збереження холоду">11 год</param>
-<param name="Загальний об&apos;єм">370 л</param>
-<param name="Висота">186,5 см</param>
-<param name="Глибина">67.2 см</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
 <offer id="HT35880" available="true">
 <stock_quantity>27</stock_quantity>
 <price>30938.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180933.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180934.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180935.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180936.jpg</picture>
 <vendor>Whirlpool</vendor>
 <article>WHK 26373 X6EA2</article>
@@ -109587,7 +109294,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35956" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>6157.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81089</categoryId>
@@ -110287,7 +109994,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT36020" available="true">
-<stock_quantity>50</stock_quantity>
+<stock_quantity>39</stock_quantity>
 <price>11413.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -110562,39 +110269,6 @@
 <param name="Вага">9,4 кг</param>
 <param name="Висота">29.3 см</param>
 <param name="Глибина">29 см</param>
-<param name="Гарантія">25 місяців</param>
-</offer>
-<offer id="HT36039" available="true">
-<stock_quantity>1</stock_quantity>
-<price>2811.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80140</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184652.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184653.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184654.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184655.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184656.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184657.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184658.jpg</picture>
-<vendor>Minola</vendor>
-<article>HPL 622 I</article>
-<name>Вытяжка Minola HPL 622 I (HPL 622 I)</name>
-<name_ua>Витяжка Minola HPL 622 I (HPL 622 I)</name_ua>
-<description><![CDATA[<p>Minola HPL 622 I – плоская вытяжка из нержавеющей стали для современной кухниMinola HPL 622 I — функциональная плоская вытяжка из нержавеющей стали и с эффектным стеклянным козырьком, которая способна освежить воздух на кухне до 20 м². Она сочетает стильный индустриальный дизайн с производительностью 450 м³/ч, что быстро очищает пространство. LED подсветка повышает удобство приготовления, экономя электроэнергию.</p><ul><li>Эта модель удобна в эксплуатации и имеет интуитивно понятную систему кнопочного управления.</li><li>Мощность и производительностьС производительностью 450 м³/ч вытяжка подходит для кухонь площадью до 20 м².</li></ul><p>Эта модель обеспечит полное обновление воздуха в помещении за 5–7 минут.</p><ul><li>Благодаря производительности Minola HPL 622 I запахи во время готовки удаляются быстро и эффективно.</li><li>Асинхронный двигатель гарантирует стабильную и бесперебойную работу.</li></ul><p>Даже при максимальных нагрузках мотор справляется без трудностей.</p><ul><li>Мощность в 80 Вт сочетает производительность с умеренным потреблением электроэнергии, соответствуя современным экологическим стандартам.</li><li>Панель управленияКнопочная панель позволяет быстро переключать 3 режима и включать подсветку.</li></ul><ul><li>Она оформлена интуитивно понятными подписями, а надежные кнопки выдерживают длительное активное использование без потери чувствительности.</li><li>Режимы работыОтвод воздуха – удаляет загрязнения за пределы кухни через вентиляционный канал.</li><li>Рециркуляция – очищает воздух через угольный фильтр и возвращает обратно без отвода в вентиляцию.</li><li>Для эффективного отвода воздуха нужен доступ к вентиляционному каналу.</li></ul><p>В режиме рециркуляции следует использовать опциональный угольный фильтр (покупается отдельно).</p><ul><li>Важно учитывать для выбора режима работы наличие вентиляции в вашем доме и дизайн-проект вашей кухни.</li><li>Дизайн и материалыКорпус изготовлен из нержавеющей стали, что обеспечивает стойкость к коррозии и легкий уход.</li></ul><p>Козырек из термостойкого стекла придает дизайну современный вид. Кнопки подсвечиваются по кругу, что гарантирует удобство вечерних кулинарных экспериментов.</p><ul><li>Материалы выдерживают интенсивную бытовую нагрузку.</li><li>Уход за вытяжкойЧистите стеклянный козырек мягкой тряпкой без абразивов — это предотвращает царапины.</li></ul><p>Корпус из нержавеющей стали следует протирать средствами без кислот, чтобы сохранить покрытие. Алюминиевые фильтры (в комплекте с вытяжкой) нужно мыть каждые 2–3 месяца вручную или в посудомойке для стабильной эффективности.</p><ul><li>Регулярный уход продлевает срок службы и обеспечивает чистоту воздуха.</li><li>Уровень шумаНа минимальной скорости уровень шума составляет 56 дБ — достаточно комфортно для вашего слуха во время готовки.</li></ul><ul><li>Даже при переходе на максимальную мощность на самой большой скорости (63 дБ) вытяжка работает в пределах акустического комфорта..</li><li>ОсвещениеLED-лампа мощностью 1,5 Вт обеспечивает яркий и равномерный световой поток, который освещает варочную поверхность и в любое время суток достаточен для комфортного приготовления.</li></ul><ul><li>Этот тип освещения потребляет мало электроэнергии и не требует специализированных инструментов и навыков для замены или обслуживания.</li><li>Фильтрация2 алюминиевых фильтра предназначены для защиты двигателя от жира; их удобно промывать в посудомоечной машине или вручную.</li></ul><ul><li>Регулярная очистка поддерживает максимальную производительность и предотвращает накопление загрязнений.</li><li>Угольный фильтр устраняет грязь из воздуха только в режиме рециркуляции.</li></ul><p>Если вы установили вытяжку в кухню, которая не имеет вентиляционного канала, вам нужно дополнительно купить угольные фильтры.</p><ul><li>Для сохранения эффективности работы вытяжки следует раз в несколько месяцев (в зависимости от интенсивности вашего кулинарного гения) заменять угольный фильтр.</li><li>КомплектацияВытяжка Minola HPL 622 I, 2 алюминиевых фильтра, шнур (90 см) и вилка, монтажный комплект, обратный клапан, инструкция, микрофиша, гарантийный талон, энергокарта.</li><li>ГарантияМодель HPL 622 I имеет 25 месяцев полной гарантии от производителя.</li></ul><p>Выбирайте Minola HPL 622 I — стильную, мощную и надежную вытяжку для вашей кухни!</p>]]></description>
-<description_ua><![CDATA[<p>Minola HPL 622 I – плоска витяжка з нержавіючої сталі для сучасної кухніMinola HPL 622 I — функціональна плоска витяжка із неіржавної сталі і з ефектним скляним козирком, що здатна освіжити повітря на кухні до 20 м². Вона поєднує стильний індустріальний дизайн із продуктивністю 450 м³/год, що швидко очищає простір. LED підсвітка підвищує зручність приготування, економлячи електроенергію.</p><ul><li>Ця модель зручна в експлуатації й має інтуїтивно зрозумілу систему кнопкового управління.</li><li>Потужність і продуктивністьЗ продуктивністю 450 м³/год витяжка підходить для кухонь площею до 20 м².</li></ul><p>Ця модель забезпечить повне оновлення повітря в приміщенні за 5–7 хвилин.</p><ul><li>Завдяки продуктивності Minola HPL 622 I запахи під час готування видаляються швидко і ефективно.</li><li>Асинхронний двигун гарантує стабільну та безперебійну роботу.</li></ul><p>Навіть при максимальних навантаженнях мотор справляється без труднощів.</p><ul><li>Потужність у 80 Вт поєднує продуктивність із помірним споживанням електроенергії, відповідаючи сучасним екологічним стандартам.</li><li>Панель керуванняКнопкова панель дозволяє швидко перемикати 3 режими та включати підсвітку.</li></ul><ul><li>Вона оздоблена інтуїтивно зрозумілими підписами, а надійні кнопки витримують довготривале активне використання без втрати чутливості.</li><li>Режими роботиВідведення повітря – видаляє забруднення за межі кухні через вентиляційний канал.</li><li>Рециркуляція – очищає повітря через вугільний фільтр й повертає назад без відводу в вентиляцію.</li><li>Для ефективного відведення повітря потрібний доступ до вентиляційного каналу.</li></ul><p>В режимі рециркуляції слід використовувати опціональний вугільний фільтр (купується окремо).</p><ul><li>Важливо враховувати для вибору режима роботи наявність вентиляції в вашій домівці і дизайн-проєкт вашої кухні.</li><li>Дизайн і матеріалиКорпус виготовлений з нержавіючої сталі, що забезпечує стійкість до корозії та легкий догляд.</li></ul><p>Козирок із термостійкого скла надає дизайну сучасного вигляду. Кнопки підсвічуються по колу, що гарантує зручність вечірніх кулінарних експериментів.</p><ul><li>Матеріали витримують інтенсивне побутове навантаження.</li><li>Догляд за витяжкоюЧистіть скляний козирок м’якою ганчіркою без абразивів — це запобігає подряпинам.</li></ul><p>Корпус із неіржавної сталі слід протирати засобами без кислот, щоб зберегти покриття. Алюмінієві фільтри (в комплекті з витяжкою) потрібно мити кожні 2–3 місяці вручну або в посудомийці для стабільної ефективності.</p><ul><li>Регулярний догляд подовжує термін служби та забезпечує чистоту повітря.</li><li>Рівень шумуНа мінімальній швидкості рівень шуму складає 56 дБ — достатньо комфортно для вашого слуху під час готування.</li></ul><ul><li>Навіть при переході на максимальну потужність на найбільшій швидкості (63 дБ) витяжка працює в межах акустичного комфорту..</li><li>ОсвітленняLED-лампа потужністю 1,5 Вт забезпечує яскравий і рівномірний світлопотік, що осяює варильну поверхню і в будь-який час доби достатній для комфортного приготування.</li></ul><ul><li>Цей тип освітлення споживає мало електроенергії, і не потребує спеціалізованих інструментів та навичок для заміни чи обслуговування.</li><li>Фільтрація2 алюмінієві фільтри призначені для захисту двигуна від жиру; їх зручно промивати у посудомийній машині або вручну.</li></ul><ul><li>Регулярне очищення підтримує максимальну продуктивність і запобігає накопиченню забруднень.</li><li>Вугільний фільтр усуває бруд з повітря тільки в режимі рециркуляції.</li></ul><p>Якщо ви встановили витяжку в кухню, яка не має вентиляційного каналу, вам потрібно додатково купити вугільні фільтри.</p><ul><li>Для збереження ефективності роботи витяжки слід раз на декілька місяців (в залежності від інтенсивності вашого кулінарного генія) заміняти вугільний фільтр.</li><li>КомплектаціяВитяжка Minola HPL 622 I, 2 алюмінієві фільтри, шнур (90 см) і вилка, монтажний комплект, зворотний клапан, інструкція, мікрофіша, гарантійний талон, енергокарта.</li><li>ГарантіяМодель HPL 622 I має 25 місяців повної гарантії від виробника.</li></ul><p>Обирайте Minola HPL 622 I — стильну, потужну та надійну витяжку для вашої кухні!</p>]]></description_ua>
-<param name="Тип">Витяжка</param>
-<param name="Колір">Сріблястий</param>
-<param name="Кількість швидкостей">3</param>
-<param name="Ширина">60 см</param>
-<param name="Керування">Механічне</param>
-<param name="Продуктивність">450 куб.м/г</param>
-<param name="Тип керування">Механічне</param>
-<param name="Тип конструкції">Плоска</param>
-<param name="Кількість моторів">1</param>
-<param name="Матеріал корпусу">Метал</param>
-<param name="Вага">3,9 кг</param>
-<param name="Висота">8 см</param>
-<param name="Глибина">44 см</param>
 <param name="Гарантія">25 місяців</param>
 </offer>
 <offer id="HT36040" available="true">
@@ -111236,7 +110910,7 @@
 <param name="Глибина">59 см</param>
 </offer>
 <offer id="HT36082" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>3005.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81234</categoryId>
@@ -111375,7 +111049,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT36089" available="true">
-<stock_quantity>11</stock_quantity>
+<stock_quantity>10</stock_quantity>
 <price>41650.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -111402,7 +111076,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT36090" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>46438.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -112675,7 +112349,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT36180" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>11850.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80123</categoryId>
@@ -113114,7 +112788,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT36207" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>4625.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80225</categoryId>
@@ -113233,32 +112907,6 @@
 <param name="Висота">203 см</param>
 <param name="Глибина">67,5 см</param>
 <param name="Гарантія">12 місяців</param>
-</offer>
-<offer id="HT36212" available="true">
-<stock_quantity>1</stock_quantity>
-<price>17244.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80125</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189042.jpg</picture>
-<vendor>Indesit</vendor>
-<article>INKS 8261 W4E</article>
-<name>Холодильник Indesit INKS 8261 W4E (INKS 8261 W4E)</name>
-<name_ua>Холодильник Indesit INKS 8261 W4E (INKS 8261 W4E)</name_ua>
-<description><![CDATA[<p>Двухкамерный холодильник Indesit INKS 8261W4E — практичная модель с нижним расположением морозильной камеры и общим объемом 262 л. Холодильник выполнен в белом цвете, имеет компактную ширину 54 см и глубину 55 см, поэтому удобно размещается на кухне.</p><ul><li>Электронное управление и LED-индикация обеспечивают комфортное использование, а уровень шума составляет 39 дБ.</li><li>Холодильная камера имеет полезный объем 187 л и оснащена тремя стеклянными полками, тремя дверными корзинами и контейнером для овощей.</li></ul><p>Предусмотрены зона свежести и LED-освещение. Морозильное отделение объемом 75 л состоит из трех секций. Обе камеры имеют статическую систему размораживания, поэтому модель не оснащена системой No Frost.</p><ul><li>Дополнительно предусмотрена функция быстрого охлаждения.</li><li>Холодильник оснащен обычным компрессором и работает на хладагенте R600a.</li></ul><p>Годовое потребление электроэнергии составляет 215 кВт·ч, класс энергопотребления — E (А+), климатический класс N-ST.</p><ul><li>Двери можно перевешивать в зависимости от особенностей расположения прибора на кухне.</li><li>Indesit INKS 8261W4E — вместительный двухкамерный холодильник с зоной свежести, быстрым охлаждением, LED-освещением и продуманной организацией пространства для удобного ежедневного хранения продуктов.</li></ul>]]></description>
-<description_ua><![CDATA[<p>Двокамерний холодильник Indesit INKS 8261W4E — практична модель із нижнім розташуванням морозильної камери та загальним об'ємом 262 л. Холодильник виконаний у білому кольорі, має компактну ширину 54 см і глибину 55 см, тому зручно розміщується на кухні.</p><ul><li>Електронне керування та LED-індикація забезпечують комфортне користування, а рівень шуму становить 39 дБ.</li><li>Холодильна камера має корисний об'єм 187 л та оснащена трьома скляними полицями, трьома дверними кошиками і контейнером для овочів.</li></ul><p>Передбачена зона свіжості та LED-освітлення. Морозильне відділення об'ємом 75 л складається з трьох секцій. Обидві камери мають статичну систему розморожування, тому модель не оснащена системою No Frost.</p><ul><li>Додатково передбачена функція швидкого охолодження.</li><li>Холодильник оснащений звичайним компресором і працює на холодоагенті R600a.</li></ul><p>Річне споживання електроенергії становить 215 кВт·год, клас енергоспоживання — E (А+), кліматичний клас N-ST.</p><ul><li>Двері можна перевішувати залежно від особливостей розташування приладу на кухні.</li><li>Indesit INKS 8261W4E — місткий двокамерний холодильник із зоною свіжості, швидким охолодженням, LED-освітленням та продуманою організацією простору для зручного щоденного зберігання продуктів.</li></ul>]]></description_ua>
-<param name="Тип">Холодильник</param>
-<param name="Колір">Білий</param>
-<param name="Ширина">54 см</param>
-<param name="Керування">Електронне</param>
-<param name="Об&apos;єм морозильної камери">75 л</param>
-<param name="Система охолодження">Статична</param>
-<param name="Тип компресора">Звичайний</param>
-<param name="Об&apos;єм холодильної камери">187 л</param>
-<param name="Автономне збереження холоду">9 год</param>
-<param name="Загальний об&apos;єм">262 л</param>
-<param name="Висота">177 см</param>
-<param name="Глибина">55 см</param>
-<param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT36213" available="true">
 <stock_quantity>5</stock_quantity>
@@ -113929,7 +113577,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT4832" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>1170.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>268764</categoryId>
@@ -114545,7 +114193,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT6934" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>3627.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>112986</categoryId>
