@@ -36032,7 +36032,7 @@
 <portal_category_id>28290204</portal_category_id>
 <price>1224.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>40</quantity_in_stock>
+<quantity_in_stock>38</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_4a1d1add-7183-11e9-bb3d-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000001920_hc3505-15_01.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000001920_hc3505-15_02.jpg</picture>
@@ -36119,7 +36119,7 @@
 <portal_category_id>606</portal_category_id>
 <price>1817.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_66c42803-acfb-11e8-a85c-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000001295_rotex_rmc508-w_3.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000001295_rotex_rmc508-w_1_1.jpg</picture>
@@ -37657,7 +37657,7 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Ретранслятор TP-Link TL-WA850RE Підсилювач WiFi сигналу зі швидкістю передачі даних до 300 Мбіт/с моделі TL-WA850RE призначений для розширення зони покриття і збільшення потужності сигналу існуючої бездротової мережі, а також для усунення «мертвих зон». Швидкість передачі даних до 300 Мбіт/с, маленький розмір і зручність розміщення на стіні, кнопка Range Extender - все це допоможе вам з легкістю розширити зону покриття бездротової мережі. А завдяки порту Ethernet TL-WA850RE може працювати в якості бездротового адаптера для підключення провідних пристроїв. Підсилювач WiFi сигналу зі швидкістю передачі даних до 300 Мбіт/с моделі TL-WA850RE служить для розширення зони покриття і збільшення потужності сигналу існуючої бездротової мережі, для усунення «мертвих зон», для підтримки існуючої бездротової мережі і для значного збільшення зони покриття. Підсилювач сигналу ТL-WA850RE забезпечує швидкість передачі даних до 300 Мбіт/с, що зручно для передачі відео високої якості, потокової музики і онлайн-ігор. Завдяки компактному і зручному корпусі підсилювач легко встановлювати й переносити. До того ж функція збереження профілів запам'ятовує бездротові мережі, до яких раніше підключався пристрій, тому перенастроювати підсилювач при зміні маршрутизатора не потрібно. Користувач може легко збільшити зону покриття бездротової мережі без прокладки додаткових кабелів одним натисненням кнопки WPS на маршрутизаторі і наступним натисканням кнопки Range Extender на підсилювачі TL-WA850RE або навпаки. Додаткове натискання кнопки Pair швидко налаштує захищене з'єднання з пристроями користувача. Завдяки порту Ethernet підсилювач сигналу TL-WA850RE може працювати в якості бездротового адаптера для підключення цифрового відеорекордера та перегляду Інтернет-телебачення, для з'єднання з такими провідними пристроями, як Blu-ray плеєри та ігрові консолі, а крім того може забезпечувати доступ до бездротової мережі.]]></description>
 </offer>
-<offer id="HT22286" available="true" selling_type="r">
+<offer id="HT22286" available="false" selling_type="r">
 <name>Антивібраційна підставка для прал. машинки NEWSTYLE NS-WM0044 (пакет)</name>
 <categoryId>312</categoryId>
 <portal_category_id>64403</portal_category_id>
@@ -37766,7 +37766,7 @@
 <portal_category_id>64301</portal_category_id>
 <price>2214.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_3c539be4-5478-11e8-b5a4-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000000768_303726472.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000000768_303726473.jpg</picture>
@@ -37868,7 +37868,7 @@
 <portal_category_id>6300413</portal_category_id>
 <price>2186.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>12</quantity_in_stock>
+<quantity_in_stock>11</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000007454_252771307.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000007454_252771324.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000007454_252771337.jpg</picture>
@@ -37946,6 +37946,38 @@
 <param name="Розмір">9 х 22.5 х 23 см</param>
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Тепер про компактний пристрій з різними функціями можна не тільки мріяти, адже мультимейкер ROTEX RSM222-B цілком відповідає цим характеристикам! У приладі передбачено 4 комплекти знімних пластин з антипригарним покриттям, які допоможуть вам приготувати не тільки найніжніші вафлі, бутерброди з хрусткою скоринкою , але і страви на грилі, а також спекти основу для улюблених «горішків» зі згущеним молоком. Спеціальні індикатори повідомлять про включення вафельниці і її готовності до роботи. А для особливої безпеки вафельниця обладнана затискач-блокуванням.]]></description>
+</offer>
+<offer id="HT22579" available="true" selling_type="r">
+<name>Бутербродниця Zelmer ZSM7900 (3 в 1)</name>
+<categoryId>293</categoryId>
+<portal_category_id>6300413</portal_category_id>
+<price>2450.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>1</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000008892_zsm7900_1.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000008892_zsm7900_4.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000008892_zsm7900_7.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000008892_349919152.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000008892_349919153.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000008892_349919149.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000008892_349919150.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/8_000008892_349919154.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/9_000008892_349919156.jpg</picture>
+<vendor>Zelmer</vendor>
+<vendorCode>HT22579</vendorCode>
+<country>Китай</country>
+<param name="Колір">Сріблястий з чорним</param>
+<param name="Призначення">Побутове</param>
+<param name="Споживана потужність">900 Вт</param>
+<param name="Пластини для приготування">Гриля, Вафель, Сендвічів</param>
+<param name="Покриття пластин">Антипригарне</param>
+<param name="Тип пристрою">Бутербродниця</param>
+<param name="Кількість відділень">4</param>
+<param name="Матеріал корпусу">Нержавіюча сталь + пластик</param>
+<param name="Вага">1 кг</param>
+<param name="Розмір">12 х 22 х 20 см</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Бутербродниця – це пристрій, який дозволяє приготувати ідеальні теплі закуски для себе та своєї родини. Тостер Zelmer ZSM7900 3 в 1 потужністю 900 Вт включає 3 комплекти змінних пластин: що дозволяє використовувати пристрій у якості бутербродниці (сендвічмейкера), вафельниці та грилю. 3 комплекти змінних панелей для сендвічів, вафель і гриля. Смачні вафлі, хрусткі бутерброди, а може корисні закуски на грилі? З мультимейкером 3 в 1 Zelmer ви легко приготуєте смачну страву всього за кілька хвилин. Все, що вам потрібно зробити, це використовувати відповідні насадки, покриті кам'яним антипригарним покриттям, які ви можете зручно встановити в пристрій. Індикатор роботи Відразу після підключення пристрою до мережі повинен засвітитися червоний діод. Це ознака того, що пристрій працює належним чином. Червоне світло також свідчить про те, що пластини всередині починають нагріватися. А якщо ви використовуєте пристрій вперше, то пластини змастіть маслом і залиште відкритими на 5 хвилин. Антипригарні насадки з кам'яним покриттям Ви любите готувати їжу, але не любите прибирати потім? Мити сендвічницю Zelmer дуже просто і зручно. Нагрівальні плити покриті кам'яним, антипригарним покриттям. Все, що вам потрібно зробити, це протерти їх вологою ганчіркою після використання. Кілька рухів і готово! Індикатор готовності Коли класти хліб у тостер? З пристроєм Zelmer вам не доведеться про це думати. Спеціальний індикатор повідомить вам, коли бутербродниця готова до використання. Зверніть увагу, що зелений світлодіод почав світитися. Якщо так - це знак того, що можна приступати до готування. Зберігання шнура Скручені кабелі виглядають не дуже привабливо, навіть якщо пристрій приховано. Тому сендвічниця Zelmer створена так, щоб ви завжди могли зручно заховати шнур. У нижній частині ви знайдете відсік для зберігання, куди поміститься весь кабель із вилкою. Замок безпеки Ви любите теплі бутерброди з великою кількістю начинок? Щоб вони добре нагрілися, закрийте пристрій і зафіксуйте ручку гачком. Завдяки цьому мультимейкер не відкриється під час роботи - навіть якщо ваші бутерброди будуть значних розмірів! Замок також забезпечить захист дітей від опіків. Вертикальне зберігання Не вистачає місця в шафах? Сендвічниця Zelmer легко поміститься навіть на невеликій поличці. Завдяки конструкції пристрою ви також можете зберігати його вертикально. Використовуйте спеціальний фіксатор в ручці. Після його закриття тостер не відкривається - в будь-якому положенні.]]></description>
 </offer>
 <offer id="HT22583" available="true" selling_type="r">
 <name>Ваги дорожні Rotex RSB03-S</name>
@@ -39318,7 +39350,7 @@
 <portal_category_id>6300407</portal_category_id>
 <price>6463.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000005158_59993331.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000005158_59993333.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000005158_59993270.jpg</picture>
@@ -39471,7 +39503,7 @@
 <portal_category_id>638</portal_category_id>
 <price>999.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000006474_10747663.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000006474_FA-5453-2.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000006474_FA-5453-2.jpg</picture>
@@ -39590,7 +39622,7 @@
 <portal_category_id>63708</portal_category_id>
 <price>673.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000009968_eb532183-4e3c-400c-83c5-44db08244c0a.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000009968_7c4725dd-1570-4d18-acd6-9967d8411c51.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000009968_6a5c5d48-882d-4885-9306-a1381db3eb22.jpg</picture>
@@ -39833,7 +39865,7 @@
 <portal_category_id>28290204</portal_category_id>
 <price>1287.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>33</quantity_in_stock>
+<quantity_in_stock>31</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_a6b1072d-0b84-11e8-a64b-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000000129_273253692.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000000129_273253691.jpg</picture>
@@ -40239,7 +40271,7 @@
 <portal_category_id>605</portal_category_id>
 <price>3607.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000009077_276380262.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000009077_276380275.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000009077_276380290.jpg</picture>
@@ -40830,7 +40862,7 @@
 <portal_category_id>603</portal_category_id>
 <price>22813.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000009873_2583341.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000009873_2583340.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000009873_2583343.jpg</picture>
@@ -40863,7 +40895,7 @@
 <portal_category_id>603</portal_category_id>
 <price>14119.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000009235_U0448501_big.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000009235_267746961.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000009235_267746963.jpg</picture>
@@ -40896,7 +40928,7 @@
 <portal_category_id>603</portal_category_id>
 <price>14969.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>56</quantity_in_stock>
+<quantity_in_stock>50</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_dd68bc84-0cd7-11ec-89e4-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000006663_7542253-1638446692.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000006663_7542265-1638446692.jpg</picture>
@@ -40930,7 +40962,7 @@
 <portal_category_id>603</portal_category_id>
 <price>11907.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000010012_62b2e7209bd16.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000010012_62b2e720b6531.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000010012_62b2e720da56f.jpg</picture>
@@ -41967,7 +41999,7 @@
 <portal_category_id>640</portal_category_id>
 <price>1177.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000039421.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000039422.jpg</picture>
 <vendor>Midea</vendor>
@@ -42806,7 +42838,7 @@
 <portal_category_id>641</portal_category_id>
 <price>11819.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011132_7116285_1.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011132_7116285_2.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011132_7116285_5.jpg</picture>
@@ -42935,7 +42967,7 @@
 <portal_category_id>641</portal_category_id>
 <price>15444.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011186_326501147.jpg</picture>
 <vendor>CASTLE</vendor>
 <vendorCode>HT29753</vendorCode>
@@ -42964,7 +42996,7 @@
 <portal_category_id>641</portal_category_id>
 <price>13607.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011187_326516081.jpg</picture>
 <vendor>CASTLE</vendor>
 <vendorCode>HT29754</vendorCode>
@@ -42994,7 +43026,7 @@
 <portal_category_id>641</portal_category_id>
 <price>15444.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011188_326523108.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011188_7251269_4.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011188_7251269_3.jpg</picture>
@@ -43080,7 +43112,7 @@
 <portal_category_id>641</portal_category_id>
 <price>12282.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011261_7116281_1.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011261_7116281.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011261_7116281.jpg</picture>
@@ -43183,7 +43215,7 @@
 <portal_category_id>609</portal_category_id>
 <price>4134.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_6ea1bc32-3385-11ee-8a54-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/10_6ea1bc32-3385-11ee-8a54-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/11_6ea1bc32-3385-11ee-8a54-dc4a3e701323.jpg</picture>
@@ -43807,7 +43839,7 @@
 <portal_category_id>641</portal_category_id>
 <price>13200.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011646_5-p273277-0001.jpg</picture>
 <vendor>CASTLE</vendor>
 <vendorCode>HT30211</vendorCode>
@@ -44356,7 +44388,7 @@
 <portal_category_id>64404</portal_category_id>
 <price>295.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011902_20338_.jpg</picture>
 <vendor>СЛОН</vendor>
 <vendorCode>HT30466</vendorCode>
@@ -44498,7 +44530,7 @@
 <portal_category_id>64404</portal_category_id>
 <price>295.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>13</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011910_UNI%20C-III.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011910_UNI%20C-III.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011910_UNI%20C-III.jpg</picture>
@@ -44591,7 +44623,7 @@
 <name>Духовка GoodGrill GR-6501RC 65л конвекція (червона)</name>
 <categoryId>224</categoryId>
 <portal_category_id>6300407</portal_category_id>
-<price>4932.00</price>
+<price>5463.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011918_4908076366_w640_h640_pich-elektrichna-goodgrill.jpg</picture>
@@ -44944,7 +44976,7 @@
 <portal_category_id>641</portal_category_id>
 <price>1182.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>42</quantity_in_stock>
+<quantity_in_stock>38</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012031_w530_falltrbmr_411b5551.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012031_w530_fallts6fg_59f5ade9.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012031_w530_falltt4ej_838707c1.jpg</picture>
@@ -46434,7 +46466,7 @@
 <portal_category_id>61903</portal_category_id>
 <price>18738.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012479_328258189.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012479_328258209.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012479_328258224.jpg</picture>
@@ -46524,7 +46556,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[MiniAqua Candy MiniAqua — ідеальне рішення для вашого обмеженого простору без шкоди для догляду за одягом, дизайну чи здоров’я планети. Маючи лише 70 см у висоту та 51 см у ширину, вона може вмістити вражаючі 5 кг одягу, зберігаючи чудову енергоефективність. Більш гігієнічне прання завдяки Smart Dual Spray Candy Smart Dual Spray — це автоматична система очищення, яка активується в кінці кожного циклу прання. Ця функція не тільки забезпечує більш гігієнічне прання вашої білизни, але й покращує тривалий термін служби машини. Ідеальні результати прання завдяки антибактеріальній обробці Завдяки нашій антибактеріальній обробці (ABT®) ваша пральна машина в безпеці! Найбільш вразливі зони, такі як ущільнювач ілюмінатора, захищені від цвілі та розмноження бактерій, що забезпечує на 99% гігієнічніше прання. Дбайливе та ефективне прання Будьте готові відчути догляд за білизною, як ніколи раніше, завдяки нещодавно розробленій внутрішній поверхні барабана! Незалежно від того, наскільки делікатні тканини, будьте впевнені, що до нього ставитимуться максимально дбайливо, забезпечуючи безкомпромісне прання. Секрет полягає в наших спеціально розроблених подушечках, які дозволяють білизні м’яко ковзати по поверхні, усуваючи ризик зачеплення тканини, тому що створені для захисту вашого одягу! Inverter Silent+ Система Inverter Silent+ з безшумним інверторним мотором дозволяє пральній машині зайняти одне з перших місць з безшумності у своєму сегменті та гарантує оптимізацію споживання і економію електроенергії. Виперіть свій одяг всього за 15 хвилин Найрозумніше та найшвидше рішення випрати ваш одяг лише за 15 хвилин? Відповідь: програма "Швидке прання 15" від Candy —найкращий компроміс, якщо у вас немає часу або просто потрібно освіжити одяг. Уникайте складок за допомогою функції "Антискладки" З Candy MiniAqua вам не потрібно негайно розвантажувати пральну машину. Завдяки функції "Антискладки" барабан неодноразово обертається після циклу віджимання, дозволяючи виймати одяг навіть через 12 годин. З відстрочкою старту ви можете прати, коли це зручніше За допомогою цієї функції ви можете запрограмувати час завершення циклу прання до 24 годин! Виберіть потрібний час завершення і дозвольте пральній машині автоматично розрахувати найбільш відповідний час початку. Candy спрощує ваше життя, даючи вам свободу визначати пріоритети своїх зобов’язань!]]></description>
 </offer>
-<offer id="HT31172" available="true" selling_type="r">
+<offer id="HT31172" available="false" selling_type="r">
 <name>Холодильник Gorenje NRK720EAXL4 ( 70 см ширина, ниж.мор.)</name>
 <categoryId>218</categoryId>
 <portal_category_id>602</portal_category_id>
@@ -46583,7 +46615,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Підкресліть свій стиль та забезпечте ідеальний вигляд вашого волосся з фен-щіткою ADLER AD-2022, яка представляє собою витончений набір для укладання волосся 6 в 1. З цим пристроєм ви матимете можливість створити різноманітні зачіски, що вражатимуть своєю красою. Завдяки двом температурним режимам та потоку холодного повітря ви можете підлаштувати роботу фен-щітки під ваші потреби та тип волосся. Потужний нагрівач забезпечить швидке та ефективне створення вашого образу. Набір включає 6 змінних насадок:- Щітка діаметром 34 мм- Щітка діаметром 30 мм з висувними зубцями- Щітка діаметром 21 мм з нейлоновою щетиною- Затискна плойка діаметром 20 мм- Гребінець- Концентратор Ручка фен-щітки не нагрівається, а наконечники насадок також залишаються прохолодними під час роботи, що забезпечує вам комфорт і безпеку використання. Поворотний шнур та тримач для підвішування роблять цей пристрій дуже зручним у використанні та зберіганні. Додатково в комплекті йде дорожній чохол, який робить фен-щітку ідеальним супутником у подорожах. Загальна довжина шнура живлення становить 175 см, а його чорний колір додає стильного завершення. Номінальна потужність фен-щітки - 1000 Вт, а максимальна - 1200 Вт, забезпечуючи оптимальну ефективність роботи. Насолоджуйтесь професійним доглядом за вашим волоссям з фен-щіткою ADLER AD-2022!]]></description>
 </offer>
-<offer id="HT31197" available="true" selling_type="r">
+<offer id="HT31197" available="false" selling_type="r">
 <name>М`ясорубка ZELMER ZMM3512B шинковка</name>
 <categoryId>283</categoryId>
 <portal_category_id>63005</portal_category_id>
@@ -46911,7 +46943,7 @@
 <portal_category_id>6300407</portal_category_id>
 <price>4694.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012822_421057491.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012822_421057498.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012822_421057507.jpg</picture>
@@ -46958,7 +46990,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Пилосос CASTLE CW-101B забезпечує можливість здійснити прибирання з високою продуктивністю. А все завдяки тому, що ця техніка має потужність 2000 Вт та всмоктує забруднення з великою силою. Так ви зможете прибрати будь-які ділянки, особливо не обтяжуючи себе.]]></description>
 </offer>
-<offer id="HT31389" available="true" selling_type="r">
+<offer id="HT31389" available="false" selling_type="r">
 <name>Порохотяг Castle CW-101R (2000Вт, мішок)</name>
 <categoryId>272</categoryId>
 <portal_category_id>608</portal_category_id>
@@ -47476,7 +47508,7 @@
 <portal_category_id>63708</portal_category_id>
 <price>1505.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>13</quantity_in_stock>
+<quantity_in_stock>12</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000131491.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000131492.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000131493.jpg</picture>
@@ -47580,7 +47612,7 @@
 <portal_category_id>640</portal_category_id>
 <price>401.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>32</quantity_in_stock>
+<quantity_in_stock>31</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013240_444187331.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013240_444187332.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013240_444187333.jpg</picture>
@@ -53349,7 +53381,7 @@
 <portal_category_id>63708</portal_category_id>
 <price>1637.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>13</quantity_in_stock>
+<quantity_in_stock>12</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014678_kr-plennya-tv-atg-w2455rb.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000014678_kr-plennya-tv-atg-w2455rb.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000014678_kr-plennya-tv-atg-w2455rb.jpg</picture>
@@ -54205,7 +54237,7 @@
 <param name="Гарантія">36 місяців</param>
 <description><![CDATA[Blue Fin Блакитне покриття оребрення теплообмінника - Захист від корозії. Спеціальне антикорозійне покриття теплообмінника, що захищає від атмосферних явищ і впливів агресивного зовнішнього середовища. Режим осушення Режим осушення автоматично вибирає режим охолодження, заснований на різниці між встановленою темпаратурою і дійсною кімнатною температурою. Температура регулюється під час зниження вологості повітря повторюваним включенням і вимиканням режиму охолодження і тільки вентиляції. При включенні режиму осушення на ПДУ відображається «Краплинка". Hydrophilic Aluminium Fin Підвищена змочуваність теплообмінника, алюмінієві пластини якого мають спеціальне покриття з гідрофільним шаром, що забезпечує швидке видалення конденсату з внутрішнього блоку, що не дозволяє швидко утворюватися цвілі і бактеріям, забезпечуючи при цьому більш ефективну роботу кондиціонера. Multi-Bend Heat Exchanger Підвищена тепловіддача. У блоках використовуються теплообмінники з трубками особливої конструкції, внутрішня поверхня яких має насічки трапецієподібної форми "Innergrove cooper", що забезпечує максимально збільшену площу поверхні теплообміну. Завдяки цьому тепловіддача підвищується на 28%, знижується рівень енергоспоживання і, отже, збільшується ефективність роботи системи. Silence Режим "Тиша" - кондиціонер знижує оберти вентилятора внутрішнього блоку до мінімальних, при цьому рівень шуму роботи кондиціонера так само знижується. Sine-Wave Inverter Технологія 180° -градусного хвильового інверторного перетворення - керуюча напруга без «імпульсних» ефектів (усувається ступінчатість синусоїди). У порівнянні з стандартним 120° струмом прямокутної форми надає наступні переваги: Можливість роботи при більш широкому діапазоні живлячої напруги і частоти струму. Велику енергоефективність та енергозбереження. Більш м'який старт, нижче шум і вібрації. Великі можливості управління. Компресор DC inverter Компресор з інвертором постійного струму дозволяє збільшити ефективність роботи кондиціонера, таким чином, зниження споживання енергії заощаджує Ваші витрати. Така система значно економніше та надійніше, ніж кондиціонери з постійною потужністю компресора. Нічний режим Режим активується з ПДУ і забезпечує створення комфортних умов для спокійного і глибокого сну протягом 7-ми годинного циклу зі зміною заданих температурних значень, а також установки мінімального рівня шуму та економної витрати електроенергії. Після чого температура повертається до спочатку заданого значення. Керування за допомогою Wi-Fi Кондиціонери можуть опціонально оснащуватися модулем Wi-Fi, який дозволяє користувачеві, контролювати і дистанційно керувати кондиціонером зі смартфона або планшета з будь-якої точки світу.]]></description>
 </offer>
-<offer id="HT33477" available="true" selling_type="r">
+<offer id="HT33477" available="false" selling_type="r">
 <name>Мультипіч-фритюрниця ZELMER ZAF 9230 Maxi</name>
 <categoryId>267</categoryId>
 <portal_category_id>6300424</portal_category_id>
@@ -54583,7 +54615,7 @@
 <portal_category_id>602</portal_category_id>
 <price>24313.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>12</quantity_in_stock>
+<quantity_in_stock>11</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000015010_323422845.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000015010_323422846.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000015010_453777692.jpg</picture>
@@ -54684,7 +54716,7 @@
 <portal_category_id>6300407</portal_category_id>
 <price>5169.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000150372.jpg</picture>
 <vendor>CASTLE</vendor>
 <vendorCode>HT33599</vendorCode>
@@ -55067,7 +55099,7 @@
 <portal_category_id>64403</portal_category_id>
 <price>292.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>75</quantity_in_stock>
+<quantity_in_stock>72</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000151331.jpg</picture>
 <vendor>ЦЕ ВО</vendor>
 <vendorCode>HT33695</vendorCode>
@@ -55153,7 +55185,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Пилосос CASTLE CW-110R— це зручний та ефективний інструмент для прибирання, який забезпечує якісне очищення різних типів поверхонь у вашому домі чи офісі. Оснащений потужним мотором, він здатний швидко та ефективно справлятися з пилом та дрібним сміттям. Основні характеристики: Потужність: Забезпечує достатню силу всмоктування для ефективного прибирання, дозволяючи якісно очищати підлогу та килими.Дизайн: Компактний та ергономічний дизайн дозволяє з легкістю маневрувати по різних приміщеннях, а також зручно зберігати прилад, коли він не використовується.Фільтрація: Сучасна система фільтрації забезпечує більш чисте повітря після прибирання, утримуючи частинки пилу і алергенів.Насадки: Може бути оснащений різними насадками для різних поверхонь, включаючи щілинну насадку та насадки для меблів.Контейнер/мішок для пилу: Зручно спорожняти та чистити, що полегшує обслуговування пилососа.Цей пилосос стане чудовим вибором для тих, хто шукає надійний та простий у використанні прилад для ефективного прибирання повсякденного бруду та пилу. Якщо вам потрібна додаткова інформація про специфічні функції або характеристики, таких як рівень шуму або об'єм контейнера для пилу, будь ласка, зверніть увагу на додаткові джерела або специфікації від виробника.]]></description>
 </offer>
-<offer id="HT33721" available="true" selling_type="r">
+<offer id="HT33721" available="false" selling_type="r">
 <name>Порохотяг Castle CW-111H (колба)</name>
 <categoryId>272</categoryId>
 <portal_category_id>608</portal_category_id>
@@ -56325,7 +56357,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Нагрівач для тарілок Whirlpool - W1114 Характеристики вбудованого нагрівача тарілок: об'єм збільшено до 20 літрів. Втоплені ручки. Функція регулювання температури від 40° до 70°С.]]></description>
 </offer>
-<offer id="HT33873" available="true" selling_type="r">
+<offer id="HT33873" available="false" selling_type="r">
 <name>Посудомийна машина Whirlpool WH4ID10CS60 (вбудована, 45см)</name>
 <categoryId>226</categoryId>
 <portal_category_id>615</portal_category_id>
@@ -57468,7 +57500,7 @@
 <portal_category_id>641</portal_category_id>
 <price>14788.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155591.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155592.jpg</picture>
 <vendor>CASTLE</vendor>
@@ -58050,7 +58082,7 @@
 <portal_category_id>6300424</portal_category_id>
 <price>3365.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157040.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157041.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157042.jpg</picture>
@@ -59852,7 +59884,7 @@
 <portal_category_id>608</portal_category_id>
 <price>3882.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000161401.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000161402.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000161403.jpg</picture>
@@ -60463,7 +60495,7 @@
 <portal_category_id>6300424</portal_category_id>
 <price>5086.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000162920.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000162921.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000162922.jpg</picture>
@@ -61440,7 +61472,7 @@
 <portal_category_id>603</portal_category_id>
 <price>16388.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>11</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165821.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165822.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165823.jpg</picture>
@@ -61548,7 +61580,7 @@
 <portal_category_id>602</portal_category_id>
 <price>19294.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>34</quantity_in_stock>
+<quantity_in_stock>32</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166351.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166352.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166353.jpg</picture>
@@ -61785,7 +61817,7 @@
 <portal_category_id>64422</portal_category_id>
 <price>202.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>37</quantity_in_stock>
+<quantity_in_stock>34</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166961.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166962.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166963.jpg</picture>
@@ -62171,7 +62203,7 @@
 <portal_category_id>602</portal_category_id>
 <price>21775.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167761.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167762.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167763.jpg</picture>
@@ -63178,7 +63210,7 @@
 <portal_category_id>61903</portal_category_id>
 <price>25300.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169711.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169712.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169713.jpg</picture>
@@ -63714,7 +63746,7 @@
 <portal_category_id>612</portal_category_id>
 <price>2671.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171071.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171072.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171073.jpg</picture>
@@ -63739,7 +63771,7 @@
 <portal_category_id>641</portal_category_id>
 <price>12769.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171151.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171152.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171153.jpg</picture>
@@ -63768,7 +63800,7 @@
 <portal_category_id>641</portal_category_id>
 <price>2171.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171161.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171162.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171163.jpg</picture>
@@ -64129,7 +64161,7 @@
 <portal_category_id>63005</portal_category_id>
 <price>3400.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000172101.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000172102.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000172103.jpg</picture>
@@ -65688,7 +65720,7 @@
 <portal_category_id>603</portal_category_id>
 <price>3119.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000172351.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000172352.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000172353.jpg</picture>
@@ -66167,7 +66199,7 @@
 <portal_category_id>617</portal_category_id>
 <price>814.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000174011.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000174012.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000174013.jpg</picture>
@@ -66634,7 +66666,7 @@
 <portal_category_id>64422</portal_category_id>
 <price>271.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>107</quantity_in_stock>
+<quantity_in_stock>104</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166971.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166972.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166973.jpg</picture>
@@ -67184,7 +67216,7 @@
 <portal_category_id>64301</portal_category_id>
 <price>1098.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175131.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175132.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175133.jpg</picture>
@@ -67517,7 +67549,7 @@
 <portal_category_id>641</portal_category_id>
 <price>19475.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000176021.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000176022.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000176023.jpg</picture>
@@ -68101,7 +68133,7 @@
 <portal_category_id>64301</portal_category_id>
 <price>1587.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175161.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175162.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175163.jpg</picture>
@@ -68742,7 +68774,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Витяжка Minola HBI 5262 BL Glass: потужність та стильВитяжка MINOLA HBI 5262 BL GLASS 700 LED — це ідеальне поєднання сучасного дизайну та високої продуктивності, що забезпечить комфортну атмосферу на вашій кухні. Цей пристрій, виконаний у стильному чорному кольорі з елементами скла, стане не тільки функціональним, але й естетичним доповненням до інтер'єру.Основною перевагою цієї витяжки є її висока продуктивність, яка досягає 700 м³/год. Це дозволяє ефективно видаляти запахи та випари, підтримуючи свіжість повітря навіть під час інтенсивного приготування. Витяжка підтримує два режими роботи: відведення та циркуляція, що надає можливість обрати оптимальний варіант в залежності від умов вашої кухні.Ефективність та зручність використанняВитяжка MINOLA обладнана алюмінієвим жировим фільтром, який легко очищується і забезпечує тривалий термін служби. Керування здійснюється за допомогою зручних кнопок та кулісних перемикачів, що робить експлуатацію максимально простою та інтуїтивно зрозумілою.Освітлення кухонного простору здійснюється за рахунок світлодіодних ламп потужністю 2x1 Вт, які забезпечують яскраве та рівномірне освітлення робочої зони. Така підсвітка не тільки функціональна, але й енергоефективна, що важливо для сучасного споживача.Компактність та надійністьЗавдяки своїм компактним розмірам (ширина 53 см, висота 18,5 см), витяжка легко інтегрується в будь-який кухонний гарнітур, не займаючи зайвого простору. Діаметр повітропроводу складає 120 мм, що є стандартним рішенням для більшості кухонь.Модель оснащена одним двигуном, який забезпечує три швидкості роботи, дозволяючи регулювати інтенсивність витяжки в залежності від потреб. Максимальний рівень шуму не перевищує 63 дБ, що робить її тихою та комфортною у використанні.Виробник надає гарантію на 12 місяців, що підтверджує високу якість та надійність витяжки MINOLA HBI 5262 BL GLASS 700 LED. Це ідеальний вибір для тих, хто цінує поєднання функціональності, стилю та енергоефективності.]]></description>
 </offer>
-<offer id="HT35685" available="true" selling_type="r">
+<offer id="HT35685" available="false" selling_type="r">
 <name>Витяжка Minola HPL 522 BL (плоска)</name>
 <categoryId>222</categoryId>
 <portal_category_id>642</portal_category_id>
@@ -68781,7 +68813,7 @@
 <portal_category_id>642</portal_category_id>
 <price>2744.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178541.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178542.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178543.jpg</picture>
@@ -68812,7 +68844,7 @@
 <portal_category_id>642</portal_category_id>
 <price>2594.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178551.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178552.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178553.jpg</picture>
@@ -69477,7 +69509,7 @@
 <portal_category_id>28290204</portal_category_id>
 <price>2295.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000179351.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000179352.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000179353.jpg</picture>
@@ -70661,7 +70693,7 @@
 <portal_category_id>607</portal_category_id>
 <price>10313.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180521.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180522.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180523.jpg</picture>
@@ -71191,7 +71223,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Духова шафа Kumtel B66-SF2 (DDT) White: ідеальний вибір для вашої кухніДухова шафа KUMTEL B66-SF2 (DDT) WHITE, об'ємом 60 літрів, є зразком сучасного кухонного обладнання, яке гармонійно поєднує в собі стильний дизайн і передові технології. Білий колір корпусу додає елегантності та чудово вписується в будь-який інтер'єр, створюючи атмосферу чистоти та затишку.Електрична духовка оснащена емаллю легкого очищення, що полегшує догляд за приладом. Конвекційна система забезпечує рівномірний розподіл тепла, дозволяючи готувати їжу з ідеальною скоринкою та соковитістю всередині. Термостат та дисплей забезпечують точний контроль температури та часу, що особливо важливо для досягнення найкращих кулінарних результатів.Функціональні можливості та безпекаДухова шафа KUMTEL B66-SF2 пропонує дев'ять програм приготування, включаючи нижнє та верхнє нагрівання, конвекцію, розморожування, а також комбіновані режими, такі як верхнє нагрівання з конвекцією. Це дозволяє експериментувати з різними рецептами та досягати ідеального результату щоразу. Відсутність функції НВЧ компенсується наявністю інших зручних режимів.Безпека використання забезпечується вбудованим вентилятором охолодження, який запобігає перегріву та продовжує термін служби пристрою. Дверцята духовки виконані з двома стеклами, що додатково захищає від опіків. Механічне та сенсорне управління роблять використання приладу інтуїтивно зрозумілим та зручним.Комплектація та технічні характеристикиУ комплекті з духовкою поставляються два листи і грати, що дозволяє відразу приступити до приготування різних страв. Гратчасті та дротяні напрямні забезпечують надійну фіксацію деко та легкість їх вилучення.Габаритні розміри духовки становлять 595 х 575 х 550 мм, а розміри ніші для вбудовування - 558 х 585 х 550 мм, що полегшує встановлення пристрою на кухні. Діапазон температур від 50 ° С до 250 ° С дозволяє готувати як делікатні страви, так і страви, що потребують високої температури. Вага духовки без упаковки становить 23,21 кг, з упаковкою – 24,18 кг. Гарантія на пристрій надається на 12 місяців.Духова шафа KUMTEL B66-SF2 (DDT) WHITE - це ідеальне поєднання функціональності, безпеки та сучасного дизайну, яке стане незамінним помічником на вашій кухні.]]></description>
 </offer>
-<offer id="HT35862" available="true" selling_type="r">
+<offer id="HT35862" available="false" selling_type="r">
 <name>Мікрохвильова піч Gorenje MO17E1BH</name>
 <categoryId>220</categoryId>
 <portal_category_id>605</portal_category_id>
@@ -71221,7 +71253,7 @@
 <param name="Гарантія">2 роки</param>
 <description><![CDATA[AquaCleanЖодного клопоту з доглядомЗабудьте про виснажливе очищення камери мікрохвильової печі від жиру та залишків їжі. Завдяки унікальній технології AquaClean ви зможете насолоджуватися легким доглядом. Просто налийте воду в термостійку склянку або затишну керамічну чашку, помістіть її в піч і активуйте програму. Делікатна пара розм'якшить навіть найстійкіші забруднення, щоб ви могли потім просто протерти їх губкою, повертаючи винятковий блиск глянцю GORENJE.Задіявши короткі та потужні мікрохвилі, GORENJE забезпечить делікатне розморожування заготовок. Тепло рівномірно передається від уже нагрітих областей продукту до холодних, забезпечуючи максимально рівномірне відтавання. Спеціальне налаштування Speed Defrost допоможе швидко підготувати інгредієнти для приготування страв, навіть якщо на них знаходиться більше льоду.360° rotating plateТарілка, що повільно обертаєтьсяІдеальне приготування та розігрівання їжі без холодних зон забезпечить сучасна GORENJE. Завдяки плавному обертанню тарілки всередині камери вона забезпечить ефективний і рівномірний розподіл мікрохвиль, гарантуючи, що кожен шматочок вашої їжі буде нагрітий ідеально.Кілька рівнів впливуГнучке налаштуванняОб'єднуючи кілька рівнів потужності: 100%, 70%, 50%, 30% і 10%, мікрохвильова піч допоможе підібрати оптимальні умови приготування для різних страв. Для прискореного розігрівання підійде максимальний режим. Середня інтенсивність буде вдалою для делікатного приготування на пару або смаження. А низька потужність хоч і більш щадна, вимагає особливої уваги: продукти можуть втратити частину своєї вологи. Розкрийте всі переваги GORENJE і насолоджуйтеся користуванням.]]></description>
 </offer>
-<offer id="HT35864" available="true" selling_type="r">
+<offer id="HT35864" available="false" selling_type="r">
 <name>Морозильна скриня INDESIT INCF 1004 UA (100 л)</name>
 <categoryId>225</categoryId>
 <portal_category_id>62701</portal_category_id>
@@ -71397,7 +71429,7 @@
 <param name="Діаметр">24 см</param>
 <description><![CDATA[Сковорода глибока з кришкою 24 см з покриттям BLACK Nano QuartzХарактеристики:Діаметр: 24 смПокриття: 4-шарове антипригарне покриттяРозмір: 24х5,5 см4-шарове антипригарне покриттяАнтипригарне покриття Nano Quartz Зовнішнє жаростійке покриттяМіцний матеріал ручки: бакеліт + м'яке прогумоване Soft Touch покриттяТовщина: 4,0-2,5 мм (дно, стінки)Iндукційне дно]]></description>
 </offer>
-<offer id="HT35879" available="true" selling_type="r">
+<offer id="HT35879" available="false" selling_type="r">
 <name>Холодильник Whirlpool WHK 26373 XBR6EA (186.5 м,дисп, чорн.No Frost)</name>
 <categoryId>218</categoryId>
 <portal_category_id>602</portal_category_id>
@@ -72324,7 +72356,7 @@
 <portal_category_id>6300424</portal_category_id>
 <price>6270.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182511.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182512.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182513.jpg</picture>
@@ -73295,7 +73327,7 @@
 <portal_category_id>602</portal_category_id>
 <price>11413.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>50</quantity_in_stock>
+<quantity_in_stock>39</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184331.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184332.jpg</picture>
 <vendor>Midea</vendor>
@@ -73566,7 +73598,7 @@
 <param name="Гарантія">25 міс</param>
 <description><![CDATA[витяжка ПовновбудованаMinola HBI 6473 BL GLASS 800 LED LineMinola HBI 6473 BL GLASS 800 LED Line - ідеальне поєднання сучасного мінімалізму й практичностіПовновбудована витяжка стане функціональним доповненням вашої кухні, а за рахунок своєї будови вона повністю сховається у шафу та не порушить загальний дизайнНадійність, якість та інтуїтивно зрозумілий функціонал роблять її зручною у користуванніКорпус витяжки виготовлений із загартованого скла, стійкого до високих температур і механічних пошкодженьП'ятишаровим жироуловлювальний алюмінієвий фільтр чорного кольору, розташований під захисною кришкою, забезпечує ефективну очистку повітряВисока продуктивність i три швидкості роботиПотужність витяжки – 800 м3/год. Вона ефективно освіжає повітря в приміщенні, уникаючи випари, дим та зайві запахиЗалежно від інтенсивності процесу готування роботу витяжки можна регулювати, вибираючи необхідну швидкістьДодаткове освітлення робочої зониМодель оснащена сучасною LED лампою потужністю 5 ВтЦього достатньо, щоб використовувати її як додаткове освітлення варильної поверхніСвітлодіоди комфортні для очей, витривалі та економніКерування легким дотикомСучасна панель керування дозволяє без зусиль управляти витяжкоюП'ять сенсорних кнопок розташовані посередині на скляній панеліСенсори мають підсвічування приємного білого кольоруп'ятишаровий захист моторуМодель оснащена надійним жировим алюмінієвим фільтром чорного кольору, що складається з п'яти шарівВін запобігає потраплянню жиру та випарів у середину витяжки. Завдяки цьому мотор захищений, а тому прослужить вам значно довшеТаймер на 15 хвилинДля переходу в режим таймера увімкніть витяжкуВиберіть оптимальну швидкість, з якою витяжка продовжить працювати до вимкненняОдним дотиком кнопки ввімкнення/вимкнення витяжка переходить у режим таймераІндикатор клавіші блимає, витяжка автоматично вимкнеться через 15 хвилин.]]></description>
 </offer>
-<offer id="HT36039" available="true" selling_type="r">
+<offer id="HT36039" available="false" selling_type="r">
 <name>Витяжка Minola HPL 622 I (плоска)</name>
 <categoryId>222</categoryId>
 <portal_category_id>642</portal_category_id>
@@ -74408,7 +74440,7 @@
 <portal_category_id>16252401</portal_category_id>
 <price>2838.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185531.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185532.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185533.jpg</picture>
@@ -74572,7 +74604,7 @@
 <portal_category_id>602</portal_category_id>
 <price>41650.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>11</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185721.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185722.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185723.jpg</picture>
@@ -74599,7 +74631,7 @@
 <portal_category_id>602</portal_category_id>
 <price>46438.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186121.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186122.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186123.jpg</picture>
@@ -74722,7 +74754,7 @@
 <portal_category_id>6300424</portal_category_id>
 <price>8797.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185001.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185002.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185003.jpg</picture>
@@ -76321,7 +76353,7 @@
 <portal_category_id>615</portal_category_id>
 <price>11850.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188081.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188082.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188083.jpg</picture>
@@ -77021,7 +77053,7 @@
 <portal_category_id>61911</portal_category_id>
 <price>4625.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188861.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188862.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188863.jpg</picture>
@@ -77137,7 +77169,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Ідеально доповнить вашу кухню та забезпечить максимальну свіжість.Нульовий зазор*Створений, щоб пасувати до будь-якої кухні.Стильне та сучасне поєднанняНовий холодильник з нижньою морозильною камерою - це втілення функціональності і стилю в елегантному корпусі. Мінімалістичний дизайн підкреслює елегантність і зручність.Розумне охолодження для оптимізації споживання електроенергії з LG ThinQРежим енергозбереженняСистема упродовж трьох тижнів вивчає, як ви користуєтеся холодильником, визначає періоди з найменшою кількістю відкривань дверцят і в ці години зменшує споживання електроенергії, забезпечуючи водночас належне зберігання свіжості продуктів.Оптимальне охолодження при частому відкриванні дверцятСистема зменшує коливання температури під час частого відкривання холодильника, аналізуючи дані про користування. На основі зібраної статистики вона заздалегідь - приблизно за дві години - активує інтенсивніше охолодження, щоб підтримувати стабільну температуру всередині.Оповіщення відчинених дверцятФункція сповіщення про відчинені дверцята¹ забезпечує довготривалу свіжість ваших продуктів і мінімізує витрати електроенергії, сповіщаючи вас про неповне закриття дверцят.Максимальна свіжістьТехнологія LinearCooling зберігає продукти свіжими довше, зменшуючи коливання температури та зберігаючи їхній смак і зовнішній вигляд.Швидке та рівномірне охолодження з DoorCooling+*Технологія DoorCooling+ забезпечує більш швидке та рівномірне охолодження по всьому холодильнику і зберігає ваші продукти свіжими набагато довше.Оптимальний рівень вологостіFRESHBalancer*FRESHBalancer підтримує оптимальний рівень вологості для ваших фруктів і овочів та завдяки комірчастій структурі кришки Moist Balance Crisper**, яка накопичує конденсат у спеціальних сотах, запобігає потраплянню крапель на продукти, вода поступово випаровується, підтримуючи оптимальний рівень вологи. Завдяки цьому фрукти й овочі довше залишаються свіжими, зберігаючи свої корисні властивості та насичений смак.Оптимальна температура для різних продуктівFRESHConverter підтримує правильну температуру для кожного продукту або групи продуктів. За допомогою бігунка можна обрати один із трьох температурних режимів (-3°C: М'ясо / 0°C: Риба / 3°C: Сир).Максимальний об'єм і продумана організаціяПідвищуйте ефективність зберігання завдяки розумним і зручним рішенням, які допомагають зберігати продукти свіжими.Полиця для винаПолиця для пляшок і щоденних продуктів — ефективна організація без жодних втрат простору.Складана полицяСпеціальна конструкція складаної полиці дозволяє розмістити посуд чи інші предмети практично будь-якого розміру та створює простір для зберігання високих і громіздких предметів.Висока енергоефективністьКомпресор LG Smart Inverter* регулює потужність охолодження відповідно до потреб, зменшуючи споживання електроенергії та працюючи тихо й надійно. Компанія LG створює наднадійну техніку та окрім повної гарантії на продукт терміном 12 місяців зобов’язується безкоштовно надавати певний перелік деталей для подальшої заміни. Для холодильників LG ці зобов’язання поширюються на окремі деталі інверторного та лінійного компресорів]]></description>
 </offer>
-<offer id="HT36212" available="true" selling_type="r">
+<offer id="HT36212" available="false" selling_type="r">
 <name>Холодильник Indesit INKS 8261 W4E</name>
 <categoryId>218</categoryId>
 <portal_category_id>602</portal_category_id>
@@ -77805,6 +77837,140 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Газова варильна поверхня gorenje GW642SYB має не тільки практичні функціональні можливості, але й прекрасний стиль, який елегантно впишеться і доповнить інтер'єр будь-якої сучасної кухні і стане улюбленицею власника. Оригінальний дизайн ідеально підійде для квартир з технікою Gorenje і стане невід'ємною помічницею на кухні.Варильна поверхня Gorenje GW642SYB має класичні форми і представлена в "нержавіюча сталь" кольорі. Модель GW642SYB важить 11,3 кг і має габаритний розміри (ШхВхГ): 60х13х52 см. Завдяки своїй компактності, варильна поверхня легко без проблем розміститься як у великій, так і маленькій кухні.Газова варильна поверхня gorenje GW642SYB має чавунні решітки та керується за допомогою елегантних механічних ручок. Модель має 4 газові конфорки з різними розмірами та потужностями:Передня ліва: Ø 12.3 см, 3.5 кВт,Передня права: мала Ø 5.37 см, 1.05 кВт,Задня ліва: нормальна Ø 7.35 см, 1.8 кВт,Задня права: нормальна Ø 7.35 см, 1.8 кВтВідмінною перевагою варильної поверхні Gorenje GW642SYB є наявність функції захисного відключення (газ-контроль). Завдяки цьому ваш будинок завжди буде у безпеці. Адже якщо згасне вогонь, газ автоматично перестане надходити, тим самим запобігаючи несприятливим наслідкам. Також має функцію автоматичного електрозапалювання. Так само дана модель оснащується зручною решіткою-підставкою для турки.]]></description>
 </offer>
+<offer id="HT36236" available="true" selling_type="r">
+<name>Відпарювач ручний Gorenje GS2100BKV</name>
+<categoryId>271</categoryId>
+<portal_category_id>63006</portal_category_id>
+<price>2301.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>2</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182531.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182532.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182533.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182534.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182535.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182536.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182537.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182538.jpg</picture>
+<vendor>Gorenje</vendor>
+<vendorCode>HT36236</vendorCode>
+<country>Китай</country>
+<param name="Колір">Сірий з рожевим</param>
+<param name="Керування">Механічне</param>
+<param name="Матеріал корпусу">Пластик</param>
+<param name="Об&apos;єм резервуару для води">220 мл</param>
+<param name="Тип праски">Відпарювач</param>
+<param name="Час нагріву">20 сек</param>
+<param name="Паровий удар">35 г/хв</param>
+<param name="Потужність">2100 Вт</param>
+<param name="Автоматичне відключення">Так</param>
+<param name="Вага">1,2 кг</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Освіжає, дезінфікує та відпарює - все в одномуGorenje GS2100BKV не лише розгладжує складки - він освіжає та дезінфікує ваш одяг, усуваючи неприємні запахи та бактерії за допомогою потужної пари. Зробіть свій гардероб свіжим, чистим і готовим до носіння за лічені хвилини!Потужна та ефективна пара для швидкого та легкого розгладженняGorenje забезпечує високу ефективність відпарювання, забезпечуючи глибоке проникнення пари для швидкого та ефективного розгладження. Насолоджуйтеся свіжо випрасуваним одягом за лічені секунди - більше не потрібна прасувальна дошка!Від делікатного до важкого одягуЗавдяки двом режимам відпарювання ви зможете легко розгладити складки на всіх типах тканин - від ніжного шовку до важких матеріалів - для бездоганного вигляду. Насолоджуйтеся швидким та ефективним відпарюванням для ідеально свіжого одягу в будь-який часНе потребує прасувальної дошкиПризначений для вертикального відпарювання - просто розвісьте одяг, і потужна пара миттєво освіжить і розгладить тканину, не потребуючи прасувальної дошки!Знімний резервуар для води на 220 мл для легкого наповненняЗнімний резервуар для води на 220 мл дозволяє легко та чисто наповнювати його, забезпечуючи безперервне відпарювання для ідеально свіжого одягу.Мірний стакан для води та щітка для тканини забезпечують універсальне та безпечне прасування пароюВключає мірний стакан для води та щітку для тканини для універсального та безпечного прасування парою, забезпечуючи оптимальний догляд за всіма типами тканин]]></description>
+</offer>
+<offer id="HT36237" available="true" selling_type="r">
+<name>Духова шафа Gorenje BPS6747A06BG</name>
+<categoryId>323</categoryId>
+<portal_category_id>61903</portal_category_id>
+<price>32188.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>2</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189331.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189332.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189333.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189334.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189335.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189336.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189337.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189338.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189339.jpg</picture>
+<vendor>Gorenje</vendor>
+<vendorCode>HT36237</vendorCode>
+<country>Словенія</country>
+<param name="Колір">Чорний</param>
+<param name="Ширина">59.5 см</param>
+<param name="Керування">Електронне</param>
+<param name="Об&apos;єм духовки">77 л</param>
+<param name="Тип духової шафи">Електрична</param>
+<param name="Клас енергоспоживання">А+</param>
+<param name="Кількість програм приготування">22</param>
+<param name="Конвекція">Так</param>
+<param name="Потужність">3500 Вт</param>
+<param name="Внутрішнє покриття">Емаль</param>
+<param name="Діапазон температур">0°-300° С</param>
+<param name="Кількість шибок в дверцятах">4</param>
+<param name="Наявність гриля">Так</param>
+<param name="Вага">34,2 кг</param>
+<param name="Висота">59,5 см</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Вбудована духова шафа Gorenje BPS6747A06BG з піролітичним очищенням для приготування страв об'ємом 77 л і потужністю 3500 Вт (495847)PYROCLEAN: Піролітичне очищенняСамоочищення преміум-класу. Піролітичне очищення - найефективніший спосіб очищення, яке виконується за дуже високої температури і після якого духовка залишається бездоганно чистою. Для вашої безпеки духовка блокується на годину очищення і розблокується, коли достатньо охолоне. Після цього вам залишається лише прибрати попіл вологою тканиною.Коли не знаєш, як приготуватиНові духовки OptiBake від Gorenje пропонують повністю автоматичні програми приготування та 22 популярні рецепти на вибір, що дуже зручно для новачків. Програми AutoBake, перевірені експертами Gorenje, довели свою ефективність та гарантують відмінні результати навіть без попереднього нагрівання. Вам залишається тільки вибрати вид страви, ввести вагу і натиснути на СТАРТ - все інше зробити духовка!Ідеальна печиво - щоразуВідстежуючи температуру всередині шматка м'яса, термозонд повністю контролює приготування і попереджає звуковим сигналом, коли страва готова.Обсяг 77 літрівГотуєте страви значних розмірів? Завдяки інноваційній конструкції духовка стала більшою та ширшою. На деках тепер поміщається більше продуктів, а сучасні технології забезпечують рівномірне приготування на всіх рівнях.Коли духовка працює, а вас поруч немаєДуховки Gorenje OptiBake піклуються про всю сім'ю, зокрема про дітей. Тепер абсолютно безпечно залишати дітей одних на кухні, тому що механічний замок дверцят не дасть їм відкрити духовку.Ефективне керування тепломДинамічна система охолодження DynamiCooling ефективно охолоджує корпус духовки та запобігає можливим неполадкам, спричиненим високою температурою. У духовках із системою DynamiCooling+ датчик тепла підовжує роботу системи охолодження, поки температура зовнішніх поверхонь духовки не опуститься до безпечних 60°С. Це особливо зручно для духовок із піролітичним очищенням, які нагріваються до дуже високої температури.Просте випікання з пароюПрограма ExtraSteam з використанням пари створює ідеальні умови для збільшення об'єму хліба, формування пишного м'яка та хрусткої корочки. Просто налийте трохи води в неглибоке деко та виберіть програму ExtraSteam, а про решту підбає духовка.Коли натхнення приходити в останній моментДуховки OptiBake нагріваються до температури 200°C всього за 5 хвилин, заощаджуючи 30% годин порівняно зі звичайним нагріванням, що робить їх одними з найшвидших духовок на ринку. Це особливо зручно, якщо для рецепту потрібно попередньо нагріти духовку. Звуковий сигнал та індикатор повідомлятиме вам, що потрібна температура досягнута.Швидке приготування заморожених продуктівЦя ефективна програма ідеально підходить для приготування будь-яких заморожених продуктів та напівфабрикатів.Неймовірно ніжні та сокові стравиРежим для делікатного, повільного та рівномірного пропікання. За такого способу страва залишається ніжною та соковитою. Режим підходить для приготування м'яса, риби чи випічки на одному рівні.Легко та тихоДосить легкого торкання, щоб дверцята духовки плавно і тихо відчинилися або закрилися.Для смачної золотої скоринкиФункція Gratin дає змогу створювати ідеальну золотисту коринку на лазаньї, м'ясі, картопляному гратені та інших стравах.Рівномірне пропікання - кожного разуДуховки Gorenje відомі своєю інноваційною формою внутрішньої камери, яка стала їхньою візитною карткою. Склепінчаста форма HomeMade створена на кшталт традиційної дров'яної печі та забезпечує ефективнішу циркуляцію повітря, як порівняти з іншими продуктами на ринку. Тепер ми обновили форму HomeMade, і циркуляція повітря додатково покращилася завдяки новій конструкції нагрівальних елементів та новому розміщенню отворів подачі повітря. Це забезпечує однакову температуру по всьому простору духовки. Ваші страви більше не будуть підгорілими з одного боку та недоготовленими – з іншого.Будьте в курсі того, що відбуваєтьсяВи знаєте, що відкриття дверцят під час приготування призводить до зниження температури всередині духовки і навіть може негативно вплинути на кінцевий результат? Суцільне заскління дверцят, яскраве галогенове освітлення та продумане розташування рівнів приготування в нових духовках OptiBake забезпечують чудовий огляд готованої страви без відкриття дверцят.Багато страв за один разПоєднання продуманої системи циркуляції повітря, рівномірного розподілу рівнів приготування та особливої склепінчастої форми духовки забезпечує рівномірне пропікання страв на кожному рівні, а оскільки духовка велика, то й спостерігати за приготуванням на кожному рівні зручно.Кришталька скоринка з варіогрилемЧудові результати приготування досягаються завдяки продуманому розташуванню верхніх нагрівальних елементів, за яким малий нагрівач розташований усередині великого. Завдяки цьому тепло розподіляється рівномірно, тому страва запікається до хрусткої корочки, залишаючись ніжною та соковитою всередині.Найкраща піца в містіЦя програма з регулюванням температури до 300°C спеціально розроблена, щоб ви могли вдома випікати ідеальну піцу, фокаччу, коржі та подібну випічку.Легко знімати, просто чиститиВи можете без зусиль зняти і легко очистити скло дверцят, щоб без перешкод спостерігати за тим, що відбувається в духовці.Ідеальна страва за 2 або 3 крокиПриготування можна спростити, якщо вручну запрограмувати кілька етапів приготування, що йдуть один за одним. Просто встановіть параметри для кожного з 2 або 3 кроків, і духовка підбає про решту. Вам залишиться тільки насолоджуватися кінцевим результатом.Безпека та енергоефективністьСпеціальне чотиришарове засклення дверцят ізолює гарячу духовку і робить її безпечною, особливо якщо у вас у домі є діти чи тварини. Крім того, оскільки тепло залишається всередині духовки, знижується витрата енергії та мінімізуються втрати тепла.Об'єм : 77 лПотужність підключення: 3500 ВтКількість програм: 22Керування: електромеханічне + сенсорнеДисплей: з дисплеємГриль : електричний грильКонвекція: з конвекцієюВертел: немаєГаз-контроль: немаєТаймер: єТермощуп: єЕлектрозапалювання: немаєФункція НВЧ: відсутняФункція пароварки: відсутняКількість стекол дверцят: 3Метод очищення: піролітичнийГабарити (ШхВхГ): 595 x 595 x 564 ммГабарити вбудовування (ШхВхГ): 560-564 х 590-600 х 550 ммКолір: чорнийТип напрямних : телескопічні + решітчастіДовідник дверцят: єПідсвічування: єВентилятор охолодження: єРешітка / Деко: єПеремикачі : поворотні утоплювані + сенсорніSmart-управління : відсутнєТип: електричнаКлас енергоспоживання: АНапруга: 220-230 ВСпоживання електроенергії: 0.99 кВт/годПотужність грилю: 1500 ВтПрограми: верхнє + нижнє нагрівання, верхнє + нижнє нагрівання + конвекція, гриль, подвійний гриль, подвійний гриль + вентилятор, нижній нагрів + конвекція, розморожування]]></description>
+</offer>
+<offer id="HT36238" available="true" selling_type="r">
+<name>Мікрохвильова піч Gorenje MO20CE1W5 inverter</name>
+<categoryId>220</categoryId>
+<portal_category_id>605</portal_category_id>
+<price>4013.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>3</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189201.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189202.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189203.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189204.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189205.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189206.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189207.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189208.jpg</picture>
+<vendor>Gorenje</vendor>
+<vendorCode>HT36238</vendorCode>
+<country>Китай</country>
+<param name="Колір">Білий</param>
+<param name="Об`єм">20 л</param>
+<param name="Ширина">44,6 см</param>
+<param name="Керування">Механічне</param>
+<param name="Кількість рівнів">5</param>
+<param name="Тип НВЧ">Соло (Звичайний)</param>
+<param name="Внутрішнє покриття">Емаль</param>
+<param name="Потужність">700 Вт</param>
+<param name="Діаметр поворотного столу">245 мм</param>
+<param name="Вага">10,1 кг</param>
+<param name="Висота">24.2 см</param>
+<param name="Глибина">35,2 см</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Мікрохвильова піч Gorenje MO20CE1W5 — практична окремостояча модель для швидкого розігрівання, приготування та розморожування продуктів у повсякденному використанні. Об’єм 20 літрів забезпечує достатньо місця для більшості видів посуду, а класичний білий корпус гармонійно доповнює інтер’єр кухні. Просте механічне керування робить користування приладом інтуїтивно зрозумілим і зручним.Модель працює з потужністю 700 Вт і підтримує п’ять рівнів регулювання потужності, що дозволяє обирати оптимальний режим для різних страв. Стандартна технологія HVT забезпечує ефективний розподіл мікрохвиль, а функція розморожування за часом допомагає швидко підготувати заморожені продукти до подальшого приготування. Таймер із діапазоном до 35 хвилин дозволяє точно встановлювати тривалість роботи, а поворотний стіл діаметром 24.5 см сприяє рівномірному нагріванню їжі.Внутрішня камера з емальованим покриттям легко очищується, а функція AquaClean з очищенням парою допомагає швидко видаляти забруднення без використання агресивних мийних засобів. Дверцята відкриваються за допомогою кнопки, що забезпечує комфортне користування, а система блокування роботи приладу при відкритих дверцятах підвищує безпеку експлуатації. Металевий корпус відзначається міцністю та довговічністю, а компактні розміри дозволяють легко розмістити піч навіть на невеликій кухні.Gorenje MO20CE1W5 стане вдалим вибором для дому, квартири чи офісу. Вона поєднує просте механічне керування, оптимальний набір функцій, легкий догляд і компактні габарити, забезпечуючи комфортне щоденне використання та швидке розігрівання, приготування або розморожування страв.]]></description>
+</offer>
+<offer id="HT36239" available="true" selling_type="r">
+<name>Посудомийна машина Gorenje GV520E15 (вбудована, 45см)</name>
+<categoryId>226</categoryId>
+<portal_category_id>615</portal_category_id>
+<price>18813.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>2</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189431.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189432.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189433.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189434.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189435.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189436.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189437.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189438.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189439.jpg</picture>
+<vendor>Gorenje</vendor>
+<vendorCode>HT36239</vendorCode>
+<country>Словенія</country>
+<param name="Колір">Білий</param>
+<param name="Ширина">45 см</param>
+<param name="Керування">Механічне</param>
+<param name="Кількість програм мийки">5</param>
+<param name="Місткість комплектів посуду">9</param>
+<param name="Тип посудомийки">Вбудована</param>
+<param name="Споживання води">9 л</param>
+<param name="Тип сушіння">Конденсаційний</param>
+<param name="Вага">31 кг</param>
+<param name="Висота">81,5 см</param>
+<param name="Глибина">55 см</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Посудомийна машина Gorenje GV520E15 — це вузька повновбудовувана модель шириною 45 см, яка розрахована на одночасне миття 9 комплектів посуду. Завдяки компактним габаритам вона чудово підходить для невеликих кухонь, забезпечуючи високу ефективність очищення за низького споживання ресурсів.Основні технічні характеристикиМісткість та конструкція: Внутрішня камера виконана з нержавіючої сталі та оснащена 2 кошиками для посуду та окремим переносним кошиком для столових приборівЕнергоефективність: Витрата води за один стандартний цикл становить лише 9 літрів. Клас енергоспоживання за сучасним маркуванням ЄС — E (відповідає застарілому класу A++)Рівень шуму: Складає 47 дБ, що є стандартним показником середнього рівня, близьким до тихої розмови.Функціонал та програми (5 режимів)Машина підтримує базовий набір необхідних програм для різних життєвих сценаріїв:1. Еко (Eco): Оптимальний режим із мінімальним споживанням води та енергії для повсякденного миття посуду середнього забруднення.2. Інтенсивна: Для сильно забруднених каструль, пателень і тарілок із залишками їжі.3. Швидка: Скорочений режим для злегка забрудненого посуду.4. 1 година (60 хвилин): Щоденна швидка програма миття при температурі 65 °C.5. Замочування (Попереднє ополіскування): Використовується, якщо посуд збирається протягом дня, щоб бруд не присихав.Ключові технологічні особливості• Повний захист AquaStop: Надійна система захисту від протікання, яка автоматично перекриває подачу води у разі аварії, дозволяючи безпечно залишати прилад працювати вночі або під час вашої відсутності.• Половинне завантаження: Дозволяє запускати машину, коли вона заповнена лише частково, заощаджуючи воду та електроенергію.• Підключення до гарячої води: Пристрій можна підключати безпосередньо до системи гарячого водопостачання (до 70 °C), що значно скорочує час нагріву води всередині та заощаджує електроенергію.• Самоочисний фільтр: Автоматична система промивання фільтра запобігає його засміченню залишками їжі та підтримує ефективність роботи приладу.]]></description>
+</offer>
 <offer id="HT4815" available="true" selling_type="r">
 <name>Бутербродниця Rotex RSM110-W</name>
 <categoryId>293</categoryId>
@@ -77924,7 +78090,7 @@
 <portal_category_id>154004</portal_category_id>
 <price>1250.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000002037_754830.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000002037_7845934-1653386007.jpg</picture>
 <vendor>Rotex</vendor>
@@ -78613,7 +78779,7 @@
 <portal_category_id>606</portal_category_id>
 <price>3433.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_a1f31260-bb10-11e8-b785-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000001358_4660693.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000001358_4660694.jpg</picture>
