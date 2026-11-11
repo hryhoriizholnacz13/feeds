@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-09 20:01">
+<yml_catalog date="2026-11-11 08:00">
 <shop>
 <categories>
 <category id="105501">Одяг для тварин</category>
@@ -6705,6 +6705,7 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/12/51044520856170_+a9dccfe9e8.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/12/1208x800l80mc0/62842377401256.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/12/1208x800l80mc0/16547370756291.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/12/1208x800l80mc0/83245939473065.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/12/1208x800l80mc0/27827741648042.jpeg</picture>
@@ -12275,7 +12276,6 @@
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/22/1208x800l80mc0/33477246100130.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/22/1208x800l80mc0/15868802332302.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/22/1208x800l80mc0/49685940271155.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/22/1208x800l80mc0/55664793081666.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/22/1208x800l80mc0/45458269076068.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/22/1024x994l80mc0/49502279860025.jpeg</picture>
@@ -18020,7 +18020,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/13/54527138508313_+4d7200ae4d.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/13/300x220l80mc0/42626371103298.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB4862</vendorCode>
 <param name="Колір">Сірий</param>
@@ -20346,6 +20345,7 @@
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/28/26200968864611_+a082b5f7a2.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/28/1208x800l80mc0/60801360368361.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/28/1208x800l80mc0/23774709099323.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3427</vendorCode>
 <param name="Розмір">92х117 см</param>
@@ -21038,6 +21038,7 @@
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/35/76900854213226_+8b1e4d5b42.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/35/1208x800l80mc0/44538958087563.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/35/1208x800l80mc0/31217011560849.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/35/1208x800l80mc0/80732827885723.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/35/1208x800l80mc0/53851926462600.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/35/1208x800l80mc0/72080714906754.jpeg</picture>
@@ -22721,9 +22722,7 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/34/69056309064810_+08b0652e89.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/34/1208x800l80mc0/36917402692464.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/34/1208x800l80mc0/43082503630140.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/34/1208x800l80mc0/20764002006424.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/34/1208x800l80mc0/84200468054836.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/34/1208x800l80mc0/24320359012216.jpeg</picture>
 <vendor>ЗооБаза</vendor>
@@ -37798,7 +37797,7 @@
 <portal_category_id>64301</portal_category_id>
 <price>2214.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_3c539be4-5478-11e8-b5a4-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000000768_303726472.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000000768_303726473.jpg</picture>
@@ -41047,7 +41046,7 @@
 <portal_category_id>603</portal_category_id>
 <price>11907.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000010012_62b2e7209bd16.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000010012_62b2e720b6531.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000010012_62b2e720da56f.jpg</picture>
@@ -41209,7 +41208,7 @@
 <portal_category_id>609</portal_category_id>
 <price>3155.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_9c12f295-6f49-11ed-8a02-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_9c12f295-6f49-11ed-8a02-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_9c12f295-6f49-11ed-8a02-dc4a3e701323.jpg</picture>
@@ -42985,6 +42984,39 @@
 <param name="Розмір">9,7 x 35 x 35 см</param>
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Робот-прибиральник Midea M7 Pro Midea M7 Pro - це робот-прибиральник, який легко впорається як з пилососом, так і з миттям поверхонь. Він оснащений 55-ватним двигуном, який забезпечує силу всмоктування 4 000 Па, щоб ефективно захоплювати бруд, такий як пил, волосся та лупа. Робот оснащений технологією LDS NaviPolaris, яка створює віртуальну карту приміщення, що прибирається. Це ідеальний варіант, оскільки пристрій не пропустить ділянку і не буде їздити по одному і тому ж маршруту кілька разів. Робот Midea M7 Pro має здатність об'їжджати перешкоди висотою до 22 мм, тому він легко долає пороги або кабелі. При повному заряді акумулятора пристрій може працювати до 180 хвилин. Висока потужність у боротьбі з брудом Робот-прибиральник Midea M7 Pro оснащений безщітковим двигуном з тиском 4000 Па. Це робить його одним з найпотужніших пилососів на ринку. Програмне забезпечення та алгоритми OTA, що використовуються в пристрої, ще більше підвищують його продуктивність. Робот Midea M7 Pro легко збирає волосся, лупу та пил. Ви можете вибрати один з 3 рівнів. Більше того, при пилососінні килима пристрій автоматично збільшує потужність всмоктування до максимального рівня, щоб ретельно видалити весь пил, що затримується в його середині. V-подібна щітка запобігає потраплянню волосся в щітку. Крім того, вона ідеально підходить для очищення делікатних поверхонь. А за допомогою бічних щіток можна легко і швидко позбутися бруду з щілин. Вібраційна швабра Midea M7 Pro Робот-прибиральник Midea M7 Pro оснащений вібраційною шваброю. Вона генерує вібрації зі швидкістю 500 рухів на хвилину. Завдяки цьому ви отримуєте набагато кращі результати прибирання. Робот ретельно очистить підлогу від плям та алергенів. Ви також можете встановити кількість води, що подається, в залежності від того, чи чистите ви паркет, ламінат або плитку. А потрійна система фільтрації вловлює пил, запобігаючи вторинному забрудненню повітря. Лазерна навігація LDS NaviPolaris Midea M7 Pro використовує технологію NaviPolaris для навігації. Вона дозволяє створити точний план будинку або квартири, щоб робот міг ефективно орієнтуватися. В результаті пристрій слідує плану, не пропускаючи жодного сантиметра і не повторюючи прибирання в одному і тому ж місці. Додатковою перевагою робота M7 Pro є його здатність працювати в темряві, тому він без проблем прибере будинок вночі. Датчики проти зіткнення та ковзання Робот-прибиральник Midea M7 Pro оснащений датчиками проти зіткнень і ковзання. Завдяки їм пристрій буде ефективно уникати перешкод, а також вільно пересуватися по будь-якій поверхні. Ви можете не хвилюватися, що робот вдариться об меблі або впаде зі сходів. Midea M7 Pro також має датчик заряду акумулятора, який стежить за тим, щоб пристрій не розрядився під час роботи, а повернувся на станцію для підзарядки. Після підзарядки він повернеться туди, де зупинився. Керування через додаток Додаток M-SmartLife дозволяє використовувати робот Midea M7 Pro на повну потужність. Наприклад, ви можете вибрати простір, який потрібно прибрати, або спланувати послідовність прибирання. Крім того, пристрій легко запам'ятовує плани кількох поверхів, що робить його ідеальним навіть для великих будинків. Крім того, завдяки використанню віртуальної стіни, у вас є можливість виключити певну зону з прибирання. Склад комплекту Midea M7 Pro До комплекту входять: робот-пилосос, резервуар для пилу, резервуар для води, основна щітка, 2 бічні щітки, 2 ганчірки для швабри, 2 фільтри HEPA та зарядна станція. Резервуар для пилу та води, а також НЕРА-фільтр можна мити під проточною водою, що позбавляє від необхідності частої заміни деталей.]]></description>
+</offer>
+<offer id="HT29646" available="true" selling_type="r">
+<name>Витяжка Haier HADG6DS46BWIFI</name>
+<categoryId>222</categoryId>
+<portal_category_id>642</portal_category_id>
+<price>16538.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>9</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011083_28_36901712_19_02.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011083_28_36901712_19_01.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011083_28_36901712_19_03.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000011083_28_36901712_19_04_l.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000011083_28_36901712_19_05.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000011083_28_36901712_19_08.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000011083_28_36901712_19_06.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/8_000011083_28_36901712_19_07.jpg</picture>
+<vendor>Haier</vendor>
+<vendorCode>HT29646</vendorCode>
+<country>Китай</country>
+<param name="Колір">Чорний</param>
+<param name="Споживана потужність">273 Вт</param>
+<param name="Тип управління">Сенсорне</param>
+<param name="Кількість швидкостей">3</param>
+<param name="Номінальна напруга">220-240 В</param>
+<param name="Ширина">60 см</param>
+<param name="Продуктивність">912 м³/год</param>
+<param name="Тип конструкції">Похила</param>
+<param name="Кількість моторів">1</param>
+<param name="Матеріал корпусу">Нержавіюча сталь, скло</param>
+<param name="Вага">15.65 кг</param>
+<param name="Розмір">92,5-130 х 60 х 45 см</param>
+<param name="Гарантія">12 міс</param>
+<description><![CDATA[I-Link Витяжка Haier I-Link виходить за межі безшумного та потужного очищення повітря. Ця витяжка забезпечує професійні результати приготування завдяки дистанційному керуванню за допомогою смартфона, щоб забезпечити вам додаткову точність у режимі реального часу, коли ви готуєте улюблений рецепт. Чисте повітря, тиха витяжка. Завдяки вдосконаленому двигуну, який може похвалитися продуктивністю очищення 850 м3/год, витяжка Haier гарантує, що на вашій кухні завжди буде чисто й тихо. Чітко бачите речі за допомогою білого світлодіода Наше біле світлодіодне освітлення забезпечує чітке бачення та приємну атмосферу під час приготування. Аксесуари преміум-класу Усі наші витяжки оснащені аксесуарами: вугільними фільтрами, зворотним клапаном, дефлектором повітря. Ідеально, щоб ваша кухня була свіжою та вільною від жиру. Настроюване очищення повітря за допомогою витяжок Haier Налаштуйте витяжки Haier, щоб повітря на кухні було чистим відповідно до ваших потреб. Виберіть із п’яти різних рівнів швидкості очищення та спробуйте подвійний прискорювач, щоб отримати ще кращі результати. Готуйте в повній тиші та спокої з безшумною витяжкою Завдяки своїй безшумності наші витяжки створені для збереження тиші та спокою у вашому домі. Максимальні результати з мінімальною енергією Усі наші витяжки оснащені потужним двигуном для досягнення високої ефективності та меншого споживання енергії. Удосконалений дизайн Елегантний мінімальний дизайн із однорідними формами. Тон в тон і рама з нержавіючої сталі забезпечують першокласне покриття вашої витяжки та ідеальне поєднання з усіма вашими кухонними приладами. Білий світлодіодний дисплей — ідеальний завершальний штрих Елегантна сенсорна панель керування з білим світлодіодом для гармонійного дизайну на кухні. Повне керування витяжкою – лише одним дотиком Готові отримати повний контроль над витяжкою одним дотиком? З додатком Haier hOn тепер можна легко керувати своїми приладами зі смартфона.]]></description>
 </offer>
 <offer id="HT29661" available="false" selling_type="r">
 <name>Зубна щітка ZELMER ZTB1010B</name>
@@ -44914,7 +44946,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Функціональна соковижималка MESKO MS-4126G потужністю 600 Вт із сучасної серії з унікальним зовнішнім виглядом. Це дає змогу готувати соки з фруктів і овочів, так, що це допомагає забезпечити здоров'я вашої родини. Фільтрація відбувається через тонкий сітчастий фільтр із неіржавіючої сталі, який утримує великі частинки фруктів. Таким чином, у глечик надходить тільки сік, що містить найбільшу кількість вітамінів. М'якоть і залишки кісточок відокремлюються в другий контейнер. Завдяки запобіжнику неможливо увімкнути неправильно зібраний пристрій. Соковижималка Mesko MS 4126 дає змогу швидко приготувати велику кількість соку, що гарантується високою потужністю двигуна і глечиком об'ємом 0,45 л. Для більшої зручності елементи соковижималки можна мити в посудомийній машині.]]></description>
 </offer>
-<offer id="HT30520" available="true" selling_type="r">
+<offer id="HT30520" available="false" selling_type="r">
 <name>Кришка MAXMARK MK-GL24 (24см)</name>
 <categoryId>308</categoryId>
 <portal_category_id>15230302</portal_category_id>
@@ -47900,7 +47932,7 @@
 <portal_category_id>640</portal_category_id>
 <price>401.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>27</quantity_in_stock>
+<quantity_in_stock>28</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013240_444187331.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013240_444187332.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013240_444187333.jpg</picture>
@@ -48101,7 +48133,7 @@
 <portal_category_id>15230304</portal_category_id>
 <price>1700.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013298_img_0_236_4382_0_1_MBNGt7.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013298_img_0_236_4382_0_1_wDydyg.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013298_4074475300_skovoroda-universalnaya-mk-hc6726.jpg</picture>
@@ -48221,7 +48253,7 @@
 <portal_category_id>640</portal_category_id>
 <price>933.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013365_RKT85-GS%20Smart.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013365_RKT85-GS-Smart-1.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013365_RKT85-GS-Smart-3.jpg</picture>
@@ -50804,7 +50836,7 @@
 <portal_category_id>3314</portal_category_id>
 <price>1129.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013912_424625359.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013912_424625361.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013912_424625362.jpg</picture>
@@ -66147,7 +66179,7 @@
 <portal_category_id>6300413</portal_category_id>
 <price>1118.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000173581.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000173582.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000173583.jpg</picture>
@@ -78784,6 +78816,183 @@
 <param name="Глибина">36,4 см</param>
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Ефективність та надійністьТехнологія InverterPowerПередова технологія забезпечує стабільну роботу та рівномірне нагрівання на будь-якому рівні потужності. Завдяки цьому страви мають кращу консистенцію, а прилад працює тихіше та ефективніше, що забезпечує зручність щоденного використання.Чистота без зусильФункція AquaCleanПара пом’якшує забруднення, завдяки чому внутрішню частину можна легко очистити без використання миючих засобів.Швидше розморожування, швидше приготуванняРозморожування за часом і вагоюФункція розморожування дозволяє швидко підготувати інгредієнти до використання, зберігаючи їх природну структуру та смак. Завдяки точному налаштуванню часу та ваги ви можете бути впевнені в рівномірних результатах та більшій зручності у повсякденному житті.Точний контроль для кожної страви5 рівнів потужностіНалаштуйте потужність відповідно до типу страви. Делікатне розморожування, підігрівання або швидке приготування повноцінного обіду стає простим завдяки п’яти рівням потужності, які допомагають досягти ідеального результату щоразу.Більша потужність, швидші результати800 Вт для ефективного приготуванняВища потужність мікрохвиль прискорює нагрівання та приготування, забезпечуючи ефективне приготування страв щодня. Ідеальне рішення, коли важливий час і надійний результат.23 л для більшої кількості стравКомпактний об’ємМікрохвильова піч спроєктована так, щоб ідеально вписатися у вашу кухню. Камера об’ємом 23 л забезпечує більше внутрішнього простору без збільшення габаритів пристрою. Вона легко вміщує великі тарілки та миски, тому чудово підходить для сімейних обідів, приготування більших порцій і щоденного розігрівання, поєднуючи зручність користування з економією місця.Натисніть, виберіть, запустітьІнтуїтивне керуванняПростий інтерфейс з кнопками та поворотним регулятором дозволяє швидко налаштувати функції та час. Все працює плавно та без зайвих кроків.Розширений контроль приготуванняГнучкість 60-хвилинного таймераЗавдяки розширеному діапазону таймера ви можете вільно готувати різноманітні страви, у тому числі ті, що вимагають тривалішого нагрівання. Це більший контроль і зручність у щоденному приготуванні їжі.Готово, коли забажаєтеФункція підтримання температуриПідтримує страви в ідеальній температурі подачі, завдяки чому вони готові саме тоді, коли вам це потрібно. Без повторного нагрівання, без втрати смаку.Внутрішнє LED-освітленняПрозорість під час приготуванняЯскраве світлодіодне освітлення забезпечує чудову видимість внутрішнього простору, завдяки чому ви можете постійно контролювати стан страви, не відкриваючи дверцят і не перериваючи роботу приладу.Ергономічна ручкаЗручний доступРучка забезпечує зручне та плавне відкривання дверцят у будь-якій ситуації.]]></description>
+</offer>
+<offer id="HT36244" available="true" selling_type="r">
+<name>Мікрохвильова піч Gorenje MO23S4B5 inverner</name>
+<categoryId>220</categoryId>
+<portal_category_id>605</portal_category_id>
+<price>7075.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>10</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189521.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189522.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189523.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189524.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189525.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189526.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189527.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189528.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189529.jpg</picture>
+<vendor>Gorenje</vendor>
+<vendorCode>HT36244</vendorCode>
+<country>Китай</country>
+<param name="Колір">Чорний</param>
+<param name="Об`єм">23 л</param>
+<param name="Ширина">48 см</param>
+<param name="Керування">Електронно-механічне</param>
+<param name="Гриль">Електричний</param>
+<param name="Кількість рівнів">5</param>
+<param name="Тип НВЧ">Гриль</param>
+<param name="Внутрішнє покриття">Емаль</param>
+<param name="Потужність">1200 Вт</param>
+<param name="Діаметр поворотного столу">28.5</param>
+<param name="Вага">9,7 кг</param>
+<param name="Висота">29.3 см</param>
+<param name="Глибина">36,4 см</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Мікрохвильова піч Gorenje MO23S4B5: потужність та стильМікрохвильова піч GORENJE MO23S4B5 (C23UGP77-G8E-B1A) є втіленням сучасних технологій та елегантного дизайну. Цей пристрій стане незамінним помічником на кухні, надаючи можливість швидко та якісно приготувати улюблені страви. Завдяки об'єму в 23 літри, ця мікрохвильова піч ідеально підходить для родинного використання.Особливості та технологіїМікрохвильова піч оснащена грилем потужністю 1000 Вт, що дозволяє легко готувати різноманітні страви з апетитною скоринкою. Потужність мікрохвильової складової складає 800 Вт, що забезпечує швидке та рівномірне нагрівання продуктів. Для зручності користувачів передбачено 5 рівнів потужності, що дає можливість обрати оптимальний режим для кожної страви.Ця модель має ряд інноваційних функцій, таких як Auto Clean та Keep Warm, які полегшують процес догляду за пристроєм та зберігають страви теплими до моменту подачі. Крім того, функції автоматичного приготування, розморожування та розігріву значно спрощують повсякденне життя.Додаткові функції та комплектаціяМікрохвильова піч GORENJE MO23S4B5 має багато зручних додаткових функцій, включаючи захист від дітей, швидкий старт, сигнал закінчення приготування та очистку парою. Кухонний таймер на 60 хвилин дозволяє точно контролювати процес приготування.У комплекті з мікрохвильовою піччю поставляється скляний поворотний стіл діаметром 28.5 см, грати для гриля, інструкція та гарантійний талон. Конструкція печі забезпечує легкість у використанні завдяки ручці для відкривання та поворотному регулятору для керування.Чорний колір пристрою додає елегантності вашій кухні, а емальоване внутрішнє покриття гарантує легкість у догляді та довговічність. Габарити мікрохвильової печі складають 48 см в ширину, 29.3 см у висоту та 36.4 см в глибину, що робить її компактною та зручною для розміщення в будь-якому кухонному просторі.Мікрохвильова піч GORENJE MO23S4B5 — це вдалий вибір для тих, хто цінує якість, надійність та сучасні технології. З гарантією на 24 місяці, цей пристрій стане вашим вірним помічником у приготуванні смачних та корисних страв.]]></description>
+</offer>
+<offer id="HT36245" available="true" selling_type="r">
+<name>Морозильна камера Gorenje FNC618E6WWF</name>
+<categoryId>225</categoryId>
+<portal_category_id>62701</portal_category_id>
+<price>29063.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>1</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189391.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189392.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189393.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189394.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189395.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189396.jpg</picture>
+<vendor>Gorenje</vendor>
+<vendorCode>HT36245</vendorCode>
+<country>Словенія</country>
+<param name="Колір">Білий</param>
+<param name="Кількість відділень">7</param>
+<param name="Ширина">59,5 см</param>
+<param name="Керування">Сенсорне</param>
+<param name="Клас енергоспоживання">Е</param>
+<param name="Тип камери">Камера</param>
+<param name="Система охолодження">NoFrost</param>
+<param name="Тип компресора">Інверторний</param>
+<param name="Автономне збереження холоду">15 год</param>
+<param name="Загальний об&apos;єм">312 л</param>
+<param name="Вага">69 кг</param>
+<param name="Висота">185.6 см</param>
+<param name="Глибина">60 см</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Морозильна камера Gorenje FNC618E6WWF — це містка вертикальна морозильна шафа великого об'єму (312 л) від відомого словенського бренду Gorenje, що відрізняється сучасним функціоналом та високою енергоефективністю. Основні технічні характеристики• Загальний корисний об'єм: 312 літрів• Технологія охолодження: No Frost (не потребує ручного розморожування)• Компресор: Інверторний (SmartInverter) — працює тихіше та служить довше• Продуктивність заморожування: До 15 кг на добу• Автономне збереження холоду: До 15 годин у разі вимкнення світла• Рівень шуму: Всього 35 дБ (дуже тиха робота)• Клас енергоспоживання: E (за новим європейським маркуванням, споживає близько 259 кВт·год/рік)• Габарити (ВхШхГ): 185.6 × 59.5 × 60 см]]></description>
+</offer>
+<offer id="HT36246" available="true" selling_type="r">
+<name>Мультипіч-фритюрниця Tefal EY832HE0 (7.2л, 2 тена)</name>
+<categoryId>267</categoryId>
+<portal_category_id>6300424</portal_category_id>
+<price>8443.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>4</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000170751.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000170752.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000170753.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000170754.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000170755.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000170756.jpg</picture>
+<vendor>Tefal</vendor>
+<vendorCode>HT36246</vendorCode>
+<country>Китай</country>
+<param name="Колір">Чорний</param>
+<param name="Об`єм">7 л</param>
+<param name="Покриття чаші">Антипригарне</param>
+<param name="Ширина">28 см</param>
+<param name="Керування">Сенсорне</param>
+<param name="Матеріал корпусу">Пластик</param>
+<param name="Температура нагріву">80 - 200 °C</param>
+<param name="Потужність">2100 Вт</param>
+<param name="Вага">5,2 кг</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Мультипіч-фритюрниця Tefal Easy Fry Infrared EY832HE0 — це передовий кухонний пристрій з об'ємом чаші 7 літрів (загальна вага в упаковці становить 7.2 кг). Головна особливість моделі полягає у подвійній системі нагріву (2 ТЕНи), яка поєднує нижній конвекційний нагрівач та верхній інфрачервоний нагрів.Завдяки такій комбінації, пристрій здатний розігріватися до 240°C всього за 45 секунд, забезпечуючи рівномірне пропікання страв з ефектом соковитості всередині та хрусткої скоринки ззовні без необхідності перемішувати продукти в процесі.]]></description>
+</offer>
+<offer id="HT36247" available="true" selling_type="r">
+<name>Парогенератор TEFAL SV6211E0</name>
+<categoryId>271</categoryId>
+<portal_category_id>609</portal_category_id>
+<price>5457.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>2</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189931.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189932.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189933.jpg</picture>
+<vendor>Tefal</vendor>
+<vendorCode>HT36247</vendorCode>
+<country>Китай</country>
+<param name="Колір">Фіолетовий</param>
+<param name="Регулятор температури">Так</param>
+<param name="Керування">Механічне</param>
+<param name="Матеріал корпусу">Пластик</param>
+<param name="Об&apos;єм резервуару для води">1,7 л</param>
+<param name="Покриття підошви">Керамічне</param>
+<param name="Тип праски">З парогенератором</param>
+<param name="Паровий удар">120 г/хв</param>
+<param name="Потужність">2400 Вт</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Парогенератор Tefal Power Pro Compact 200 SV6211E0 — це компактна та потужна прасувальна система, призначена для швидкого та ефективного догляду за великою кількістю білизни. Завдяки високому тиску та інтенсивній подачі пари прилад легко справляється зі складними складками на цупких тканинах і підходить для вертикального відпарювання.Праска з парогенератором потужністю 2400 Вт оснащена керамічною підошвою та резервуаром для води об'ємом 1700 мл.Передбачена постійна подача пари зі швидкістю 120 г/хв, паровий удар потужністю 370 г/хв та можливість вертикального відпарювання. Модель має функції подачі пари, захисту від крапель та накипу, а також автоматичне вимкнення. Колір – фіолетовий із білим.Основні технічні характеристики• Споживана потужність: 2400 Вт — забезпечує швидке нагрівання системи всього за 2 хвилини.• Тиск пари: до 6.2–6.5 бар — допомагає парі глибоко проникати в волокна тканини.• Постійна подача пари: 120 г/хв — оптимально для стандартного щоденного прасування.• Паровий удар: 370 г/хв — для розгладження найжорсткіших заломів.• Резервуар для води: 1700 мл — великий об'єм дозволяє прасувати безперервно до 1,5 години.• Підошва праски: Керамічна (Xpress Glide) — гарантує легке ковзання по будь-яких типах тканин]]></description>
+</offer>
+<offer id="HT36248" available="true" selling_type="r">
+<name>Плита комбінована CASTLE CPG-50X (сіра)</name>
+<categoryId>219</categoryId>
+<portal_category_id>641</portal_category_id>
+<price>14082.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>5</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189961.jpg</picture>
+<vendor>CASTLE</vendor>
+<vendorCode>HT36248</vendorCode>
+<country>Туреччина</country>
+<param name="Колір">Сірий</param>
+<param name="Ширина">60 см</param>
+<param name="Керування">Механічне</param>
+<param name="Об&apos;єм духовки">58 л</param>
+<param name="Тип духової шафи">Електрична</param>
+<param name="Тип варильної панелі">Газова</param>
+<param name="Кількість конфорок">4</param>
+<param name="Матеріал решіток">Емальована сталь</param>
+<param name="Висота">86.5 см</param>
+<param name="Глибина">60 см</param>
+<param name="Гарантія">12 міс</param>
+<description><![CDATA[Газова плита Castle CG-50XCastle CG-50X - окрема газова плита шириною 50 см, призначена для повсякденного приготування їжі. Модель оснащена газовою варильною поверхнею з чотирма конфорками та газовою духовкою об'ємом 54 л. Для зручності експлуатації передбачені автоматичний електрозапалювання конфорок та духовки, газ-контроль варильної поверхні та духовки, механічний таймер та внутрішнє освітлення. Плита виконана в кольорі нержавіючої сталі та має механічне керування за допомогою поворотних перемикачів.Продукт має такі особливості:Повністю газова конструкціяГазова варильна поверхняГазова духовкаЧотири газові конфоркиОб'єм духовки 54 лАвтоматичний електрозапалювання конфорокАвтоматичний електрозапалювання духовкиГаз-контроль варильної поверхніГаз-контроль духовкиМеханічне керуванняПоворотні перемикачіМеханічний таймерВнутрішнє освітлення духовкиДва скла в дверцятах духовкиТрадиційна система очищення духовкиРельєфні напрямні для декоГрати з емальованої сталіКомпактна ширина 50 смКорпус у кольорі нержавіючої сталіЗастосування:Castle CG-50X призначений для приготування різних страв у домашніх умовах. Чотири газові конфорки дозволяють готувати кілька страв, а газова духовка об'ємом 54 л підходить для випікання, запікання м'яса, овочів та інших продуктів. Завдяки компактним розмірам модель підходить для кухонь з обмеженим простором, де потрібна повноцінна газова плита, що окремо стоїть.]]></description>
+</offer>
+<offer id="HT36249" available="true" selling_type="r">
+<name>Плита комбінована Gorenje GK5C42BF</name>
+<categoryId>219</categoryId>
+<portal_category_id>641</portal_category_id>
+<price>21713.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>5</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189261.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189262.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189263.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189264.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189265.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189266.jpg</picture>
+<vendor>Gorenje</vendor>
+<vendorCode>HT36249</vendorCode>
+<country>Чехія</country>
+<param name="Колір">Чорний</param>
+<param name="Ширина">50 см</param>
+<param name="Керування">Механічне</param>
+<param name="Об&apos;єм духовки">70 л</param>
+<param name="Тип духової шафи">Електрична</param>
+<param name="Тип варильної панелі">Газова</param>
+<param name="Газ-контроль конфорок">Так</param>
+<param name="Електропідпал">Так</param>
+<param name="Конвекція">Так</param>
+<param name="Кількість конфорок">4</param>
+<param name="Матеріал решіток">Чавун</param>
+<param name="Вага">41,8 кг</param>
+<param name="Висота">85 см</param>
+<param name="Глибина">59.4 см</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Функція «Піца»Найкраща піца в містіЦя програма з оптимальним налаштуванням максимальної температури випікання була спеціально розроблена, щоб допомогти вам спекти ідеальну піцу, фокачу, піту та інші подібні вироби.FrozenBakeНайшвидший спосіб випікання заморожених смаколиківЦя ефективна програма ідеально підходить для випікання всіх заморожених продуктів та готових страв.Чавунні решіткиМіцна, стабільна та довговічна опораЧавунні решітки забезпечують більшу стійкість і додають плиті елегантного вигляду. Вони надзвичайно довговічні та витримують найвищі температури.Технологія MultiAirІдеально пропечене з кожного бокуТехнологія MultiAir забезпечує оптимальну циркуляцію тепла всередині духовки. Завдяки точно розташованим вентиляційним отворам на задній стінці та унікальній заокругленій формі камери, повітря рівномірно розподіляється, дозволяючи страві ідеально пропектися з усіх боків. Така циркуляція також дозволяє одночасно готувати на кількох рівнях без змішування запахів і смаків.Форма HomeMadeЩоразу рівномірно пропечені стравиДуховки Gorenje добре відомі своєю інноваційною заокругленою формою камери, натхненною традиційними дров’яними печами. Тепер ця форма була вдосконалена — нова конструкція нагрівача та оптимальне розташування вентиляційних отворів забезпечують ще стабільнішу температуру в усій камері. Ваші страви більше ніколи не будуть пригорілими з одного боку чи сирими з іншого.BigSpaceГотові до рецептів розміру XXL?Інноваційна конструкція дозволяє отримати збільшений внутрішній об’єм, максимально ефективно використовуючи ширину духовки. Кожен дек має більше простору, а технологічні рішення забезпечують рівномірне приготування на всіх рівнях.Плавне закриванняДостатньо легкого дотикуЛише легкий дотик — і дверцята плити закриваються плавно та безшумно.Швидке нагріванняДля натхнення в останню хвилинуДуховки OptiBake досягають температури 200 °C менш ніж за 5 хвилин, що на 30% швидше за стандартні моделі. Це ідеально підходить для рецептів, які вимагають попереднього розігріву. Світловий і звуковий сигнал повідомлять, коли духовка готова до використання.]]></description>
 </offer>
 <offer id="HT4815" available="true" selling_type="r">
 <name>Бутербродниця Rotex RSM110-W</name>
