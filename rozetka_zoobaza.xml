@@ -79779,7 +79779,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT12242" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>2859.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80155</categoryId>
@@ -80198,7 +80198,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT14152" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>1919.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>112986</categoryId>
@@ -80348,7 +80348,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT17115" available="true">
-<stock_quantity>27</stock_quantity>
+<stock_quantity>24</stock_quantity>
 <price>431.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -82999,7 +82999,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT23894" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>6463.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80142</categoryId>
@@ -83352,7 +83352,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT24854" available="true">
-<stock_quantity>31</stock_quantity>
+<stock_quantity>30</stock_quantity>
 <price>1344.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81229</categoryId>
@@ -83680,7 +83680,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT25561" available="true">
-<stock_quantity>19</stock_quantity>
+<stock_quantity>18</stock_quantity>
 <price>5658.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80162</categoryId>
@@ -83707,7 +83707,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT25562" available="true">
-<stock_quantity>19</stock_quantity>
+<stock_quantity>18</stock_quantity>
 <price>5658.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80162</categoryId>
@@ -84012,7 +84012,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT26364" available="true">
-<stock_quantity>1</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>26963.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80123</categoryId>
@@ -84180,7 +84180,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT26638" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>22813.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -84248,7 +84248,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT26698" available="true">
-<stock_quantity>50</stock_quantity>
+<stock_quantity>48</stock_quantity>
 <price>14969.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -84316,7 +84316,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT26917" available="true">
-<stock_quantity>39</stock_quantity>
+<stock_quantity>38</stock_quantity>
 <price>18213.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -84746,7 +84746,7 @@
 <param name="Гарантія">14 днів</param>
 </offer>
 <offer id="HT27575" available="true">
-<stock_quantity>16</stock_quantity>
+<stock_quantity>10</stock_quantity>
 <price>133.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4627031</categoryId>
@@ -85327,7 +85327,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT29247" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>1853.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -85535,7 +85535,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT29408" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>1370.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -86203,7 +86203,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT29815" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>3971.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80161</categoryId>
@@ -87052,7 +87052,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30364" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>1476.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81234</categoryId>
@@ -88175,7 +88175,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30642" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>2859.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4631249</categoryId>
@@ -91160,7 +91160,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT32067" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>4937.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4631249</categoryId>
@@ -91484,7 +91484,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT32092" available="true">
-<stock_quantity>14</stock_quantity>
+<stock_quantity>13</stock_quantity>
 <price>450.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81227</categoryId>
@@ -91972,7 +91972,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT32170" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>980.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81227</categoryId>
@@ -92860,7 +92860,7 @@
 <param name="Гарантія">60 міс</param>
 </offer>
 <offer id="HT32646" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>15925.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80225</categoryId>
@@ -94160,7 +94160,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT33012" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>8407.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80131</categoryId>
@@ -95515,7 +95515,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT33386" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>1781.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81089</categoryId>
@@ -96395,7 +96395,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT33722" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>5671.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4631249</categoryId>
@@ -96572,7 +96572,7 @@
 <param name="Гарантія">5 років</param>
 </offer>
 <offer id="HT33736" available="true">
-<stock_quantity>11</stock_quantity>
+<stock_quantity>10</stock_quantity>
 <price>457.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -98548,7 +98548,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT34233" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>24838.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80203</categoryId>
@@ -98601,7 +98601,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT34239" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>3534.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81089</categoryId>
@@ -99857,26 +99857,6 @@
 <param name="Матеріал корпусу">Сталь</param>
 <param name="Максимальний вага, кг">0.3 кг</param>
 </offer>
-<offer id="HT34526" available="true">
-<stock_quantity>1</stock_quantity>
-<price>2094.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>185692</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000160081.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000160084.jpg</picture>
-<vendor>Dogrular</vendor>
-<article>Silvia 15030</article>
-<name>Доска гладильная Dogrular Silvia 15030 (Silvia 15030)</name>
-<name_ua>Дошка для прасування Dogrular Silvia 15030 (Silvia 15030)</name_ua>
-<description><![CDATA[<p>Прочность и практичностьГладильная поверхность доски SILVIA 112*36 см достаточно широкая для того, чтобы во время глажки не приходилось много раз передвигать белье.</p><ul><li>Основа - металлический моноблок с перфорацией, который не отражается на одежде и не деформируется со временем.</li><li>Удобство использованияПлавная регулировка высоты от 76 до 100 см создает удобные условия глажки для людей разного роста.</li></ul><ul><li>Устойчивые ножки снабжены пластиковыми вставками, которые предотвращают скольжение и повреждение напольного покрытия.</li><li>КомпактностьДоска легко и быстро складывается и раскладывается, не занимает много места при хранении и практична в использовании.</li><li>Надежность и безопасностьГладильная доска SILVIA изготовлена из высококачественных материалов, благодаря чему имеет длительный срок эксплуатации.</li></ul><p>Большая площадка для утюга имеет силиконовые вставки, которые помогут предотвратить возможные повреждения подошвы утюга.</p><ul><li>Специальное электростатическое напыление краски не подвергается воздействию ультрафиолета и коррозии.</li><li>Качественный чехолЧехол из 100% хлопка с антипригарным покрытием на войлочной подкладке, который идет в комплекте с гладильной доской SILVIA, легко снять, постирать и надеть обратно.</li></ul>]]></description>
-<description_ua><![CDATA[<p>Міцність і практичністьПрасувальна поверхня дошки SILVIA 112*36 см досить широка для того, щоб під час прасування не доводилося багато разів пересувати білизну.</p><ul><li>Основа - металевий моноблок із перфорацією, що не відбивається на одязі та не деформується з часом.</li><li>Зручність використанняПлавне регулювання висоти від 76 до 100 см створює зручні умови прасування для людей різного зросту.</li></ul><ul><li>Стійкі ніжки забезпечені пластиковими вставками, які запобігають ковзанню і пошкодженню підлогового покриття.</li><li>КомпактністьДошка легко і швидко складається і розкладається, не займає багато місця під час зберігання і практична у використанні.</li><li>Надійність і безпекаПрасувальна дошка SILVIA виготовлена з високоякісних матеріалів, завдяки чому має тривалий термін експлуатації.</li></ul><p>Великий майданчик для праски має силіконові вставки, які допоможуть запобігти можливим пошкодженням підошви праски.</p><ul><li>Спеціальне електростатичне напилення фарби не піддається впливу ультрафіолету та корозії.</li><li>Якісний чохолЧохол зі 100% бавовни з антипригарним покриттям на повстяній підкладці, що йде в комплекті з прасувальною дошкою SILVIA, легко зняти, випрати й одягнути назад.</li></ul>]]></description_ua>
-<param name="Тип">Дошка для прасування</param>
-<param name="Колір">Рожевий</param>
-<param name="Ширина">36 см</param>
-<param name="Встановлення">Підлогове</param>
-<param name="Матеріал корпусу">Метал</param>
-<param name="Висота">57 см</param>
-</offer>
 <offer id="HT34539" available="true">
 <stock_quantity>4</stock_quantity>
 <price>19150.00</price>
@@ -100088,34 +100068,6 @@
 <param name="Тиск пару">20 бар</param>
 <param name="Потужність">1400 Вт</param>
 <param name="Вага">2.3 кг</param>
-</offer>
-<offer id="HT34625" available="true">
-<stock_quantity>1</stock_quantity>
-<price>1767.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80161</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000161171.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000161172.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000161174.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000161175.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000161176.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000161177.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000161178.jpg</picture>
-<vendor>Adler</vendor>
-<article>AD 5044</article>
-<name>Отпариватель ручной/утюг Adler AD 5044 (AD 5044)</name>
-<name_ua>Відпарювач ручний/праска Adler AD 5044 (AD 5044)</name_ua>
-<description><![CDATA[<p>Утюг паровой Adler AD 5044 Описание Облегчите ежедневный уход за одеждой с многофункциональным отпаривателем Adler AD 5044. Это современное устройство сочетает в себе функциональность отпаривателя и утюга, обеспечивая максимальное удобство и эффективность в одном элегантном устройстве. Основные характеристики продукта: 2 в 1: отпариватель и утюг. Гладьте вертикально или горизонтально, что идеально подходит для разнообразного использования. Быстрое время нагрева - готовность к работе всего за 20 секунд. Одна температура для всех тканей - безопасная и универсальная для всех материалов. Светодиодный дисплей - облегчает работу, обеспечивая интуитивно понятное управление. Непрерывная подача пара - идеально подходит для вертикальной глажки, освежения штор, одежды на вешалке и деликатных тканей. Регулируемая подача пара - Выберите от 18 г/мин до 25 г/мин, регулируя силу в соответствии с вашими потребностями. Функция сухой глажки - универсальное использование для любой одежды. Автоматическое отключение (функция Fireman) - Безопасность использования на самом высоком уровне. Современный дизайн: Керамическая гладильная подошва - точно гладит любую ткань и позволяет удобно гладить вокруг пуговиц благодаря заостренному кончику. Насадка-щетка - облегчает удаление пуха и волос с тканей. Резервуар для воды на 180 мл - удобен для длительного использования без необходимости частого наполнения. Технические характеристики: Цвет: белый и золотой Длина кабеля: 180 см Размеры: 36,2 х 9,7 х 18,0 см Керамическая гладильная доска: 14,3 х 9,7 см Отпариватель и утюг для одежды 2 в 1 Два способа использования: горизонтальный и вертикальный Время экспресс-нагрева 20 секунд Одна температура для всех тканей светодиодный дисплей Насадка-щетка Вертикальная глажка непрерывным паром Максимальное парообразование 25 г/мин Два уровня парообразования 18 г/мин – 25 г/мин Сухая глажка Автоматическое отключение - функция пожарного Керамическая подошва: 14,3 х 9,7 см Подошва с заостренным кончиком для легкой глажки вокруг пуговиц.</p>]]></description>
-<description_ua><![CDATA[<p>Праска парова Adler AD 5044 Опис Полегшіть щоденний догляд за одягом з багатофункціональним відпарювачем Adler AD 5044. Цей сучасний пристрій поєднує в собі функціональність відпарювача та праски, забезпечуючи максимальну зручність та ефективність в одному елегантному пристрої. Основні характеристики продукту: 2 в 1: відпарювач і праска. Прасуйте вертикально або горизонтально, що ідеально підходить для різноманітного використання. Швидкий час нагрівання - готовність до роботи всього за 20 секунд. Одна температура для всіх тканин - безпечна та універсальна для всіх матеріалів. Світлодіодний дисплей - полегшує роботу, надаючи інтуїтивно зрозуміле керування. Безперервна подача пари - ідеально підходить для вертикального прасування, освіження штор, одягу на вішалці та делікатних тканин. Регульована подача пари - Виберіть від 18 г/хв до 25 г/хв, регулюючи силу відповідно до ваших потреб. Функція сухого прасування - універсальне використання для будь-якого одягу. Автоматичне відключення (функція Fireman) - Безпека використання на найвищому рівні. Сучасний дизайн: Керамічна прасувальна підошва - точно прасує будь-яку тканину та дозволяє зручно прасувати навколо ґудзиків завдяки загостреному кінчику. Насадка-щітка - полегшує видалення пуху та волосся з тканин. Резервуар для води на 180 мл - зручний для тривалого використання без необхідності частого наповнення. Технічні характеристики: Колір: білий і золотий Довжина кабелю: 180 см Розміри: 36,2 х 9,7 х 18,0 см Керамічна прасувальна дошка: 14,3 х 9,7 см Відпарювач і праска для одягу 2 в 1 Два способи використання: горизонтальний і вертикальний Час експрес-нагріву 20 секунд Одна температура для всіх тканин світлодіодний дисплей Насадка-щітка Вертикальне прасування безперервною парою Максимальна пароутворення 25 г/хв Два рівня пароутворення 18 г/хв – 25 г/хв Сухе прасування Автоматичне відключення - функція пожежника Керамічна ніжка: 14,3 х 9,7 см Лапка із загостреним кінчиком для легкого прасування навколо ґудзиків.</p>]]></description_ua>
-<param name="Тип">Відпарювач ручний/праска</param>
-<param name="Об&apos;єм резервуару для води">180 мл</param>
-<param name="Покриття підошви">Керамічне</param>
-<param name="Постійна подача пари">25 г/хв</param>
-<param name="Тип праски">Відпарювач</param>
-<param name="Час нагріву">20 сек</param>
-<param name="Потужність">1800 Вт</param>
-<param name="Вага">0,92 кг</param>
-<param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT34626" available="true">
 <stock_quantity>1</stock_quantity>
@@ -101062,7 +101014,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT34889" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>437.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -101636,7 +101588,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT34979" available="true">
-<stock_quantity>48</stock_quantity>
+<stock_quantity>47</stock_quantity>
 <price>20694.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -101797,7 +101749,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35012" available="true">
-<stock_quantity>8</stock_quantity>
+<stock_quantity>7</stock_quantity>
 <price>980.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80143</categoryId>
@@ -101894,7 +101846,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35017" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>371.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3495687</categoryId>
@@ -101916,7 +101868,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35021" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>4805.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80162</categoryId>
@@ -102082,7 +102034,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35045" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>1681.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80161</categoryId>
@@ -102179,7 +102131,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35055" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>25194.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80141</categoryId>
@@ -103642,7 +103594,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35244" available="true">
-<stock_quantity>37</stock_quantity>
+<stock_quantity>35</stock_quantity>
 <price>239.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4672868</categoryId>
@@ -104086,7 +104038,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35285" available="true">
-<stock_quantity>11</stock_quantity>
+<stock_quantity>10</stock_quantity>
 <price>457.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -105096,7 +105048,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35373" available="true">
-<stock_quantity>13</stock_quantity>
+<stock_quantity>12</stock_quantity>
 <price>265.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3495687</categoryId>
@@ -106825,37 +106777,6 @@
 <param name="Потужність">1000 Вт</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
-<offer id="HT35493" available="true">
-<stock_quantity>1</stock_quantity>
-<price>1476.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80155</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175151.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175152.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175154.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175155.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175156.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175157.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175158.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175159.jpg</picture>
-<vendor>Rotex</vendor>
-<article>RTB1090-B</article>
-<name>Блендер Rotex RTB1090-B MasterPower (RTB1090-B)</name>
-<name_ua>Блендер Rotex RTB1090-B MasterPower (RTB1090-B)</name_ua>
-<description><![CDATA[<p>Rotex RTB1090-B MasterPower: мощность и функциональностьПредставляем вашему вниманию блендер Rotex RTB1090-B MasterPower - воплощение мощности и универсальности в одном устройстве. Этот погружной блендер является идеальным решением для тех, кто ценит качество и надежность в приготовлении пищи.</p><ul><li>Благодаря мощности в 1000 Вт он справляется с разными задачами на кухне, будь то взбивание, измельчение или смешивание ингредиентов.</li><li>Продуманная конструкция и комплектацияRotex RTB1090-B MasterPower оснащен погружной частью из металла, что обеспечивает долговечность и стойкость к износу.</li></ul><p>В комплекте с блендером идут измельчитель объемом 0.5 литра и мерный стакан на 0.7 литра, что позволяет готовить блюда любой сложности. Также в набор входит венчик, который идеально подходит для взбивания кремов и теста.</p><ul><li>Все элементы комплектации удобно хранить и использовать благодаря продуманной конструкции.</li><li>Дополнительные функции и преимуществаЭтот блендер предлагает ряд дополнительных функций, включая плавную регулировку скорости, которая позволяет точно контролировать процесс приготовления.</li></ul><p>Петля для подвешивания обеспечивает удобство хранения, а мерная чаша помогает точно дозировать ингредиенты.</p><ul><li>Материал чаши выполнен из высококачественного пластика, что обеспечивает легкость и удобство в использовании.</li><li>Rotex RTB1090-B MasterPower - это не просто блендер, это многофункциональный кухонный помощник, который станет незаменимым в вашей кулинарной практике.</li></ul><p>С гарантией на 12 месяцев вы можете быть уверены в его надежности и долговечности. Это устройство идеально подходит для ежедневного использования, удовлетворяя потребности как начинающих, так и опытных кулинаров.</p>]]></description>
-<description_ua><![CDATA[<p>Rotex RTB1090-B MasterPower: потужність та функціональністьПредставляємо вашій увазі блендер Rotex RTB1090-B MasterPower - втілення потужності та універсальності в одному пристрої. Цей занурювальний блендер є ідеальним рішенням для тих, хто цінує якість та надійність у приготуванні їжі.</p><ul><li>Завдяки потужності в 1000 Вт, він справляється з різними завданнями на кухні, чи це збивання, подрібнення або змішування інгредієнтів.</li><li>Продумана конструкція та комплектаціяRotex RTB1090-B MasterPower оснащений занурювальною частиною з металу, що забезпечує довговічність та стійкість до зносу.</li></ul><p>У комплекті з блендером йдуть подрібнювач об'ємом 0.5 літра та мірна склянка на 0.7 літра, що дозволяє готувати страви будь-якої складності. Також у набір входить віночок, який ідеально підходить для збивання кремів та тіста.</p><ul><li>Всі елементи комплектації зручно зберігати та використовувати завдяки продуманій конструкції.</li><li>Додаткові функції та перевагиЦей блендер пропонує низку додаткових функцій, включаючи плавне регулювання швидкості, що дозволяє точно контролювати процес приготування.</li></ul><p>Петля для підвішування забезпечує зручність зберігання, а мірна чаша допомагає точно дозувати інгредієнти.</p><ul><li>Матеріал чаші виконаний з високоякісного пластику, що забезпечує легкість та зручність у використанні.</li><li>Rotex RTB1090-B MasterPower - це не просто блендер, це багатофункціональний кухонний помічник, який стане незамінним у вашій кулінарній практиці.</li></ul><p>З гарантією на 12 місяців, ви можете бути впевнені у його надійності та довговічності. Цей пристрій ідеально підходить для щоденного використання, задовольняючи потреби як початківців, так і досвідчених кулінарів.</p>]]></description_ua>
-<param name="Тип">Блендер</param>
-<param name="Колір">Чорний</param>
-<param name="Ємність мірної склянки">700 мл</param>
-<param name="Кількість швидкостей">2</param>
-<param name="Матеріал занурювальної частини">Нержавіюча сталь</param>
-<param name="Тип блендера">Занурювальний</param>
-<param name="Ємність подрібнювача">500 мл</param>
-<param name="Керування">Механічне</param>
-<param name="Матеріал корпусу">Пластик</param>
-<param name="Потужність">1000 Вт</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
 <offer id="HT35495" available="true">
 <stock_quantity>2</stock_quantity>
 <price>609.00</price>
@@ -107996,7 +107917,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35678" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>11700.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -110448,7 +110369,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35913" available="true">
-<stock_quantity>10</stock_quantity>
+<stock_quantity>9</stock_quantity>
 <price>7538.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -110881,7 +110802,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35956" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>6157.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81089</categoryId>
@@ -111699,25 +111620,8 @@
 <param name="Встановлення">Настільний</param>
 <param name="Розмір">120 х 42 см</param>
 </offer>
-<offer id="HT36023" available="true">
-<stock_quantity>1</stock_quantity>
-<price>2659.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>185692</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184301.jpg</picture>
-<vendor>AlexValex</vendor>
-<article>AV-SL11036</article>
-<name>Доска гладильная AlexValex Slider AV-SL11036 основа металлизированная сетка 36110 см (AV-SL11036)</name>
-<name_ua>Дошка для прасування AlexValex Slider AV-SL11036 основа металізована сітка 36110 см (AV-SL11036)</name_ua>
-<description><![CDATA[<p>Гладильная доска Alex Valex Slider — это практичное решение для ежедневного ухода за одеждой и домашним текстилем. Благодаря прочной конструкции, продуманной эргономике и качественным материалам она обеспечивает комфортную глажку как обычным утюгом, так и парогенератором.</p><ul><li>Оптимальный размер гладильной поверхности позволяет легко гладить рубашки, платья, постельное белье и другие большие вещи.</li><li>Модель сочетает надежность, функциональность и компактность.</li></ul><p>Основа из металлической сетки способствует эффективному прохождению пара, а возможность регулировки высоты помогает настроить доску под рост пользователя.</p><ul><li>В сложенном виде гладильная доска занимает минимум места, что делает ее удобной для хранения даже в небольших квартирах.</li><li>Основа из металлической сеткиГладильная доска оснащена основой из металлической сетки, которая обеспечивает свободную циркуляцию воздуха и пара во время глажки.</li></ul><p>Это способствует более быстрому высыханию ткани, предотвращает накопление конденсата и делает процесс глажки более эффективным. Металлическая конструкция также отличается высокой прочностью и стойкостью к деформациям при длительном использовании.</p>]]></description>
-<description_ua><![CDATA[<p>Прасувальна дошка Alex Valex Slider — це практичне рішення для щоденного догляду за одягом та домашнім текстилем. Завдяки міцній конструкції, продуманій ергономіці та якісним матеріалам вона забезпечує комфортне прасування як звичайною праскою, так і парогенератором.</p><ul><li>Оптимальний розмір прасувальної поверхні дозволяє легко прасувати сорочки, сукні, постільну білизну та інші великі речі.</li><li>Модель поєднує надійність, функціональність і компактність.</li></ul><p>Основа з металевої сітки сприяє ефективному проходженню пари, а можливість регулювання висоти допомагає налаштувати дошку під зріст користувача.</p><ul><li>У складеному вигляді прасувальна дошка займає мінімум місця, що робить її зручною для зберігання навіть у невеликих квартирах.</li><li>Основа з металевої сіткиПрасувальна дошка оснащена основою з металевої сітки, яка забезпечує вільну циркуляцію повітря та пари під час прасування.</li></ul><p>Це сприяє швидшому висиханню тканини, запобігає накопиченню конденсату та робить процес прасування більш ефективним. Металева конструкція також відзначається високою міцністю та стійкістю до деформацій при тривалому використанні.</p>]]></description_ua>
-<param name="Тип">Дошка для прасування</param>
-<param name="Ширина">36 см</param>
-<param name="Встановлення">Підлогове</param>
-<param name="Висота">57 см</param>
-</offer>
 <offer id="HT36024" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>2596.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>185692</categoryId>
@@ -112376,35 +112280,6 @@
 <param name="Глибина">28 см</param>
 <param name="Гарантія">24 місяці</param>
 </offer>
-<offer id="HT36063" available="true">
-<stock_quantity>1</stock_quantity>
-<price>6819.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>81235</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185271.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185272.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185273.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185274.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185275.jpg</picture>
-<vendor>Philips</vendor>
-<article>HD6307/70</article>
-<name>Электрогриль Philips HD6307/70 (HD6307/70)</name>
-<name_ua>Електрогриль Philips HD6307/70 (HD6307/70)</name_ua>
-<description><![CDATA[<p>Гриль PHILIPS HD6307/70: идеальный выбор для вашей кухниГриль PHILIPS HD6307/70 является современным устройством для приготовления еды, которое сочетает в себе передовые технологии и элегантный дизайн.</p><ul><li>Этот контактный гриль с двумя пластинами для приготовления позволяет насладиться разнообразием блюд, приготовленных с максимальным комфортом и минимальными усилиями.</li><li>С мощностью 2200 Вт гриль PHILIPS HD6307/70 обеспечивает быстрый и равномерный нагрев, что позволяет сократить время приготовления и сохранить сочность продуктов.</li></ul><p>Благодаря шести положениям работы вы можете выбрать оптимальный режим для каждого типа блюда, от легкого подогрева до интенсивного обжаривания.</p><ul><li>Это делает гриль универсальным инструментом на вашей кухне.</li><li>Удобство и функциональность для идеального результатаГриль PHILIPS HD6307/70 оснащен множеством полезных функций, включая таймер, термостат и дисплей, которые позволяют точно контролировать процесс приготовления.</li></ul><p>Встроенный щуп-термометр помогает следить за температурой внутри продукта, гарантируя, что мясо или рыба будут готовы идеально.</p><ul><li>Это особенно важно для тех, кто ценит точность и качество блюд.</li><li>Съемные пластины с ребристой поверхностью обеспечивают равномерную прожарку и оставляют аппетитные следы на ваших блюдах.</li></ul><p>Эти пластины легко снимаются и очищаются, что упрощает уход за грилем после использования.</p><ul><li>Поддон для сбора жира делает процесс приготовления более чистым и гигиеничным, собирая излишки жира и масла.</li><li>Эргономичный дизайн и надежностьГриль PHILIPS HD6307/70 выполнен в закрытом виде, что предотвращает разбрызгивание жира и сохраняет чистоту на кухне.</li></ul><p>Его размеры составляют 37,5 x 35,4 x 17,7 см, что позволяет компактно разместиться на кухонной поверхности, не занимая много места.</p><ul><li>Гарантия на устройство составляет 24 месяца, что подчеркивает его надежность и долговечность.</li><li>Этот гриль станет незаменимым помощником для тех, кто ценит вкусную и полезную еду, приготовленную с минимальными усилиями.</li></ul><p>Благодаря своему функционалу и современному дизайну гриль PHILIPS HD6307/70 станет стильным дополнением любой кухни и обеспечит отличные результаты при каждом использовании.</p>]]></description>
-<description_ua><![CDATA[<p>Гриль PHILIPS HD6307/70: ідеальний вибір для вашої кухніГриль PHILIPS HD6307/70 є сучасним пристроєм для приготування їжі, що поєднує в собі передові технології та елегантний дизайн.</p><ul><li>Цей контактний гриль з двома пластинами для приготування дозволяє насолодитися різноманітністю страв, приготованих із максимальним комфортом та мінімальними зусиллями.</li><li>З потужністю 2200 Вт, гриль PHILIPS HD6307/70 забезпечує швидке та рівномірне нагрівання, що дозволяє скоротити час приготування та зберегти соковитість продуктів.</li></ul><p>Завдяки шести положенням роботи ви можете вибрати оптимальний режим для кожного типу страви, від легкого підігріву до інтенсивного обсмажування.</p><ul><li>Це робить гриль універсальним інструментом у вашій кухні.</li><li>Зручність та функціональність для ідеального результатуГриль PHILIPS HD6307/70 оснащений безліччю корисних функцій, включаючи таймер, термостат та дисплей, які дозволяють точно контролювати процес приготування.</li></ul><p>Вбудований щуп-термометр допомагає стежити за температурою всередині продукту, гарантуючи, що м'ясо чи риба будуть готові ідеально.</p><ul><li>Це особливо важливо для тих, хто цінує точність та якість страв.</li><li>Знімні пластини з ребристою поверхнею забезпечують рівномірне прожарювання та залишають апетитні сліди на ваших стравах.</li></ul><p>Ці пластини легко знімаються та очищаються, що спрощує догляд за грилем після використання.</p><ul><li>Піддон для збирання жиру робить процес приготування більш чистим та гігієнічним, збираючи надлишки жиру та олії.</li><li>Ергономічний дизайн та надійністьГриль PHILIPS HD6307/70 виконаний у закритому вигляді, що запобігає розбризкуванню жиру та зберігає чистоту на кухні.</li></ul><p>Його розміри становлять 37,5 x 35,4 x 17,7 см, що дозволяє компактно розміститися на кухонній поверхні, не займаючи багато місця.</p><ul><li>Гарантія на пристрій складає 24 місяці, що підкреслює його надійність та довговічність.</li><li>Цей гриль стане незамінним помічником для тих, хто цінує смачну та корисну їжу, приготовлену з мінімальними зусиллями.</li></ul><p>Завдяки своєму функціоналу та сучасному дизайну, гриль PHILIPS HD6307/70 стане стильним доповненням будь-якої кухні та забезпечить чудові результати при кожному використанні.</p>]]></description_ua>
-<param name="Тип">Електрогриль</param>
-<param name="Колір">Чорний</param>
-<param name="Покриття пластин">Антипригарне</param>
-<param name="Регулятор температури">Так</param>
-<param name="Кількість відділень">2</param>
-<param name="Ширина">35 см</param>
-<param name="Керування">Сенсорне</param>
-<param name="Тип гриля">Електричний</param>
-<param name="Матеріал корпусу">Пластик + метал</param>
-<param name="Тип поверхні">Рифлена</param>
-<param name="Потужність">2200 Вт</param>
-<param name="Гарантія">24 місяці</param>
-</offer>
 <offer id="HT36064" available="true">
 <stock_quantity>2</stock_quantity>
 <price>3322.00</price>
@@ -112570,7 +112445,7 @@
 <param name="Глибина">59 см</param>
 </offer>
 <offer id="HT36082" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>3005.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81234</categoryId>
@@ -112783,32 +112658,6 @@
 <param name="Висота">144 см</param>
 <param name="Глибина">54 см</param>
 <param name="Гарантія">12 місяців</param>
-</offer>
-<offer id="HT36095" available="true">
-<stock_quantity>1</stock_quantity>
-<price>2886.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80697</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185361.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185362.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185363.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185364.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185365.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185366.jpg</picture>
-<vendor>Gorenje</vendor>
-<article>FDK24DW</article>
-<name>Сушилка для фруктов Gorenje FDK24DW (FDK24DW)</name>
-<name_ua>Сушарка для фруктів Gorenje FDK24DW (FDK24DW)</name_ua>
-<description><![CDATA[<p>Описание Сушилка для фруктов и овощей Gorenje FDK24DWСушилка для фруктов и овощей Gorenje FDK24DWЛюбите сухофрукты, но высокие цены не позволяют вам часто баловать себя такими изысканными, натуральными и очень полезными лакомствами? Сушилка для овощей и фруктов Gorenje FDK24DW – отличный способ заготовить любимые сезонные продукты на зиму и пополнять свой организм витаминами и полезными микроэлементами в период авитаминоза.</p><ul><li>Кроме привычных для нас яблок, груш, абрикосов, винограда, с помощью такого чудо-устройства можно приготовить экзотические лакомства из киви, ананаса, папайи.</li><li>Выбор сушилки Gorenje FDK24DW – серьезная задачаСовременные аптеки просто кишат разнообразием препаратов для восполнения баланса витаминов в нашем организме, которых так не хватает зимой.</li></ul><p>Но совсем необязательно пичкать себя синтетическими микроэлементами, если под рукой всегда могут быть ароматные и вкусные сухофрукты.</p><ul><li>Gorenje FDK24DW позаботится о том, чтобы в них сохранилось максимум витаминов и минералов.</li><li>На фруктах не заканчиваются возможности FDK24DW, с ее помощью можно превратить в сушку овощи, ароматные травы и даже грибы.</li></ul><p>Вы будете уверены в качестве и натуральности полученных продуктов, их без капли сомнения можно давать маленьким детям и регулярно добавлять в блюда для всей семьи. Первое, что можно оценить визуально - прекрасная эргономичность устройства. Компактные лотки расположены один над другим, за один сеанс можно высушивать разные продукты без смешивания запаха.</p><ul><li>Вертикальный поток воздуха подается снизу вверх с помощью вентилятора.</li><li>Сушить или не сушить – нужно ли покупать сушилку для овощей Gorenje FDK24DW?</li><li>Если у вас еще остались сомнения по поводу такого целесообразного приобретения, как сушилка от Gorenje, предлагаем вашему вниманию преимущества данного оборудования:равномерное распределение тепла на всех уровнях;регулировка температуры и времени работы;возможность предварительного программирования;хороший обзор продуктов и контроль процесса сушки;большая загрузка за один раз;регулируемая высота лотков, которую можно настраивать в зависимости от потребности – 2,8 или 5 см;простое управление и уход – разобрать, очистить, высушить и снова собрать такой аппарат не составляет большой сложности.</li></ul>]]></description>
-<description_ua><![CDATA[<p>Опис Сушарка для фруктів та овочів Gorenje FDK24DWСушарка для фруктів та овочів Gorenje FDK24DWЛюбите сухофрукти, але високі ціни не дозволяють вам часто балувати себе такими вишуканими, натуральними і дуже корисними ласощами? Сушіння для овочів та фруктів Gorenje FDK24DW – відмінний спосіб заготовити улюблені сезонні продукти на зиму, та поповнювати свій організм вітамінами та корисними мікроелементами в період авітамінозу.</p><ul><li>Крім звичних для нас яблук, груш, абрикос, винограду, за допомогою такого чудо-пристрою можна приготувати екзотичні ласощі з ківі, ананаса, папайї.</li><li>Вибір сушіння Gorenje FDK24DW – серйозне завданняСучасні аптеки просто кишать різноманітністю препаратів для заповнення балансу вітамінів у нашому організмі, яких так не вистачає взимку.</li></ul><p>Але зовсім необов'язково напихати себе синтетичними мікроелементами, якщо під рукою завжди можуть бути ароматні та смачні сухофрукти.</p><ul><li>Gorenje FDK24DW подбає про те, щоб у них збереглося максимум вітамінів та мінералів.</li><li>На фруктах не закінчуються можливості FDK24DW, з її допомогою можна перетворити на сушку овочі, ароматні трави і навіть гриби.</li></ul><p>Ви будете впевнені в якості та натуральності отриманих продуктів, їх без краплі сумніву можна давати маленьким дітям та регулярно додавати у страви для всієї родини. Перше, що можна оцінити візуально - чудова ергономічність пристрою. Компактні лотки розташовані один над одним, за один сеанс можна висушувати різні продукти без перемішування запаху.</p><ul><li>Вертикальний потік повітря подається знизу нагору за допомогою вентилятора.</li><li>Сушити чи не сушити – чи потрібно купувати сушарку для овочів Gorenje FDK24DW?</li><li>Якщо у вас ще залишилися сумніви щодо такого доцільного придбання, як сушіння від Gorenje, пропонуємо до вашої уваги переваги даного обладнання:рівномірний розподіл тепла на всіх рівнях;регулювання температури та часу роботи;можливість попереднього програмування;добрий огляд продуктів та контроль процесу сушіння;велике завантаження за один раз;регульована висота лотків, яку можна настроювати залежно від потреби – 2,8 або 5 см;просте управління та догляд – розібрати, очистити, висушити і знову зібрати такий апарат не становить великої складності.</li></ul>]]></description_ua>
-<param name="Тип">Сушарка для фруктів</param>
-<param name="Колір">Білий</param>
-<param name="Керування">Електронне</param>
-<param name="Матеріал корпусу">Пластик</param>
-<param name="Кількість секцій">5</param>
-<param name="Загальний об&apos;єм">10 л</param>
-<param name="Потужність">380 Вт</param>
-<param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT36097" available="true">
 <stock_quantity>3</stock_quantity>
@@ -113470,7 +113319,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT36141" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>20657.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
@@ -113669,34 +113518,6 @@
 <param name="Глибина">57 см</param>
 <param name="Гарантія">36 місяців</param>
 </offer>
-<offer id="HT36155" available="true">
-<stock_quantity>1</stock_quantity>
-<price>27825.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80164</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187483.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187484.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187485.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187486.jpg</picture>
-<vendor>Philips</vendor>
-<article>EP5441/50</article>
-<name>Кофемашина Philips LatteGO 5400 Series EP5441/50 с капучинатором (EP5441/50)</name>
-<name_ua>Кавомашина Philips LatteGO 5400 Series EP5441/50 з капучинатором (EP5441/50)</name_ua>
-<description><![CDATA[<p>Кофемашина Philips LatteGO 5400 Series EP5441/50 с капучинатором.</p><p><strong>Характеристики:</strong></p><p>Цвет: Черный.</p><p>Управление: Сенсорное.</p><p>Материал корпуса: Пластик.</p><p>Объем резервуара для воды: 1,8 л.</p><p>Тип кофе: Зерновой, Молотый.</p><p>Тип кофеварки: Кофемашина.</p><p>Давление пара: 15 бар.</p><p>Вместимость контейнера для зерен: 275 г.</p><p>Производитель: Philips.</p><p>Мощность: 1500 Вт.</p><p>Вес: 8 кг.</p><p>Гарантия: 24 мес.</p>]]></description>
-<description_ua><![CDATA[<p>Кавомашина Philips LatteGO 5400 Series EP5441/50 з капучинатором.</p><p><strong>Характеристики:</strong></p><p>Колір: Чорний.</p><p>Керування: Сенсорне.</p><p>Матеріал корпусу: Пластик.</p><p>Об'єм резервуару для води: 1,8 л.</p><p>Тип кави: Зерновий, Мелений.</p><p>Тип кавоварки: Кавомашина.</p><p>Тиск пару: 15 бар.</p><p>Місткість контейнера для зерен: 275 г.</p><p>Виробник: Philips.</p><p>Потужність: 1500 Вт.</p><p>Вага: 8 кг.</p><p>Гарантія: 24 міс.</p>]]></description_ua>
-<param name="Тип">Кавомашина</param>
-<param name="Колір">Чорний</param>
-<param name="Керування">Сенсорне</param>
-<param name="Матеріал корпусу">Пластик</param>
-<param name="Об&apos;єм резервуару для води">1,8 л</param>
-<param name="Тип кави">Зерновий, Мелений</param>
-<param name="Тип кавоварки">Кавомашина</param>
-<param name="Тиск пару">15 бар</param>
-<param name="Місткість контейнера для зерен">275 г</param>
-<param name="Потужність">1500 Вт</param>
-<param name="Вага">8 кг</param>
-<param name="Гарантія">24 місяці</param>
-</offer>
 <offer id="HT36156" available="true">
 <stock_quantity>1</stock_quantity>
 <price>25375.00</price>
@@ -113797,7 +113618,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT36159" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>3772.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>112986</categoryId>
@@ -114047,30 +113868,6 @@
 <param name="Вага">24 кг</param>
 <param name="Висота">58 см</param>
 <param name="Глибина">50 см</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
-<offer id="HT36184" available="true">
-<stock_quantity>1</stock_quantity>
-<price>3978.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80247</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188291.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188293.jpg</picture>
-<vendor>Hyundai</vendor>
-<article>H2001FLT</article>
-<name>Инфракрасный обогреватель Hyundai H2001FLT I с телескопической ножкой (H2001FLT)</name>
-<name_ua>Інфрачервоний обігрівач Hyundai H2001FLT I з телескопічною ніжкою (H2001FLT)</name_ua>
-<description><![CDATA[<p>Инфракрасный обогреватель Hyundai H2001FLT с телескопической ножкой — практичное решение для обогрева помещений и террас площадью до 20 м². Модель оснащена кварцевым нагревательным элементом и использует длинноволновое инфракрасное излучение.</p><ul><li>Благодаря возможности настенной или напольной установки обогреватель легко адаптировать к условиям использования.</li><li>Механическое управление и механический термостат обеспечивают простую настройку работы прибора.</li></ul><p>Регулятор мощности позволяет изменять интенсивность обогрева в соответствии с текущими потребностями.</p><ul><li>Телескопическая ножка позволяет устанавливать обогреватель на удобной высоте при напольном использовании.</li><li>Для безопасной эксплуатации Hyundai H2001FLT оснащен датчиком опрокидывания и защитой от перегрева.</li></ul><ul><li>Электрический тип теплоносителя и компактный формат делают модель удобной для использования в бытовых условиях и на террасе.</li><li>Hyundai H2001FLT сочетает кварцевый нагревательный элемент, простое механическое управление и универсальные варианты монтажа.</li></ul><p>Телескопическая ножка, возможность регулировки мощности и системы защиты делают этот обогреватель практичным решением для комфортного дополнительного обогрева.</p>]]></description>
-<description_ua><![CDATA[<p>Інфрачервоний обігрівач Hyundai H2001FLT з телескопічною ніжкою — практичне рішення для обігріву приміщень і терас площею до 20 м². Модель оснащена кварцовим нагрівальним елементом та використовує довгохвильове інфрачервоне випромінювання.</p><ul><li>Завдяки можливості настінного або підлогового встановлення обігрівач легко адаптувати до умов використання.</li><li>Механічне керування та механічний термостат забезпечують просте налаштування роботи приладу.</li></ul><p>Регулятор потужності дозволяє змінювати інтенсивність обігріву відповідно до поточних потреб.</p><ul><li>Телескопічна ніжка дає змогу встановлювати обігрівач на зручній висоті під час підлогового використання.</li><li>Для безпечної експлуатації Hyundai H2001FLT оснащений датчиком перекидання та захистом від перегріву.</li></ul><ul><li>Електричний тип теплоносія та компактний формат роблять модель зручною для використання в побутових умовах і на терасі.</li><li>Hyundai H2001FLT поєднує кварцовий нагрівальний елемент, просте механічне керування та універсальні варіанти монтажу.</li></ul><p>Телескопічна ніжка, можливість регулювання потужності та системи захисту роблять цей обігрівач практичним рішенням для комфортного додаткового обігріву.</p>]]></description_ua>
-<param name="Тип">Інфрачервоний обігрівач</param>
-<param name="Колір">Чорний з сірим</param>
-<param name="Кількість швидкостей">3</param>
-<param name="Керування">Механічне</param>
-<param name="Встановлення">Підлогове</param>
-<param name="Матеріал корпусу">Метал</param>
-<param name="Площа обігріву">До 20 м²</param>
-<param name="Тип обігрівача">Інфрачервоний</param>
-<param name="Вага">2,9 кг</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT36185" available="true">
@@ -114582,7 +114379,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT36213" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>18319.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -114984,32 +114781,6 @@
 <param name="Об`єм">1 л</param>
 <param name="Матеріал корпусу">Нержавіюча сталь, скло</param>
 </offer>
-<offer id="HT36230" available="true">
-<stock_quantity>1</stock_quantity>
-<price>54932.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4674585</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188771.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188772.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188773.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188774.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188775.jpg</picture>
-<vendor>IEETek</vendor>
-<article>SingoP3200</article>
-<name>Зарядная станция IEETek SingoP3200 (SingoP3200)</name>
-<name_ua>Зарядна станція IEETek SingoP3200 (SingoP3200)</name_ua>
-<description><![CDATA[<p>SINGO P3200 — мощная портативная зарядная станция для резервного питания техники дома, в офисе, мастерской, во время путешествий или отдыха на природе.</p><ul><li>Модель оснащена аккумулятором емкостью 2048 Вт·ч и обеспечивает выходную мощность до 3200 Вт, что позволяет одновременно подключать несколько электроприборов.</li><li>В основе станции используется надежная батарея LiFePO4 на 6000 циклов зарядки с сохранением до 80% начальной емкости.</li></ul><ul><li>Такая технология отличается долгим сроком службы и хорошо подходит для регулярного использования в качестве резервного источника электроэнергии.</li><li>SINGO P3200 оборудована 16 выходными портами пяти разных типов, включая четыре розетки переменного тока, USB-A, мощные USB Type-C и выходы DC5525.</li></ul><ul><li>Это позволяет питать бытовую технику, ноутбуки, смартфоны, роутеры, освещение и другое оборудование без использования дополнительных адаптеров.</li><li>Станция поддерживает быструю зарядку от сети, солнечных панелей и автомобиля.</li></ul><ul><li>При комбинированной зарядке от сети и солнечных панелей максимальная входная мощность достигает 2800 Вт, благодаря чему полная зарядка занимает примерно один час.</li><li>Управлять работой станции можно дистанционно со смартфона через Wi-Fi или Bluetooth.</li></ul><p>В приложении доступны контроль уровня заряда, мощности на входе и выходе, температуры, управление портами и обновление программного обеспечения.</p>]]></description>
-<description_ua><![CDATA[<p>SINGO P3200 — потужна портативна зарядна станція для резервного живлення техніки вдома, в офісі, майстерні, під час подорожей або відпочинку на природі.</p><ul><li>Модель оснащена акумулятором ємністю 2048 Вт·год і забезпечує вихідну потужність до 3200 Вт, що дозволяє одночасно підключати декілька електроприладів.</li><li>В основі станції використовується надійна батарея LiFePO4 на 6000 циклів заряджання зі збереженням до 80% початкової ємності.</li></ul><ul><li>Така технологія відрізняється тривалим терміном служби та добре підходить для регулярного використання як резервне джерело електроенергії.</li><li>SINGO P3200 обладнана 16 вихідними портами п’яти різних типів, включаючи чотири розетки змінного струму, USB-A, потужні USB Type-C та виходи DC5525.</li></ul><ul><li>Це дозволяє живити побутову техніку, ноутбуки, смартфони, роутери, освітлення та інше обладнання без використання додаткових адаптерів.</li><li>Станція підтримує швидке заряджання від мережі, сонячних панелей та автомобіля.</li></ul><ul><li>При комбінованому заряджанні від мережі й сонячних панелей максимальна вхідна потужність досягає 2800 Вт, завдяки чому повне заряджання займає приблизно одну годину.</li><li>Керувати роботою станції можна дистанційно зі смартфона через Wi-Fi або Bluetooth.</li></ul><p>У застосунку доступний контроль рівня заряду, потужності на вході та виході, температури, керування портами й оновлення програмного забезпечення.</p>]]></description_ua>
-<param name="Тип">Зарядна станція</param>
-<param name="Колір">Чорний</param>
-<param name="Тип управління">Wi-Fi керування</param>
-<param name="Час зарядки">2 год</param>
-<param name="Матеріал корпусу">Пластик</param>
-<param name="Джерело живлення">Мережа/сонячна енергія</param>
-<param name="Батарея">Літій-залізо-фосфатні (LiFePO4)</param>
-<param name="Ємність акумулятора">2048 Вт/год</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
 <offer id="HT36231" available="true">
 <stock_quantity>2</stock_quantity>
 <price>31250.00</price>
@@ -115147,38 +114918,6 @@
 <param name="Електропідпал">Так</param>
 <param name="Матеріал решіток">Чавун</param>
 <param name="Глибина">52 см</param>
-<param name="Гарантія">24 місяці</param>
-</offer>
-<offer id="HT36236" available="true">
-<stock_quantity>2</stock_quantity>
-<price>2430.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80161</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182531.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182532.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182533.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182534.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182535.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182536.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182537.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182538.jpg</picture>
-<vendor>Gorenje</vendor>
-<article>GS2100BKV</article>
-<name>Отпариватель ручной Gorenje GS2100BKV (GS2100BKV)</name>
-<name_ua>Відпарювач ручний Gorenje GS2100BKV (GS2100BKV)</name_ua>
-<description><![CDATA[<p>Освежает, дезинфицирует и отпаривает - всё в одномGorenje GS2100BKV не только разглаживает складки - он освежает и дезинфицирует вашу одежду, устраняя неприятные запахи и бактерии с помощью мощного пара.</p><ul><li>Сделайте свой гардероб свежим, чистым и готовым к носке за считанные минуты!</li><li>Мощный и эффективный пар для быстрого и лёгкого разглаживанияGorenje обеспечивает высокую эффективность отпаривания, обеспечивая глубокое проникновение пара для быстрого и эффективного разглаживания.</li></ul><ul><li>Наслаждайтесь свежевыглаженной одеждой за считанные секунды - больше не нужна гладильная доска!</li><li>От деликатной до тяжёлой одеждыБлагодаря двум режимам отпаривания вы сможете легко разгладить складки на всех типах тканей - от нежного шёлка до тяжёлых материалов - для безупречного вида.</li></ul><ul><li>Наслаждайтесь быстрым и эффективным отпариванием для идеально свежей одежды в любое времяНе требует гладильной доскиПредназначен для вертикального отпаривания - просто развесьте одежду, и мощный пар мгновенно освежит и разгладит ткань, не требуя гладильной доски!</li><li>Съёмный резервуар для воды на 220 мл для лёгкого наполненияСъёмный резервуар для воды на 220 мл позволяет легко и чисто наполнять его, обеспечивая непрерывное отпаривание для идеально свежей одежды.</li><li>Мерный стакан для воды и щётка для ткани обеспечивают универсальную и безопасную глажку паромВключает мерный стакан для воды и щётку для ткани для универсальной и безопасной глажки паром, обеспечивая оптимальный уход за всеми типами тканей</li></ul>]]></description>
-<description_ua><![CDATA[<p>Освіжає, дезінфікує та відпарює - все в одномуGorenje GS2100BKV не лише розгладжує складки - він освіжає та дезінфікує ваш одяг, усуваючи неприємні запахи та бактерії за допомогою потужної пари.</p><ul><li>Зробіть свій гардероб свіжим, чистим і готовим до носіння за лічені хвилини!</li><li>Потужна та ефективна пара для швидкого та легкого розгладженняGorenje забезпечує високу ефективність відпарювання, забезпечуючи глибоке проникнення пари для швидкого та ефективного розгладження.</li></ul><ul><li>Насолоджуйтеся свіжо випрасуваним одягом за лічені секунди - більше не потрібна прасувальна дошка!</li><li>Від делікатного до важкого одягуЗавдяки двом режимам відпарювання ви зможете легко розгладити складки на всіх типах тканин - від ніжного шовку до важких матеріалів - для бездоганного вигляду.</li></ul><ul><li>Насолоджуйтеся швидким та ефективним відпарюванням для ідеально свіжого одягу в будь-який часНе потребує прасувальної дошкиПризначений для вертикального відпарювання - просто розвісьте одяг, і потужна пара миттєво освіжить і розгладить тканину, не потребуючи прасувальної дошки!</li><li>Знімний резервуар для води на 220 мл для легкого наповненняЗнімний резервуар для води на 220 мл дозволяє легко та чисто наповнювати його, забезпечуючи безперервне відпарювання для ідеально свіжого одягу.</li><li>Мірний стакан для води та щітка для тканини забезпечують універсальне та безпечне прасування пароюВключає мірний стакан для води та щітку для тканини для універсального та безпечного прасування парою, забезпечуючи оптимальний догляд за всіма типами тканин</li></ul>]]></description_ua>
-<param name="Тип">Відпарювач ручний</param>
-<param name="Колір">Сірий з рожевим</param>
-<param name="Керування">Механічне</param>
-<param name="Матеріал корпусу">Пластик</param>
-<param name="Об&apos;єм резервуару для води">220 мл</param>
-<param name="Тип праски">Відпарювач</param>
-<param name="Час нагріву">20 сек</param>
-<param name="Паровий удар">35 г/хв</param>
-<param name="Потужність">2100 Вт</param>
-<param name="Автоматичне відключення">Так</param>
-<param name="Вага">1,2 кг</param>
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT36237" available="true">
@@ -115341,7 +115080,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT36242" available="true">
-<stock_quantity>9</stock_quantity>
+<stock_quantity>8</stock_quantity>
 <price>4778.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80162</categoryId>
@@ -116095,7 +115834,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT6894" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>1992.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>112986</categoryId>
@@ -116346,7 +116085,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT9988" available="true">
-<stock_quantity>9</stock_quantity>
+<stock_quantity>8</stock_quantity>
 <price>457.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
