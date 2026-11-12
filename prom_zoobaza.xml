@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-11 08:00">
+<yml_catalog date="2026-11-12 20:00">
 <shop>
 <categories>
 <category id="105501">Одяг для тварин</category>
@@ -18112,13 +18112,13 @@
 <param name="Розмір">70х100х23 см</param>
 <description><![CDATA[Диван Елегант   овальний лежак із м'якими бортами, які підвищені ззаду й по боках та знижуються спереду, тож тварині легко залізти. Борти обшиті контрастним кантом, зверху обшивка з меблевого велюру.Основа   поролон, зверху матрац із синтепону.Розміри: 40х54х17, 50х65х19, 60х80х21 та 70х100х23 см.Кольори: сірий і коричневий.Обирайте розмір за довжиною тварини, коли вона спить, і залиште трохи запасу, щоб можна було витягнутися. Лежак шиємо у власному виробництві. Відправляємо Новою Поштою по Україні, для магазинів і дропшиперів є оптові умови.]]></description>
 </offer>
-<offer id="ZB3499" available="false" selling_type="r" group_id="865386">
+<offer id="ZB3499" available="true" selling_type="r" group_id="865386">
 <name>Авіа-сумка</name>
 <categoryId>1059</categoryId>
 <portal_category_id>181201</portal_category_id>
 <price>2322.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>0</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/50/35270557234067_+caff472ccf.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/50/1208x755l80mc0/40487526784927.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/50/1208x800l80mc0/74565117918567.jpeg</picture>
@@ -18133,13 +18133,13 @@
 <param name="Колір">сірий</param>
 <description><![CDATA[Авіа-сумка   переноска для котів і малих порід собак, яку можна фіксувати на валізі. Виготовлена з тканини оксфорд, всередині повстяний наповнювач і вшитий повідець.Сітчасті вікна з боків і зверху дають доступ повітря та огляд.Верх відкривається на блискавках, передня стінка теж розстібається.Дві ручки з міцної стрічки й додаткова застібка-фастекс.Щільне дно, надійні блискавки.Розміри: 30х45х20, 40х50х20 та 40х55х23 см. Кольори: сірий і синій.Обирайте за довжиною тварини та вагою, яку вам зручно нести: вона має лягти й розвернутися. Шиємо самі, доставляємо Новою Поштою по Україні; для магазинів і дропшиперів є оптові умови.]]></description>
 </offer>
-<offer id="ZB3500" available="false" selling_type="r" group_id="865386">
+<offer id="ZB3500" available="true" selling_type="r" group_id="865386">
 <name>Авіа-сумка</name>
 <categoryId>1059</categoryId>
 <portal_category_id>181201</portal_category_id>
 <price>2093.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>0</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/1/47224203168913_+f9397e470e.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/1/1208x755l80mc0/14212956919013.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/1/1208x920l80mc0/31418936740560.jpeg</picture>
@@ -18154,13 +18154,13 @@
 <param name="Колір">сірий</param>
 <description><![CDATA[Авіа-сумка   переноска для котів і малих порід собак, яку можна фіксувати на валізі. Виготовлена з тканини оксфорд, всередині повстяний наповнювач і вшитий повідець.Сітчасті вікна з боків і зверху дають доступ повітря та огляд.Верх відкривається на блискавках, передня стінка теж розстібається.Дві ручки з міцної стрічки й додаткова застібка-фастекс.Щільне дно, надійні блискавки.Розміри: 30х45х20, 40х50х20 та 40х55х23 см. Кольори: сірий і синій.Обирайте за довжиною тварини та вагою, яку вам зручно нести: вона має лягти й розвернутися. Шиємо самі, доставляємо Новою Поштою по Україні; для магазинів і дропшиперів є оптові умови.]]></description>
 </offer>
-<offer id="ZB3501" available="false" selling_type="r" group_id="865386">
+<offer id="ZB3501" available="true" selling_type="r" group_id="865386">
 <name>Авіа-сумка</name>
 <categoryId>1059</categoryId>
 <portal_category_id>181201</portal_category_id>
 <price>2534.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>0</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/2/26896250013199_+45fdd83338.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/2/1208x755l80mc0/53990386404786.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/2/1208x920l80mc0/36536950971867.jpeg</picture>
@@ -18175,13 +18175,13 @@
 <param name="Колір">сірий</param>
 <description><![CDATA[Авіа-сумка   переноска для котів і малих порід собак, яку можна фіксувати на валізі. Виготовлена з тканини оксфорд, всередині повстяний наповнювач і вшитий повідець.Сітчасті вікна з боків і зверху дають доступ повітря та огляд.Верх відкривається на блискавках, передня стінка теж розстібається.Дві ручки з міцної стрічки й додаткова застібка-фастекс.Щільне дно, надійні блискавки.Розміри: 30х45х20, 40х50х20 та 40х55х23 см. Кольори: сірий і синій.Обирайте за довжиною тварини та вагою, яку вам зручно нести: вона має лягти й розвернутися. Шиємо самі, доставляємо Новою Поштою по Україні; для магазинів і дропшиперів є оптові умови.]]></description>
 </offer>
-<offer id="ZB3502" available="false" selling_type="r" group_id="865386">
+<offer id="ZB3502" available="true" selling_type="r" group_id="865386">
 <name>Авіа-сумка</name>
 <categoryId>1059</categoryId>
 <portal_category_id>181201</portal_category_id>
 <price>2322.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>0</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/3/86170454014755_+f899eead63.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/3/1208x800l80mc0/84708639816011.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/3/1208x800l80mc0/41453081248021.jpeg</picture>
@@ -18196,13 +18196,13 @@
 <param name="Колір">синій</param>
 <description><![CDATA[Авіа-сумка   переноска для котів і малих порід собак, яку можна фіксувати на валізі. Виготовлена з тканини оксфорд, всередині повстяний наповнювач і вшитий повідець.Сітчасті вікна з боків і зверху дають доступ повітря та огляд.Верх відкривається на блискавках, передня стінка теж розстібається.Дві ручки з міцної стрічки й додаткова застібка-фастекс.Щільне дно, надійні блискавки.Розміри: 30х45х20, 40х50х20 та 40х55х23 см. Кольори: сірий і синій.Обирайте за довжиною тварини та вагою, яку вам зручно нести: вона має лягти й розвернутися. Шиємо самі, доставляємо Новою Поштою по Україні; для магазинів і дропшиперів є оптові умови.]]></description>
 </offer>
-<offer id="ZB3503" available="false" selling_type="r" group_id="865386">
+<offer id="ZB3503" available="true" selling_type="r" group_id="865386">
 <name>Авіа-сумка</name>
 <categoryId>1059</categoryId>
 <portal_category_id>181201</portal_category_id>
 <price>2093.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>0</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/4/avia-sumka-4-51973232810295_+adb68ab17b.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/4/1208x800l80mc0/48240813609814.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/4/1208x800l80mc0/71024754955410.jpeg</picture>
@@ -18217,13 +18217,13 @@
 <param name="Колір">синій</param>
 <description><![CDATA[Авіа-сумка   переноска для котів і малих порід собак, яку можна фіксувати на валізі. Виготовлена з тканини оксфорд, всередині повстяний наповнювач і вшитий повідець.Сітчасті вікна з боків і зверху дають доступ повітря та огляд.Верх відкривається на блискавках, передня стінка теж розстібається.Дві ручки з міцної стрічки й додаткова застібка-фастекс.Щільне дно, надійні блискавки.Розміри: 30х45х20, 40х50х20 та 40х55х23 см. Кольори: сірий і синій.Обирайте за довжиною тварини та вагою, яку вам зручно нести: вона має лягти й розвернутися. Шиємо самі, доставляємо Новою Поштою по Україні; для магазинів і дропшиперів є оптові умови.]]></description>
 </offer>
-<offer id="ZB3504" available="false" selling_type="r" group_id="865386">
+<offer id="ZB3504" available="true" selling_type="r" group_id="865386">
 <name>Авіа-сумка</name>
 <categoryId>1059</categoryId>
 <portal_category_id>181201</portal_category_id>
 <price>2534.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>0</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/5/77925972183393_+6020282f9c.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/5/1208x800l80mc0/32502900080748.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/5/1208x800l80mc0/14117973667209.jpeg</picture>
@@ -23458,13 +23458,13 @@
 <param name="Вид тварини">коти, собаки</param>
 <description><![CDATA[Лежак Сем   круглий лежак для котів і собак із меблевого велюру. Високі м'які борти з простроченими вузлами обрамляють окрему подушку-матрац, а в комплекті йде іграшка-бантик.Наповнення: синтепон у матраці, холлофайбер на бортах.Розміри: 60х15, 54х14 та 43х13 см.Кольори: коричневий, сірий, фіолетовий.Лежак шиємо самі в. Наповнювач витягується, чохол можна прати. Щоб обрати розмір, виміряйте тварину, коли вона спить, згорнувшись або витягнувшись, і додайте запас на борти. Доставляємо Новою Поштою по Україні, для магазинів і дропшиперів є оптові умови.]]></description>
 </offer>
-<offer id="ZB4013" available="false" selling_type="r">
+<offer id="ZB4013" available="true" selling_type="r">
 <name>Авіа-сумка-лежак Мрія - 56х25х20, молочний</name>
 <categoryId>1059</categoryId>
 <portal_category_id>181201</portal_category_id>
 <price>2678.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>0</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/14/62282109813102_+8fc8b2b2f4.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/14/1208x800l80mc0/73453546508300.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/14/1208x800l80mc0/45285201776255.jpeg</picture>
@@ -29137,13 +29137,13 @@
 <param name="Вік тварини">дорослі</param>
 <description><![CDATA[Fitmin NP з ягням та яловичиною   повнораціонний вологий корм у консервній банці для дорослих собак усіх порід, виготовлений зі свіжого м'яса. Підходить також цуценятам і молодим собакам. Консерва у формі паштету; її можна давати окремо, додавати до гранул для смаку або використовувати як винагороду. Паштет зручно викладати в килимки-лизуни, миски для повільного годування та іграшки-годівнички.Переваги:лише ягняче та яловиче м'ясо   для собак із чутливим шлунком;без зернових, без сої, без ГМО;без барвників, штучних консервантів і підсилювачів смаку;у формі паштету.Склад: ягня та яловичина в бульйоні 98,5%, мінеральні речовини 1,5%. Додатки на 1 кг: вітамін D3 280 МО, вітамін E 35 мг, цинк 21 мг, D-пантотенат кальцію 8,4 мг, мідь 1,8 мг, йод 1,4 мг, марганець 0,8 мг. Без консервантів.Аналітичні складові: сирий білок 11,7%, сирий жир 9%, сира зола 1,4%, сира клітковина 0,0%, вологість 77,7%.Годування: добова норма залежить від ваги собаки, напр. 100 260 г для собак 1,5 5 кг, 430 730 г для 10 20 кг. Після відкриття зберігайте в холодильнику та використайте протягом 24 годин.]]></description>
 </offer>
-<offer id="ZB5163" available="false" selling_type="r">
+<offer id="ZB5163" available="true" selling_type="r">
 <name>Авіа-сумка з сітчастим вікном Travel Pet - сірий, 30х45х20</name>
 <categoryId>1059</categoryId>
 <portal_category_id>181201</portal_category_id>
 <price>2093.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>0</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/14/73202793322195_+97e162a165.jpg</picture>
 <picture>https://zoobaza.com.ua/content/images/14/1200x900l80mc0/50117501415521.jpg</picture>
 <picture>https://zoobaza.com.ua/content/images/14/1200x900l80mc0/54322587345976.jpg</picture>
@@ -29156,13 +29156,13 @@
 <param name="Матеріал">щільний оксфорд</param>
 <description><![CDATA[Авіа-сумка Travel Pet з двома входами: тварину можна посадити зверху через кришку або завести збоку через дверцята на всю стінку, як зручніше їй і вам. Обидва входи закриваються на блискавки.сітчасті вікна зверху і з двох боків: тварина бачить вас, а повітря надходить до неї;передня кишеня на блискавці для паспорта тварини, ласощів, пакетів;щільний оксфорд;плечовий ремінь регулюється і знімається.Сумка сіра, розміри: 30х45х20, 40х50х20 і 40х55х23 см. Обирайте за твариною, яка лежить витягнувшись: довжина сумки має бути більшою за довжину від носа до основи хвоста. Перед польотом звірте розміри з вимогами своєї авіакомпанії, вони різні. Доставка Новою Поштою по всій Україні.]]></description>
 </offer>
-<offer id="ZB5164" available="false" selling_type="r">
+<offer id="ZB5164" available="true" selling_type="r">
 <name>Авіа-сумка з сітчастим вікном Travel Pet - сірий, 40х50х20</name>
 <categoryId>1059</categoryId>
 <portal_category_id>181201</portal_category_id>
 <price>2322.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>0</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/15/18243956834739_+f07a334a52.jpg</picture>
 <picture>https://zoobaza.com.ua/content/images/14/1200x900l80mc0/50117501415521.jpg</picture>
 <picture>https://zoobaza.com.ua/content/images/14/1200x900l80mc0/54322587345976.jpg</picture>
@@ -29175,13 +29175,13 @@
 <param name="Матеріал">щільний оксфорд</param>
 <description><![CDATA[Авіа-сумка Travel Pet з двома входами: тварину можна посадити зверху через кришку або завести збоку через дверцята на всю стінку, як зручніше їй і вам. Обидва входи закриваються на блискавки.сітчасті вікна зверху і з двох боків: тварина бачить вас, а повітря надходить до неї;передня кишеня на блискавці для паспорта тварини, ласощів, пакетів;щільний оксфорд;плечовий ремінь регулюється і знімається.Сумка сіра, розміри: 30х45х20, 40х50х20 і 40х55х23 см. Обирайте за твариною, яка лежить витягнувшись: довжина сумки має бути більшою за довжину від носа до основи хвоста. Перед польотом звірте розміри з вимогами своєї авіакомпанії, вони різні. Доставка Новою Поштою по всій Україні.]]></description>
 </offer>
-<offer id="ZB5165" available="false" selling_type="r">
+<offer id="ZB5165" available="true" selling_type="r">
 <name>Авіа-сумка з сітчастим вікном Travel Pet - сірий, 40х55х23</name>
 <categoryId>1059</categoryId>
 <portal_category_id>181201</portal_category_id>
 <price>2534.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>0</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/16/48298576685236_+9bf3495435.jpg</picture>
 <picture>https://zoobaza.com.ua/content/images/14/1200x900l80mc0/50117501415521.jpg</picture>
 <picture>https://zoobaza.com.ua/content/images/14/1200x900l80mc0/54322587345976.jpg</picture>
@@ -35649,6 +35649,39 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[ПОТУЖНІСТЬ 800 ВАТ — ЕФЕКТИВНІСТЬ У КОЖНОМУ РУСІ Ручний блендер Zelmer ZHB4555S потужністю 800 Вт — це надійний помічник на вашій кухні, який з легкістю впорається зі змішуванням, подрібненням та збиванням навіть найтвердіших інгредієнтів. Ідеальний вибір для щоденних кулінарних завдань. МЕТАЛЕВА НОГА — МІЦНІСТЬ ТА ЗРУЧНІСТЬ Блендер оснащений міцною ніжкою з нержавіючої сталі, яка вирізняється високою стійкістю до пошкоджень. Знімна конструкція полегшує очищення, а спеціальна форма запобігає розбризкуванню. ФУНКЦІЯ TURBO — МАКСИМУМ ПОТУЖНОСТІ ЗА МИТЬ Завдяки функції Turbo ви отримаєте миттєвий приріст швидкості лез — це дозволяє швидко подолати навіть найжорсткіші інгредієнти. ЕРГОНОМІЧНА ФОРМА — КОМФОРТ У КОЖНОМУ РУСІ Спеціально спроєктована ручка з нековзною поверхнею забезпечує зручне використання та надійний хват навіть під час інтенсивної роботи. Блендер ідеально лежить у руці, даруючи повний контроль над процесом. БАГАТОФУНКЦІОНАЛЬНІ НАСАДКИ В КОМПЛЕКТІ Разом із блендером ви отримаєте корисні аксесуари: мірну чашу на 800 мл, подрібнювач на 450 мл, вінчик та спортивну пляшку об’ємом 600 мл. Завдяки їм пристрій перетворюється на справжнього універсального кухонного помічника.]]></description>
 </offer>
+<offer id="HT12638" available="true" selling_type="r">
+<name>Варильна поверхня Gorenje GTW642SYW</name>
+<categoryId>223</categoryId>
+<portal_category_id>61911</portal_category_id>
+<price>16469.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>1</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_e4b41f4a-7833-11eb-89db-dc4a3e701323.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_e4b41f4a-7833-11eb-89db-dc4a3e701323.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_e4b41f4a-7833-11eb-89db-dc4a3e701323.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_e4b41f4a-7833-11eb-89db-dc4a3e701323.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_e4b41f4a-7833-11eb-89db-dc4a3e701323.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_e4b41f4a-7833-11eb-89db-dc4a3e701323.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_e4b41f4a-7833-11eb-89db-dc4a3e701323.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/8_e4b41f4a-7833-11eb-89db-dc4a3e701323.jpg</picture>
+<vendor>Gorenje</vendor>
+<vendorCode>HT12638</vendorCode>
+<country>Словенія</country>
+<param name="Колір">Білий</param>
+<param name="Тип управління">Механічне</param>
+<param name="Ширина">58,5 см</param>
+<param name="Кількість конфорок / зон нагріву">4</param>
+<param name="Матеріал основи панелі">Загартоване скло</param>
+<param name="Тип варильної панелі">Газова</param>
+<param name="Газ-контроль конфорок">Так</param>
+<param name="Електропідпал">Так</param>
+<param name="Матеріал решіток">Чавун</param>
+<param name="Вага">15 кг</param>
+<param name="Висота">11.2 см</param>
+<param name="Глибина">51 см</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[BigSurface: велика варильна поверхня На просторій варильній поверхні зі збільшеною відстанню між пальниками помістяться каструлі та сковорідки будь-яких розмірів. Завдяки ергономічному плоскому дизайну ви можете з легкістю переміщати по поверхні навіть дуже об'ємні каструлі та водночас не побоюватися за їхню стійкість під час готування. Газ-контроль Якщо з якої-небудь причини полум'я згасне, завдяки системі газ-контролю подання газу до пальника відразу припиниться. Можливість небезпечної концентрації газу на кухні тепер усунена! Електрозапалювання однією рукою Електропідпал однією рукою — це додатковий комфорт і легкість у керуванні вашою газовою поверхнею. Щоб запалити газову конфорку, досить просто натиснути ручку, повернути та відпустити. Швидко, просто й ефективно. Чавунні решітки ProGrids Масивні чавунні решітки ProGrid з привабливим зовнішнім виглядом дуже стійкі та не бояться навіть найвищих температур. Вони зручні та слугуватимуть вам довгі роки. Пальник WOK Новий пальник вок із подвійним контуром полум'я забезпечує підвищену потужність. Він дасть змогу швидко приготувати хрусткі овочі, м'ясо та морепродукти по-азійському.]]></description>
+</offer>
 <offer id="HT12707" available="true" selling_type="r">
 <name>Варильна поверхня Samsung NA64H3010AS/WT</name>
 <categoryId>223</categoryId>
@@ -40240,7 +40273,7 @@
 <portal_category_id>606</portal_category_id>
 <price>7856.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_bc7022d2-2887-11ed-89f0-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_bc7022d2-2887-11ed-89f0-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000009098_277282457.jpg</picture>
@@ -42203,7 +42236,7 @@
 <portal_category_id>602</portal_category_id>
 <price>30313.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_243d6a27-4218-11e8-9f37-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000000669_220747573.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000000669_220747579.jpg</picture>
@@ -44598,7 +44631,7 @@
 <portal_category_id>640</portal_category_id>
 <price>727.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011862_5008816995_w640_h640_5008816995.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011862_RKT84-GS-2.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011862_RKT84-GS-3.jpg</picture>
@@ -46330,7 +46363,7 @@
 <portal_category_id>61903</portal_category_id>
 <price>15150.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>19</quantity_in_stock>
+<quantity_in_stock>18</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012246_omk58hu1b-n-a-1.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012246_omk58hu1b-n-a-3.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012246_omk58hu1b-n-a-2.jpg</picture>
@@ -54991,9 +55024,9 @@
 <name>Плита комбінована Gorenje GKS6C71XF</name>
 <categoryId>219</categoryId>
 <portal_category_id>641</portal_category_id>
-<price>28713.00</price>
+<price>28188.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014954_496896491.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000014954_496896531.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000014954_496896485.jpg</picture>
@@ -57902,7 +57935,7 @@
 <portal_category_id>618</portal_category_id>
 <price>2088.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155211.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155212.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155213.jpg</picture>
@@ -58604,6 +58637,40 @@
 <param name="Розмір">29.5 x 37.5 x 34 см</param>
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Потужність 1700Вт, Об'єм чаші: 6.5л. 8 автоматичних програм: Овочі, Риба, Піца, Картопля фрі, Стейк, Курка, Креветки, Мафіни. Об'єм кошика 5.5л, Тип управління: сенсорний.]]></description>
+</offer>
+<offer id="HT34223" available="true" selling_type="r">
+<name>Плита комбінована Gorenje GK6C5WF</name>
+<categoryId>219</categoryId>
+<portal_category_id>641</portal_category_id>
+<price>24813.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>2</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156860.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156862.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156863.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156864.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156865.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156866.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156867.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156868.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156869.jpg</picture>
+<vendor>Gorenje</vendor>
+<vendorCode>HT34223</vendorCode>
+<country>Чехія</country>
+<param name="Колір">Білий</param>
+<param name="Об&apos;єм духовки">71 л</param>
+<param name="Тип духової шафи">Електрична</param>
+<param name="Тип варильної панелі">Газова</param>
+<param name="Газ-контроль конфорок">Так</param>
+<param name="Електропідпал">Так</param>
+<param name="Гриль">Так</param>
+<param name="Конвекція">Так</param>
+<param name="Кількість конфорок">4</param>
+<param name="Матеріал решіток">Чавун</param>
+<param name="Технологія чищення">Паром</param>
+<param name="Розмір">85 х 60 х 60 см</param>
+<param name="Гарантія">2 роки</param>
+<description><![CDATA[ОписПлита комбінована Gorenje GK6C5WFНайкраща піца в містіЦя програма з налаштуванням температури випікання 275°C була спеціально розроблена, щоб допомогти вам випікати ідеальну піцу, фокаччу, коржі та подібні печені делікатеси. Найшвидший спосіб випікання заморожених продуктівЦя ефективна програма випікання ідеально підходить для всіх типів заморожених продуктів і напівфабрикатів. Щоразу рівномірне випіканняДухові шафи Gorenje відомі своєю інноваційною округлою камерою, яка вже багато років відрізняє їх від інших духовок. Форма HomeMade створена за мотивами традиційної дров’яної печі та забезпечує кращу циркуляцію повітря, ніж у моделях інших виробників. Нещодавно форма HomeMade отримала новий дизайн, а потік повітря було покращено завдяки оновленій конструкції нагрівача й оптимальному розташуванню вентиляційних отворів. Це дало змогу забезпечити стабільну температуру по всій духовці. Ваші страви більше ніколи не пригоратимуть з одного боку, залишаючись сирими з іншого. Ідеально з усіх боківТехнологія MultiAir забезпечує оптимальну циркуляцію гарячого повітря в духовці. Завдяки вдалому розташуванню вентиляційних отворів на задній стінці та унікальній заокругленій формі повітря рівномірно розповсюджується по всій духовці. Вентилятор розподіляє гаряче повітря по духовці, забезпечуючи рівномірне пропікання з усіх боків. Динамічний рух повітря дає змогу готувати страви на кількох рівнях одночасно, не допускаючи змішування смаків і ароматів. Просте чищенняФункція AquaClean — це значна допомога в очищенні камери духовки. Потрібно лише після кожного використання приладу наливати півлітра води в деко для випікання та вмикати функцію AquaClean. Усього за 30 хвилин ви помітите результат чищення на внутрішніх поверхнях і деках. Плями та жир розм’якшуються, і їх можна легко витерти. BigSpaceПотрібно приготувати дуже багато їжі? Інноваційне рішення дало змогу розширити внутрішній простір, завдяки чому ви можете використовувати всю ширину духової шафи. Тепер у кожному деку є більше місця, а завдяки передовим технологіям страви готуються рівномірно на всіх рівнях. Удосталь місця для кожної сковороди й каструліЗбільшення простору для готування та відстані між конфорками забезпечує вдосталь місця для посуду будь-якого розміру. Стильний плаский дизайн дає змогу легко переміщати посуд і використовувати дуже великі каструлі без струсів і порушення рівноваги. Міцна, стійка та надійна опораМасивні й елегантні чавунні решітки ProGrids надзвичайно надійні та стійкі навіть до найвищих температур. Вони створюють відчуття надійності, довготривалості та зручності на вашій кухні. Просте й ефективне розморожуванняДухові шафи Gorenje вирізняються своєю функцією ефективного розморожування, яка рівномірно розморозить будь-який глибоко заморожений продукт. Просто налаштуйте час, а про решту подбає духова шафа! Коли зненацька напало натхненняТемпература в духових шафах OptiBake досягає значення 200°C усього за 4 хвилини та 30 секунд, а це на 30% менше часу, потрібного для звичайного розігрівання. Завдяки цьому наші моделі — одні з найшвидших на ринку.Дуже зручно, коли ви готуєте страви, що потребують попереднього розігрівання духовки. Щойно пристрій розігріється, відобразиться світловий і пролунає звуковий сигнал. Дайте волю фантазіїГотувати, як шеф-кухар, може бути просто. Усе, що для цього потрібно — ваша креативність, адже про решту подбає плита Gorenje з газовою варильною поверхнею. BigSurface, потужні конфорки ChefBurners та інші сучасні функції допоможуть вам у найвідчайдушніших кулінарних експериментах. Підключайте фантазію та дивуйте близьких чудовими стравами власного приготування. Достатньо м’якого дотикуДверцята зачиняються одним дотиком, плавно й безшумно. Неймовірно стійке та гладеньке покриттяЯкість і тип емалі вкрай важливі для зовнішнього вигляду плити та її функціонування. SilverMatte — високостійкий і міцний матеріал, який може витримувати екстремальний жар. Позбавлений мікропор, він покриває поверхні камери духовки та дек, роблячи їх стійкими до найвищих температур. Це покриття сприяє відбиванню високої температури й забезпечує додаткову ізоляцію духовки, тому її поверхня завжди залишається стерильною й безпечною. Усе потрібне під рукоюБільшість кухонних плит обладнана зручною просторою шухлядою для зберігання дек та іншого кухонного приладдя. Упораються з будь-якою кількістю їжіПлити Gorenje мають збільшену площу випікання та використовують великі дека. Проте інноваційні рішення дали змогу оптимізувати енергоспоживання та забезпечити рівномірне приготування їжі незалежно від її кількості. Внутрішній простір духовки ефективно використовується по всій ширині, а передова технологія забезпечує рівномірність приготування на всіх рівнях.]]></description>
 </offer>
 <offer id="HT34227" available="true" selling_type="r">
 <name>Ваги ювелірні ADLER AD 3168</name>
@@ -64025,7 +64092,7 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Елегантний та функціональний тостер Zelmer ZTS8065 потужністю 930 Вт забезпечує швидке та рівномірне підсмажування. Великий кольоровий сенсорний екран із 6 автоматичними програмами дозволяє легко вибрати потрібний рівень підсмажування. Функції розморожування, розігріву та скасування, а також висувний піддон для крихт та відділення для зберігання шнура забезпечують зручність та охайність кухні. Ідеально підходить для щоденних сніданків та сімейних зустрічей.Ідеально налаштуйте тости на свій смак за допомогою 6-рівневої шкали підрум'янення тостера Zelmer. Від ніжно підігрітого хліба до хрустких тостів , оберіть саме той рівень підрум'янення, який вам подобається. Точне керування гарантує, що кожен сніданок буде смакувати ідеально, а ваш хліб буде ідеально приготований.Тостер Zelmer дозволяє швидко розморожувати хліб прямо з морозильної камери, одночасно дбайливо підсмажуючи його, зберігаючи його смак, хрусткість та м’якість. Функція скасування дозволяє негайно зупинити підсмажування, якщо ви передумаєте щодо рівня підрум’янення або просто поспішаєте. Це практичне та зручне рішення дозволяє приготувати ідеальний сніданок з повним контролем над часом та кінцевим результатом.Великий, легко читається сенсорний екран дозволяє швидко налаштувати одну з 6 програм підсмажування та додаткові функції, такі як розморожування та розігрівання. Вбудований таймер зворотного відліку завжди дозволяє знати, скільки часу залишилося до ідеальної скоринки тосту.Тостер Zelmer поєднує стильний, сучасний дизайн із практичними функціями, що спрощують щоденне використання. Його естетичне оздоблення доповнить будь-яку кухню, а відсік для зберігання шнура допомагає підтримувати порядок на стільниці та зручно зберігає шнур, коли він не використовується.Тостер Zelmer оснащений практичним знімним піддоном для крихт, який дозволяє швидко та легко видаляти хлібні залишки . Це робить підтримку чистоти тостера легкою та зручною, а також забезпечує порядок на робочій поверхні.]]></description>
 </offer>
-<offer id="HT35204" available="true" selling_type="r">
+<offer id="HT35204" available="false" selling_type="r">
 <name>Витяжка INTERLINE STREET BL A/52M/2/M/2 повновбудована (55см, 1000куб)</name>
 <categoryId>222</categoryId>
 <portal_category_id>642</portal_category_id>
@@ -75939,7 +76006,7 @@
 <param name="Розмір">2шт. 28х3 + 3шт.20х3</param>
 <description><![CDATA[Плівка для вакууматора Camry CR 4470.1 призначена для тривалого та безпечного зберігання сухих чи свіжих продуктів. Вона надійно захищає продукти від негативної дії повітря. У пакеті створюється вакуум, за рахунок чого шкідливі бактерії та мікроорганізми не можуть жити та розвиватися, тому в такому середовищі значно продовжується термін зберігання продуктів.Вакуумна плівка втричі довше зберігає свіжість, смак, аромат та колір продуктів. Вони можуть використовуватися для зберігання продуктів у холодильній та морозильній камері або при кімнатній температурі. У них зручно зберігати свіжі фрукти та овочі, напівфабрикати, робити заготовки, а також маринувати м'ясо та рибу.У комплектацію входять 5 рулонів різних розмірів.Характеристики:Тип: плівка;Призначення: до вакуумного пакувальника;Колір білий;У комплекті 5 рулонів;Розмір плівки: 20 х 300 см – 3 шт;Розмір плівки: 28 х 300 см – 2 шт;Специфіка: 3D структура плівки;Висока міцність;Допускається кип'ятіння та використання у НВЧ;Якісна спайка;Ідеальні для готування за технологією су-вид.]]></description>
 </offer>
-<offer id="HT36105" available="true" selling_type="r">
+<offer id="HT36105" available="false" selling_type="r">
 <name>Порохотяг Samsung VS15A60AGR5/UK (стік, ручний)</name>
 <categoryId>272</categoryId>
 <portal_category_id>608</portal_category_id>
@@ -80414,7 +80481,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Міксер Rotex RHM250-K з 200-ватною потужністю і п'ятьма режимами швидкості ідеально підходить для домашнього використання. Він оснащений від'єднуваною підставкою, що спрощує заміну насадок і чистку. Міксер має автоматичне обертання чаші, що забезпечує рівномірне змішування і зберігання консистенції інгредієнтів. В комплекті йдуть дві насадки - вінчики для збивання і гаки для тіста, які мають хромоване покриття для тривалої експлуатації. Чаша міксера на 2 літри виготовлена з міцного пластику, що забезпечує довговічність і зручність у використанні. Міксер виконаний у стильному біло-червоному дизайні, що додає йому сучасного вигляду на кухні. Завдяки компактним габаритам і невеликій вазі, він легко зберігається і переноситься. Ротаційна функція чаші дозволяє зручно і швидко перемішувати складні інгредієнти без зайвих зусиль, забезпечуючи високу ефективність при готуванні.]]></description>
 </offer>
-<offer id="HT6889" available="true" selling_type="r">
+<offer id="HT6889" available="false" selling_type="r">
 <name>Мультиварка Rotex RMC505-W Excellence</name>
 <categoryId>282</categoryId>
 <portal_category_id>606</portal_category_id>
