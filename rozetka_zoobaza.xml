@@ -82035,36 +82035,6 @@
 <param name="Розмір">59.5 х 20 х 28.2 см</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
-<offer id="HT23353" available="true">
-<stock_quantity>1</stock_quantity>
-<price>3119.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80140</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_aa9368d4-6037-11ed-89f0-dc4a3e701323.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_aa9368d4-6037-11ed-89f0-dc4a3e701323.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_aa9368d4-6037-11ed-89f0-dc4a3e701323.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_aa9368d4-6037-11ed-89f0-dc4a3e701323.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/8_aa9368d4-6037-11ed-89f0-dc4a3e701323.jpg</picture>
-<vendor>Minola</vendor>
-<article>HTL 6214 WH 700 LED</article>
-<name>Вытяжка Minola HTL 6214 WH 700 LED (HTL 6214 WH 700 LED)</name>
-<name_ua>Витяжка Minola HTL 6214 WH 700 LED (HTL 6214 WH 700 LED)</name_ua>
-<description><![CDATA[<p>Телескопическая вытяжка Minola HTL 6214 700 LED - телескопическая вытяжка белого цвета от компании Minola. Устройство способствует устранению неприятных запахов, освежению воздуха в помещении и приятному запаху. Тип крепления для вытяжки - встроенный, то есть вытяжка не занимает отдельное место прикрепленной к стене, а монтируется внутрь кухонного шкафчика. Это удобно, когда вытяжка не подходит под общий ансамбль кухонной мебели, в таком случае ее всегда можно спрятать. Режимы и настройки Minola HTL 6214 700 LED имеет два доступных режима работы. В режиме отвода вытяжка выводит воздух через воздухоотвод на улицу. В режиме рециркуляции вытяжка перегоняет загрязненный воздух через внутренние фильтры и подает обратно наружу. Также есть возможность установить еще один фильтр из активированного угля, который очищает воздух на микроуровне. Другие характеристики Minola HTL 6214 700 LED работает на потребляемой мощности мотора в 65 Вт. На такой мощности устройство имеет максимальную производительность 700 м3 / ч. Данная модель вытяжки допускает работу на двух возможных скоростях. Прибор работает на среднем уровне шума, показатели шума варьируются в диапазоне 52-61 Дб. Управление вытяжкой производится с помощью механической кнопочной панели на передней стенке устройства. Комплектация Освещение вытяжки происходит с помощью одной Square LED лампы мощностью 2 Вт. В комплект поставки кроме самой вытяжки входит монтажный комплект, гарантийный талон, инструкция, обратный клапан, энергокарта.</p>]]></description>
-<description_ua><![CDATA[<p>Телескопічна витяжка Minola HTL 6214 700 LED - телескопічна витяжка білого кольору від компанії Minola. Пристрій сприяє усуненню неприємних запахів, освіженню повітря в приміщенні і приємному запаху. Тип кріплення для витяжки - вбудований, тобто витяжка не займає окреме місце прикріплено до стіни, а монтується всередину кухонної шафки. Це зручно, коли витяжка не підходить під загальний ансамбль кухонних меблів, в такому випадку її завжди можна заховати. Режими і настройки Minola HTL 6214 700 LED має два доступних режими роботи. У режимі відведення витяжка виводить повітря через воздухоотвод на вулицю. У режимі рециркуляція витяжка переганяє забруднене повітря через внутрішні фільтри і подає назад назовні. Також є можливість встановити ще один фільтр з активованого вугілля, який очищає повітря на мікрорівні. Інші характеристики Minola HTL 6214 700 LED працює на потужності споживання мотора в 65 Вт. На такій потужності пристрій має максимальну продуктивність 700 м3 / год. Дана модель витяжки допускає роботу на двох можливих швидкостях. Прилад працює на середньому рівні шуму, показники шуму варіюються в діапазоні 52-61 Дб. Управління витяжкою проводиться за допомогою механічної кнопкової панелі на передній стінці пристрою. Комплектація Освітлення витяжки відбувається за допомогою однієї Square LED лампи 2 Вт потужності. У комплект поставки крім самої витяжки входить монтажний комплект, гарантійний талон, інструкція, зворотний клапан, енергокарта.</p>]]></description_ua>
-<param name="Тип">Витяжка</param>
-<param name="Колір">Білий</param>
-<param name="Споживана потужність">65 Вт</param>
-<param name="Кількість швидкостей">2</param>
-<param name="Ширина">59.5 см</param>
-<param name="Продуктивність">700 куб.м/г</param>
-<param name="Тип керування">Механічне</param>
-<param name="Тип конструкції">Телескопічна</param>
-<param name="Кількість моторів">1</param>
-<param name="Матеріал корпусу">Метал</param>
-<param name="Вага">7,8 кг</param>
-<param name="Розмір">200 х 595 х 282-465 мм</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
 <offer id="HT23361" available="true">
 <stock_quantity>2</stock_quantity>
 <price>4101.00</price>
@@ -85403,7 +85373,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT29753" available="true">
-<stock_quantity>1</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>15444.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
@@ -86980,7 +86950,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30597" available="true">
-<stock_quantity>32</stock_quantity>
+<stock_quantity>31</stock_quantity>
 <price>1258.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81667</categoryId>
@@ -89163,7 +89133,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31803" available="true">
-<stock_quantity>27</stock_quantity>
+<stock_quantity>26</stock_quantity>
 <price>424.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -89417,7 +89387,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31927" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>986.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -90539,7 +90509,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT32092" available="true">
-<stock_quantity>13</stock_quantity>
+<stock_quantity>11</stock_quantity>
 <price>450.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81227</categoryId>
@@ -90684,7 +90654,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT32132" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>530.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81232</categoryId>
@@ -91158,7 +91128,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT32253" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>1721.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80156</categoryId>
@@ -94396,34 +94366,6 @@
 <param name="Розмір">21,8 х 7,2 х 8,5 см</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
-<offer id="HT33336" available="true">
-<stock_quantity>1</stock_quantity>
-<price>6144.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>81089</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014773_516534844.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000014773_516534845.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000014773_516534846.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000014773_516534848.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000014773_243117401w0OPr7.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000014773_2431174012Lal8Z.jpg</picture>
-<vendor>Zelmer</vendor>
-<article>ZAF 8800</article>
-<name>Мультипечь-фритюрница Zelmer ZAF 8800 (ZAF 8800)</name>
-<name_ua>Мультипіч-фритюрниця Zelmer ZAF 8800 (ZAF 8800)</name_ua>
-<description><![CDATA[<p>Мультипечь ZELMER ZAF 8800 — это высокопроизводительное кухонное устройство, которое обеспечивает быстрое, удобное и здоровое приготовление еды. Благодаря мощности 2000 Вт и емкости 8 литров она идеально подходит для приготовления разнообразных блюд на всю семью или для гостей. Уникальная конструкция мультипечи включает корзину с окошком и внутренним освещением, а также дополнительное смотровое окно, что дает возможность следить за процессом приготовления без необходимости открывать прибор. Мультипечь ZELMER ZAF 8800 оснащена 10 автоматическими программами, которые позволяют легко выбрать оптимальный режим приготовления для каждого блюда. Цифровой контроль времени и температуры с возможностью настройки температуры в диапазоне от 80 до 200°C и таймером до 60 минут обеспечивают точность и удобство в управлении прибором. Технология 360° циркуляции воздуха позволяет равномерно распределять тепло по всей поверхности еды, что дает идеальный результат — хрустящую корочку и сочное мясо или овощи. Особым преимуществом модели является технология двойного нагрева, которая использует два нагревательных элемента для равномерного приготовления без необходимости встряхивать еду во время выпекания. Технология STEAM EXPERT гарантирует идеальный эффект жарки: снаружи блюда получают хрустящую корочку, а внутри остаются мягкими и сочными. Мультипечь также комплектуется плитой гриля, что открывает дополнительные возможности для приготовления блюд с разнообразными вариациями текстуры и вкуса. Корпус из нержавеющей стали придает прибору стильный вид и высокую прочность, а противоскользящие ножки обеспечивают устойчивость на любой поверхности, предотвращая нежелательное скольжение. ZELMER ZAF 8800 — это отличный выбор для тех, кто ценит скорость, удобство и высококачественное приготовление еды с помощью современных технологий.</p>]]></description>
-<description_ua><![CDATA[<p>Мультипіч ZELMER ZAF 8800 — це високопродуктивний кухонний пристрій, що забезпечує швидке, зручне та здорове приготування їжі. Завдяки потужності 2000 Вт та ємності 8 літрів, вона ідеально підходить для приготування різноманітних страв на всю родину або для гостей. Унікальна конструкція мультипечі включає кошик з віконцем та внутрішнім освітленням, а також додаткове оглядове вікно, що дає можливість стежити за процесом приготування без потреби відкривати прилад. Мультипіч ZELMER ZAF 8800 оснащена 10 автоматичними програмами, що дозволяють легко вибрати оптимальний режим приготування для кожної страви. Цифровий контроль часу та температури, з можливістю налаштування температури в діапазоні від 80 до 200°C та таймером до 60 хвилин, забезпечують точність і зручність в управлінні приладом. Технологія 360° циркуляції повітря дозволяє рівномірно розподіляти тепло по всій поверхні їжі, що дає ідеальний результат — хрустку скоринку та соковите м'ясо чи овочі. Особливою перевагою моделі є технологія подвійного нагріву, що використовує два нагрівальних елементи для рівномірного приготування без необхідності струшувати їжу під час випікання. Технологія STEAM EXPERT гарантує ідеальний ефект смаження: зовні страви отримують хрустку скоринку, а всередині залишаються м’якими та соковитими. Мультипіч також комплектується плитою гриля, що відкриває додаткові можливості для приготування страв з різноманітними варіаціями текстури та смаку. Корпус з нержавіючої сталі надає приладу стильний вигляд та високу міцність, а протиковзкі ніжки забезпечують стійкість на будь-якій поверхні, запобігаючи небажаному ковзанню. ZELMER ZAF 8800 — це чудовий вибір для тих, хто цінує швидкість, зручність і високоякісне приготування їжі за допомогою сучасних технологій.</p>]]></description_ua>
-<param name="Тип">Мультипіч-фритюрниця</param>
-<param name="Колір">чорний із нержавіючою сталлю</param>
-<param name="Об`єм">8 л</param>
-<param name="Споживана потужність">2000 Вт</param>
-<param name="Тип управління">Сенсорне</param>
-<param name="Покриття чаші">Антипригарне</param>
-<param name="Матеріал корпусу">Нержавіюча сталь + пластик</param>
-<param name="Кількість програм приготування">10</param>
-<param name="Температура нагріву">80 - 200°C</param>
-<param name="Гарантія">24 місяці</param>
-</offer>
 <offer id="HT33381" available="true">
 <stock_quantity>1</stock_quantity>
 <price>1708.00</price>
@@ -95211,7 +95153,6 @@
 <categoryId>80156</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000015085_504558129.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000015085_504558120.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000015085_504558132.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000015085_504558144.jpg</picture>
 <vendor>Zelmer</vendor>
 <article>ZHM 2460 P</article>
@@ -97456,7 +97397,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT34233" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>24838.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80203</categoryId>
@@ -98808,7 +98749,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT34579" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>10688.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80131</categoryId>
@@ -99726,38 +99667,6 @@
 <param name="Висота">64 см</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
-<offer id="HT34851" available="true">
-<stock_quantity>1</stock_quantity>
-<price>23713.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80123</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000163721.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000163722.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000163723.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000163726.jpg</picture>
-<vendor>Whirlpool</vendor>
-<article>W2F HD624</article>
-<name>Посудомоечная машина Whirlpool W2F HD624 (W2F HD624)</name>
-<name_ua>Посудомийна машина Whirlpool W2F HD624 (W2F HD624)</name_ua>
-<description><![CDATA[<p>Посудомоечная машина Whirlpool W2F HD624 X — чистота без усилий, стиль без компромиссовЗабудьте о ручном мытье посуды с Whirlpool W2F HD624 X — это современная, вместительная и энергоэффективная посудомоечная машина, которая станет незаменимым помощником на вашей кухне.</p><ul><li>Стильный корпус из нержавеющей стали подойдет к любому интерьеру, а тихая и эффективная работа приятно удивит с первого использования.</li><li>Основные характеристики:Вместимость — 14 комплектов посуды, идеально подходит для большой семьи или приема гостей.6 программ мытья: от интенсивной до экономной — выбирайте режим под ваши потребности.</li><li>Технология 6th Sense — автоматически определяет уровень загрязнения и регулирует параметры мытья, экономя воду и электроэнергию.</li><li>Система NaturalDry — автоматическое открывание дверцы после завершения цикла для естественной сушки.</li><li>Тихий режим работы (до 44 дБ) — почти бесшумная работа даже ночью.</li><li>Регулируемые корзины и удобное размещение столовых приборов.</li><li>Whirlpool W2F HD624 X — это не просто посудомойка, это комфорт, экономия времени и идеально чистая посуда каждый день.</li></ul><p>Выберите технику, которая заботится о вас!</p>]]></description>
-<description_ua><![CDATA[<p>Посудомийна машина Whirlpool W2F HD624 X — чистота без зусиль, стиль без компромісівЗабудьте про ручне миття посуду з Whirlpool W2F HD624 X — це сучасна, містка та енергоефективна посудомийна машина, яка стане незамінним помічником у вашій кухні.</p><ul><li>Стильний корпус з нержавіючої сталі пасуватиме до будь-якого інтер’єру, а тиха й ефективна робота приємно здивує з першого використання.</li><li>Основні характеристики:Місткість — 14 комплектів посуду, ідеально підходить для великої родини або прийому гостей.6 програм миття: від інтенсивної до економної — обирайте режим під ваші потреби.</li><li>Технологія 6th Sense — автоматично визначає рівень забруднення і регулює параметри миття, заощаджуючи воду та електроенергію.</li><li>Система NaturalDry — автоматичне відкривання дверцят після завершення циклу для природного сушіння.</li><li>Тихий режим роботи (до 44 дБ) — майже безшумна робота навіть уночі.</li><li>Регульовані кошики та зручне розміщення столових приборів.</li><li>Whirlpool W2F HD624 X — це не просто посудомийка, це комфорт, економія часу та ідеально чистий посуд щодня.</li></ul><p>Оберіть техніку, яка дбає про вас!</p>]]></description_ua>
-<param name="Тип">Посудомийна машина</param>
-<param name="Колір">Білий</param>
-<param name="Ширина">60 см</param>
-<param name="Керування">Механічне</param>
-<param name="Клас енергоспоживання">А++</param>
-<param name="Кількість програм мийки">9</param>
-<param name="Місткість комплектів посуду">14</param>
-<param name="Тип посудомийки">Окремостояча</param>
-<param name="Споживання води">9,5 л</param>
-<param name="Тип сушіння">Конденсаційний</param>
-<param name="Тип двигуна">Інверторний</param>
-<param name="Потужність">1950 Вт</param>
-<param name="Вага">43,1 кг</param>
-<param name="Висота">85 см</param>
-<param name="Глибина">59 см</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
 <offer id="HT34866" available="true">
 <stock_quantity>49</stock_quantity>
 <price>16163.00</price>
@@ -100389,7 +100298,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT34979" available="true">
-<stock_quantity>47</stock_quantity>
+<stock_quantity>46</stock_quantity>
 <price>20694.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -100492,7 +100401,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35003" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>19400.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -101951,7 +101860,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35199" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>36213.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80222</categoryId>
@@ -102615,6 +102524,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>80155</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171891.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171892.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171893.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171894.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171895.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171897.jpg</picture>
@@ -102633,34 +102544,6 @@
 <param name="Ємність подрібнювача">2 л</param>
 <param name="Керування">Кнопкове</param>
 <param name="Матеріал корпусу">Пластик</param>
-<param name="Потужність">1000 Вт</param>
-<param name="Гарантія">24 місяці</param>
-</offer>
-<offer id="HT35274" available="true">
-<stock_quantity>2</stock_quantity>
-<price>3700.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80155</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171901.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171902.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171906.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171907.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171908.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171909.jpg</picture>
-<vendor>Rotex</vendor>
-<article>RTB990-B TitanPower</article>
-<name>Блендер Rotex RTB990-B TitanPower (RTB990-B TitanPower)</name>
-<name_ua>Блендер Rotex RTB990-B TitanPower (RTB990-B TitanPower)</name_ua>
-<description><![CDATA[<p>Блендер Rotex RTB990-B TitanPower — это мощный многофункциональный кухонный прибор, который сочетает возможности блендера, измельчителя и кухонного комбайна. Модель оснащена двигателем мощностью 1000 Вт, что обеспечивает быстрое и эффективное измельчение, смешивание и обработку разных продуктов. Плавная регулировка скорости позволяет легко контролировать интенсивность работы в зависимости от типа ингредиентов.</p><ul><li>Нож Ice Crush из нержавеющей стали с титановым покрытием обеспечивает долговечность, высокую прочность и эффективное измельчение даже льда и твердых продуктов.</li><li>Корпус блендера изготовлен из прочного пластика, а съемная нога из нержавеющей стали делает использование и очистку прибора максимально удобными.</li></ul><p>Для компактного хранения предусмотрена подвесная петля. Благодаря большому количеству аксессуаров устройство позволяет выполнять разнообразные кухонные задачи.</p><ul><li>В комплект входит чаша для измельчения и нарезки кубиками объемом 2 л с лезвием, чаша-измельчитель 400 мл, насадки для нарезки кубиками 8×8 мм и 11×11 мм, насадка для нарезки соломкой, мерный стакан с крышкой 600 мл, венчик из нержавеющей стали, терка для драников, а также двусторонний диск для нарезки и измельчения овощей и фруктов.</li><li>Кроме того, модель имеет дополнительные функциональные насадки: тестомес, насадку для приготовления пюре, насадку для взбивания, насадку для замеса теста и вспениватель молока, что позволяет готовить кремы, тесто, картофельное пюре, молочную пенку для кофе и другие блюда и напитки.</li></ul><p>Такая богатая комплектация значительно расширяет возможности использования прибора на кухне. На блендер предоставляется гарантия 2 года, что подтверждает его надежность и качество.</p>]]></description>
-<description_ua><![CDATA[<p>Блендер Rotex RTB990-B TitanPower — це потужний багатофункціональний кухонний прилад, який поєднує можливості блендера, подрібнювача та кухонного комбайна. Модель оснащена двигуном потужністю 1000 Вт, що забезпечує швидке та ефективне подрібнення, змішування та обробку різних продуктів. Плавне регулювання швидкості дозволяє легко контролювати інтенсивність роботи залежно від типу інгредієнтів.</p><ul><li>Ніж Ice Crush з нержавіючої сталі з титановим покриттям забезпечує довговічність, високу міцність та ефективне подрібнення навіть льоду й твердих продуктів.</li><li>Корпус блендера виготовлений із міцного пластику, а знімна нога з нержавіючої сталі робить використання та очищення приладу максимально зручним.</li></ul><p>Для компактного зберігання передбачена підвісна петля. Завдяки великій кількості аксесуарів пристрій дозволяє виконувати різноманітні кухонні задачі.</p><ul><li>У комплект входить чаша для подрібнення та нарізки кубиками об’ємом 2 л з лезом, чаша-подрібнювач 400 мл, насадки для нарізки кубиками 8×8 мм та 11×11 мм, насадка для нарізки соломкою, мірний стакан із кришкою 600 мл, віночок з нержавіючої сталі, терка для дерунів, а також двосторонній диск для нарізки та подрібнення овочів і фруктів.</li><li>Крім того, модель має додаткові функціональні насадки: тістоміс, насадку для приготування пюре, насадку для збивання, насадку для замісу тіста та спінювач молока, що дозволяє готувати креми, тісто, картопляне пюре, молочну пінку для кави та інші страви й напої.</li></ul><p>Така багата комплектація значно розширює можливості використання приладу на кухні. На блендер надається гарантія 2 роки, що підтверджує його надійність та якість.</p>]]></description_ua>
-<param name="Тип">Блендер</param>
-<param name="Колір">Чорний з сріблястим</param>
-<param name="Ємність мірної склянки">600 мл</param>
-<param name="Кількість швидкостей">2 +  імпульсний режим</param>
-<param name="Матеріал занурювальної частини">Нержавіюча сталь</param>
-<param name="Тип блендера">Подрібнювач</param>
-<param name="Ємність подрібнювача">400 мл</param>
-<param name="Керування">Кнопкове</param>
 <param name="Потужність">1000 Вт</param>
 <param name="Гарантія">24 місяці</param>
 </offer>
@@ -106090,7 +105973,6 @@
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177103.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177105.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177106.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177107.jpg</picture>
 <vendor>LG</vendor>
 <article>GC-B509EMKM</article>
 <name>Холодильник LG GC-B509EMKM (GC-B509EMKM)</name>
@@ -107074,7 +106956,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35738" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>8569.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80163</categoryId>
@@ -108548,10 +108430,7 @@
 <price>30938.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180933.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180934.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180935.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180936.jpg</picture>
 <vendor>Whirlpool</vendor>
 <article>WHK 26373 X6EA2</article>
 <name>Холодильник Whirlpool WHK 26373 X6EA2 (WHK 26373 X6EA2)</name>
@@ -114033,40 +113912,6 @@
 <param name="Тип міксера">Стаціонарний</param>
 <param name="Вага">2,13 кг</param>
 <param name="Гарантія">12 місяців</param>
-</offer>
-<offer id="HT6890" available="true">
-<stock_quantity>1</stock_quantity>
-<price>1886.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>112986</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_e578171d-6968-11e8-a892-8c89a59571bd.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000001000_4409662.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000001000_4409973.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000001000_4409664.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000001000_RMC507-B-6.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000001000_RMC507-B-7.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000001000_RMC507-B-8.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/8_000001000_RMC507-B-9.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/9_000001000_RMC507-B-11.jpg</picture>
-<vendor>Rotex</vendor>
-<article>RMC507-B</article>
-<name>Мультиварка Rotex RMC507-B (RMC507-B)</name>
-<name_ua>Мультиварка Rotex RMC507-B (RMC507-B)</name_ua>
-<description><![CDATA[<p>Мультиварка Rotex RMC507-B – хорошая и надежная мультиварка мощностью 900 Вт, представленная в корпусе габаритами 280 мм на 295 мм, весом около 3,8 кг. Она обладает очень простой панелью управления электронного типа, в основе которой лежит цифровой LED-дисплей с подсветкой. Для приготовления любимых семейных блюд будущие пользователи смогут воспользоваться 14 автоматическими программами. Все ингредиенты погружаются в 5-литровую чашу с толщиной стенки 1,8 мм. Отметим, что она имеет двойное антипригарное покрытие. Работает Rotex RMC507-B при подключении к обычной электросети через шнур длиной 1,2 м. Если говорить о дополнительных возможностях техники, здесь стоит отметить наличие функции поддержания тепла и таймер отсрочки. Благодаря последнему процесс приготовления можно перенести на 24 ч. В упаковке товара присутствуют пластиковый контейнер для варки на пару, ложка с половником, мерный стаканчик и книга с сотней рецептов. ТМ Rotex – бытовая техника, которая сочетает в себе качество, надежность, функциональность, стиль и привлекательную цену.</p>]]></description>
-<description_ua><![CDATA[<p>Мультиварка Rotex RMC507-B – хороша і надійна мультиварка потужністю 900 Вт, представлена в корпусі габаритами 280 мм на 295 мм, вагою близько 3,8 кг. Вона володіє дуже простою панеллю управління електронного типу, в основі якої лежить цифровий LED-дисплей, що підсвічується. Для приготування улюблених сімейних страв майбутні користувачі зможуть скористатися 14 автоматичними програмами. Всі інгредієнти занурюються в 5-літрову чашу з товщиною стінки 1,8 мм. Зазначимо, що вона має подвійне антипригарне покриття. Працює Rotex RMC507-B при підключенні до звичайної електромережі через шнур завдовжки 1,2 м. Якщо говорити про додаткові можливості техніки, тут варто відзначити наявність функції підтримання тепла і таймер відстрочки. Завдяки останньому процес приготування можна перенести на 24 год. В упаковці товару присутні пластиковий контейнер для варіння на пару, ложка з ополоником, мірний стаканчик і книга з сотнею рецептів. ТМ Rotex – побутова техніка, яка поєднує в собі якість, надійність, функціональність, стиль і привабливу ціну.</p>]]></description_ua>
-<param name="Тип">Мультиварка</param>
-<param name="Колір">Чорний з сріблястим</param>
-<param name="Призначення">Побутове</param>
-<param name="Споживана потужність">900 Вт</param>
-<param name="Тип управління">Електронне</param>
-<param name="Покриття чаші">Подвійне антипригарне</param>
-<param name="Матеріал корпусу">Нержавіюча сталь</param>
-<param name="Кількість програм приготування">14</param>
-<param name="Відстрочка старту">Так</param>
-<param name="Об&apos;єм чаші">5 л</param>
-<param name="Вага">3,8 кг</param>
-<param name="Розмір">29,5 х 28 х 28 см</param>
-<param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT6934" available="true">
 <stock_quantity>1</stock_quantity>
