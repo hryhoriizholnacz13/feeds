@@ -86390,23 +86390,6 @@
 <param name="Призначення">Для пилососа</param>
 <param name="Матеріал корпусу">Тканина</param>
 </offer>
-<offer id="HT30471" available="true">
-<stock_quantity>1</stock_quantity>
-<price>312.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4626138</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011907_1722423124747.jpg</picture>
-<vendor>СЛОН</vendor>
-<article>P-03 C-III c</article>
-<name>Мешок д/пылесоса о/р м/в СЛОН P-03 C-III c к Philips (P-03 C-III c)</name>
-<name_ua>Мішок д/пилососа о/р м/в СЛОН P-03 C-III c до Philips (P-03 C-III c)</name_ua>
-<description><![CDATA[<p>Пылесборник Слон P-03 C-III Philips В упаковке 5 мешков + микрофильтр материал исполнения - фильтровальное волокно производство - Украина Данные мешки украинского производства являются аналогами оригинальных наборов: S-bag Classic Long Performance Philips FC8021/03, FC8022/04, FC8023/04 Electrolux E201S, E201B, 9001684589 Благодаря высокой проходимости воздуха (около 99,9) поддерживается постоянная мощность всасывания, и эффективность сбора намного выше, чем при работе со старыми бумажными пылесборниками. Подходят для большинства современных мешковых пылесосов Philips, Electrolux.</p>]]></description>
-<description_ua><![CDATA[<p>Пилозбірник Слон P-03 C-III Philips В упаковці 5 мішків + мікрофільтр матеріал виконання - фільтрувальне волокно виробництво - Україна Дані мішки українського виробництва є аналогами оригінальних наборів: S-bag Classic Long Performance Philips FC8021/03, FC8022/04, FC8023/04 Electrolux E201S, E201B, 9001684589 Завдяки високій прохідності повітря (близько 99,9) підтримується постійна потужність всмоктування, та ефективність збирання набагато вища, ніж при роботі зі старими паперовими пилозбірниками. Підходять для більшості сучасних мішкових пилососів Philips, Electrolux.</p>]]></description_ua>
-<param name="Тип">Мішок д/пилососа о/р м/в</param>
-<param name="Колір">Білий</param>
-<param name="Призначення">Для пилососа</param>
-<param name="Матеріал корпусу">Тканина</param>
-</offer>
 <offer id="HT30472" available="true">
 <stock_quantity>9</stock_quantity>
 <price>312.00</price>
@@ -86426,7 +86409,7 @@
 <param name="Призначення">Для пилососа</param>
 </offer>
 <offer id="HT30473" available="true">
-<stock_quantity>16</stock_quantity>
+<stock_quantity>15</stock_quantity>
 <price>312.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4626138</categoryId>
@@ -88421,35 +88404,16 @@
 <param name="Розмір">52.5 х 16.5 х 29 см</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
-<offer id="HT31350" available="true">
-<stock_quantity>1</stock_quantity>
-<price>576.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4672863</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012787_0_1613_72_0_1_IjSNtq.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000012787_kr-plennya-svch-atg-m450b-2.jpg</picture>
-<vendor>ATG</vendor>
-<article>M450B</article>
-<name>Кронштейн ATG M450B черный для СВЧ (M450B)</name>
-<name_ua>Кронштейн ATG M450B чорний для НВЧ (M450B)</name_ua>
-<description><![CDATA[<p>Кронштейны от компании выполнены из стали высокой прочности, что обеспечивает надежность и долговечность. Их черный цвет добавляет элегантности и современности любому интерьеру. Благодаря высокой нагрузке до 30 кг эти кронштейны отлично подходят для поддержки разнообразных предметов, от полок до кухонного оборудования. Упаковка включает в себя кронштейны с указанными габаритами упаковки 315 х 50 х 260 мм и массой 1,4 кг, что делает их легкими для транспортировки и монтажа.</p>]]></description>
-<description_ua><![CDATA[<p>Кронштейни від компанії виконані зі сталі високої міцності, що забезпечує надійність та довговічність. Їх чорний колір додає елегантності та сучасності будь-якому інтер'єру. Завдяки високому навантаженню до 30 кг, ці кронштейни відмінно підходять для підтримки різноманітних предметів, від полиць до кухонного обладнання. Упаковка включає в себе кронштейни із зазначеними габаритами упаковки 315 х 50 х 260 мм та масою 1,4 кг, що робить їх легкими для транспортування та монтажу.</p>]]></description_ua>
-<param name="Тип">Кронштейн</param>
-<param name="Колір">Чорний</param>
-<param name="Призначення">Для мікрохвильових печей</param>
-<param name="Встановлення">Настінний</param>
-<param name="Матеріал корпусу">Сталь</param>
-<param name="Вага">1,14 кг</param>
-<param name="Гарантія">60 міс</param>
-</offer>
 <offer id="HT31351" available="true">
 <stock_quantity>10</stock_quantity>
 <price>576.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4672863</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012788_413390686.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012788_413390692.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012788_413390704.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000012788_413390724.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000012788_503003705.jpg</picture>
 <vendor>ATG</vendor>
 <article>M450W</article>
 <name>Кронштейн ATG M450W белый для СВЧ (M450W)</name>
@@ -96233,6 +96197,8 @@
 <categoryId>4672863</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000154881.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000154882.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000154883.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000154884.jpg</picture>
 <vendor>ATG</vendor>
 <article>M450G</article>
 <name>Кронштейн ATG M450G серый для СВЧ (M450G)</name>
@@ -104006,7 +103972,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT35412" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>2608.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80153</categoryId>
@@ -110482,7 +110448,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT36087" available="true">
-<stock_quantity>8</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>5363.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80131</categoryId>
