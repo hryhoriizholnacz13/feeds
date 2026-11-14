@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Чернетка: не публікувати (власник 2026-11-11 — лише після «так» за звітом). Атрибути PIM, країна й габарити упаковки — порожні. -->
+<yml_catalog date="2026-11-12 20:00">
+<offers>
+<offer id="HT13129" available="true">
+<price>7286.00</price>
+<availability>in_stock</availability>
+<category code="1619">Бойлери</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000000850_79909902.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000000850_401173518.jpg</picture>
+<name lang="ua">Водонагрівач Artel ART-WH-2.0-80</name>
+<description lang="ua"><![CDATA[<p>Характеризується збалансованими технічними характеристиками, бойлер позиціонується виробником у доступному ціновому сегменті. Конкретно ця модифікація оснащена баком на 80 л і може регулярно забезпечувати гарячою водою сімейство з 2-4 осіб, які проживають у міській квартирі або приватному будиночку. Енергозберігальний корпус циліндричної форми перешкоджає тепловтратам, що загалом підвищує ККД установки. Бойлер Artel ART WH 80 в підвішеному положенні монтується на міцній цегляній стіні з таким розрахунком, щоб підведені знизу до маркованих штуцерів труби займали якомога менше корисної площі приміщення. Робочий бак захищений від надлишкового тиску і перегріву, а також шкідливих електрохімічних взаємодій періодично замінним анодом з активного магнію. В якості джерела тепла використовується 2-кВт ТЕН, а зручний терморегулятор з механічним управлінням стежить за відповідністю поточного режиму нагріву до заданої користувачем, забезпечуючи економну витрату електроенергії. Загалом весь об'єм води пристрій нагріває за дві години. Зазначимо також, що на ринку представлена молодша (з баком 50 л) і старша (з баком на 100 л) модифікації цього бойлера.</p>]]></description>
+<attribute_set code="1619">Бойлери</attribute_set>
+<param paramcode="brand" name="Бренд">Artel</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Узбекистан</param>
+<param paramcode="width" name="Ширина"><![CDATA[470]]></param>
+<param paramcode="height" name="Висота"><![CDATA[860]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[490]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[24200]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT13133" available="true">
+<price>9029.00</price>
+<availability>in_stock</availability>
+<category code="1619">Бойлери</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000002250_3353798195-750x750.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000002250_4330c8d071af45c93a862c49cb6df0f8-1000x1000.jpeg</picture>
+<name lang="ua">Водонагрівач Artel ARTDDRY WH 1.5 50 WHITE</name>
+<description lang="ua"><![CDATA[<p>Забезпечте себе гарячою водою Не знаєте як забезпечити свій будинок гарячою водою? Тоді вам варто звернути увагу на сучасний бойлер Artel Artdry WH 1.5 50. Апарат відрізняється високою надійністю і простим механічним керуванням. А сучасний стрілочний термометр точно відобразить температуру води. Ефективна робота нового Artel Artdry WH 1.5 50 Обсяг водонагрівача дорівнює 50 літрам. При цьому потужність бойлера рівна 1500 Вт. Бойлер не споживає величезну кількість електроенергії, тому ви можете бути спокійні за свій гаманець. Надійність Водонагрівач Artel Artdry WH 1.5 50 володіє надійним захистом від перегріву, а також захисним відключенням, завдяки чому значно менше схильний до поломок. Також варто звернути увагу на емалеве покриття бака, яке включає елементи сталі. Тепер він значно менше схильний до корозії і руйнувань. Зовнішні характеристики Зовнішній вигляд бойлера відрізняється лаконічністю і простотою. Апарат відмінно вписується в домашній інтер'єр і при цьому легко встановлюється. Сталевий корпус відрізняється високою надійністю, а невеликі розміри не займуть багато місця.</p>]]></description>
+<attribute_set code="1619">Бойлери</attribute_set>
+<param paramcode="brand" name="Бренд">Artel</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Узбекистан</param>
+<param paramcode="width" name="Ширина"><![CDATA[470]]></param>
+<param paramcode="height" name="Висота"><![CDATA[650]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[470]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[23650]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT13169" available="true">
+<price>6986.00</price>
+<availability>in_stock</availability>
+<category code="1619">Бойлери</category>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/fdce9540359e5c7e.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/d45f259b23c7a76b.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/9b1a98c64dec8d95.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/b4ecdee235955313.jpg</picture>
+<name lang="ua">Водонагрівач Midea ECO D80-15F6</name>
+<description lang="ua"><![CDATA[<p>Водонагрівач Midea D80-15F6 (W) мокрий тен Водонагрівач (бойлер) Media D80-15F6 (W) це електричний накопичувальний бойлер настінного монтажу з мокрим ТЕНом. Внутрішній бак виготовлений з листової сталі товщиною 2 мм, із застосуванням удосконаленої технології трирівневого захисту від корозії: 1 рівень - аргонно-киснева декарбюризація сталі, 2 рівень - нанесення мікропорошкового адгезійного шару, який забезпечує міцне зчеплення емалі і металу, 3 рівень - нанесення шару сапфірової емалі, що запікається при температурі 850°С. Застосування такої технології захисту у кілька разів збільшує термін служби бака. Переваги бойлера Мідея D80-15F6(W): висока надійність унікальна технологія захисту бака від корозії та вапняного нальоту ефективна теплоізоляція з пінополіуретану підвищеної щільності 34 кг/м³ емальований ТЕН (практично не схильний до осідання накипу) збільшений магнієвий анод для додаткового захисту від корозії захист від перегріву бака захист від ураження електричним струмом сучасний італійський дизайн.</p>]]></description>
+<attribute_set code="1619">Бойлери</attribute_set>
+<param paramcode="brand" name="Бренд">Midea</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Китай</param>
+<param paramcode="width" name="Ширина"><![CDATA[405]]></param>
+<param paramcode="height" name="Висота"><![CDATA[1050]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[405]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[29150]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT15068" available="true">
+<price>8708.00</price>
+<availability>in_stock</availability>
+<category code="77">Пральні машини</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_90ac5365-55b4-11e8-b68c-8c89a59571bd.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000000835_12_4000.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000000835_64064h-1000x1000.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000000835_64064i.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000000835_64064j.jpg</picture>
+<name lang="ua">Пральна машина Artel TE 60 L GREY</name>
+<description lang="ua"><![CDATA[<p>Пральна машина напівавтомат з вертикальним завантаженням Artel ART-TE-60L розрахована на завантаження 6 кілограмів білизни, має два бака і функцію віджиму. Вертикальне завантаження білизни, передбачена у цій моделі машини напіватомату, вважається більш безпечною в плані можливих протікань. Вибір режиму і часу прання напівавтоматичної машини здійснюється поворотом ручки на панелі управління. Машинка має невелику вагу, що дозволить вам її легко переносити і перевозити. Пральна машина Artel ART-TE-60L завдяки своїй оригінальній конструкції дозволяє повністю контролювати процес прання. Мінімальні вимоги до прання у цій пральній машині дозволяють скоротити витрати води і електрики. Пральна машина оснащена таймером, що дозволить легко відстежити час для віджиму і прання. Помпа допоможе злити воду після прання. Максимальний час прання білизни - 15 хвилин. Максимальний час віджиму білизни - 5 хвилин.</p>]]></description>
+<attribute_set code="77">Пральні машини</attribute_set>
+<param paramcode="brand" name="Бренд">Artel</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Узбекистан</param>
+<param paramcode="width" name="Ширина"><![CDATA[760]]></param>
+<param paramcode="height" name="Висота"><![CDATA[870]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[460]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[20900]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT19828" available="true">
+<price>18208.00</price>
+<availability>in_stock</availability>
+<category code="1619">Бойлери</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000010606_-18003.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000010606_-18004.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000010606_-18005.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000010606_-18006.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000010606_-18002.jpg</picture>
+<name lang="ua">Водонагрівач Midea PRIME плаский сухий тен D50-20ED6</name>
+<description lang="ua"><![CDATA[<ul><li>Водонагрівач Midea PRIME D50-20ED6(D) 50л (з WI-FI) Компанія Midea заснована в 1968 році і на сьогодні це більш ніж 10 брендів побутової техніки, що належать провідній міжнародній компанії у сфері високих технологій Midea Group.</li><li>Midea PRIME D50-20ED6(D)- це водонагрівач з подвійним резервуаром, в кожному з яких є свій сухий тен, завдяки цій структурі він може поміститися в будь-якому тісному просторі.</li><li>Даний водонагрівач можна встановити як вертикально, так і горизонтально.</li><li>Завдяки двобаковій системі з двома нагрівальними елементами час очікування нагріву значно зменшиться.</li><li>Режим нагрівання можна перемикати між одним та двома баками.</li><li>Металеву панель управління можна повертати відповідно до напрямку установки бака, щоб вам було зручно та комфортно керувати водонагрівачем.</li></ul><ul><li>Секрет цієї унікальної гнучкості криється в симетричній квадратній формі панелі.</li><li>Інноваційний шар титан-сапфірової емалі сприяє підвищенню міцності бака для води, ефективно протистоїть корозії та іржі, знижуючи накопичення накипу.</li></ul><p>У бойлера Midea PRIME D50-20ED6(D) присутня 3-х шарова технологія виготовлення баку: - 1 шар - Сталева пластина високого рівня обезвуглецювання- 2 шар - Мікропорошковий високо адгезійний шар- 3 шар - Запечений при високій температурі (850°C)Колби під ТЕНи мають покриттям Ti+ Sapphir, які мають високу стійкість до корозії та накипу, забезпечуючи найкращі показники нагрівання.</p>]]></description>
+<attribute_set code="1619">Бойлери</attribute_set>
+<param paramcode="brand" name="Бренд">Midea</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Китай</param>
+<param paramcode="width" name="Ширина"><![CDATA[490]]></param>
+<param paramcode="height" name="Висота"><![CDATA[880]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[270]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[30800]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT23624" available="true">
+<price>6843.00</price>
+<availability>in_stock</availability>
+<category code="1619">Бойлери</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000001451_401168875.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000001451_401168889.jpg</picture>
+<name lang="ua">Водонагрівач Artel ART-WH-1.5-50 S WHITE</name>
+<description lang="ua"><![CDATA[<p>Електричний накопичувальний водонагрівач ARTEL ART-WH-1.5-50 slim - ваше надійне та ефективне джерело гарячої води в будь-який час. З місткістю 50 літрів цей бойлер від ARTEL є ідеальним рішенням для забезпечення вашого будинку комфортною гарячою водою. Його компактний дизайн slim дозволяє встановити його навіть в обмежених просторах, звільняючи місце для зручного життя. ARTEL ART-WH-1.5-50 slim забезпечує швидке та рівномірне нагрівання води, гарантуючи вам стабільне та високоякісне обслуговування. Цей водонагрівач відрізняється високою енергоефективністю, що допомагає скоротити витрати на електроенергію, роблячи його не лише практичним, а й економічно вигідним варіантом для вашого будинку. Бойлер ARTEL ART-WH-1.5-50 slim - це не просто водонагрівач, це надійне та довговічне джерело гарячої води, яке зробить ваше повсякденне життя комфортнішим та зручнішим.</p>]]></description>
+<attribute_set code="1619">Бойлери</attribute_set>
+<param paramcode="brand" name="Бренд">Artel</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Узбекистан</param>
+<param paramcode="width" name="Ширина"><![CDATA[370]]></param>
+<param paramcode="height" name="Висота"><![CDATA[870]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[395]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[19800]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT23625" available="true">
+<price>6279.00</price>
+<availability>in_stock</availability>
+<category code="1619">Бойлери</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000001568_401166368.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000001568_401166370.jpg</picture>
+<name lang="ua">Водонагрівач Artel ART-WH-1.5-50 WHITE</name>
+<description lang="ua"><![CDATA[<p>Електричний водонагрівач ARTEL ART-WH-1.5-50 призначений для вертикальної установки. У корпусі циліндричної форми розміщується сталевий бак з емалевим покриттям та відкритим мідним ТЕНом. Має винесений назовні регулятор температури та зовнішній механічний термометр. ARTEL ART-WH-1.5-50 забезпечить Вас теплою водою цілодобово. Навіть у разі відключення електроенергії якісна теплоізоляція зберігає гарячу воду протягом тривалого часу. Цього обсягу цілком достатньо для сім'ї із 2 осіб.</p>]]></description>
+<attribute_set code="1619">Бойлери</attribute_set>
+<param paramcode="brand" name="Бренд">Artel</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Узбекистан</param>
+<param paramcode="width" name="Ширина"><![CDATA[470]]></param>
+<param paramcode="height" name="Висота"><![CDATA[630]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[490]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[17600]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT23626" available="true">
+<price>9379.00</price>
+<availability>in_stock</availability>
+<category code="1619">Бойлери</category>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/52e85ba02b84dc24.jpg</picture>
+<name lang="ua">Водонагрівач Artel ART-WH-2.0-120 WHITE</name>
+<description lang="ua"><![CDATA[<p>Накопичувальний водонагрівач Artel ART-WH-2.0-120 WHITE забезпечить гарячою водою навіть найбільшу родину. Модель має бак на 120 літрів. При цьому час нагрівання повного бака до температури 40 градусів становить 168 хвилин. Потужність приладу складає 2000 Вт. Водонагрівач оснащений надійними функціями захисту і абсолютно безпечний у використанні. Внутрішнє покриття бака виконано з емальованої сталі.</p>]]></description>
+<attribute_set code="1619">Бойлери</attribute_set>
+<param paramcode="brand" name="Бренд">Artel</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Узбекистан</param>
+<param paramcode="width" name="Ширина"><![CDATA[470]]></param>
+<param paramcode="height" name="Висота"><![CDATA[1180]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[470]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[39600]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT25625" available="true">
+<price>12886.00</price>
+<availability>in_stock</availability>
+<category code="81">Кухонні плити</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_cb4bedcb-e5ea-11ea-b3da-8c89a59571bd.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_cb4bedcb-e5ea-11ea-b3da-8c89a59571bd.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_cb4bedcb-e5ea-11ea-b3da-8c89a59571bd.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000003959_OTTIMA-G%20WHITE.jpg</picture>
+<name lang="ua">Плита газова Artel OTTIMA-G WHITE</name>
+<description lang="ua"><![CDATA[<p>Газова плита ARTEL OTTIMA-G WHITE з газ-контролем поєднує в собі стильний дизайн, зручність у використанні та високу ефективність. Її класичний білий колір чудово впишеться в інтер’єр будь-якої кухні, надаючи їй свіжого та сучасного вигляду. Плита оснащена чотирма газовими конфорками різної потужності, що дозволяє зручно приготувати страви різної складності. Передня ліва і права конфорки мають потужність 2 кВт і 2,4 кВт відповідно, що забезпечує швидкий нагрів та зручність у використанні для приготування різноманітних страв. Задні конфорки потужністю 2 кВт і 1 кВт дозволяють зберегти енергозбереження, одночасно зберігаючи достатній рівень ефективності для повсякденного використання. Плита оснащена газовою духовкою об'ємом 65 літрів, що надає можливість готувати більші порції або кілька страв одночасно. Внутрішнє покриття духовки виконано з емалі легкого очищення, що значно спрощує догляд за плитою і дозволяє зберігати її в чистоті без особливих зусиль. Знімне скло дверцят духовки додає додаткову зручність при чищенні, що є важливим аспектом для довговічності техніки. Для безпеки користувачів плита оснащена системою газ-контролю, що автоматично припиняє подачу газу у разі загасання полум'я. Це дозволяє уникнути небезпечних ситуацій і забезпечує спокій при використанні приладу. Поверхня плити виконана з емальованої сталі, що гарантує її довговічність і стійкість до механічних пошкоджень.</p>]]></description>
+<attribute_set code="81">Кухонні плити</attribute_set>
+<param paramcode="brand" name="Бренд">Artel</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Узбекистан</param>
+<param paramcode="width" name="Ширина"><![CDATA[620]]></param>
+<param paramcode="height" name="Висота"><![CDATA[870]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[620]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[45650]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT26423" available="true">
+<price>8279.00</price>
+<availability>in_stock</availability>
+<category code="77">Пральні машини</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000001119_10958766.jpg</picture>
+<name lang="ua">Пральна машина Artel TE 60 BLUE</name>
+<description lang="ua"><![CDATA[<p>Пральна машина напівавтомат ARTEL TE 60 BLUE відрізняється сучасним дизайном і високими вимогами до безпеки. Вони виготовляються з ударостійкого пластику, який не схильний до корозії, забезпечені блокуванням бака віджимання, запобігаючи можливим травми. Пральна машина напівавтомат ARTEL TE 60 BLUE являє собою надійний і функціональний пристрій для прання білизни. Вона оснащена великою ємністю бака на 6 кг, що дає змогу прати великий об'єм одягу за один цикл. Пральна машина напівавтомат ARTEL TE 60 BLUE оснащена надійним і міцним мотором, який забезпечує тривалий термін служби і безперебійну роботу. ARTEL TE 60 BLUE також має таймер прання: 15 хв і таймер центрифуги: 5 хв, що робить її більш зручною у використанні. Завдяки своєму простому та інтуїтивно зрозумілому інтерфейсу керування, машина легко налаштовується та оперується навіть для недосвідчених користувачів. Пральна машина напівавтомат ARTEL TE 60 BLUE пропонує надійне та ефективне прання, здатне задовольнити потреби більшості споживачів.</p><ul><li>Напівавтоматичні пральні машини ідеально підходять для місць, де немає гарячого водопостачання та центрального водопроводу.</li><li>Для прання підійде практично будь-який пральний порошок, навіть найпростіший і найдоступніший за ціною.</li><li>У 6 - 10 разів економічніше витрачають електроенергію в розрахунку на одне середнє прання.</li></ul>]]></description>
+<attribute_set code="77">Пральні машини</attribute_set>
+<param paramcode="brand" name="Бренд">Artel</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Узбекистан</param>
+<param paramcode="width" name="Ширина"><![CDATA[760]]></param>
+<param paramcode="height" name="Висота"><![CDATA[870]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[460]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[20900]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT29535" available="true">
+<price>14393.00</price>
+<availability>in_stock</availability>
+<category code="81">Кухонні плити</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000010969_P258735_0001-700x700.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000010969_7251265_3.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000010969_P258735_0002-700x700.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000010969_P258735_0003-700x700.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000010969_P258735_0004-700x700.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000010969_326246249.jpg</picture>
+<name lang="ua">Плита комбінована CASTLE CPEG-50W</name>
+<description lang="ua"><![CDATA[<p>Castle CPEG-50W - це стильна комбінована плита, виготовлена під брендом Castle і розроблена в Туреччині. Завдяки своїм особливостям і функціям, вона стане незамінним помічником у вашій кухні. Ця модель плити пропонує комбінацію електричної духовки і поверхні з газовими та електричними зонами нагріву. Такий різноманітний підхід до приготування дозволяє вам обирати найбільш зручний спосіб готування для кожного конкретного випадку. Загальний об'єм електричної духовки становить 58 літрів, що дозволить вам готувати більше страв одночасно або випікати більш об'ємні страви. Що стосується додаткових характеристик, плита має електропідпал для спрощення процесу запалювання, а також газ-контроль, що забезпечує високий рівень безпеки під час використання. Змішана поверхня містить 3 газові конфорки і 1 електричну, надаючи вам різноманітні опції приготування.</p><ul><li>Чотири поворотних перемикачі розташовані на поверхні і дозволяють зручно регулювати рівень нагріву.</li><li>Дверцята мають подвійне скло, а духовка оснащена підсвічуванням, що дозволяють стежити за процесом готування без необхідності відчиняти дверцята і втрачати тепло.</li></ul><p>Гарантійний термін на дану модель становить 24 місяці, що свідчить про високу якість та надійність плити. Усі ці функції та характеристики доповнюються стильним білим кольором, що робить цю плиту не лише практичним, але і естетично привабливим елементом вашої кухні.</p>]]></description>
+<attribute_set code="81">Кухонні плити</attribute_set>
+<param paramcode="brand" name="Бренд">CASTLE</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Туреччина</param>
+<param paramcode="width" name="Ширина"><![CDATA[520]]></param>
+<param paramcode="height" name="Висота"><![CDATA[885]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[620]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[33990]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT29536" available="true">
+<price>13986.00</price>
+<availability>in_stock</availability>
+<category code="81">Кухонні плити</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000010970_plita-castle-cpg-50b-3-768x768.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000010970_plita-castle-cpg-50b-4-768x768.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000010970_plita-castle-cpg-50b-5-768x768.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_00010970_7251267_5.jpeg</picture>
+<name lang="ua">Плита комбінована CASTLE CPG-50B</name>
+<description lang="ua"><![CDATA[<p>Плита комбінована Castle CPG-50B - це багатофункціональна плита з поворотними перемикачами, яка пропонує зручність та ефективність при готуванні. Вона має 4 газові конфорки з автопідпалом, що дозволяє легко і швидко розпалити вогонь.</p><ul><li>У комплекті до плити входить металева емальована решітка, яка забезпечує надійну підтримку посуду під час готування.</li><li>Ця плита оснащена електричною духовкою з подвійним склом, що забезпечує кращу ізоляцію і збереження тепла.</li></ul><ul><li>Додатковою перевагою є конвекційна функція, яка розподіляє тепло рівномірно всередині духовки, забезпечуючи рівномірне приготування їжі.</li><li>Плита також має підсвітку, що дозволяє зручно спостерігати за процесом готування.</li></ul><ul><li>Два тени дозволяють контролювати і налаштовувати температуру в духовці залежно від ваших потреб.</li><li>Металева кришка плити служить як захисний елемент, додаючи стиль і функціональність.</li></ul><ul><li>Розміри плити становлять 50x60x86.5 см, що робить її зручною і компактною для встановлення в кухні.</li><li>Castle CPG-50B - це надійна та функціональна плита, яка допоможе вам насолодитися приготуванням їжі з комфортом та задоволенням.</li></ul>]]></description>
+<attribute_set code="81">Кухонні плити</attribute_set>
+<param paramcode="brand" name="Бренд">CASTLE</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Туреччина</param>
+<param paramcode="width" name="Ширина"><![CDATA[520]]></param>
+<param paramcode="height" name="Висота"><![CDATA[885]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[620]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[33990]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT29753" available="true">
+<price>17650.00</price>
+<availability>in_stock</availability>
+<category code="81">Кухонні плити</category>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/afb29fd83dbc2c05.jpg</picture>
+<name lang="ua">Плита комбінована CASTLE CPG-60H</name>
+<description lang="ua"><![CDATA[<p>Плита комбінована Castle CPG-60H - це функціональний і стильний кухонний прилад, який пропонує широкий спектр зручних функцій для готування. Завдяки своїй компактній конструкції розміром 60x60x86.5 см, вона ідеально підходить для будь-якої кухні. Ця плита оснащена поворотними перемикачами, які забезпечують легку і точну настройку параметрів готування. За допомогою цих перемикачів можна контролювати час і температуру приготування різних страв. Плита має чотири газові конфорки, що дозволяють одночасно готувати на кількох джерелах. Кожна конфорка має інтегрований автопідпал, що спрощує процес запалювання. Решітка плити виготовлена з металу, покритого емаллю, що робить її стійкою до впливу високих температур і легкою у догляді. Ця решітка надійно утримує посуд, запобігаючи його зсуву під час готування. Електрична духовка з подвійним склом є одним із ключових елементів цієї плити. Вона пропонує конвекційне випікання, що дозволяє рівномірно розподілити тепло всередині духовки і отримати ідеально приготовлені страви. Додатково, вона має підсвітку, яка дозволяє спостерігати за процесом готування. Плита також оснащена двома тенами, які забезпечують швидке нагрівання і оптимальну температуру приготування. Це дозволяє ефективно готувати різноманітні страви з різними вимогами до температури. Нарешті, плита має металеву кришку, яка може використовуватись як робоча поверхня під час не використання конфорок.</p>]]></description>
+<attribute_set code="81">Кухонні плити</attribute_set>
+<param paramcode="brand" name="Бренд">CASTLE</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Туреччина</param>
+<param paramcode="width" name="Ширина"><![CDATA[620]]></param>
+<param paramcode="height" name="Висота"><![CDATA[885]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[620]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[39050]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT29754" available="true">
+<price>15550.00</price>
+<availability>in_stock</availability>
+<category code="81">Кухонні плити</category>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/15bcb69785a9a075.jpg</picture>
+<name lang="ua">Плита комбінована CASTLE CPG-60W</name>
+<description lang="ua"><![CDATA[<p>Плита комбінована Castle CPG-60W - це функціональний і стильний кухонний прилад, який пропонує широкий спектр зручних функцій для готування. Завдяки своїй компактній конструкції розміром 60x60x86.5 см, вона ідеально підходить для будь-якої кухні. Ця плита оснащена поворотними перемикачами, які забезпечують легку і точну настройку параметрів готування. За допомогою цих перемикачів можна контролювати час і температуру приготування різних страв. Плита має чотири газові конфорки, що дозволяють одночасно готувати на кількох джерелах. Кожна конфорка має інтегрований автопідпал, що спрощує процес запалювання. Решітка плити виготовлена з металу, покритого емаллю, що робить її стійкою до впливу високих температур і легкою у догляді. Ця решітка надійно утримує посуд, запобігаючи його зсуву під час готування. Електрична духовка з подвійним склом є одним із ключових елементів цієї плити. Вона пропонує конвекційне випікання, що дозволяє рівномірно розподілити тепло всередині духовки і отримати ідеально приготовлені страви. Додатково, вона має підсвітку, яка дозволяє спостерігати за процесом готування. Плита також оснащена двома тенами, які забезпечують швидке нагрівання і оптимальну температуру приготування. Це дозволяє ефективно готувати різноманітні страви з різними вимогами до температури. Нарешті, плита має металеву кришку, яка може використовуватись як робоча поверхня під час не використання конфорок.</p>]]></description>
+<attribute_set code="81">Кухонні плити</attribute_set>
+<param paramcode="brand" name="Бренд">CASTLE</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Туреччина</param>
+<param paramcode="width" name="Ширина"><![CDATA[620]]></param>
+<param paramcode="height" name="Висота"><![CDATA[885]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[620]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[39050]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT29826" available="true">
+<price>14036.00</price>
+<availability>in_stock</availability>
+<category code="81">Кухонні плити</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011261_7116281.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011261_7116281.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000011261_1733480484836.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011261_7116281_1.jpg</picture>
+<name lang="ua">Плита комбінована CASTLE CPG-50W</name>
+<description lang="ua"><![CDATA[<p>Castle CPG-50W - це газова плита з електричною духовкою від виробника Castle. Плита оснащена чотирма газовими конфорками, кожна з яких має окремий регулятор потужності, а також пілотний запал. Духовка має об'єм 58 літрів і працює від мережі змінного струму 220 В. Плита виконана у білому кольорі з нержавіючої сталі. Плита оснащена системою захисту від витоку газу, що забезпечує безпеку під час експлуатації. Castle CPG-50W має габарити 85 х 50 х 60 см (ВхШхГ) і важить близько 30 кг. Ця плита стане чудовим вибором для кухонь невеликих квартир та будинків, де важливо зекономити місце та не переплачувати за зайві функції.</p>]]></description>
+<attribute_set code="81">Кухонні плити</attribute_set>
+<param paramcode="brand" name="Бренд">CASTLE</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Туреччина</param>
+<param paramcode="width" name="Ширина"><![CDATA[520]]></param>
+<param paramcode="height" name="Висота"><![CDATA[885]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[620]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[33990]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT30209" available="true">
+<price>15958.00</price>
+<availability>in_stock</availability>
+<category code="81">Кухонні плити</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011644_356787107.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011644_417852146.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011644_9147873.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000011644_9147874.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000011644_9147875.jpg</picture>
+<name lang="ua">Плита газова CASTLE CG-60H</name>
+<description lang="ua"><![CDATA[<p>CASTLE CG-60H - це газова плита з газовою духовкою, яка поєднує в собі функціональність та надійність для приготування їжі. CASTLE CG-60H має сучасний та стильний дизайн, що доповнить будь-який кухонний інтер'єр. Вона може бути встановлена в невеликих кухнях або квартирах з обмеженим простором. Плита оснащена чотирма газовими конфорками, що дозволяють готувати декілька страв одночасно. Конфорки мають регулятори потужності, які дозволяють зручно налаштовувати тепловий режим для кожної конфорки окремо. CASTLE CG-60H має газову духовку, яка забезпечує можливість приготування різних страв, включаючи печеню, пироги, піци та інші. Газова духовка пропонує ефективне та рівномірне поширення тепла для оптимального приготування. CASTLE CG-CG-60H оснащена системою захисту від витоку газу, що забезпечує безпеку під час використання плити. Газова духовка CASTLE CG-60H оснащена регулятором температури, що дозволяє точно контролювати тепловий режим під час приготування. Це дозволяє досягати оптимальних результатів готування різних страв. Духовка має вбудовану підсвітку, яка дозволяє зручно спостерігати за процесом готування. Ви зможете чітко бачити страви всередині духовки, що допоможе уникнути підгоряння або недоготування їжі. CASTLE відома своєю якістю та надійністю виробів. Плита CG-60H виготовлена з високоякісних матеріалів, що забезпечує довговічність та стійкість під час щоденного використання.</p>]]></description>
+<attribute_set code="81">Кухонні плити</attribute_set>
+<param paramcode="brand" name="Бренд">CASTLE</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Туреччина</param>
+<param paramcode="width" name="Ширина"><![CDATA[620]]></param>
+<param paramcode="height" name="Висота"><![CDATA[885]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[620]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[39050]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT32922" available="true">
+<price>44400.00</price>
+<availability>in_stock</availability>
+<category code="78">Холодильники</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014359_57_4000.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000014359_1778652_zoom.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000014359_1778653_zoom.jpg</picture>
+<name lang="ua">Холодильник для вина Haier HWS247FDU1</name>
+<description lang="ua"><![CDATA[<p>Найкраща якість зберігання досконалого смаку напоїв Вміщує до 247 пляшок вина в холодильнику Система Natural Airflow. Ідеальний рівень вологості завдяки запатентованій технології Дерев'яні полиці. Елегантні дерев'яні полиці чудово зменшують вібрації Антивібраційна система. Вібрація та шум зведені до мінімуму Мобільний застосунок hOn. Дистанційне керування установкою та моніторинг його роботи Співпраця з Vivino. Співпраця з найбільшим у світі винним порталом Скануйте своє вино. Сфотографуйте етикетку на пляшці та отримайте цінну інформацію. Запатентована технологія для відмінного рівня вологості Зберігати улюблене вино в умовах, схожих на справжній виноградник? Так, це можливо. Завдяки новітній запатентованій технології Haier Natural Airflow System, антигравітаційній системі повітряних потоків. Точні датчики гарантують, що вентилятор і компресор працюють разом, щоб підтримувати ідеальний рівень вологості 50-70%, відтворюючи умови, які зустрічаються на професійних виноградниках. Температура вина завжди під контролем Завдяки сенсорній панелі керування ви забезпечите ідеальні умови зберігання пляшок у холодильнику - незалежно від зовнішнього середовища та температури в приміщенні. Цифровий дисплей, що легко читається, гарантує повний контроль над ситуацією. Ефективний захист від ультрафіолету Захистіть свої улюблені вина від сонячних променів, помістивши їх у холодильник, оснащений антиультрафіолетовим фільтром.</p>]]></description>
+<attribute_set code="78">Холодильники</attribute_set>
+<param paramcode="brand" name="Бренд">Haier</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Китай</param>
+<param paramcode="width" name="Ширина"><![CDATA[615]]></param>
+<param paramcode="height" name="Висота"><![CDATA[1920]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[730]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[81620]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT32975" available="true">
+<price>22000.00</price>
+<availability>in_stock</availability>
+<category code="82">Духові шафи</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014434_28_33703811.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000014434_28_33703811.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000014434_28_33703811.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000014434_28_33703811.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000014434_28_33703811.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000014434_28_33703811.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000014434_28_33703811.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/8_000014434_28_33703811.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/9_000014434_28_33703811.jpg</picture>
+<name lang="ua">Духова шафа Haier H6 ID25G3YTB</name>
+<description lang="ua"><![CDATA[<p>ID Серії 2 ID Серія 2 — це вічний і звичний дизайн, виготовлений із матеріалів, які справді довговічні. Мінімалістичний стиль ідеально впишеться в будь-яке домашнє середовище. Усі печі серії ID створені, щоб підкреслити вашу унікальну кулінарну ідентичність, справжній помічник, який розкриває ваш потенціал на кухні. Це стало можливим завдяки Bionicook, поєднанню передових технологій і глибокого розуміння людських особливостей. Відчуйте Bionic Intelligence, потужність розширеної інтеграції штучного інтелекту в наших печах ID Серії 2 у поєднанні з нескінченними можливостями, які пропонує мобільний застосунок hOn. Це дає вам змогу досліджувати широкий спектр нових рецептів, які можна легко фільтрувати та зберігати відповідно до ваших особистих смаків і дієтичних вимог. Bionic intelligence: світ інновацій у вас під рукою Уявіть собі нескінченні можливості для персоналізації ваших страв: завдяки вбудованому штучному інтелекту та потужності мобільного застосунку hOn - це справжня мрія. Тому що у вас є понад 300 рецептів, вибраних шеф-кухарем, із цінними порадами та повним дистанційним керуванням духовкою. Справді інтерактивний досвід Завдяки новому графічному інтерфейсу користувача керування приготуванням їжі стає ще більш інтуїтивно зрозумілим: РК-екран розділений на три секції та призначений для найпростішого керування функціями, температурою та часом приготування.</p>]]></description>
+<attribute_set code="82">Духові шафи</attribute_set>
+<param paramcode="brand" name="Бренд">Haier</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Туреччина</param>
+<param paramcode="width" name="Ширина"><![CDATA[615]]></param>
+<param paramcode="height" name="Висота"><![CDATA[615]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[588]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[40700]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT33012" available="true">
+<price>9608.00</price>
+<availability>in_stock</availability>
+<category code="1619">Бойлери</category>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/5123f183d92aa047.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/6482fec9bb9f28a4.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/0ffb47f2a8a3e8b6.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/e7f677414c9da01d.jpg</picture>
+<name lang="ua">Водонагрівач WHP Jack 100 сухий тен</name>
+<description lang="ua"><![CDATA[<p>Водонагрівач WHP Jack 100 з сухим ТЕНом — це надійний і ефективний пристрій для нагріву води, що відрізняється високою потужністю та продуманою конструкцією. Модульний накопичувальний водонагрівач має об'єм 100 літрів, що дозволяє забезпечити гарячою водою невеликі та середні за розмірами сім'ї. Завдяки циліндричній формі бака, він зручний у розміщенні та займає мінімум простору. Водонагрівач оснащений двома потужними ТЕНами загальною потужністю 2000 Вт, що дозволяє швидко нагрівати воду навіть у холодну пору року. Сухий ТЕН забезпечує високий рівень ефективності, адже він не контактує безпосередньо з водою, що збільшує його термін служби та знижує ймовірність утворення накипу. Це також спрощує обслуговування пристрою. Керування термостатом у водонагрівачі WHP Jack 100 здійснюється механічним способом, що дозволяє користувачеві просто та інтуїтивно регулювати температуру нагріву води до максимальної позначки 75°C. Для зручності підключення труб водонагрівач має стандартне підключення знизу. Бак водонагрівача виготовлений із високоякісної сталі, що забезпечує довговічність та надійність. Внутрішнє покриття бака — емаль, яка гарантує додатковий захист від корозії і збільшує термін служби приладу. Для додаткового захисту від накипу та корозії в пристрої передбачений магнієвий анод. Час первинного нагріву води до максимальної температури складає 3 години 40 хвилин, що робить цей водонагрівач ідеальним для повсякденного використання в домашніх умовах.</p>]]></description>
+<attribute_set code="1619">Бойлери</attribute_set>
+<param paramcode="brand" name="Бренд">WHP</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Китай</param>
+<param paramcode="width" name="Ширина"><![CDATA[481]]></param>
+<param paramcode="height" name="Висота"><![CDATA[949]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[481]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[24530]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT33013" available="true">
+<price>8750.00</price>
+<availability>in_stock</availability>
+<category code="1619">Бойлери</category>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/833a20be4b223145.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/5922896638ea8af2.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/d4b0c3dc7d150413.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/39669941ff863c81.jpg</picture>
+<name lang="ua">Водонагрівач WHP Jack 80 сухий тен</name>
+<description lang="ua"><![CDATA[<p>Водонагрівач WHP Jack 80 з сухим ТЕНом – це надійний і ефективний електричний бойлер, який ідеально підходить для помешкань з кількістю користувачів до 3 осіб. Завдяки номінальному об'єму 80 літрів, він забезпечує комфортне постачання гарячої води в домогосподарствах з середніми потребами у водопостачанні (70-99 л). Бойлер має циліндричну форму, що дозволяє ефективно використовувати простір, а також легко монтується на стіну завдяки вертикальній установці. Підключення води здійснюється знизу через стандартний діаметр 1/2", що робить процес монтажу зручним та швидким. Однією з основних особливостей WHP Jack 80 є сухий ТЕН потужністю 2000 Вт, що забезпечує швидке нагрівання води. Час нагріву води до максимальної температури 75 °C становить близько 170 хвилин, що робить його чудовим варіантом для тих, хто цінує швидкість та енергоефективність. Бойлер оснащений двома ТЕНами, що покращує рівномірність нагріву і продовжує термін служби пристрою. Для додаткової безпеки WHP Jack 80 має кілька захисних функцій: захист від надлишкового тиску, захист від перегріву та індикатор роботи, що дозволяє зручно контролювати стан пристрою. Механічне управління та зовнішній регулятор температури дають можливість точно налаштувати бажану температуру води відповідно до потреб користувача. Корпус водонагрівача виконаний з міцної сталі з поліуретановою теплоізоляцією, що забезпечує високий рівень енергоефективності та довговічності пристрою.</p>]]></description>
+<attribute_set code="1619">Бойлери</attribute_set>
+<param paramcode="brand" name="Бренд">WHP</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Китай</param>
+<param paramcode="width" name="Ширина"><![CDATA[481]]></param>
+<param paramcode="height" name="Висота"><![CDATA[781]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[481]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[20350]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT33141" available="true">
+<price>9415.00</price>
+<availability>in_stock</availability>
+<category code="77">Пральні машини</category>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/aaff21286cd5f8db.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/59a34e4321facae8.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/354386b546a55687.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/e3505f0e30862042.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/8aee2163bb2d4c15.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/e76680707e7da7f4.jpg</picture>
+<name lang="ua">Пральна машина Artel TG 70 FP Water 01</name>
+<description lang="ua"><![CDATA[<p>Напівавтоматична пральна машина ARTEL TG-70FP Water 01 – ідеальне поєднання надійності, функціональності та сучасного дизайну для спрощення вашого повсякденного життя. З цією пральною машиною ви отримуєте не тільки ефективне прання, але й можливість віджиму, що робить процес догляду за вашим одягом ще зручнішим. Вбудована помпа для відкачування води забезпечує легкість в експлуатації та економію часу. Пральна машина ARTEL TG-70FP Water 01 створена з урахуванням потреб сучасних користувачів та чудово підійде вам, якщо відсутні центральний водопровід або каналізація. Простота використання досягається завдяки простому управлінню, а стильний дизайн цієї моделі додає сучасності вашому простору для прання. ARTEL TG-70FP Water 01 – це не просто пральна машина, це інноваційне рішення для вашого будинку, де зручність у поєднанні з ефективністю. Дозвольте своєму одязі зустріти новий рівень чистоти та свіжості.</p>]]></description>
+<attribute_set code="77">Пральні машини</attribute_set>
+<param paramcode="brand" name="Бренд">Artel</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Узбекистан</param>
+<param paramcode="width" name="Ширина"><![CDATA[755]]></param>
+<param paramcode="height" name="Висота"><![CDATA[900]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[455]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[22550]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT33202" available="true">
+<price>12900.00</price>
+<availability>in_stock</availability>
+<category code="81">Кухонні плити</category>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/9bc2899f66771ef8.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/998d9bf2b51c3da0.jpg</picture>
+<name lang="ua">Плита газова CASTLE CG-60G без кришки</name>
+<description lang="ua"><![CDATA[<p>Газова плита Castle CG-60G – це сучасне та надійне кухонне обладнання, яке стане незамінним помічником у вашій кухні. Виготовлена компанією Castle, яка зарекомендувала себе як виробник високоякісної побутової техніки, ця плита поєднує в собі зручність, ефективність і стильний дизайн, який органічно впишеться в будь-який інтер'єр. Плита оснащена кількома газовими конфорками, кожна з яких має регулятор потужності. Це дозволяє точно налаштувати інтенсивність вогню, забезпечуючи оптимальні умови для приготування страв на різних рівнях температури. Завдяки такій функціональності, ви зможете готувати як ніжні соуси, так і смачні страви, що потребують високої температури. Газова духовка дає змогу готувати різноманітні страви з комфортом і точним контролем. Вбудований терморегулятор дозволяє підтримувати постійну температуру, що забезпечує рівномірний прогрів і ідеальні результати при запіканні та випічці. Подвійне скло у дверцятах духовки дає змогу спостерігати за процесом готування, не відкриваючи дверцята і не втрачаючи тепло. Дизайн плити Castle CG-60G відзначається ергономічністю та елегантністю. Компактні розміри і стильний вигляд дозволяють легко інтегрувати цю плиту в будь-який інтер'єр кухні, надаючи їй сучасного вигляду без шкоди для функціональності.</p>]]></description>
+<attribute_set code="81">Кухонні плити</attribute_set>
+<param paramcode="brand" name="Бренд">CASTLE</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Туреччина</param>
+<param paramcode="width" name="Ширина"><![CDATA[620]]></param>
+<param paramcode="height" name="Висота"><![CDATA[885]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[620]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[39050]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT33282" available="true">
+<price>7922.00</price>
+<availability>in_stock</availability>
+<category code="1619">Бойлери</category>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/ba758e09f8fff11e.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/ef29da92f2a661cb.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/3438cdd568199e53.jpg</picture>
+<name lang="ua">Водонагрівач WHP Jack 50 сухий тен</name>
+<description lang="ua"><![CDATA[<p>Водонагрівач WHP Jack 50 з сухим ТЕНом поєднує сучасний дизайн, високу якість та передові технології, що робить його ідеальним вибором для використання в умовах жорсткої води. Цей пристрій оснащений двома нагрівальними елементами, прихованими в емальованих трубках, що забезпечує ефективне нагрівання води без прямого контакту нагрівальних елементів з водою. Така конструкція значно підвищує площу нагріву в порівнянні з класичними мідними елементами, що сприяє більш рівномірному і плавному нагріванню води. Однією з головних переваг водонагрівача є зменшення утворення накипу на ТЕНах завдяки відсутності прямого контакту з водою. Це не тільки збільшує термін служби приладу, але й значно спрощує обслуговування, ремонт та заміну нагрівального елемента. Наявність двох сухих ТЕНів підвищує надійність та безпеку роботи водонагрівача, оскільки кожен елемент працює незалежно, що знижує ймовірність поломок. Водонагрівач має механічний індикатор температури і відкритий регулятор температури, що дозволяє легко налаштувати бажану температуру води. Максимальна температура нагрівання води досягає 75°C, а час нагріву — всього 1,48 години, що забезпечує швидке отримання гарячої води. Корпус водонагрівача виконаний з високоякісної сталевої емальованої сталі, що гарантує довговічність та надійність. Встановлення можливе у вертикальному положенні на стіну, а підведення труб здійснюється знизу.</p>]]></description>
+<attribute_set code="1619">Бойлери</attribute_set>
+<param paramcode="brand" name="Бренд">WHP</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Китай</param>
+<param paramcode="width" name="Ширина"><![CDATA[481]]></param>
+<param paramcode="height" name="Висота"><![CDATA[600]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[481]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[20350]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT33854" available="true">
+<price>6100.00</price>
+<availability>in_stock</availability>
+<category code="1619">Бойлери</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/100015292.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/200015292.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/700015292.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/800015292.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/900015292.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/300015292.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/400015292.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/500015292.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/600015292.jpg</picture>
+<name lang="ua">Водонагрівач Midea INSTALL 80</name>
+<description lang="ua"><![CDATA[<p>Водонагрівач Midea INSTALL 80 — це зручний та надійний пристрій, який гарантує стабільну подачу гарячої води у ваш дім. Ідеально підходить для сімей середнього розміру, адже об’єм бака становить 80 літрів, що дозволяє комфортно приймати душ, мити посуд або використовувати воду для побутових потреб. Його сучасний дизайн гармонійно впишеться у будь-який інтер’єр ванної кімнати. Завдяки потужності 1500 Вт, вода нагрівається швидко та рівномірно. Модель оснащена «мокрим» ТЕНом, який забезпечує ефективний теплообмін. Бака виготовлено з міцної сталі з антикорозійним емалевим покриттям та оснащено магнієвим анодом, що значно подовжує термін служби приладу. Управління температурою здійснюється за допомогою зручного механічного регулятора, а вбудована система безпеки захищає від перегріву й надлишкового тиску. Крім того, ефективна теплоізоляція допомагає зберігати тепло тривалий час, що зменшує енергоспоживання. Установка Midea INSTALL 80 вертикальна настінна, що робить його ідеальним для невеликих приміщень. Це чудовий вибір для тих, хто шукає доступний і якісний водонагрівач для повсякденного користування.</p>]]></description>
+<attribute_set code="1619">Бойлери</attribute_set>
+<param paramcode="brand" name="Бренд">Midea</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Китай</param>
+<param paramcode="width" name="Ширина"><![CDATA[470]]></param>
+<param paramcode="height" name="Висота"><![CDATA[778]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[470]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[26620]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT34106" available="true">
+<price>16900.00</price>
+<availability>in_stock</availability>
+<category code="81">Кухонні плити</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155592.jpg</picture>
+<name lang="ua">Плита газова CASTLE CG-60X</name>
+<description lang="ua"><![CDATA[<p>Знімне склоЗнімне скло може бути повністю знято, що робить очищення легшим клацання пальцем.</p>]]></description>
+<attribute_set code="81">Кухонні плити</attribute_set>
+<param paramcode="brand" name="Бренд">CASTLE</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Туреччина</param>
+<param paramcode="width" name="Ширина"><![CDATA[620]]></param>
+<param paramcode="height" name="Висота"><![CDATA[885]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[620]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[39050]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT34579" available="true">
+<price>12215.00</price>
+<availability>in_stock</availability>
+<category code="1619">Бойлери</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000160714.jpg</picture>
+<name lang="ua">Водонагрівач TERMAXIT AquaSlim 50V</name>
+<description lang="ua"><![CDATA[<p>Електричний бойлер TERMAXIT AquaSlim — це сучасний водонагрівач нового покоління, розроблений з урахуванням потреб користувачів, які цінують компактність, ефективність та довговічність техніки.</p><ul><li>Завдяки своєму об’єму у 50 літрів, він ідеально підходить для забезпечення гарячою водою сім’ї з 1–2 осіб або використання в кухні, ванній кімнаті чи дачному будинку.</li><li>Бойлер оснащений двома незалежними ТЕНами потужністю по 1000 Вт кожен (загальна потужність 2000 Вт), які працюють за принципом прихованих «сухих» нагрівальних елементів.</li></ul><p>Така конструкція дозволяє уникнути прямого контакту з водою, що істотно знижує ймовірність утворення накипу, спрощує технічне обслуговування та збільшує термін служби приладу.</p><ul><li>Завдяки цьому нагрів води до максимальної температури 75 °C здійснюється швидко.</li><li>Внутрішній бак виготовлений зі сталі та має покриття з титанової емалі, яке забезпечує надійний захист від корозії та зберігає високу якість води.</li></ul><ul><li>Додатково в конструкції передбачено антикорозійний магнієвий анод, що підсилює захист бака і продовжує строк його експлуатації.</li><li>Керування бойлером повністю електронне — на корпусі розміщено зручний відкритий терморегулятор, а вся інформація про роботу пристрою відображається на цифровому дисплеї.</li></ul><p>Інтуїтивний інтерфейс дозволяє зручно встановлювати температуру та стежити за станом роботи.</p>]]></description>
+<attribute_set code="1619">Бойлери</attribute_set>
+<param paramcode="brand" name="Бренд">TERMAXIT</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Україна</param>
+<param paramcode="width" name="Ширина"><![CDATA[510]]></param>
+<param paramcode="height" name="Висота"><![CDATA[980]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[320]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[27500]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT34905" available="true">
+<price>24358.00</price>
+<availability>in_stock</availability>
+<category code="82">Духові шафи</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000164521.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000164522.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000164523.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000164524.jpg</picture>
+<name lang="ua">Духова шафа Haier HWO60SM6B5BH</name>
+<description lang="ua"><![CDATA[<p>Haier HWO60SM6B5BH – електрична духова шафа з об’ємом 70 літрів, підходить для щоденного використання. Вона пропонує 9 режимів приготування, включаючи гриль, конвекцію та функцію для піци. Потужність становить 3000 Вт, максимальна температура – 250°C. Технологія Climatech забезпечує рівномірне пропікання завдяки оптимальному розподілу тепла. Сенсорне управління з цифровим дисплеєм полегшує вибір налаштувань. Дверцята з потрійним склом мінімізують нагрівання зовнішньої поверхні. Система парового очищення спрощує догляд за камерою. Телескопічні направляючі додають зручності при роботі з деками. Чорний матовий дизайн виглядає елегантно та сучасно. Клас енергоефективності А+ економить електроенергію. Підключення до Wi-Fi дозволяє керувати духовкою через смартфон. Гарантія – 2 роки.</p>]]></description>
+<attribute_set code="82">Духові шафи</attribute_set>
+<param paramcode="brand" name="Бренд">Haier</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Китай</param>
+<param paramcode="width" name="Ширина"><![CDATA[620]]></param>
+<param paramcode="height" name="Висота"><![CDATA[660]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[660]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[35640]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT34948" available="true">
+<price>29015.00</price>
+<availability>in_stock</availability>
+<category code="81">Кухонні плити</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165491.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165492.jpg</picture>
+<name lang="ua">Плита комбінована CASTLE CPG-90X</name>
+<description lang="ua"><![CDATA[<p>Комбінована плита CASTLE CPG-90XCASTLE CPG-90X - це сучасна комбінована плита, яка поєднує потужну газову варильну поверхню та містку електричну духовку.</p><ul><li>Така модель відмінно підійде для великої родини, любителів домашньої кухні та тих, хто цінує зручність, функціональність та стильний дизайн із нержавіючої сталі.</li><li>Плита оснащена п'ятьма газовими конфорками різної потужності, що дозволяє готувати кілька страв.</li></ul><ul><li>Автозапалювання, вбудоване в ручки, робить використання максимально зручним, а система газ-контролю забезпечує високий рівень безпеки.</li><li>Електрична духовка об'ємом 110 літрів підійде як для повсякденного приготування, так і для великого запікання - святкової індички, випічки або кількох страв одночасно.</li></ul><p>Наявність грилю, верхнього та нижнього ТЕНу, а також конвекції забезпечує рівномірний прогрів та ідеальні результати.</p><ul><li>Міцне подвійне скло дверцят утримує тепло всередині, а внутрішнє підсвічування спрощує контроль над процесом.</li><li>Корпус виконаний в елегантному кольорі нержавіючої сталі, що робить модель універсальним рішенням будь-якої кухні.</li><li>Продукт має такі особливості:Комбінована конструкція: газова поверхня + електрична духовка.</li><li>П'ять газових конфорок - зручність приготування одразу кількох страв.</li><li>Автозапалювання в ручках - швидко та комфортно.</li><li>Газ-контроль усіх конфорок – додаткова безпека.</li></ul>]]></description>
+<attribute_set code="81">Кухонні плити</attribute_set>
+<param paramcode="brand" name="Бренд">CASTLE</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Туреччина</param>
+<param paramcode="width" name="Ширина"><![CDATA[920]]></param>
+<param paramcode="height" name="Висота"><![CDATA[901]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[672]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[61600]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT34982" available="true">
+<price>5172.00</price>
+<availability>in_stock</availability>
+<category code="84">Витяжки</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166131.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166133.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166134.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166135.jpg</picture>
+<name lang="ua">Витяжка Minola HK 5614 BL 1000 LED</name>
+<description lang="ua"><![CDATA[<p>Minola HK 5614 BL 1000 LED — ідеальне поєднання сучасного мінімалізму й практичностіКласичний дизайн моделі складе ідеальну комбінацію з будь-яким інтер'єрним рішенням, а також стане стильним декоративним елементом на вашій кухніТришаровий захист моторуМодель має надійні жирові алюмінієві фільтри, які складаються з трьох шарів. Вони перешкоджають потраплянню жиру та випарів всередину витяжки. Завдяки цьому мотор захищений, а тому прослужить вам значно довшеОптимальна продуктивність і три режими роботиПотужність витяжки — 1000 м³/год. Вона ефективно освіжить повітря у приміщенні, усунувши випари, дим і зайві запахи. В залежності від інтенсивності процесу готування, роботу витяжки можна регулювати, обираючи потрібний режимДодаткове освітлення робочої зониМодель обладнана сучасною LED-лампою потужністю 2 Вт. Цього достатньо, щоб використовувати її як додаткове освітлення варильної поверхні. Світлодіоди комфортні для очей, витривалі та економніКерування легким натискомЗручні механічні кнопки дозволяють без зусиль керувати витяжкою. Основні переваги такої панелі — це надійність і простота в експлуатації.</p>]]></description>
+<attribute_set code="84">Витяжки</attribute_set>
+<param paramcode="brand" name="Бренд">Minola</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Польща</param>
+<param paramcode="width" name="Ширина"><![CDATA[570]]></param>
+<param paramcode="height" name="Висота"><![CDATA[550]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[260]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[5280]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT35235" available="true">
+<price>10322.00</price>
+<availability>in_stock</availability>
+<category code="82">Духові шафи</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000170851.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000170852.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000170853.jpg</picture>
+<name lang="ua">Духова шафа LUXELL B66-LXSF3CMB</name>
+<description lang="ua"><![CDATA[<ul><li>Електрична духовка Luxell B66-LXSF3CMB поєднує компактність та функціональність, забезпечуючи комфортне приготування страв у будь-яких умовах.</li><li>Модель має об’єм 55 літрів, 8 режимів приготування та дозволяє готувати з використанням гриля та конвекції.</li></ul><ul><li>Механічне керування забезпечує простоту використання, а внутрішня підсвітка та таймер допомагають контролювати процес приготування.</li><li>Пристрій обладнаний панеллю з чорного скла, прихованим нагрівальним елементом і подвійними скляними дверцятами для додаткової безпеки.</li></ul><ul><li>Потужність духовки складає 1.9 кВт, що дозволяє ефективно використовувати енергію.</li><li>Комплектація включає два дека та решітку, забезпечуючи все необхідне для приготування.</li></ul><ul><li>Завдяки своїм компактним розмірам і вазі 23.21 кг, духовка легко монтується в будь-якій кухні.</li><li>Модель виготовлена в Туреччині та має 12 місяців офіційної гарантії від виробника.</li></ul>]]></description>
+<attribute_set code="82">Духові шафи</attribute_set>
+<param paramcode="brand" name="Бренд">LUXELL</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Туреччина</param>
+<param paramcode="width" name="Ширина"><![CDATA[620]]></param>
+<param paramcode="height" name="Висота"><![CDATA[650]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[650]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[25300]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT35253" available="true">
+<price>14593.00</price>
+<availability>in_stock</availability>
+<category code="81">Кухонні плити</category>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/5b468f1bd602959a.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/66e505ed01572dc2.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/461ec56874694e11.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/baa6251f4ee55ccf.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/b3afe99d8776525b.jpg</picture>
+<name lang="ua">Плита газова CASTLE CG-50X</name>
+<description lang="ua"><![CDATA[<p>Газова плита Castle CG-50X — це компактна кухонна модель шириною 50 см, виконана в корпусі з нержавіючої сталі.</p><ul><li>Вона поєднує класичне газове приготування на варильній поверхні та в духовці, що робить її практичним вибором для невеликих кухоньОсновні характеристики:Варильна поверхня: Має 4 газові конфорки різної потужності.</li><li>Духова шафа: Повністю газова, об'ємом близько 54–58 літрів (залежно від модифікації).</li><li>Матеріали: Корпус та робоча поверхня виготовлені з нержавіючої сталі, що забезпечує довговічність та сучасний вигляд.</li></ul><ul><li>Решітки зазвичай емальовані.</li><li>Безпека: Оснащена системою газ-контролю, яка автоматично перекриває подачу газу, якщо полум'я випадково згасне.</li><li>Керування: Механічні поворотні перемикачі.</li></ul><ul><li>Більшість моделей цієї серії мають вбудований у ручки електропідпал.</li><li>Габарити: Стандартні розміри для вузьких плит — 85-86.5 см у висоту, 50 см у ширину та 60 см у глибину.</li></ul>]]></description>
+<attribute_set code="81">Кухонні плити</attribute_set>
+<param paramcode="brand" name="Бренд">CASTLE</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Іспанія</param>
+<param paramcode="width" name="Ширина"><![CDATA[520]]></param>
+<param paramcode="height" name="Висота"><![CDATA[885]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[520]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[33990]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT35681" available="true">
+<price>3693.00</price>
+<availability>in_stock</availability>
+<category code="83">Варильні поверхні</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178494.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178495.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178496.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178497.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178498.jpg</picture>
+<name lang="ua">Варильна поверхня Minola MHS 3071 TBL доміно склокераміка</name>
+<description lang="ua"><![CDATA[<p>Склокерамічна варильна поверхня Domino Minola MHS 3074 TBL — це компактна електрична модель із двома зонами нагріву Hi-Light для щоденного використання. Поверхня поєднує швидкий розігрів, сенсорно-слайдерне керування та лаконічний чорний дизайн.</p><ul><li>Завдяки ширині 30 см вона легко інтегрується навіть у невелику кухню та дозволяє раціонально організувати робочий простір.</li><li>Кому підійдеЦя модель стане практичним рішенням для невеликих кухонь, студій і смарт-планувань, де важлива компактність техніки.</li></ul><p>Формат Domino дозволяє поєднати її з газовою поверхнею на дві конфорки та створити комбіновану зону приготування. Вона підійде для тих, хто готує помірно або у невеликих об’ємах — для однієї-двох осіб чи компактної сім’ї.</p><ul><li>Також це вдалий вибір для покупців, які шукають елегантну склокерамічну поверхню за доступною ціною.</li><li>Переваги моделіВарильна поверхня Minola MHS 3074 TBL поєднує компактний формат, надійні матеріали та сучасний функціонал для щоденного користування.</li><li>Дизайн: двоконфорна Domino, чорний колір, ширина 30 см, фронтальне розташування панелі управління - займає мінімум місця у стільниці та забезпечує зручний контроль під час готування.2 зони Hi-Light (Ø165 мм — 1200 Вт, Ø200 мм — 1800 Вт) - швидкий набір температури та можливість обрати оптимальну потужність для різних типів страв.</li></ul>]]></description>
+<attribute_set code="83">Варильні поверхні</attribute_set>
+<param paramcode="brand" name="Бренд">Minola</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Китай</param>
+<param paramcode="width" name="Ширина"><![CDATA[310]]></param>
+<param paramcode="height" name="Висота"><![CDATA[120]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[540]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[4455]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT35682" available="true">
+<price>4093.00</price>
+<availability>in_stock</availability>
+<category code="84">Витяжки</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178508.jpg</picture>
+<name lang="ua">Витяжка Minola HBI 5262 BL GLASS 700 LED</name>
+<description lang="ua"><![CDATA[<p>Витяжка Minola HBI 5262 BL Glass: потужність та стильВитяжка MINOLA HBI 5262 BL GLASS 700 LED — це ідеальне поєднання сучасного дизайну та високої продуктивності, що забезпечить комфортну атмосферу на вашій кухні.</p><ul><li>Цей пристрій, виконаний у стильному чорному кольорі з елементами скла, стане не тільки функціональним, але й естетичним доповненням до інтер'єру.</li><li>Основною перевагою цієї витяжки є її висока продуктивність, яка досягає 700 м³/год.</li></ul><p>Це дозволяє ефективно видаляти запахи та випари, підтримуючи свіжість повітря навіть під час інтенсивного приготування.</p><ul><li>Витяжка підтримує два режими роботи: відведення та циркуляція, що надає можливість обрати оптимальний варіант в залежності від умов вашої кухні.</li><li>Ефективність та зручність використанняВитяжка MINOLA обладнана алюмінієвим жировим фільтром, який легко очищується і забезпечує тривалий термін служби.</li></ul><ul><li>Керування здійснюється за допомогою зручних кнопок та кулісних перемикачів, що робить експлуатацію максимально простою та інтуїтивно зрозумілою.</li><li>Освітлення кухонного простору здійснюється за рахунок світлодіодних ламп потужністю 2x1 Вт, які забезпечують яскраве та рівномірне освітлення робочої зони.</li></ul><p>Така підсвітка не тільки функціональна, але й енергоефективна, що важливо для сучасного споживача.</p>]]></description>
+<attribute_set code="84">Витяжки</attribute_set>
+<param paramcode="brand" name="Бренд">Minola</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Туреччина</param>
+<param paramcode="width" name="Ширина"><![CDATA[550]]></param>
+<param paramcode="height" name="Висота"><![CDATA[205]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[295]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[3850]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT35688" available="true">
+<price>3522.00</price>
+<availability>in_stock</availability>
+<category code="84">Витяжки</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178563.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178564.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178565.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178566.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178567.jpg</picture>
+<name lang="ua">Витяжка Minola HTL 5214 BL 700 LED</name>
+<description lang="ua"><![CDATA[<p>Телескопічна кухонна витяжка Minola HTL 5214 BL 700 LED обладнана одним мотором потужністю 65 Вт.</p><ul><li>Максимальна продуктивність пристрою в режимі відведення повітря становить 700 м3/год, що дає змогу ефективно видаляти випаровування, небажані запахи та кіптяву, які утворюються в процесі приготування їжі.</li><li>Витяжка зі стандартною шириною 49.5 см ідеально підходить для використання з варильною поверхнею такого ж розміру, який є універсальним для більшості кухонних приміщень.</li><li>Оформлення та дизайнВитяжка виготовлена з фарбованого металу.</li></ul><p>Це робить цю модель витяжки ідеально придатною для вашої кухні.</p><ul><li>Механічна панель керування розташована збоку.</li><li>Алюмінієві фільтриКухонна витяжка Minola HTL 5214 BL 700 LED обладнана двома алюмінієвими жировими фільтрами, що складаються з трьох шарів.</li></ul><ul><li>Вони забезпечують надійний захист двигуна та інших деталей пристрою від потрапляння жиру та випарів.</li><li>Очищення фільтрів треба проводити кожні 2-3 місяці вручну в мильному розчині або ж у посудомийній машині.</li><li>Режими роботиВитяжка може працювати у двох режимах:Режим відведення — повітря виводиться назовні через вентиляційний отвір;Режим рециркуляції* — повітря циркулює всередині приміщення й очищається, проходячи через вугільний фільтр (Арт.0008).</li><li>Використання режиму рециркуляції витяжки можливе тільки після встановлення вугільного фільтра, який продається окремо.</li></ul>]]></description>
+<attribute_set code="84">Витяжки</attribute_set>
+<param paramcode="brand" name="Бренд">Minola</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Польща</param>
+<param paramcode="width" name="Ширина"><![CDATA[515]]></param>
+<param paramcode="height" name="Висота"><![CDATA[220]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[320]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[6600]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT35690" available="true">
+<price>4472.00</price>
+<availability>in_stock</availability>
+<category code="84">Витяжки</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178585.jpg</picture>
+<name lang="ua">Витяжка Minola HTL 5614 WH 1000 LED</name>
+<description lang="ua"><![CDATA[<p>Телескопічна кухонна витяжка Minola HTL 5614 WH 1000 LED обладнана одним мотором потужністю 130 Вт.</p><ul><li>Максимальна продуктивність пристрою в режимі відведення повітря становить 1000 м3/год, що дозволяє ефективно видаляти випари, небажані запахи та кіптяву, які утворюються в процесі приготування їжі.</li><li>Витяжка зі стандартною шириною 49.5 см ідеально підходить для використання з варильною поверхнею такого ж розміру, який є універсальним для більшості кухонних приміщень.</li><li>Оформлення та дизайнВитяжка виготовлена з фарбованого металу.</li></ul><p>Це робить дану модель витяжки такою, що ідеально підходить для вашої кухні.</p><ul><li>Механічна панель управління розташована збоку.</li><li>Алюмінієві фільтри виконані у тому ж кольорі, що й пристрій.</li></ul><ul><li>Таке дизайнерське рішення робить витяжку стильною та елегантною, завдяки чому вона гармонійно виглядатиме в інтер'єрі кухні.</li><li>Алюмінієві фільтриКухонна витяжка Minola HTL 5614 WH 1000 LED обладнана двома алюмінієвими жировими фільтрами, що складаються з трьох шарів.</li></ul><ul><li>Вони забезпечують надійний захист двигуна та інших деталей пристрою від потрапляння жиру та випарів.</li><li>Очищення фільтрів слід проводити кожні 2-3 місяці вручну в мильному розчині або в посудомийній машині.</li></ul>]]></description>
+<attribute_set code="84">Витяжки</attribute_set>
+<param paramcode="brand" name="Бренд">Minola</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Китай</param>
+<param paramcode="width" name="Ширина"><![CDATA[515]]></param>
+<param paramcode="height" name="Висота"><![CDATA[281]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[305]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[6600]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT35771" available="true">
+<price>37900.00</price>
+<availability>in_stock</availability>
+<category code="78">Холодильники</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000172577.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000172578.jpg</picture>
+<name lang="ua">Холодильник Midea MDRS619FIE46 нерж</name>
+<description lang="ua"><![CDATA[<p>Холодильник MIDEA MDRS619FIE46: сучасне рішення для вашого будинкуХолодильник MIDEA MDRS619FIE46 у виконанні з нержавіючої сталі – це втілення сучасного стилю та інноваційних технологій в одному пристрої.</p><ul><li>Цей холодильник типу SIDE-BY-SIDE пропонує вражаючу місткість та зручність використання, ідеально підходячи для сімейного використання та сучасних кухонь.</li><li>Оснащений однією компресорною системою, MIDEA MDRS619FIE46 забезпечує надійну та ефективну роботу.</li></ul><p>Система No Frost як у холодильній, так і в морозильній камері позбавляє необхідності регулярного розморожування, підтримуючи ідеальні умови для зберігання продуктів.</p><ul><li>Бокове розташування морозильної камери дозволяє зручно розподіляти продукти, зберігаючи їх свіжість та смакові якості.</li><li>Енергоефективність та передові функціїКлас енергоспоживання A+ та кліматичний клас SN-ST роблять цей холодильник MIDEA економічним та адаптованим до різних умов навколишнього середовища.</li></ul><p>Використовуваний холодоагент R600a є екологічно безпечним, а споживання електроенергії становить лише 1 кВт на добу.</p><ul><li>Річний споживання електроенергії становить 365 кВт.год, що підтверджує його енергоефективність.</li><li>Smart функції, такі як WI-FI управління, дозволяють контролювати роботу холодильника віддалено, забезпечуючи додаткову зручність.</li></ul>]]></description>
+<attribute_set code="78">Холодильники</attribute_set>
+<param paramcode="brand" name="Бренд">Midea</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Китай</param>
+<param paramcode="width" name="Ширина"><![CDATA[855]]></param>
+<param paramcode="height" name="Висота"><![CDATA[1795]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[655]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[89100]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT36009" available="true">
+<price>4715.00</price>
+<availability>in_stock</availability>
+<category code="84">Витяжки</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184204.jpg</picture>
+<name lang="ua">Витяжка Artel ART 0960 L PUNTO WHITE</name>
+<description lang="ua"><![CDATA[<p>Витяжка Artel ART 0960 L Punto White: сучасний вибір для вашої кухніВитяжка ARTEL ART 0960 L PUNTO WHITE - це поєднання елегантного дизайну та високої продуктивності, що стане ідеальним доповненням для будь-якої сучасної кухні.</p><ul><li>З потужністю двигуна 200 Вт, ця витяжка забезпечує ефективне видалення запахів та диму, сприяючи чистоті та свіжості повітря у вашій оселі.</li><li>Ця модель витяжки має діаметр повітропровода 120 мм, що забезпечує оптимальну вентиляцію.</li></ul><p>Вона підтримує два режими роботи: відведення та циркуляція, що дозволяє адаптувати її під різні потреби користувача.</p><ul><li>Максимальна продуктивність витяжки становить 500 м³/год, що гарантує швидке очищення повітря навіть під час інтенсивного приготування їжі.</li><li>Функціональність та зручністьВитяжка ARTEL ART 0960 L PUNTO WHITE є плоскою моделлю з шириною 59,6 см і висотою 18 см, що дозволяє легко інтегрувати її у будь-який кухонний інтер'єр.</li></ul><ul><li>Вона оснащена алюмінієвим фільтром, який ефективно затримує жирові частинки, забезпечуючи тривале використання без необхідності частого обслуговування.</li><li>Керування витяжкою здійснюється за допомогою кнопкових та кулісних перемикачів, що забезпечує інтуїтивно зрозуміле та зручне використання.</li></ul><p>Корпус виконаний у білому кольорі, що додає витяжці елегантності та гармонійно вписується в будь-який стиль кухні.</p>]]></description>
+<attribute_set code="84">Витяжки</attribute_set>
+<param paramcode="brand" name="Бренд">Artel</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Узбекистан</param>
+<param paramcode="width" name="Ширина"><![CDATA[620]]></param>
+<param paramcode="height" name="Висота"><![CDATA[178]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[520]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[6930]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT36031" available="true">
+<price>3958.00</price>
+<availability>in_stock</availability>
+<category code="83">Варильні поверхні</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184682.jpg</picture>
+<name lang="ua">Варильна поверхня Minola MHS 3074 TBL доміно склокераміка</name>
+<description lang="ua"><![CDATA[<p>Варильна поверхня склокерамічна Domino Minola MHS 3074 TBLСклокерамічна варильна поверхня Domino Minola MHS 3074 TBL — це компактна електрична модель із двома зонами нагріву Hi-Light для щоденного використання. Поверхня поєднує швидкий розігрів, сенсорно-слайдерне керування та лаконічний чорний дизайн.</p><ul><li>Завдяки ширині 30 см вона легко інтегрується навіть у невелику кухню та дозволяє раціонально організувати робочий простір.</li><li>Кому підійдеЦя модель стане практичним рішенням для невеликих кухонь, студій і смарт-планувань, де важлива компактність техніки.</li></ul><p>Формат Domino дозволяє поєднати її з газовою поверхнею на дві конфорки та створити комбіновану зону приготування. Вона підійде для тих, хто готує помірно або у невеликих об’ємах — для однієї-двох осіб чи компактної сім’ї.</p><ul><li>Також це вдалий вибір для покупців, які шукають елегантну склокерамічну поверхню за доступною ціною.</li><li>Переваги моделіВарильна поверхня Minola MHS 3074 TBL поєднує компактний формат, надійні матеріали та сучасний функціонал для щоденного користування.</li></ul>]]></description>
+<attribute_set code="83">Варильні поверхні</attribute_set>
+<param paramcode="brand" name="Бренд">Minola</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Польща</param>
+<param paramcode="width" name="Ширина"><![CDATA[310]]></param>
+<param paramcode="height" name="Висота"><![CDATA[65]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[540]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[4950]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT36032" available="true">
+<price>9100.00</price>
+<availability>in_stock</availability>
+<category code="83">Варильні поверхні</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184691.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184692.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184693.jpg</picture>
+<name lang="ua">Варильна поверхня Weilor GG 654 BL</name>
+<description lang="ua"><![CDATA[<p>Варильна поверхня Weilor GG 654 BL: поєднання стилю та функціональностіВарильна поверхня Weilor GG 654 BL – це сучасний вибір для будь-якої кухні, що поєднує елегантний дизайн із високою функціональністю.</p><ul><li>Завдяки чорному кольору та загартованому склу, ця поверхня стане стильним акцентом у вашій кухні, забезпечуючи при цьому надійність та довговічність.</li><li>Ця газова варильна поверхня оснащена чотирма конфорками різної потужності: задня центральна конфорка має потужність 2000 Вт, центральна передня - 1000 Вт, а дві бічні конфорки по 2900 Вт кожна.</li></ul><ul><li>Така різноманітність потужностей дозволяє готувати різні страви одночасно, що значно заощаджує ваш час та зусилля.</li><li>Висока безпека та зручність використанняWeilor GG 654 BL забезпечує високий рівень безпеки завдяки функції газ-контролю, яка автоматично відключає подачу газу при згасанні полум'я.</li></ul><p>Це гарантує безпеку для вас та вашої родини.</p><ul><li>Крім того, функція електрозапалювання робить процес запалювання конфорок легким та комфортним – одним натисканням ви зможете запалити вогонь без використання сірників або запальничок.</li><li>Управління варильною поверхнею здійснюється за допомогою механічних регуляторів, розташованих фронтально для зручності користування.</li></ul><p>Це дозволяє легко контролювати інтенсивність полум'я, що є важливим для приготування складних страв.</p>]]></description>
+<attribute_set code="83">Варильні поверхні</attribute_set>
+<param paramcode="brand" name="Бренд">Weilor</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Туреччина</param>
+<param paramcode="width" name="Ширина"><![CDATA[620]]></param>
+<param paramcode="height" name="Висота"><![CDATA[156]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[590]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[14850]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT36033" available="true">
+<price>5493.00</price>
+<availability>in_stock</availability>
+<category code="84">Витяжки</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184571.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184572.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184573.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184574.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184575.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184576.jpg</picture>
+<name lang="ua">Витяжка Minola HBI 5722 BLF 1200 LED</name>
+<description lang="ua"><![CDATA[<p>Minola HBI 5722 BLF 1200 LED – це потужна витяжка з максимальною продуктивністю 1200 м³/год у класичному чорному кольорі.</p><ul><li>Ширина 525 мм робить його універсальним рішенням для кухонних просторів будь-якого типу.</li><li>Механічне управління з трьома швидкостями забезпечує простоту та зручність у використанні.</li></ul><p>Фільтр із чорного алюмінію надійно затримує жири, а LED-підсвічування 2х1,5 Вт створює якісне освітлення.</p><ul><li>Рівень шуму досягає 72 дБ, що цілком зручно для побутової техніки з такою потужністю.</li><li>Основні перевагиМодель Minola HBI 5722 BLF 1200 LED виконана в універсальному чорному кольорі з передньою панеллю зі скла, яка легко очищається та надає витонченості загального вигляду.</li><li>Витяг ідеально підходить для відкритих планувань або невеликих приміщень, де важливо зберегти візуальну легкість простору.</li></ul><p>Цілком вбудована установка робить пристрій майже непомітним, залишаючи в полі зору елегантну декоративну панель.</p><ul><li>Це забезпечує високий рівень естетики навіть у мінімалістичному інтер'єрі.</li><li>Технічні характеристикиШирина витяжки становить 525 мм, що робить її сумісною із більшістю стандартних кухонних модулів.</li><li>Витяжка має два рівні швидкості, що дозволяє адаптувати потужність всмоктування залежно від інтенсивності приготування їжі.</li><li>Максимальна продуктивність моделі - 1200 м ³ / год, чого достатньо для очищення повітря в кухнях площею до 20 м ².</li></ul>]]></description>
+<attribute_set code="84">Витяжки</attribute_set>
+<param paramcode="brand" name="Бренд">Minola</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Польща</param>
+<param paramcode="width" name="Ширина"><![CDATA[545]]></param>
+<param paramcode="height" name="Висота"><![CDATA[313]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[310]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[7700]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT36036" available="true">
+<price>8779.00</price>
+<availability>in_stock</availability>
+<category code="84">Витяжки</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184593.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184594.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184595.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184596.jpg</picture>
+<name lang="ua">Витяжка Minola HBI 6473 WH GLASS 800 LED line</name>
+<description lang="ua"><![CDATA[<p>Витяжка ПовновбудованаMinola HBI 6473 BL GLASS 800 LED LineMinola HBI 6473 BL GLASS 800 LED Line - ідеальне поєднання сучасного мінімалізму й практичностіПовновбудована витяжка стане функціональним доповненням вашої кухні, а за рахунок своєї будови вона повністю сховається у шафу та не порушить загальний дизайнНадійність, якість та інтуїтивно зрозумілий функціонал роблять її зручною у користуванніКорпус витяжки виготовлений із загартованого скла, стійкого до високих температур і механічних пошкодженьП'ятишаровим жироуловлювальний алюмінієвий фільтр чорного кольору, розташований під захисною кришкою, забезпечує ефективну очистку повітряВисока продуктивність i три швидкості роботиПотужність витяжки – 800 м3/год.</p>]]></description>
+<attribute_set code="84">Витяжки</attribute_set>
+<param paramcode="brand" name="Бренд">Minola</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Польща</param>
+<param paramcode="width" name="Ширина"><![CDATA[620]]></param>
+<param paramcode="height" name="Висота"><![CDATA[313]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[310]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[10340]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT36196" available="true">
+<price>7336.00</price>
+<availability>in_stock</availability>
+<category code="1619">Бойлери</category>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/0233af2b967ce3d3.jpg</picture>
+<name lang="ua">Водонагрівач RENS RE80-20/F10</name>
+<description lang="ua"><![CDATA[<p>Циліндричний бойлер RENS Performax RE80-20/F10 80 літрівЦиліндричний бойлер RENS Performax з об’ємом 80 літрів і потужністю 2000 Вт – це ідеальне рішення для ефективного нагріву води в домашніх умовах. Пристрій оснащений мокрим ТЕНом, який забезпечує швидке нагрівання води та рівномірний розподіл температури.</p><ul><li>Завдяки компактному дизайну, бойлер легко встановлюється навіть у невеликих приміщеннях.</li><li>Ключові переваги:Швидкий нагрів води завдяки мокрому ТЕНу.</li><li>Компактні розміри, які підходять для встановлення у квартирах і приватних будинках.</li><li>Надійність і довговічність завдяки міцним матеріалам і антикорозійному захисту.</li><li>Технічні характеристики:Обсяг: 80 літрів – оптимальний для сім’ї з 4 осіб.</li><li>Потужність: 2000 Вт – гарантує економне споживання енергії.</li><li>ТЕН: мокрий – забезпечує швидке нагрівання і стійкість до накипу.</li><li>Матеріал бака: високоякісна сталь з антикорозійним покриттям для тривалого терміну служби.</li><li>Температурний діапазон: до 75°C – підтримує комфортний рівень гарячої води.</li><li>Монтаж: настінний, вертикальний – економить місце в приміщенні.</li></ul>]]></description>
+<attribute_set code="1619">Бойлери</attribute_set>
+<param paramcode="brand" name="Бренд">RENS</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Китай</param>
+<param paramcode="width" name="Ширина"><![CDATA[470]]></param>
+<param paramcode="height" name="Висота"><![CDATA[770]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[470]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[25850]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT36217" available="true">
+<price>4708.00</price>
+<availability>in_stock</availability>
+<category code="84">Витяжки</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184611.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184612.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184613.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184614.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184615.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184616.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184617.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184618.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184619.jpg</picture>
+<name lang="ua">Витяжка Minola HTL 5614 BLF 1000 LED</name>
+<description lang="ua"><![CDATA[<p>Основні характеристики Телескопічнакухонна витяжка Minola HTL 5614 BLF 1000 LED обладнана одним мотором потужністю 130 Вт. Максимальна продуктивність пристрою в режимі відведення повітря становить 1000 м3/год, що дозволяє ефективно видаляти випари, небажані запахи та кіптяву, які утворюються в процесі приготування їжі. Витяжка зі стандартною шириною 49.5 см ідеально підходить для використання з варильною поверхнею такого ж розміру, який є універсальним для більшості кухонних приміщень. Оформлення та дизайн Витяжка виготовлена з фарбованого металу. Це робить дану модель витяжки такою, що ідеально підходить для вашої кухні. Механічна панель управління розташована збоку. Алюмінієві фільтри виконані у тому ж кольорі, що й пристрій. Таке дизайнерське рішення робить витяжку стильною та елегантною, завдяки чому вона гармонійно виглядатиме в інтер'єрі кухні. Алюмінієві фільтри Кухонна витяжка Minola HTL 5614 BLF 1000 LED обладнана двома алюмінієвими жировими фільтрами, що складаються з трьох шарів. Вони забезпечують надійний захист двигуна та інших деталей пристрою від потрапляння жиру та випарів. Очищення фільтрів слід проводити кожні 2-3 місяці вручну в мильному розчині або в посудомийній машині.</p>]]></description>
+<attribute_set code="84">Витяжки</attribute_set>
+<param paramcode="brand" name="Бренд">Minola</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Китай</param>
+<param paramcode="width" name="Ширина"><![CDATA[515]]></param>
+<param paramcode="height" name="Висота"><![CDATA[281]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[300]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[6600]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT36258" available="true">
+<price>16050.00</price>
+<availability>in_stock</availability>
+<category code="161">Телевізори</category>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/91a92fc9b97918d4.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/a74d86b93f18ccd3.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/6630fed97492fcc5.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/b41041854f436915.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/8601b999afc7baf1.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/fae5603b82f740f1.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/d81a7fc6e1cdc1c9.jpg</picture>
+<name lang="ua">Телевізор Kivi 40F9000HB</name>
+<description lang="ua"><![CDATA[<p>ТБ KIVI 40F9000HB: інновації в кожній деталіТелевізор KIVI 40F9000HB – це поєднання передових технологій та вишуканого дизайну, що надає користувачам виняткову якість зображення та звуку. З діагоналлю 40 дюймів та роздільною здатністю 1920 х 1080 (Full HD), цей телевізор забезпечує кришталево чисте зображення, яке пожвавлює кожен кадр.</p><ul><li>Широкоекранний формат 16:9 та частота розгортки 60 Гц роблять перегляд фільмів та телепередач по-справжньому захоплюючим.</li><li>Завдяки підтримці Smart TV та операційній системі VIDAA, користувачі отримують доступ до безлічі програм та онлайн-контенту.</li></ul><p>Платформа інтуїтивно зрозуміла і проста у використанні, що робить навігацію за додатками та налаштуваннями легкою та зручною.</p><ul><li>Технологія QLED та підсвічування Direct LED забезпечують яскравість 250 кд/м2 та контрастність 1800:1, що робить зображення більш насиченим та деталізованим.</li><li>Поліпшені технології зображення та звукуТелевізор KIVI 40F9000HB оснащений безліччю технологій для покращення зображення, таких як MPEG Noise reduction, Adaptive Luma Control, Flesh Tone, DI Film Mode, Max Vivid, SDR to HDR, Super Contrast Control, Blue Stretch та Color tuner.</li></ul><p>Ці функції дозволяють насолоджуватися зображенням високої якості з чіткістю та яскравістю, які задовольнять навіть найвибагливіших глядачів.</p>]]></description>
+<attribute_set code="161">Телевізори</attribute_set>
+<param paramcode="brand" name="Бренд">Kivi</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Китай</param>
+<param paramcode="width" name="Ширина"><![CDATA[915]]></param>
+<param paramcode="height" name="Висота"><![CDATA[529]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[28.1]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[6160]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+<offer id="HT5793" available="true">
+<price>6186.00</price>
+<availability>in_stock</availability>
+<category code="1619">Бойлери</category>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000001754_221889547.jpg</picture>
+<name lang="ua">Водонагрівач Novatec Standart NT-S 80</name>
+<description lang="ua"><![CDATA[<ul><li>Бойлер NOVA TEC Standard 80 (NT-S 80) за один раз може видати до 245 літрів гарячої води, при температурі води у водопроводі 22,50С, у водонагрівачі 75С, суміші 40С.</li><li>Завдяки оптимальному співвідношенню габаритних розмірів, літражу, часу нагрівання, витрати електроенергії і ціни, водонагрівач NOVA TEC STANDARD 80 став домашнім улюбленцем для багатьох тисяч сімей.</li></ul><p>Цей бойлер підходить для квартири, невеликого приватного будинку, дачі, салону краси, кафе, готелі, бази відпочинку та ін. Основні характеристики: - Регульований термостат виконує відразу 3 функції: управління температурою, забезпечення роботи в автоматичному режимі і безпека. Регулювання дозволяє контролювати витрату електроенергії, а, отже, і фінансові витрати. Автоматика забезпечує роботу водонагрівача NOVA TEC за принципом «включив і забув» (повний автомат).- Класичний мідний ТЕН оптимальної потужності не схильний до корозії. Він забезпечує швидкий нагрів, дбайливо витрачає електроенергію і прекрасно працює навіть при зниженій напрузі в мережі. ТЕН адаптований для роботи в наших умовах і стійкий до перепадів напруги.- Для додаткового захисту від корозії в водонагрівачах NOVA TEC використовується магнієвий протектор.</p>]]></description>
+<attribute_set code="1619">Бойлери</attribute_set>
+<param paramcode="brand" name="Бренд">Novatec</param>
+<param paramcode="country_of_origin" name="Країна-виробник">Україна</param>
+<param paramcode="width" name="Ширина"><![CDATA[481]]></param>
+<param paramcode="height" name="Висота"><![CDATA[768]]></param>
+<param paramcode="length" name="Глибина"><![CDATA[481]]></param>
+<param paramcode="weight" name="Вага"><![CDATA[23100]]></param>
+<param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
+<param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
+</offer>
+</offers>
+</yml_catalog>
