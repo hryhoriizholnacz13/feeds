@@ -71357,9 +71357,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT30426" available="true">
+<offer id="HT30426" available="false">
 <price>1036.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011861_5008802446_w640_h2048.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011861_RKT79-S-Smart-2.jpg</picture>
@@ -76812,9 +76812,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT34715" available="true">
+<offer id="HT34715" available="false">
 <price>1893.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000162071.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000162072.jpg</picture>
@@ -79854,9 +79854,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35818" available="true">
+<offer id="HT35818" available="false">
 <price>13736.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="1619">Бойлери</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180545.jpg</picture>
 <name lang="ua">Водонагрівач TIKI GBF 100 UA</name>
@@ -81432,9 +81432,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT6934" available="true">
+<offer id="HT6934" available="false">
 <price>3843.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="101">Мультиварки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000001358_4660693.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000001358_4660694.jpg</picture>
