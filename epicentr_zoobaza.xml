@@ -34317,9 +34317,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4019008609852]]></param>
 </offer>
-<offer id="TX29754" available="true">
+<offer id="TX29754" available="false">
 <price>2650.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7376">Шлейки для тварин</category>
 <picture>https://todlib2b.com.ua/content/images/25/52801526461945_+47f3f097e5.jpg</picture>
 <picture>https://todlib2b.com.ua/content/images/25/54837363822088_+0605d3ee0a.jpg</picture>
@@ -54452,9 +54452,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[886284451413]]></param>
 </offer>
-<offer id="TX45442" available="true">
+<offer id="TX45442" available="false">
 <price>949.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="9410">Іграшки для собак</category>
 <picture>https://todlib2b.com.ua/content/images/41/60431681765886_+5607a09148.jpg</picture>
 <name lang="ua">Іграшка для перетяжок для собак маленьких порід і цуценят COACHI Tuggi Tug Зелений</name>
@@ -56931,9 +56931,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[9345719115401]]></param>
 </offer>
-<offer id="TX46597" available="true">
+<offer id="TX46597" available="false">
 <price>656.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4850">Засоби для прибирання за тваринами</category>
 <picture>https://todlib2b.com.ua/content/images/50/29465030267691_+df8b28b8f9.jpg</picture>
 <picture>https://todlib2b.com.ua/content/images/50/49572026303431_+ff6f0f6379.jpg</picture>
@@ -75574,9 +75574,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT33306" available="true">
+<offer id="HT33306" available="false">
 <price>750.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="2788">Фени</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014743_315207037.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000014743_315207044.jpg</picture>
