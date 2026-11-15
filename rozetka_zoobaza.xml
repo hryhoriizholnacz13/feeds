@@ -57082,31 +57082,6 @@
 <param name="Розмір">40</param>
 <param name="EAN">7071652326001</param>
 </offer>
-<offer id="TX41102" available="true">
-<stock_quantity>2</stock_quantity>
-<price>7190.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>3935762</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41102-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41102-2.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41102-3.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41102-4.jpg</picture>
-<vendor>Non-stop dogwear</vendor>
-<article>41102</article>
-<name>Зимняя куртка для собак Non-stop dogwear Glacier wool jacket 3.0 Зеленый 55 (41102)</name>
-<name_ua>Зимова куртка для собак Non-stop dogwear Glacier wool jacket 3.0 Зелений 55 (41102)</name_ua>
-<description><![CDATA[<ul><li>Glacier wool jacket 3.0 — новое поколение зимней защиты!</li><li>Зиме не устоять перед силой шерсти!</li></ul><p>Эта утеплённая куртка для собак изготовлена из природного высокотехнологичного волокна — мериносовой шерсти — в сочетании с ECO-утеплителем, обеспечивая исключительное тепло, комфорт и контроль влаги. Куртка защищает даже в самых суровых погодных условиях, не ограничивая движений вашего питомца.</p><p>Обновлённая Glacier wool jacket 3.0 предлагает ещё больше тепла, комфорта и долговечности. Водоотталкивающая и ветрозащитная внешняя ткань выдерживает сильный снег и лёгкий дождь, сохраняя собаку сухой и уютной. Более плотный ECO-утеплитель в сочетании с мягкой подкладкой из мериносовой шерсти обеспечивает надёжное тепло даже в самые морозные дни.</p><p>Мериносовая шерсть — натуральный и экологичный материал с глубокими норвежскими традициями. Она прекрасно впитывает влагу, оставаясь сухой на ощупь, и эффективно регулирует температуру тела собаки, будь то холодная погода или восстановление после активности.</p><p>Куртка разработана для активного использования: эргономичный крой обеспечивает полную свободу движений даже при высокой скорости. Благодаря 14 размерам и 4 точкам регулировки она идеально подходит большинству собак.</p><p>Продуманные детали делают куртку особенно функциональной: дренажные отверстия предотвращают накопление воды, двойные отверстия для поводка обеспечивают универсальность, светоотражающие элементыповышают видимость со всех сторон, а усиленные панели защищают от веток и кустарников. Эластичные задние ремешки фиксируют куртку на месте даже при беге или сильном ветре.</p>]]></description>
-<description_ua><![CDATA[<ul><li>Glacier wool jacket 3.0 — нове покоління зимового захисту!</li><li>Зима не має жодного шансу проти сили вовни!</li></ul><p>Ця утеплена куртка для собак виготовлена з природного функціонального волокна — мериносової вовни — у поєднанні з ECO-утеплювачем, що забезпечує виняткове тепло, комфорт і контроль вологості. Вона надійно захищає навіть у найсуворіших погодних умовах, не обмежуючи рухів вашого собаки.</p><p>Оновлена версія Glacier wool jacket 3.0 пропонує ще більше тепла, зручності й довговічності. Водовідштовхувальна та вітрозахисна зовнішня тканина ефективно протистоїть сильному снігу й легкому дощу, зберігаючи сухість і комфорт. Щільніший ECO-утеплювач у поєднанні з м’якою підкладкою з мериносової вовни дарує тепло навіть у найлютіші морози.</p><p>Мериносова вовна — це натуральний і стійкий матеріал з норвезькими традиціями, який чудово вбирає вологу, не створюючи відчуття сирості чи холоду. Вона дихає та підтримує оптимальну температуру тіла собаки як під час активності, так і під час відпочинку.</p><p>Куртка розроблена для активного використання: ергономічний крій забезпечує повну свободу рухів, навіть на високій швидкості. Завдяки 14 розмірам і 4 точкам регулювання вона ідеально підходить більшості собак.</p><p>Продумані деталі підсилюють функціональність: дренажні отвори запобігають накопиченню води, подвійні отвори для повідця додають універсальності, світловідбивальні елементи покращують видимість у темряві, а посилені панелі захищають від гілок і рослинності. Еластичні задні ремінці допомагають зберігати ідеальне положення куртки навіть під час бігу чи сильного вітру.</p>]]></description_ua>
-<param name="Особливості">Утепленный</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Вид">Куртки</param>
-<param name="Колір">Зелений</param>
-<param name="Тварина">Собака</param>
-<param name="Сезон">Зима</param>
-<param name="Тип">Куртки</param>
-<param name="Розмір">55</param>
-<param name="EAN">7071652326032</param>
-</offer>
 <offer id="TX41112" available="true">
 <stock_quantity>2</stock_quantity>
 <price>6590.00</price>
@@ -64647,8 +64622,6 @@
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45953-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45953-2.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45953-3.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45953-4.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45953-5.jpg</picture>
 <vendor>Cloud7</vendor>
 <article>45953</article>
 <name>Комбинезон для французских бульдогов и других брахицефальных пород собак Cloud7 Cornwall Fr Bullg Оливковый Тедди 4 (45953)</name>
@@ -81420,8 +81393,6 @@
 <categoryId>80141</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_b5e5fd81-0db0-11ed-89ed-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_b5e5fd81-0db0-11ed-89ed-dc4a3e701323.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000008842_h0c994szew1.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000008842_327362286.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000008842_327362308.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000008842_327362329.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/8_000008842_327362349.jpg</picture>
@@ -89134,8 +89105,8 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31943" available="true">
-<stock_quantity>1</stock_quantity>
-<price>31419.00</price>
+<stock_quantity>3</stock_quantity>
+<price>30500.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000013379_451005699.jpg</picture>
@@ -95916,7 +95887,7 @@
 <param name="Тип фреону">R32</param>
 </offer>
 <offer id="HT33954" available="true">
-<stock_quantity>15</stock_quantity>
+<stock_quantity>18</stock_quantity>
 <price>30800.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80141</categoryId>
@@ -95965,7 +95936,6 @@
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153906.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153907.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153908.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153909.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/00001539099.jpg</picture>
 <vendor>Gorenje</vendor>
 <article>BOS6737E06BG + GI6401BSC</article>
@@ -96904,7 +96874,6 @@
 <currencyId>UAH</currencyId>
 <categoryId>80203</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156972.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156973.jpg</picture>
 <vendor>Gorenje</vendor>
 <article>FN617EEW5</article>
 <name>Морозильная камера Gorenje FN617EEW5 (FN617EEW5)</name>
@@ -98622,7 +98591,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT34720" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>17813.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -99777,7 +99746,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT34979" available="true">
-<stock_quantity>46</stock_quantity>
+<stock_quantity>45</stock_quantity>
 <price>20694.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -104054,8 +104023,8 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT35433" available="true">
-<stock_quantity>1</stock_quantity>
-<price>15444.00</price>
+<stock_quantity>4</stock_quantity>
+<price>15213.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000174152.jpg</picture>
@@ -104662,11 +104631,8 @@
 <price>18875.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175321.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175322.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175323.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175324.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175325.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175326.jpg</picture>
 <vendor>Samsung</vendor>
 <article>WW70FG3M05AWLF</article>
@@ -104910,6 +104876,34 @@
 <param name="Потужність">1400 Вт</param>
 <param name="Гарантія">24 місяці</param>
 </offer>
+<offer id="HT35537" available="true">
+<stock_quantity>5</stock_quantity>
+<price>25113.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>80203</categoryId>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175982.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175983.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175984.jpg</picture>
+<vendor>Gorenje</vendor>
+<article>FN617EES5</article>
+<name>Морозильная камера Gorenje FN617EES5 (FN617EES5)</name>
+<name_ua>Морозильна камера Gorenje FN617EES5 (FN617EES5)</name_ua>
+<description><![CDATA[<p>Больше никакого надоедливого размораживанияNoFrostИнтенсивная циркуляция холодного воздуха удаляет влагу из морозильной камеры. Благодаря этому на продуктах не образуется иней, а на внутренних стенках — лед, что также помогает снизить потребление электроэнергии. В результате полезный объем камеры используется максимально эффективно, а размораживание и очистка больше не нужны.</p><ul><li>Упаковки и куски замороженных продуктов не будут слипаться, поэтому внутри всегда будет чисто и аккуратно.</li><li>Идеальный микроклимат на каждой полкеMultiFlow 360⁰Холодный воздух равномерно распределяется по всей морозильной камере, поддерживая постоянную температуру.</li></ul><ul><li>Благодаря этому продукты дольше сохраняют свою свежесть.</li><li>Быстрое замораживаниеFastFreezeБыстрое замораживание свежих продуктов при температуре -24°C сохраняет их качество, минералы и витамины.</li><li>Электронное управлениеБольшой и четкий LED-дисплей, расположенный спереди морозильной камеры, обеспечивает удобный контроль настроек.</li></ul><p>Благодаря интуитивному интерфейсу вы можете легко отрегулировать и проверить температуру внутри камеры.</p><ul><li>Четкая маркировка и понятная панель управления обеспечивают удобство пользования морозильной камерой даже при слабом освещении.</li><li>Режим EcoВ случае длительного отсутствия холодильник можно перевести в энергосберегающий режим.</li></ul><ul><li>В это время дверца остается закрытой, что позволяет поддерживать немного более высокую температуру и экономить электроэнергию без риска потери свежести продуктов.</li><li>Светодиодное освещениеСистема LedLight в морозильной камере GORENJE — это современное решение освещения, которое обеспечивает ряд преимуществ, в частности энергосбережение, долговечность, лучшую видимость и привлекательный вид.</li></ul><p>Это практичное и эффективное решение, которое повышает комфорт пользования устройством.</p>]]></description>
+<description_ua><![CDATA[<p>Більше жодного надокучливого розморожуванняNoFrostІнтенсивна циркуляція холодного повітря видаляє вологу з морозильної камери. Завдяки цьому на продуктах не утворюється іній, а на внутрішніх стінках — лід, що також допомагає знизити споживання електроенергії. У результаті корисний об’єм камери використовується максимально ефективно, а розморожування та очищення більше не потрібні.</p><ul><li>Упаковки та шматки заморожених продуктів не злипатимуться, тому всередині завжди буде чисто та акуратно.</li><li>Ідеальний мікроклімат на кожній полиціMultiFlow 360⁰Холодне повітря рівномірно розподіляється по всій морозильній камері, підтримуючи постійну температуру.</li></ul><ul><li>Завдяки цьому продукти довше зберігають свою свіжість.</li><li>Швидке заморожуванняFastFreezeШвидке заморожування свіжих продуктів при температурі -24°C зберігає їхню якість, мінерали та вітаміни.</li><li>Електронне управлінняВеликий і чіткий LED-дисплей, розташований спереду морозильної камери, забезпечує зручний контроль налаштувань.</li></ul><p>Завдяки інтуїтивному інтерфейсу ви можете легко відрегулювати й перевірити температуру всередині камери.</p><ul><li>Чітке маркування та зрозуміла панель керування забезпечують зручність користування морозильною камерою навіть при слабкому освітленні.</li><li>Режим EcoУ разі тривалої відсутності холодильник можна перевести в енергоощадний режим.</li></ul><ul><li>У цей час дверцята залишаються зачиненими, що дозволяє підтримувати трохи вищу температуру і заощаджувати електроенергію без ризику втрати свіжості продуктів.</li><li>Світлодіодне освітленняСистема LedLight у морозильній камері GORENJE — це сучасне рішення освітлення, яке забезпечує низку переваг, зокрема енергоощадність, довговічність, кращу видимість і привабливий вигляд.</li></ul><p>Це практичне й ефективне рішення, що підвищує комфорт користування пристроєм.</p>]]></description_ua>
+<param name="Тип">Морозильна камера</param>
+<param name="Колір">Сріблястий</param>
+<param name="Кількість відділень">7</param>
+<param name="Ширина">59 см</param>
+<param name="Керування">Електронне</param>
+<param name="Клас енергоспоживання">А++</param>
+<param name="Тип камери">Камера</param>
+<param name="Система охолодження">NoFrost</param>
+<param name="Тип компресора">Звичайний</param>
+<param name="Автономне збереження холоду">10 год</param>
+<param name="Загальний об&apos;єм">240 л</param>
+<param name="Висота">172 см</param>
+<param name="Гарантія">24 місяці</param>
+</offer>
 <offer id="HT35545" available="true">
 <stock_quantity>4</stock_quantity>
 <price>26538.00</price>
@@ -105083,6 +105077,37 @@
 <param name="Колір">Різнокольоровий</param>
 <param name="Об`єм">750 мл</param>
 <param name="Гарантія">12 місяців</param>
+</offer>
+<offer id="HT35570" available="true">
+<stock_quantity>3</stock_quantity>
+<price>17713.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>80124</categoryId>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000176471.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000176472.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000176473.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000176474.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000176475.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000176476.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000176478.jpg</picture>
+<vendor>Beko</vendor>
+<article>BM1WFSU37233WPBB</article>
+<name>Стиральная машина Beko BM1WFSU37233WPBB (BM1WFSU37233WPBB)</name>
+<name_ua>Пральна машина Beko BM1WFSU37233WPBB (BM1WFSU37233WPBB)</name_ua>
+<description><![CDATA[<p>Узкая стиральная машинкаМаксимальная производительность, минимальные размеры - идеальное решение для небольшого пространства!</p><ul><li>Стиральные машины Beko глубиной всего 45 см легко поместятся даже в узкие помещения, обеспечивая эффективность и качество стирки.</li><li>Увеличенная дверцаТеперь загружать белье стало еще проще и удобнее.</li></ul><ul><li>Увеличенная дверца для загрузки одежды позволяет легко загружать даже объемные вещи, такие как одеяла или куртки.</li><li>Цифровой дисплейЯркий и четкий сенсорный экран позволяет легко контролировать все настройки стиральной машины, следить за временем до завершения цикла и быстро выбирать программы.</li></ul><p>В отличие от механических кнопок, сенсорное управление не пропускает пыль и влагу, что делает его более надежным.</p><ul><li>К тому же дисплей выглядит современно, а интуитивно понятное управление делает использование максимально комфортным.</li><li>КалибровкаРежим калибровки помогает вашей стиральной машине точно определять объем загрузки.</li></ul><p>Эту процедуру нужно выполнить всего один раз – во время первой установки.</p><ul><li>В дальнейшем машина будет автоматически распознавать загрузку и корректировать работу для достижения лучших результатов.</li><li>Подробную информацию об активации можно найти в инструкции.</li><li>Инверторный мотор ProSmartДвигатель ProSmart оснащен набором преимуществ, заметных с первого использования:энергоэффективность, которую вы можете увидеть в счете за электроэнергию,сниженный уровень шума за счет улучшенной регулировки скорости,отсутствие вибраций и устранение электромагнитных излучений.</li><li>Все эти преимущества удваиваются благодаря его долговечности и прочности, а также устранению элементов, подверженных износу, таких как угольные щетки в коллекторных моторах.</li><li>AddXtraЭто ваша суперсила добавлять забытые вещи в последний момент!</li></ul><p>Забыли носок или футболку?</p><ul><li>Остановите стирку, добавьте вещи и дайте машинке сделать всю работу — никаких проблем!</li><li>SteamCureИногда обычной стирки недостаточно.</li></ul><ul><li>SteamCure добавляет пар в процесс, чтобы разгладить ткани, удалить складки и уничтожить бактерии.</li><li>Как SteamCure работает для вас?</li><li>Пар проникает вглубь ткани, облегчая удаление грязи.</li><li>Обеспечивает свежесть одежды, даже если вы не стирали ее долгое время.</li><li>Уменьшает аллергены, что особенно важно для детей и чувствительных людей.</li><li>Эта технология идеально подходит для тех, кто хочет видеть свои вещи не только чистыми, но и ухоженными.</li><li>Экономия водыФункция позволяет стирать с меньшим количеством воды без каких-либо изменений в эффективности стирки.</li></ul><p>Уменьшается только количество воды для ополаскивания. Количество этапов промывки остается неизменным в алгоритме программы.</p>]]></description>
+<description_ua><![CDATA[<p>Вузька пральна машинкаМаксимальна продуктивність, мінімальні розміри - ідеальне рішення для невеликого простору!</p><ul><li>Пральні машини Beko із глибиною всього 45 см легко помістяться навіть у вузькі приміщення, забезпечуючи ефективність та якість прання.</li><li>Збільшені дверцятаТепер завантажувати білизну стало ще простіше і зручніше.</li></ul><ul><li>Збільшені дверцята для завантаження одягу дозволяють легко завантажувати навіть об’ємні речі, як ковдри чи куртки.</li><li>Цифровий дисплейЯскравий та чіткий сенсорний екран дозволяє легко контролювати всі налаштування пральної машини, стежити за часом до завершення циклу і швидко обирати програми.</li></ul><p>На відміну від механічних кнопок, сенсорне управління не пропускає пил і вологу, що робить його більш надійним.</p><ul><li>До того ж дисплей виглядає сучасно, а інтуїтивно зрозуміле управління робить використання максимально комфортним.</li><li>КалібруванняРежим калібрування допомагає вашій пральній машині точно визначати об’єм завантаження.</li></ul><p>Цю процедуру потрібно виконати лише один раз – під час першого встановлення.</p><ul><li>Надалі машина автоматично розпізнаватиме завантаження та коригуватиме роботу для досягнення найкращих результатів.</li><li>Детальну інформацію про активацію можна знайти в інструкції.</li><li>Інверторний мотор ProSmartДвигун ProSmart оснащений набором переваг, помітних з першого використання:енергоефективність, яку ви можете побачити на рахунку за електроенергію,знижений рівень шуму за рахунок покращеного регулювання швидкості,відсутність вібрацій та усунення електромагнітних випромінювань.</li><li>Всі ці переваги подвоюються завдяки його довговічності та міцності, а також усуненню елементів, схильних до зносу, такі як вугільні щітки в колекторних моторах.</li><li>AddXtraЦе ваша суперсила додавати забуті речі в останній момент!</li></ul><p>Забули шкарпетку або футболку?</p><ul><li>Зупиніть прання, додайте речі й дайте машинці зробити всю роботу — жодних проблем!</li><li>SteamCureІноді звичайного прання недостатньо.</li></ul><ul><li>SteamCure додає пар у процес, щоб розгладити тканини, видалити складки та знищити бактерії.</li><li>Як SteamCure працює для вас?</li><li>Пара проникає в глиб тканини, полегшуючи видалення бруду.</li><li>Забезпечує свіжість одягу, навіть якщо ви не прали його довгий час.</li><li>Зменшує алергени, що особливо важливо для дітей та чутливих людей.</li><li>Ця технологія ідеально підходить для тих, хто хоче бачити свої речі не лише чистими, а й доглянутими.</li><li>Економія водиФункція дозволяє прати з меншою кількістю води без жодних змін у ефективності прання.</li></ul><p>Зменшується лише кількість води для ополіскування. Кількість етапів промивання залишається незмінною в алгоритмі програми.</p>]]></description_ua>
+<param name="Тип">Пральна машина</param>
+<param name="Колір">Білий</param>
+<param name="Ширина">60 см</param>
+<param name="Керування">Електронно-механічне</param>
+<param name="Клас енергоспоживання">А+++</param>
+<param name="Макс. швидкість віджиму">1200 об/хв</param>
+<param name="Тип пральної машини">Автомат</param>
+<param name="Двигун">Інверторний</param>
+<param name="Кількість програм">14</param>
+<param name="Висота">84.5 см</param>
+<param name="Глибина">46,8 см</param>
+<param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT35579" available="true">
 <stock_quantity>4</stock_quantity>
@@ -105669,8 +105694,8 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35666" available="true">
-<stock_quantity>3</stock_quantity>
-<price>28957.00</price>
+<stock_quantity>6</stock_quantity>
+<price>28850.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175501.jpg</picture>
@@ -107119,7 +107144,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35809" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>34750.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -107707,7 +107732,7 @@
 <param name="Глибина">52 см</param>
 </offer>
 <offer id="HT35859" available="true">
-<stock_quantity>1</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>15125.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80141</categoryId>
@@ -108201,8 +108226,8 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT35917" available="true">
-<stock_quantity>2</stock_quantity>
-<price>22669.00</price>
+<stock_quantity>4</stock_quantity>
+<price>25875.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000181601.jpg</picture>
@@ -110140,8 +110165,8 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT36079" available="true">
-<stock_quantity>12</stock_quantity>
-<price>26125.00</price>
+<stock_quantity>14</stock_quantity>
+<price>26625.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183713.jpg</picture>
@@ -110281,7 +110306,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT36089" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>8</stock_quantity>
 <price>41650.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
