@@ -9774,9 +9774,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4823118706253]]></param>
 </offer>
-<offer id="ZB4231" available="true">
+<offer id="ZB4231" available="false">
 <price>1170.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4844">Корм для котів</category>
 <picture>https://www.zoobaza.com.ua/content/images/32/66210948638452_+66becb500d.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/32/1024x768l80mc0/33420585774555.jpg</picture>
@@ -9813,9 +9813,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4233" available="true">
+<offer id="ZB4233" available="false">
 <price>1170.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4844">Корм для котів</category>
 <picture>https://www.zoobaza.com.ua/content/images/34/22531632127511_+437ddcb18f.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/34/1024x768l80mc0/56502945771797.jpg</picture>
@@ -9993,9 +9993,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4244" available="true">
+<offer id="ZB4244" available="false">
 <price>6319.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4844">Корм для котів</category>
 <picture>https://www.zoobaza.com.ua/content/images/45/1024x768l80mc0/30929048941782.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/45/fitmin-cat-purity-urinary-10kg-68316086124514_+da6b6d6f85.png</picture>
@@ -10068,9 +10068,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4248" available="true">
+<offer id="ZB4248" available="false">
 <price>1072.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4844">Корм для котів</category>
 <picture>https://www.zoobaza.com.ua/content/images/49/1024x768l80mc0/37177776205560.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/49/1024x768l80mc0/15516537144757.jpg</picture>
@@ -10381,9 +10381,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4264" available="true">
+<offer id="ZB4264" available="false">
 <price>112.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4844">Корм для котів</category>
 <picture>https://www.zoobaza.com.ua/content/images/15/47753237856406_+267230bdf2.jpg</picture>
 <name lang="ua">Корм для котів Fitmin For Life Cream Sauce з яловичиною 100 г (312384020)</name>
@@ -10398,9 +10398,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4265" available="true">
+<offer id="ZB4265" available="false">
 <price>112.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4844">Корм для котів</category>
 <picture>https://www.zoobaza.com.ua/content/images/16/27195830718619_+d5179091c1.jpg</picture>
 <name lang="ua">Корм для котів Fitmin For Life Cream Sauce з качкою 100 г (312384019)</name>
@@ -10507,9 +10507,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4271" available="true">
+<offer id="ZB4271" available="false">
 <price>1471.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4842">Корм для собак</category>
 <picture>https://www.zoobaza.com.ua/content/images/22/1024x768l80mc0/66933242764070.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/22/1024x768l80mc0/22519863208104.jpg</picture>
@@ -10666,9 +10666,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4279" available="true">
+<offer id="ZB4279" available="false">
 <price>1470.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4842">Корм для собак</category>
 <picture>https://www.zoobaza.com.ua/content/images/30/1024x768l80mc0/21664807375279.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/30/1024x768l80mc0/64482747769329.jpg</picture>
@@ -10822,9 +10822,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4291" available="true">
+<offer id="ZB4291" available="false">
 <price>979.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4842">Корм для собак</category>
 <picture>https://www.zoobaza.com.ua/content/images/42/1024x768l80mc0/29227315946146.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/42/1024x768l80mc0/83836894316905.jpg</picture>
@@ -10896,9 +10896,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4295" available="true">
+<offer id="ZB4295" available="false">
 <price>3582.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4842">Корм для собак</category>
 <picture>https://www.zoobaza.com.ua/content/images/46/1024x768l80mc0/44324605995150.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/46/1024x768l80mc0/99430124718321.jpg</picture>
@@ -11070,9 +11070,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4304" available="true">
+<offer id="ZB4304" available="false">
 <price>4223.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4842">Корм для собак</category>
 <picture>https://www.zoobaza.com.ua/content/images/5/1024x768l80mc0/41147771111298.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/5/1024x768l80mc0/62490693627835.jpg</picture>
@@ -11168,9 +11168,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4309" available="true">
+<offer id="ZB4309" available="false">
 <price>1170.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4844">Корм для котів</category>
 <picture>https://www.zoobaza.com.ua/content/images/10/61795147495472_+0cca2b7201.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/10/600x600l80mc0/fitmin-cat-purity-hairball-dlia-dovhosherstykh-kotiv-z-yalovychynoiu-15-kh-52547261969960.jpg</picture>
@@ -11241,9 +11241,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4313" available="true">
+<offer id="ZB4313" available="false">
 <price>6869.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4842">Корм для собак</category>
 <picture>https://www.zoobaza.com.ua/content/images/14/47871053643732_+ed57125d6d.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/14/1024x768l80mc0/26270980398422.jpg</picture>
@@ -22569,9 +22569,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB5081" available="true">
+<offer id="ZB5081" available="false">
 <price>112.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4844">Корм для котів</category>
 <picture>https://www.zoobaza.com.ua/content/images/32/54688155267340_+b51f6cb00d.jpg</picture>
 <name lang="ua">Корм для котів Fitmin For Life Cream Sauce з куркою 100 г (312384018)</name>
@@ -22603,9 +22603,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB5083" available="true">
+<offer id="ZB5083" available="false">
 <price>227.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4842">Корм для собак</category>
 <picture>https://www.zoobaza.com.ua/content/images/34/70858096637861_+810849ec18.jpg</picture>
 <name lang="ua">Корм для собак Fitmin NP з ягням 400 г (321384004)</name>
