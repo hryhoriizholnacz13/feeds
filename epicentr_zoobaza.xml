@@ -47325,9 +47325,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[7071652326001]]></param>
 </offer>
-<offer id="TX41102" available="true">
+<offer id="TX41102" available="false">
 <price>7190.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7366">Одяг для собак</category>
 <picture>https://todlib2b.com.ua/content/images/16/82962979199874_+0d14bbed3e.jpg</picture>
 <picture>https://todlib2b.com.ua/content/images/16/86164482064694_+81ff73cf97.jpg</picture>
