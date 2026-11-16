@@ -82056,9 +82056,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT26423" available="true">
+<offer id="HT26423" available="false">
 <price>8279.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="77">Пральні машини</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000001119_10958766.jpg</picture>
 <name lang="ua">Пральна машина Artel TE 60 BLUE</name>
@@ -92016,9 +92016,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35729" available="true">
+<offer id="HT35729" available="false">
 <price>522.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="128">Машинки для стрижки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000179082.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000179083.jpg</picture>
@@ -92221,9 +92221,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35771" available="true">
+<offer id="HT35771" available="false">
 <price>37900.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="78">Холодильники</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000172577.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000172578.jpg</picture>
