@@ -36620,7 +36620,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Тепловентилятор MIDEA NF20-18URE використовує вихрову технологію для циркуляції тепла в концентрованому потоці повітря, що забезпечує кращий результат, ніж традиційні обігрівачі. цей продукт призначений для циркуляції тепла в певній зоні. Ідеально підходить для використання на столі або на підлозі, приносячи комфорт і тепло всій родині. 2 рівня нагріву + 2 налаштування швидкості вентилятора, функція вентилятора, діапазон температур: 18-30 градусів, захист від перегріву - функції, які принесуть задоволення від використання цієї моделі. Тепловентилятор MIDEA NF20-18URE зручно переносити завдяки ручці на тильній стороні.]]></description>
 </offer>
-<offer id="HT17798" available="true" selling_type="r">
+<offer id="HT17798" available="false" selling_type="r">
 <name>Кришка скляна Rotex RCL10-24</name>
 <categoryId>308</categoryId>
 <portal_category_id>15230302</portal_category_id>
@@ -37573,7 +37573,7 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Стильний, малогабаритний і економний водонагрівач в елегантному корпусі. Призначений для настінного вертикального монтажу з верхнім підводом комунікацій. Завдяки надмалій глибині (22,7 см) підійде для встановлення в приміщеннях обмеженої площі. Призначений для забезпечення невеликих потреб у гарячій воді, наприклад, на кухні, у медичному чи масажному кабінеті. Можливо швидко, менш ніж за 10 хв, приготувати 5 л гарячої води з температурою до 75 °C. Бойлер Midea D06-20VA(U) використовує надійний внутрішній бак з якісної холоднокатаної сталі товщиною 1,8 мм, розрахований на робочий тиск до 7,5 бар. Внутрішня поверхня цього бака захищена від контакту з водою емалевим покриттям, яке має високу стійкість до перепадів температури. Крім того, корозія забезпечує електрохімічну систему з магнієвим анодом. Високу швидкість нагрівання води забезпечує трубчастий електричний нагрівач потужністю 1600 Вт. Керування температурою виконується за допомогою надійного механічного термостату. Для тривалого збереження температури води апарат оснащений пінополіуретановою теплоізоляцією.]]></description>
 </offer>
-<offer id="HT19827" available="false" selling_type="r">
+<offer id="HT19827" available="true" selling_type="r">
 <name>Водонагрівач Midea PRIME плаский сухий тен D100-20ED6 (D)</name>
 <categoryId>221</categoryId>
 <portal_category_id>607</portal_category_id>
@@ -38010,7 +38010,7 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Тепер про компактний пристрій з різними функціями можна не тільки мріяти, адже мультимейкер ROTEX RSM222-B цілком відповідає цим характеристикам! У приладі передбачено 4 комплекти знімних пластин з антипригарним покриттям, які допоможуть вам приготувати не тільки найніжніші вафлі, бутерброди з хрусткою скоринкою , але і страви на грилі, а також спекти основу для улюблених «горішків» зі згущеним молоком. Спеціальні індикатори повідомлять про включення вафельниці і її готовності до роботи. А для особливої безпеки вафельниця обладнана затискач-блокуванням.]]></description>
 </offer>
-<offer id="HT22579" available="true" selling_type="r">
+<offer id="HT22579" available="false" selling_type="r">
 <name>Бутербродниця Zelmer ZSM7900 (3 в 1)</name>
 <categoryId>293</categoryId>
 <portal_category_id>6300413</portal_category_id>
@@ -39712,7 +39712,7 @@
 <portal_category_id>63708</portal_category_id>
 <price>673.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>23</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000009968_eb532183-4e3c-400c-83c5-44db08244c0a.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000009968_7c4725dd-1570-4d18-acd6-9967d8411c51.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000009968_6a5c5d48-882d-4885-9306-a1381db3eb22.jpg</picture>
@@ -39729,6 +39729,32 @@
 <param name="Стандарт VESA">75x75 мм, 200x200 мм</param>
 <param name="Гарантія">60 міс</param>
 <description><![CDATA[Кронштейн похило-поворотний для телевізорів з діагоналлю 24”-50”, максимальне навантаження 30 кг, кут нахилу -10°~+5°, кут повороту 180°, відстань від стіни 65-200 мм.]]></description>
+</offer>
+<offer id="HT24440" available="true" selling_type="r">
+<name>Кронштейн ATG W2450FB (24&quot;-50&quot; Статичний)</name>
+<categoryId>314</categoryId>
+<portal_category_id>63708</portal_category_id>
+<price>403.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>20</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000009970_6c1a90b7-97b6-44a4-b1de-b6391f8ddbac.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000009970_e83b4a80-46f8-4ec4-940c-b129d4640a1c.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000009970_0-02-05-08a57512d7ec6c6cd9dd96cec.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000009970_0-02-05-87fdc.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000009970_0-02-05-631785b124ad5da633.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000009970_0-02-05-be91090f92ae.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000009970_0-02-05-c9aa6cfd575.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/8_000009970_0-02-05-e449f482b335b.jpg</picture>
+<vendor>ATG</vendor>
+<vendorCode>HT24440</vendorCode>
+<country>Україна</country>
+<param name="Колір">Чорний</param>
+<param name="Призначення">для телевізора</param>
+<param name="Діагональ екрана">24-50&quot;</param>
+<param name="Максимальне навантаження, кг">30 кг</param>
+<param name="Стандарт VESA">75x75 мм, 200x200 мм</param>
+<param name="Гарантія">60 міс</param>
+<description><![CDATA[Фіксоване положення Діагональ: 24"-50" Навантаження: до 30 кг Відстань від стіни: 25 мм Відповідає стандартам VESA: від 75х75 до 200х200 мм Необхідні кріплення для встановлення в комплекті]]></description>
 </offer>
 <offer id="HT24441" available="true" selling_type="r">
 <name>Кронштейн ATG W2450TB (24&quot;-50&quot; Похило-Поворотний)</name>
@@ -40227,7 +40253,7 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Унікальні можливості Мультиварка Tefal RK812B32 поєднує в собі функції сучасного пристрою, який дозволяє автоматизувати процес готування, з тепловою обробкою за типом традиційної печі. Сферична чаша забезпечує рівномірний всебічний нагрів страви за рахунок 3D-конвекції повітря навколо її поверхні. Такого смаку страв в мультиварці іншого типу не вийде! Міцна чаша Чаша мультиварки Tefal RK812B32 являє собою багатошарову конструкцію, кожен з яких відповідає за своє завдання. Тому в результаті вийшла зручна ємність з міцним антипригарним покриттям і хорошим розсіюванням тепла. Чаша швидко нагрівається до потрібної температури і добре акумулює тепло, щоб продукт готувалися швидше і економніше. А після готування її дуже легко вимити, адже всередині гладка поверхня і немає кутів. Інтелектуальний режим приготування При виборі автоматичної програми мультиварка Tefal RK812B32 самостійно в процесі готування змінює налаштування температури на кожному етапі. За рахунок роботи системи Fuzzy Logic ви можете розраховувати на ідеальний результат при варінні рису, круп і плову. Блюдо буде ідеально готовим, розсипчастим і смачним. Набір програм Мультиварка Tefal RK812B32 має 45 режимів приготування. Таке різноманіття дозволить вам швидко підібрати оптимальний набір характеристик для улюбленої страви. При цьому в багатьох програмах параметри можна коригувати відповідно до ваших потреб. Доступний окремий ручний режим, в якому ви можете взяти на себе роль шеф-кухаря і самостійно встановити всі показники. Цей спосіб підійде для досвідчених користувачів, які хочуть отримати свій унікальний результат.]]></description>
 </offer>
-<offer id="HT25294" available="true" selling_type="r">
+<offer id="HT25294" available="false" selling_type="r">
 <name>Мультиварка-скороварка Rotex REPC53-B</name>
 <categoryId>282</categoryId>
 <portal_category_id>606</portal_category_id>
@@ -41274,7 +41300,7 @@
 <portal_category_id>603</portal_category_id>
 <price>17438.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>34</quantity_in_stock>
+<quantity_in_stock>33</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_cec7ed8c-40f6-11ed-89f0-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_cec7ed8c-40f6-11ed-89f0-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_cec7ed8c-40f6-11ed-89f0-dc4a3e701323.jpg</picture>
@@ -41523,7 +41549,7 @@
 <portal_category_id>152201</portal_category_id>
 <price>226.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000010031_23_4000.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000010031_2447533736_w640_h640_2447533736.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000010031_carine_white-1000x1000.jpg</picture>
@@ -42252,7 +42278,7 @@
 <name>Холодильник Gorenje NRK6202AC4 (бєжевий)</name>
 <categoryId>218</categoryId>
 <portal_category_id>602</portal_category_id>
-<price>32263.00</price>
+<price>33475.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_083cf8a0-0375-11ed-89ed-dc4a3e701323.jpg</picture>
@@ -45060,7 +45086,7 @@
 <portal_category_id>64404</portal_category_id>
 <price>295.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>12</quantity_in_stock>
+<quantity_in_stock>11</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011913_378753006.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011913_378753008.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011913_378753011.jpg</picture>
@@ -45298,7 +45324,7 @@
 <portal_category_id>615</portal_category_id>
 <price>30313.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012015_6_4000.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012015_1721892_zoom.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012015_1721897_zoom.jpg</picture>
@@ -45502,7 +45528,7 @@
 <portal_category_id>641</portal_category_id>
 <price>1182.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>31</quantity_in_stock>
+<quantity_in_stock>21</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012031_w530_falltrbmr_411b5551.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012031_w530_fallts6fg_59f5ade9.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012031_w530_falltt4ej_838707c1.jpg</picture>
@@ -46357,7 +46383,7 @@
 <portal_category_id>64403</portal_category_id>
 <price>333.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>42</quantity_in_stock>
+<quantity_in_stock>40</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012222__1_312.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012222_file_1784_1_2.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012222__2_253_3.jpg</picture>
@@ -46448,7 +46474,7 @@
 <portal_category_id>61903</portal_category_id>
 <price>15150.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>17</quantity_in_stock>
+<quantity_in_stock>15</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012246_omk58hu1b-n-a-1.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012246_omk58hu1b-n-a-3.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012246_omk58hu1b-n-a-2.jpg</picture>
@@ -46545,7 +46571,7 @@
 <portal_category_id>15230303</portal_category_id>
 <price>3438.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012248_7851217_2.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012248_w530_ffqopqsq9_d5c3d544.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012248_w530_ffqoprvaa_298c325c.jpg</picture>
@@ -46583,7 +46609,7 @@
 <portal_category_id>602</portal_category_id>
 <price>56419.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>16</quantity_in_stock>
+<quantity_in_stock>12</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_413c6ba3-9822-11ee-8a59-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_413c6ba3-9822-11ee-8a59-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_413c6ba3-9822-11ee-8a59-dc4a3e701323.jpg</picture>
@@ -47363,13 +47389,13 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Повновбудована кухонна витяжка Minola HBI 5614 I 1000 LED обладнана одним двигуном оптимальною потужністю 130 Вт. Максимальна продуктивність пристрою в режимі відведення повітря складає 1000 м3/год. Це дозволяє ефективно видаляти випари, небажані запахи та кіптяву, які утворюються в процесі приготування їжі. Оформлення та дизайн Завдяки чудовим ергономічним якостям, якими наділена модель, вона підійде як до маленької, так і до стандартної кухні. Частина конструкції пристрою, яка має бути прихована від очей, повністю ховається у шафі, а робоча частина залишається на виду та органічно доповнює загальний дизайн. Компактний корпус Super Slim являє собою раціональне рішення. Завдяки його висоті усього 165 мм, витяжка ідеально підходить для монтажу в приміщеннях з обмеженим простором, не займаючи багато місця. Якість Відкрита частина витяжки виготовлена з високоякісної нержавіючої сталі AISI 304. Цей матеріал, крім візуальної привабливості, дуже легкий у догляді і має високу стійкість до зовнішніх впливів. Алюмінієвий фільтр Кухонна витяжка Minola HBI 5614 I 1000 LED обладнана алюмінієвим жировим фільтром, що складається з трьох шарів. Він забезпечує надійний захист двигуна та інших деталей пристрою від потрапляння жиру та випарів. Очищення фільтра слід проводити кожні 2-3 місяці вручну в мильному розчині або в посудомийній машині. Режими роботи Витяжка може працювати у двох режимах: Режим відведення – повітря виводиться назовні через вентиляційний отвір; Режим рециркуляції – повітря циркулює всередині приміщення та очищується, проходячи через вугільний фільтр. Використання режиму рециркуляції витяжки можливе лише після встановлення вугільного фільтра, який продається окремо. Для вашої витяжки також можна підібрати відповідний вугільний фільтр від виробника. Надійне механічне керування Панель управління з 5-ма механічними кнопками перемикання швидкостей та ввімкнення освітлення розташована посередині на передній частині пристрою. Вона проста в управлінні та інтуїтивно зрозуміла. Сучасне освітлення Повновбудовувана кухонна витяжка обладнана LED-лампою потужністю 2 Вт. Світлодіодні лампи забезпечують комфортне додаткове освітлення вашої кухонної поверхні, є найбільш економним джерелом світла. Швидкості роботи Витяжка має 3 швидкості роботи. Необхідна швидкість обирається виходячи з інтенсивності забруднення повітря кухні. Кожній швидкості характерна різна продуктивність: На першій швидкості роботи витяжка забезпечує мінімальну продуктивність та шум і використовується при малій інтенсивності випарів; Друга швидкість із середньою продуктивністю використовується найчастіше і підходить для очищення повітря при готуванні їжі на двох конфорках одночасно; Третя швидкість роботи з максимальною продуктивністю та рівнем шуму використовується при високій концентрації випарів, гару та диму, які утворюються в процесі інтенсивного приготування їжі. Рівень шуму пристрою не перевищує 68 дБ, що вважається комфортним значенням.]]></description>
 </offer>
-<offer id="HT31350" available="false" selling_type="r">
+<offer id="HT31350" available="true" selling_type="r">
 <name>Кронштейн ATG M450B чорний для НВЧ</name>
 <categoryId>313</categoryId>
 <portal_category_id>64415</portal_category_id>
 <price>544.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>18</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012787_0_1613_72_0_1_IjSNtq.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012787_kr-plennya-svch-atg-m450b-1.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012787_kr-plennya-svch-atg-m450b-4.jpg</picture>
@@ -47393,7 +47419,7 @@
 <portal_category_id>64415</portal_category_id>
 <price>544.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>18</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012788_413390686.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012788_413390692.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012788_413390704.jpg</picture>
@@ -48129,7 +48155,7 @@
 <portal_category_id>63708</portal_category_id>
 <price>1505.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>11</quantity_in_stock>
+<quantity_in_stock>21</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000131491.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000131492.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000131493.jpg</picture>
@@ -48262,7 +48288,7 @@
 <portal_category_id>15230304</portal_category_id>
 <price>644.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013256_428302116.jpg</picture>
 <vendor>Maxmark</vendor>
 <vendorCode>HT31817</vendorCode>
@@ -48485,6 +48511,42 @@
 <param name="Розмір">36 х 6 х 7 см</param>
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Блендер BOSSO ProChef 1000-BL (641467) - це потужний та багатофункціональний пристрій, призначений для приготування різноманітних страв та напоїв. Він має високу потужність 1000 Вт і працює від стандартної електромережі змінного струму 220-240 В з частотою 50-60 Гц. Цей блендер оснащений кнопкою плавного регулювання швидкості та циферблатом для відображення поточної швидкості роботи. Він має 5 багатофункціональних лез з нержавіючої сталі SS304 з титановим покриттям, включаючи лезо для м'ясорубки, збивання, віночка, спінювання молока та багатофункціональне лезо, що робить його ідеальним для різних видів обробки продуктів. Корпус та нога блендера виготовлені з високоякісної нержавіючої сталі, забезпечуючи довговічність та привабливий зовнішній вигляд пристрою. Кручений шнур довжиною 4 метри забезпечує зручність використання без зайвих проводів на кухні. Додаткові функції та аксесуари включають захист від подряпин Blade Guard, ключ для зняття лез, мірну склянку об'ємом 600 мл, коробку для зберігання аксесуарів, а також книгу рецептів для натхнення на нові кулінарні експерименти. Блендер BOSSO ProChef 1000-BL (641467) характеризується низьким рівнем шуму та легкістю у догляді за ним, що робить його ідеальним вибором для сучасних кухонь. Продукт поставляється з гарантією на 24 місяці, забезпечуючи вам впевненість у його якості та надійності.]]></description>
+</offer>
+<offer id="HT31900" available="true" selling_type="r">
+<name>Холодильник Samsung RB38C676ES9/UA</name>
+<categoryId>218</categoryId>
+<portal_category_id>602</portal_category_id>
+<price>33500.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>1</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013337_444849672.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013337_444849673.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013337_444849674.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000013337_444849675.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000013337_444849677.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000013337_444849678.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000013337_444849680.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/8_000013337_444849683.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/9_000013337_444849676.jpg</picture>
+<vendor>Samsung</vendor>
+<vendorCode>HT31900</vendorCode>
+<country>Польща</country>
+<param name="Колір">Нержавіюча сталь</param>
+<param name="Споживана потужність">320 кВт/рік</param>
+<param name="Тип управління">Електронне</param>
+<param name="Ширина">59.5 см</param>
+<param name="Клас енергоспоживання">А+</param>
+<param name="Об&apos;єм морозильної камери">112 л</param>
+<param name="Система охолодження">NoFrost</param>
+<param name="Тип компресора">Інверторний</param>
+<param name="Об&apos;єм холодильної камери">273 л</param>
+<param name="Автономне збереження холоду">18 год</param>
+<param name="Загальний об&apos;єм">385 л</param>
+<param name="Вага">72 кг</param>
+<param name="Висота">203 cм</param>
+<param name="Глибина">65.8 см</param>
+<param name="Гарантія">36 місяців</param>
+<description><![CDATA[Розумно заощаджуйте енергію Режим SmartThings AI Energy — до 10%Зменшуйте споживання електроенергії до 10% за допомогою режиму AI Energy. Якщо ваш середній рахунок за електроенергію перевищує встановлену вами норму, він допоможе вам заощадити. Режим AI Energy оптимізує швидкість компресора та цикл розморожування залежно від способу використання та середовища. Більше простору всередині Технологія SpaceMax™Зберігайте більше продуктів у великому холодильнику об’ємом 385 літрів із глибиною 600 мм. Унікальна технологія SpaceMax™ використовує спеціальну високоуретанову ізоляцію, яка дозволяє зробити стінки набагато тоншими не погіршуючи при цьому енергоефективність. Таким чином, всередині стає більше простору. SmartThings вдома SmartThings EnergyКеруйте споживанням енергії, щоб зменшити викиди вуглецевого газу в атмосферу та заощадити гроші. SmartThings Energy надає поради щодо енергоефективності. Він також відстежує енергоспоживання приладів у режимі реального часу та порівнює його з попереднім місяцем. SmartThings Home Care Розумне обслуговування. Легкий догляд.Впорядковуйте, готуйте та купуйте їжу ефективніше. SmartThings Food дозволяє створювати список продуктів у вашому холодильнику та керувати термінами їхньої придатності, щоб ви могли перевірити, що у вас є. Він також рекомендує персоналізовані рецепти на основі ваших уподобань. Рівномірно охолоджує від кута до кута Всебічне охолодженняГарантує, що вся ваша їжа належним чином охолоджена. Система всебічного охолодження рівномірно охолоджує кожне відділення від кута до кута. Вона постійно перевіряє температуру та забезпечує циркуляцію холодного повітря через оптимально розташовані вентиляційні отвори. Триваліша свіжість продуктів без утворення льоду Система No Frost з автоматичним розморожуваннямНе витрачайте час і енергію на розморожування холодильника. Технологія No Frost покращує циркуляцію повітря для підтримки постійної температури, що запобігає утворенню льоду. Завдяки їй потрібна температура досягається набагато швидше. І вимагає менше навантаження від системи охолодження. Ідеальне зберігання свіжості м'яса та риби Optimal Fresh +Optimal Fresh + це окремий відсік для зберігання, який ідеально підходить для зберігання м'яса та риби. Температура там нижча, ніж у холодильнику, щоб вони лишалися свіжими та зберігали свій смак. Оптимальна вологість для тривалої свіжості Контроль вологості Humidity Fresh +Збережіть оригінальну текстуру продуктів, смак і запах протягом більш тривалого періоду. Ящик з контролем вологості включається простим поворотом ручки. Усередині створюються ідеальні умови для зберігання фруктів та овочів, так вони залишаються свіжими і соковитими. Швидке охолодження та заморожування за потреби Power Cool + Power FreezeНасолоджуйтеся швидким охолодженням. Одним натисканням кнопки Power Cool інтенсивно вдуває холодне повітря в холодильник, аби швидко охолодити ваші продукти чи улюблені напої. Power Freeze забезпечує швидку подачу холодного повітря в морозильну камеру. Чистота, надійність та захист Легка очисткаОчистити задню стінку вашого холодильника ще простіше. Захисний короб захищає кабелі і легко піддається очищенню, так що можна не переживати за комплектуючі холодильника. Відчиняються на 90° навіть біля стіни Зручне відчинення дверцятРозмістіть холодильник у зручному для вас місці, не зважаючи на стіни. Конструкція реверсивних дверцят дозволяє відчиняти їх на 90°, не зачіпаючи краєм жодну стіну. Таким чином, ви можете розмістити холодильник у найзручнішому місці, а дверцята повністю відчинятимуться до рівня бокової стіни.]]></description>
 </offer>
 <offer id="HT31914" available="true" selling_type="r">
 <name>Прал.порошок Lavandera Марсель 4,675 кг (85 пр.) Іспанія</name>
@@ -48891,7 +48953,7 @@
 <portal_category_id>15230304</portal_category_id>
 <price>1138.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013409_240948995.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013409_240949019.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013409_240949012.jpg</picture>
@@ -49087,7 +49149,7 @@
 <portal_category_id>15230304</portal_category_id>
 <price>607.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>14</quantity_in_stock>
+<quantity_in_stock>13</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013419_430841847.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013419_430841850.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013419_430841856.jpg</picture>
@@ -49940,7 +50002,7 @@
 <portal_category_id>617</portal_category_id>
 <price>429.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>11</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013529_auto.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013529_465483936.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013529_465483938.jpg</picture>
@@ -53154,7 +53216,7 @@
 <portal_category_id>28290204</portal_category_id>
 <price>425.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_00014413_470782898.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000014413_470782894.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000014413_470782903.jpg</picture>
@@ -53504,7 +53566,7 @@
 <portal_category_id>15230302</portal_category_id>
 <price>661.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014606_228_2817_0_1_IKBQJc.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000014606_228_2817_0_1_gmPfPV.jpg</picture>
 <vendor>Maxmark</vendor>
@@ -53518,7 +53580,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Ківш з кришкою Maxmark MK-S3701 є ідеальним вибором для тих, хто цінує високу якість та зручність у процесі приготування їжі. Цей ківш має об'єм 1,5 літра та діаметр 16 см, що дозволяє зручно готувати порційні страви, супи або соуси. Виготовлений з нержавіючої сталі, він гарантує довговічність і стійкість до корозії, що робить його надійним інструментом на кухні. Сталева ручка забезпечує зручне тримання і дозволть безпечно використовувати ківш під час готування. Ківш також оснащений спеціальним отвором для підвісу, що дозволяє зручно зберігати його на кухні. Завдяки кришці, цей ківш також забезпечує збереження тепла і прискорює процес приготування їжі. Ківш Maxmark сумісний з усіма типами плит, зокрема газовими, індукційними та електричними, що робить його універсальним у використанні. Ідеальний для повсякденного користування, він стане надійним помічником у приготуванні різноманітних страв.]]></description>
 </offer>
-<offer id="HT33170" available="true" selling_type="r">
+<offer id="HT33170" available="false" selling_type="r">
 <name>Каструля Maxmark MK-3701 (1.5л)</name>
 <categoryId>308</categoryId>
 <portal_category_id>15230303</portal_category_id>
@@ -53685,7 +53747,7 @@
 <portal_category_id>15230304</portal_category_id>
 <price>2519.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014614_490433645.jpg</picture>
 <vendor>Maxmark</vendor>
 <vendorCode>HT33177</vendorCode>
@@ -54240,7 +54302,7 @@
 <portal_category_id>63708</portal_category_id>
 <price>535.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>23</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014679_kr-plennya-tv-atg-w2455fb-6.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000014679_kr-plennya-tv-atg-w2455fb-3.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000014679_kr-plennya-tv-atg-w2455fb-4.jpg</picture>
@@ -55647,7 +55709,7 @@
 <portal_category_id>602</portal_category_id>
 <price>24313.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000015010_323422845.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000015010_323422846.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000015010_453777692.jpg</picture>
@@ -58141,7 +58203,7 @@
 <portal_category_id>64415</portal_category_id>
 <price>544.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>21</quantity_in_stock>
+<quantity_in_stock>19</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000154881.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000154882.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000154883.jpg</picture>
@@ -58869,7 +58931,7 @@
 <portal_category_id>15230302</portal_category_id>
 <price>742.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156188.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156189.jpg</picture>
 <vendor>Maxmark</vendor>
@@ -59183,13 +59245,31 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Ювелірні ваги Adler AD 3168 – висока точність для найдрібніших деталейЮвелірні ваги Adler AD 3168 – це компактний і високоточний прилад, який ідеально підходить для зважування дорогоцінних металів, каменів, спецій, ліків та інших дрібних предметів. Завдяки сучасному дизайну та ергономічному виконанню, ці ваги стануть незамінним інструментом для ювелірів, колекціонерів і всіх, хто цінує точність.]]></description>
 </offer>
+<offer id="HT34228" available="true" selling_type="r">
+<name>Ваги ювелірні ADLER AD 3176</name>
+<categoryId>277</categoryId>
+<portal_category_id>15230411</portal_category_id>
+<price>618.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>4</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156911.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156912.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156913.jpg</picture>
+<vendor>Adler</vendor>
+<vendorCode>HT34228</vendorCode>
+<param name="Живлення">Від батарейок</param>
+<param name="Тип ваг">Електронні</param>
+<param name="Матеріал корпусу">Пластик</param>
+<param name="Гарантія">12 міс</param>
+<description><![CDATA[Ваги ювелірні Adler AD-3176Рівномірність роботи, стабільність та точність виміру – основні переваги ювелірних вагAdler AD-3176. Інтуїтивно зрозуміле управління та невеликий розмір зроблять процес зважування швидким та зручним. Терези забезпечують точні вимірювання, а їх конструкція дозволить вам насолоджуватися службою довгі роки. Легкий портативний пристрій для дому та ювелірних цілей. Цікавий дизайн і чіткий дисплей роблять його ідеальним вибором, якщо ви шукаєте професійний прилад для вимірювання ваги! управління: механічне Діапазон вимірювання/точність: 100 г/0,01 гОдиниці виміру: г, гн, унція, унція, дедвейт, карат,РК-дисплей із підсвіткоюАвтовимкнення через 3 хвилиниПластиковий клапанТочний тензометричний датчикДжерело живлення: 2x1,5 В (ААА)]]></description>
+</offer>
 <offer id="HT34233" available="true" selling_type="r">
 <name>Морозильна камера Gorenje FN617EEW5</name>
 <categoryId>225</categoryId>
 <portal_category_id>62701</portal_category_id>
 <price>24838.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156970.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156971.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156972.jpg</picture>
@@ -59554,7 +59634,7 @@
 <portal_category_id>603</portal_category_id>
 <price>13494.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157501.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157502.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157503.jpg</picture>
@@ -61308,7 +61388,7 @@
 <name>Пральна машина Samsung WW60A3120BE/LE</name>
 <categoryId>229</categoryId>
 <portal_category_id>603</portal_category_id>
-<price>17813.00</price>
+<price>16750.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000162121.jpg</picture>
@@ -64079,7 +64159,7 @@
 <portal_category_id>15230422</portal_category_id>
 <price>158.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169311.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169312.jpg</picture>
 <vendor>FLORINA</vendor>
@@ -64114,7 +64194,7 @@
 <portal_category_id>15230302</portal_category_id>
 <price>340.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169371.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169372.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169373.jpg</picture>
@@ -64132,7 +64212,7 @@
 <portal_category_id>15230302</portal_category_id>
 <price>321.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>12</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169361.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169362.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169363.jpg</picture>
@@ -64150,7 +64230,7 @@
 <portal_category_id>15230302</portal_category_id>
 <price>296.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>11</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169351.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169352.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169353.jpg</picture>
@@ -64389,7 +64469,7 @@
 <portal_category_id>617</portal_category_id>
 <price>8894.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169131.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169132.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169133.jpg</picture>
@@ -64469,7 +64549,7 @@
 <portal_category_id>15230422</portal_category_id>
 <price>189.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>11</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169321.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169322.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169323.jpg</picture>
@@ -65514,7 +65594,7 @@
 <name>Пральна машина Samsung WW90DG5G34AELE</name>
 <categoryId>229</categoryId>
 <portal_category_id>603</portal_category_id>
-<price>26050.00</price>
+<price>24563.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171581.jpg</picture>
@@ -68213,7 +68293,7 @@
 <portal_category_id>151609</portal_category_id>
 <price>509.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000174641.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000174642.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000174643.jpg</picture>
@@ -68597,7 +68677,7 @@
 <name>Пральна машина Samsung WW70FG3M05AWLF</name>
 <categoryId>229</categoryId>
 <portal_category_id>603</portal_category_id>
-<price>18875.00</price>
+<price>17813.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175321.jpg</picture>
@@ -69341,7 +69421,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Світлодіодна LED лампа ETRON A70 25W 6500K E27 1-ELP-803Світлодіодна LED лампа ETRON Power Light A70 25W 6500K E27 створює яскраве холодне світло, яке ідеально підходить для освітлення великих приміщень, офісів, виробничих цехів, складських приміщень та вуличних ліхтарів. Завдяки потужності 25W та цоколю E27 ця лампа забезпечує інтенсивне світло з низьким енергоспоживанням.Основні характеристики:Тип лампи: Світлодіодна (LED)Потужність: 25WМодель: A70 – потужне світло для великих приміщеньКолірна температура: 6500K – холодне біле світло, що підходить для робочої атмосфериЦоколь: E27 – сумісність зі стандартними світильникамиНапруга: 185-265V – захист від стрибків напругиІндекс кольоропередачі: Ra>80 – природне відтворення кольорівГарантія: 2 рокиПереваги:Потужне світло: висока яскравість для великих площЕнергоефективність: заощадження до 90% електроенергіїБезпека: відсутність ультрафіолетового випромінювання та шкідливих речовинСумісність: стандартний цоколь E27 підходить для багатьох світильниківРівномірне освітлення: високий індекс кольоропередачі та відсутність мерехтіння]]></description>
 </offer>
-<offer id="HT35558" available="true" selling_type="r">
+<offer id="HT35558" available="false" selling_type="r">
 <name>Глечик Florina 3D1733 Rumba 1.3 л з кришкою</name>
 <categoryId>308</categoryId>
 <portal_category_id>15230302</portal_category_id>
@@ -69779,7 +69859,7 @@
 <name>Пральна машина Samsung WW90DG6G94LBUA</name>
 <categoryId>229</categoryId>
 <portal_category_id>603</portal_category_id>
-<price>29688.00</price>
+<price>26625.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000172531.jpg</picture>
@@ -70393,7 +70473,7 @@
 <portal_category_id>6300420</portal_category_id>
 <price>347.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178081.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178082.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178083.jpg</picture>
@@ -72239,7 +72319,7 @@
 <portal_category_id>602</portal_category_id>
 <price>4957.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000179541.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000179542.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000179543.jpg</picture>
@@ -75512,7 +75592,7 @@
 <portal_category_id>63708</portal_category_id>
 <price>792.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>14</quantity_in_stock>
+<quantity_in_stock>24</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175471.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175472.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175473.jpg</picture>
@@ -75672,7 +75752,7 @@
 <param name="Гарантія">25 міс</param>
 <description><![CDATA[Minola HBI 5722 BLF 1200 LED – це потужна витяжка з максимальною продуктивністю 1200 м³/год у класичному чорному кольорі. Ширина 525 мм робить його універсальним рішенням для кухонних просторів будь-якого типу.Механічне управління з трьома швидкостями забезпечує простоту та зручність у використанні. Фільтр із чорного алюмінію надійно затримує жири, а LED-підсвічування 2х1,5 Вт створює якісне освітлення. Рівень шуму досягає 72 дБ, що цілком зручно для побутової техніки з такою потужністю.Основні перевагиМодель Minola HBI 5722 BLF 1200 LED виконана в універсальному чорному кольорі з передньою панеллю зі скла, яка легко очищається та надає витонченості загального вигляду.Витяг ідеально підходить для відкритих планувань або невеликих приміщень, де важливо зберегти візуальну легкість простору. Цілком вбудована установка робить пристрій майже непомітним, залишаючи в полі зору елегантну декоративну панель. Це забезпечує високий рівень естетики навіть у мінімалістичному інтер'єрі.Технічні характеристикиШирина витяжки становить 525 мм, що робить її сумісною із більшістю стандартних кухонних модулів.Витяжка має два рівні швидкості, що дозволяє адаптувати потужність всмоктування залежно від інтенсивності приготування їжі.Максимальна продуктивність моделі - 1200 м ³ / год, чого достатньо для очищення повітря в кухнях площею до 20 м ².У моделі встановлений надійний двигун турбінного типу, який забезпечує стабільну роботу навіть при інтенсивному навантаженні.Потужність витяжки – 200 Вт, що свідчить про хорошу енергоефективність.Клас енергоспоживання моделі – B, що оптимально поєднує потужність та помірне використання електроенергії.ПродуктивністьВитяжка демонструє високу швидкість фільтрації повітря до 1200 м³/год, що забезпечує ефективне усунення випарів, диму та запахів вже за кілька хвилин після включення. Така потужність дозволяє використовувати її навіть за інтенсивного приготування їжі з великою кількістю жиру або спецій. Два режими швидкості дозволяють гнучко керувати інтенсивністю очищення повітря залежно від обставин.Потужність та моторУ моделі встановлений один високопродуктивний двигун потужністю 200 Вт, що забезпечує достатню силу всмоктування для повноцінного очищення навіть на великій кухні. Мотор працює стабільно та тихо, підтримуючи оптимальну продуктивність. Завдяки використанню якісних підшипників та збалансованого вентилятора, витяжка працює довговічно та не потребує додаткового обслуговування. Конструкція витяжки має на увазі якісну теплоізоляцію моторного відсіку, що зменшує нагрівання компонентів та продовжує термін служби двигуна.УправлінняМеханічна система управління розташована на передній панелі витяжки та забезпечує швидкий доступ до основних функцій. Панель управління має підвищену зносостійкість і зберігає чіткість маркування навіть після тривалого використання. Відсутність сенсорних чи електронних елементів знижує ризик збоїв при підвищеної вологості чи перепадах напруги. Механічне керування також легко чиститься - достатньо протерти вологою серветкою.Режими роботиMinola HBI 5722 BLF 1200 LED підтримує два режими роботи: відведення повітря у вентиляційний канал та рециркуляцію.У режимі відведення забруднене повітря видаляється з приміщення через вентиляцію, що забезпечує максимально швидке очищення.У режимі рециркуляції повітря проходить через вугільний фільтр і повертається до кухні вже очищеним від запахів та жиру.Це дозволяє використовувати витяжку навіть у приміщеннях без доступу до вентиляційного каналу. Для рециркуляційного режиму необхідно встановити вугільний фільтр. Режими перемикаються вручну, що дозволяє повністю контролювати процес очищення повітря.ДизайнВитяжка Minola HBI 5722 BLF 1200 LED має витончений та лаконічний дизайн, що ідеально доповнює сучасний інтер'єр кухні. Чорне загартоване скло з матовою обробкою надає глибині та елегантності зовнішнього вигляду пристрою. Завдяки повнобудованій конструкції корпус повністю ховається у шафу, залишаючи відкритою лише декоративну частину.Дизайн витяжки ідеально підходить для гарнітурів у стилі модерн, мінімалізмі та хай-тек. Прозора фасадна панель легко миється та зберігає привабливий вигляд протягом усього терміну експлуатації. Компактні габарити дозволяють встановити витяжку навіть у маленьких кухнях.Повно влаштована витяжка дозволяє повністю приховати корпус при монтажі в шафу, що дозволяє зберегти цілісність дизайну кухонного простору. Продумана конструкція забезпечує не тільки зручність використання, а й простий доступ до елементів догляду та фільтрів.ДоглядВитяжка оснащена багаторазовим алюмінієвим фільтром, який ефективно вловлює жир і легко знімається для миття. Фільтр можна очищати вручну або в посудомийній машині, що значно полегшує догляд. Регулярне очищення фільтра зберігає стабільність роботи витяжки та продовжує термін служби двигуна.Скляна панель очищається без спеціальних засобів – достатньо вологої серветки з нейтральним миючим розчином. Гладка поверхня без щілин запобігає накопиченню бруду. Конструкція витяжки має на увазі простий доступ до всіх компонентів, що робить обслуговування максимально комфортним.Рівень шуму у роботі витяжки становить 62 дБ, що є помірним показником для моделей потужністю понад 1000 м3/год. Низький рівень шуму особливо важливий для невеликих квартир, де кухня межує із вітальнею або спальнею. Витяжка не створює вібрацій та не впливає на загальне акустичне тло приміщення.ОсвітленняМодель обладнана енергоефективним LED-підсвічуванням потужністю 4 Вт (2×2 Вт), що забезпечує м'яке та рівномірне освітлення робочої поверхні. Світлодіоди розміщені з урахуванням ергономіки – вони не виробляють тіней і не спотворюють кольору страв. Освітлення вмикається окремою кнопкою та може бути використане незалежно від роботи витяжки.Термін служби LED-ламп перевищує 25 000 годин. Це зменшує потребу в обслуговуванні та гарантує стабільне освітлення на роки вперед.ФільтриMinola HBI 5722 BLF 1200 LED комплектується алюмінієвим жироуловлювальним фільтром багаторазового використання. Він складається з декількох шарів металевої сітки, що ефективно затримують краплі жиру та пари, не перешкоджаючи потоку повітря. Для рециркуляції передбачено встановлення додаткового вугільного фільтра, що очищає повітря від запахів та дрібнодисперсних частинок.Жировий фільтр знімається легким рухом і фіксується засувками, що спрощує догляд. Вугільні фільтри продаються окремо, і їх необхідно замінювати кожні 3-6 місяців, залежно від інтенсивності використання. Комплексна система фільтрації забезпечує повне очищення повітря та зберігає свіжість на кухні.]]></description>
 </offer>
-<offer id="HT36036" available="true" selling_type="r">
+<offer id="HT36036" available="false" selling_type="r">
 <name>Витяжка Minola HBI 6473 WH GLASS 800 LED line (повновбудована)</name>
 <categoryId>222</categoryId>
 <portal_category_id>642</portal_category_id>
@@ -76003,7 +76083,7 @@
 <portal_category_id>6300413</portal_category_id>
 <price>2695.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184251.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184252.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184253.jpg</picture>
@@ -80192,7 +80272,7 @@
 <portal_category_id>605</portal_category_id>
 <price>4450.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189471.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189472.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189473.jpg</picture>
@@ -80954,13 +81034,13 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Двокамерний холодильник Indesit INKS 1201 W4UA загальним об’ємом 207 л стане практичним рішенням для зберігання продуктів у домашніх умовах. Модель має відокремлений спосіб встановлення, нижнє розташування морозильної камери та клас енергоспоживання E (А+). Холодильник оснащений звичайним компресором і механічним керуванням без дисплея, що забезпечує просте та зрозуміле користування. Рівень шуму становить 39 дБ, а річне споживання електроенергії — 205 кВт·год.Холодильна камера має корисний об’єм 138 л і обладнана трьома скляними полицями, трьома дверними кошиками та контейнером для овочів. Система розморожування холодильної камери статична, а для освітлення використовується LED-підсвічування. Також передбачена зона свіжості, яка допомагає зручно організувати зберігання продуктів. Приховані горизонтальні ручки надають конструкції акуратного вигляду.Морозильна камера має корисний об’єм 69 л і складається з трьох секцій. Статична система розморожування забезпечує просту експлуатацію, а потужність заморожування становить 3,2 кг продуктів на добу. У разі відключення електроенергії холодильник здатний зберігати холод у морозильній камері до 14 годин. Льодогенератор у комплектації не передбачений.Корпус холодильника виконаний у білому кольорі. Габарити моделі становлять 148 см у висоту, 54 см у ширину та 55,5 см у глибину, що дозволяє розмістити її навіть у приміщенні з обмеженим простором. Холодильник працює з холодоагентом R600a, має кліматичний клас N-ST і розрахований на експлуатацію при температурі навколишнього середовища від +16 до +38 °C. Двері можна перевішувати залежно від особливостей розташування приладу.]]></description>
 </offer>
-<offer id="HT36266" available="false" selling_type="r">
+<offer id="HT36266" available="true" selling_type="r">
 <name>Холодильник Gorenje RK 4182 PS4</name>
 <categoryId>218</categoryId>
 <portal_category_id>602</portal_category_id>
 <price>19913.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180841.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180842.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180843.jpg</picture>
@@ -81022,7 +81102,7 @@
 <name>Прально-сушильна машина Samsung WD90DG6G94BKUA (9кг / 5кг)</name>
 <categoryId>231</categoryId>
 <portal_category_id>603</portal_category_id>
-<price>40225.00</price>
+<price>38875.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000190181.jpg</picture>
@@ -81200,7 +81280,7 @@
 <name>Прально-сушильна машина Samsung WD90DG5G34BELE (9кг / 5кг)</name>
 <categoryId>231</categoryId>
 <portal_category_id>603</portal_category_id>
-<price>36188.00</price>
+<price>34813.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000190201.jpg</picture>
@@ -81232,7 +81312,7 @@
 <name>Прально-сушильна машина Samsung WD90DG6G94BBUA (9кг / 5кг)</name>
 <categoryId>231</categoryId>
 <portal_category_id>603</portal_category_id>
-<price>41538.00</price>
+<price>38875.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000190171.jpg</picture>
