@@ -50039,9 +50039,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[745314272032]]></param>
 </offer>
-<offer id="TX32743" available="true">
+<offer id="TX32743" available="false">
 <price>1745.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7358">Вітаміни для тварин</category>
 <picture>https://todlib2b.com.ua/content/images/26/28029682464110_+de208f3adb.jpg</picture>
 <picture>https://todlib2b.com.ua/content/images/26/48950492552707_+fc64453c18.jpg</picture>
@@ -58306,9 +58306,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[7071652325691]]></param>
 </offer>
-<offer id="TX41292" available="true">
+<offer id="TX41292" available="false">
 <price>5690.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7366">Одяг для собак</category>
 <picture>https://todlib2b.com.ua/content/images/32/68036089106597_+0b5032f4da.jpg</picture>
 <picture>https://todlib2b.com.ua/content/images/32/89995006457210_+082a416b54.jpg</picture>
@@ -59265,9 +59265,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[5060084829695]]></param>
 </offer>
-<offer id="TX41810" available="true">
+<offer id="TX41810" available="false">
 <price>1550.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7366">Одяг для собак</category>
 <picture>https://todlib2b.com.ua/content/images/13/49215212910502_+a8b03763c0.jpg</picture>
 <picture>https://todlib2b.com.ua/content/images/13/57703770827745_+d18fcd3d93.jpg</picture>
@@ -66996,9 +66996,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[9345719115401]]></param>
 </offer>
-<offer id="TX46600" available="true">
+<offer id="TX46600" available="false">
 <price>1450.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7373">Повідці для тварин</category>
 <picture>https://todlib2b.com.ua/content/images/3/41512628830785_+9558ebb227.jpg</picture>
 <picture>https://todlib2b.com.ua/content/images/3/46941339978334_+de76b02a1b.jpg</picture>
@@ -71547,9 +71547,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[6410329350283]]></param>
 </offer>
-<offer id="TX49165" available="true">
+<offer id="TX49165" available="false">
 <price>1650.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7366">Одяг для собак</category>
 <picture>https://todlib2b.com.ua/content/images/25/83174836050920_+f0eab38c76.jpg</picture>
 <picture>https://todlib2b.com.ua/content/images/25/49214104800909_+ca4694980a.jpg</picture>
@@ -91295,9 +91295,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35495" available="true">
+<offer id="HT35495" available="false">
 <price>586.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="126">Електробритви</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175195.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175196.jpg</picture>
