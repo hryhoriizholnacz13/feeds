@@ -1199,9 +1199,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4823118701760]]></param>
 </offer>
-<offer id="ZB3499" available="true">
+<offer id="ZB3499" available="false">
 <price>2212.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="493">Сумки, клітки та переноски для тварин</category>
 <picture>https://www.zoobaza.com.ua/content/images/50/35270557234067_+caff472ccf.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/50/1208x755l80mc0/40487526784927.jpeg</picture>
@@ -1226,9 +1226,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4823118700305]]></param>
 </offer>
-<offer id="ZB3500" available="true">
+<offer id="ZB3500" available="false">
 <price>1993.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="493">Сумки, клітки та переноски для тварин</category>
 <picture>https://www.zoobaza.com.ua/content/images/1/47224203168913_+f9397e470e.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/1/1208x755l80mc0/14212956919013.jpeg</picture>
@@ -1253,9 +1253,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4823118700299]]></param>
 </offer>
-<offer id="ZB3501" available="true">
+<offer id="ZB3501" available="false">
 <price>2413.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="493">Сумки, клітки та переноски для тварин</category>
 <picture>https://www.zoobaza.com.ua/content/images/2/26896250013199_+45fdd83338.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/2/1208x755l80mc0/53990386404786.jpeg</picture>
@@ -1280,9 +1280,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4823118705713]]></param>
 </offer>
-<offer id="ZB3502" available="true">
+<offer id="ZB3502" available="false">
 <price>2212.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="493">Сумки, клітки та переноски для тварин</category>
 <picture>https://www.zoobaza.com.ua/content/images/3/86170454014755_+f899eead63.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/3/1208x800l80mc0/84708639816011.jpeg</picture>
@@ -1307,9 +1307,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4823118700305]]></param>
 </offer>
-<offer id="ZB3503" available="true">
+<offer id="ZB3503" available="false">
 <price>1993.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="493">Сумки, клітки та переноски для тварин</category>
 <picture>https://www.zoobaza.com.ua/content/images/4/avia-sumka-4-51973232810295_+adb68ab17b.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/4/1208x800l80mc0/71024754955410.jpeg</picture>
@@ -1333,9 +1333,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4823118700299]]></param>
 </offer>
-<offer id="ZB3504" available="true">
+<offer id="ZB3504" available="false">
 <price>2413.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="493">Сумки, клітки та переноски для тварин</category>
 <picture>https://www.zoobaza.com.ua/content/images/5/77925972183393_+6020282f9c.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/5/1208x800l80mc0/32502900080748.jpeg</picture>
@@ -9533,9 +9533,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4823118705393]]></param>
 </offer>
-<offer id="ZB4013" available="true">
+<offer id="ZB4013" available="false">
 <price>2550.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="493">Сумки, клітки та переноски для тварин</category>
 <picture>https://www.zoobaza.com.ua/content/images/14/62282109813102_+8fc8b2b2f4.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/14/1208x800l80mc0/73453546508300.jpeg</picture>
@@ -11947,9 +11947,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4259" available="true">
+<offer id="ZB4259" available="false">
 <price>70.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4844">Корм для котів</category>
 <picture>https://www.zoobaza.com.ua/content/images/10/1024x768l80mc0/21125979232071.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/10/1024x768l80mc0/75114085361676.jpg</picture>
@@ -12214,9 +12214,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4272" available="true">
+<offer id="ZB4272" available="false">
 <price>6897.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4842">Корм для собак</category>
 <picture>https://www.zoobaza.com.ua/content/images/23/1024x768l80mc0/64232923384096.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/23/1024x768l80mc0/37383308851111.jpg</picture>
@@ -12969,9 +12969,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4311" available="true">
+<offer id="ZB4311" available="false">
 <price>6319.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4844">Корм для котів</category>
 <picture>https://www.zoobaza.com.ua/content/images/12/43533316769326_+d4f84ee715.jpg</picture>
 <name lang="ua">Корм для котів Fitmin Purity Indoor 10 кг (532114023)</name>
@@ -25780,9 +25780,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB5163" available="true">
+<offer id="ZB5163" available="false">
 <price>1993.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="493">Сумки, клітки та переноски для тварин</category>
 <picture>https://www.zoobaza.com.ua/content/images/14/73202793322195_+97e162a165.jpg</picture>
 <picture>https://zoobaza.com.ua/content/images/14/1200x900l80mc0/50117501415521.jpg</picture>
@@ -25802,9 +25802,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4823118700299]]></param>
 </offer>
-<offer id="ZB5164" available="true">
+<offer id="ZB5164" available="false">
 <price>2212.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="493">Сумки, клітки та переноски для тварин</category>
 <picture>https://www.zoobaza.com.ua/content/images/15/18243956834739_+f07a334a52.jpg</picture>
 <picture>https://zoobaza.com.ua/content/images/14/1200x900l80mc0/50117501415521.jpg</picture>
@@ -25824,9 +25824,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4823118700305]]></param>
 </offer>
-<offer id="ZB5165" available="true">
+<offer id="ZB5165" available="false">
 <price>2413.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="493">Сумки, клітки та переноски для тварин</category>
 <picture>https://www.zoobaza.com.ua/content/images/16/48298576685236_+9bf3495435.jpg</picture>
 <picture>https://zoobaza.com.ua/content/images/14/1200x900l80mc0/50117501415521.jpg</picture>
@@ -43615,9 +43615,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[748960245740]]></param>
 </offer>
-<offer id="TX30799" available="true">
+<offer id="TX30799" available="false">
 <price>2990.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7376">Шлейки для тварин</category>
 <picture>https://todlib2b.com.ua/content/images/8/35261541326872_+d01b60d6c0.jpg</picture>
 <picture>https://todlib2b.com.ua/content/images/8/63934181204641_+361b5eb03a.jpg</picture>
@@ -59079,9 +59079,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[886284415507]]></param>
 </offer>
-<offer id="TX41524" available="true">
+<offer id="TX41524" available="false">
 <price>1340.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="9410">Іграшки для собак</category>
 <picture>https://todlib2b.com.ua/content/images/2/69051244880593_+2a7cda3b3b.jpg</picture>
 <picture>https://todlib2b.com.ua/content/images/2/35825058297567_+a9fdf43181.jpg</picture>
@@ -64239,9 +64239,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4262437744827]]></param>
 </offer>
-<offer id="TX45465" available="true">
+<offer id="TX45465" available="false">
 <price>408.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7933">Ласощі для собак</category>
 <picture>https://todlib2b.com.ua/content/images/3/74074258564086_+7f9c0fddbc.jpg</picture>
 <picture>https://todlib2b.com.ua/content/images/3/92771140654208_+4b50f94517.jpg</picture>
@@ -67346,9 +67346,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4250990441673]]></param>
 </offer>
-<offer id="TX46797" available="true">
+<offer id="TX46797" available="false">
 <price>11786.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="493">Сумки, клітки та переноски для тварин</category>
 <picture>https://todlib2b.com.ua/content/images/50/73618284871014_+e49374759c.jpg</picture>
 <picture>https://todlib2b.com.ua/content/images/50/82996967262029_+222eff32e8.jpg</picture>
@@ -80908,9 +80908,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT22579" available="true">
+<offer id="HT22579" available="false">
 <price>2715.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="2559">Бутербродниці</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/8_000008892_349919154.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/9_000008892_349919156.jpg</picture>
@@ -81804,9 +81804,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT25295" available="true">
+<offer id="HT25295" available="false">
 <price>3443.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="101">Мультиварки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_41df0236-6375-11e8-a892-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000000965_REPC57-B-2.jpg</picture>
@@ -81826,9 +81826,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT25296" available="true">
+<offer id="HT25296" available="false">
 <price>3600.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="101">Мультиварки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/000001357_130.png</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/000001357_131.png</picture>
@@ -85677,7 +85677,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT32141" available="true">
-<price>1000.00</price>
+<price>1015.00</price>
 <availability>in_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013578_314066440.jpg</picture>
@@ -85770,7 +85770,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT32158" available="true">
-<price>1050.00</price>
+<price>1058.00</price>
 <availability>in_stock</availability>
 <category code="117">Кухонні комбайни</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013591_145099368.jpg</picture>
@@ -86213,7 +86213,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT32510" available="true">
-<price>843.00</price>
+<price>822.00</price>
 <availability>in_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000013942_czajnik-elektryczny-szklany-czarny-17-l.jpg</picture>
@@ -87026,9 +87026,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT33012" available="true">
+<offer id="HT33012" available="false">
 <price>9608.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="1619">Бойлери</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/5123f183d92aa047.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/6482fec9bb9f28a4.jpg</picture>
@@ -87744,7 +87744,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT33277" available="true">
-<price>993.00</price>
+<price>1022.00</price>
 <availability>in_stock</availability>
 <category code="131">Ваги підлогові</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014715_638261466722986254.jpg</picture>
@@ -89186,7 +89186,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT34753" available="true">
-<price>7565.00</price>
+<price>7143.00</price>
 <availability>in_stock</availability>
 <category code="8750">Мультипечі</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000162656.jpg</picture>
@@ -90510,7 +90510,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT35219" available="true">
-<price>850.00</price>
+<price>858.00</price>
 <availability>in_stock</availability>
 <category code="96">Кавомолки</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/60696adb724334e9.jpg</picture>
@@ -92434,7 +92434,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT35845" available="true">
-<price>4393.00</price>
+<price>4858.00</price>
 <availability>in_stock</availability>
 <category code="8750">Мультипечі</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000170003.jpg</picture>
@@ -93015,9 +93015,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT36036" available="true">
+<offer id="HT36036" available="false">
 <price>8779.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="84">Витяжки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184593.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184594.jpg</picture>
@@ -93117,7 +93117,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT36044" available="true">
-<price>1050.00</price>
+<price>1143.00</price>
 <availability>in_stock</availability>
 <category code="8239">Кавоварки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184874.jpg</picture>
@@ -93325,9 +93325,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT36207" available="true">
+<offer id="HT36207" available="false">
 <price>5286.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="83">Варильні поверхні</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188861.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188862.jpg</picture>
@@ -93636,9 +93636,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT4888" available="true">
+<offer id="HT4888" available="false">
 <price>1108.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="108">Ваги кухонні</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000007504_SZelmer-Studio-2-010.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000007504_SZelmer-Studio-2-008.jpg</picture>
@@ -94140,9 +94140,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT33306" available="false">
+<offer id="HT33306" available="true">
 <price>750.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="2788">Фени</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014743_315207037.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000014743_315207044.jpg</picture>
