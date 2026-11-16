@@ -38714,9 +38714,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4019008304764]]></param>
 </offer>
-<offer id="TX29582" available="true">
+<offer id="TX29582" available="false">
 <price>1950.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7376">Шлейки для тварин</category>
 <picture>https://todlib2b.com.ua/content/images/33/23005353957022_+c5d265600d.jpg</picture>
 <picture>https://todlib2b.com.ua/content/images/33/26880125362192_+32ad029c12.jpg</picture>
@@ -42010,9 +42010,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[748960630492]]></param>
 </offer>
-<offer id="TX30633" available="true">
+<offer id="TX30633" available="false">
 <price>1750.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7372">Нашийники для тварин</category>
 <picture>https://todlib2b.com.ua/content/images/42/59927898459274_+70a8566b30.jpg</picture>
 <picture>https://todlib2b.com.ua/content/images/42/45745925363976_+d1e42493a5.jpg</picture>
@@ -45296,9 +45296,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[5060189754755]]></param>
 </offer>
-<offer id="TX31318" available="true">
+<offer id="TX31318" available="false">
 <price>239.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4850">Засоби для прибирання за тваринами</category>
 <picture>https://todlib2b.com.ua/content/images/22/73836348498322_+d4481d3890.jpg</picture>
 <picture>https://todlib2b.com.ua/content/images/22/53460911128573_+b52726387c.jpg</picture>
@@ -61939,9 +61939,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[5060189756872]]></param>
 </offer>
-<offer id="TX42152" available="true">
+<offer id="TX42152" available="false">
 <price>6380.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4842">Корм для собак</category>
 <picture>https://todlib2b.com.ua/content/images/23/17075125917602_+dfba6de1d9.jpg</picture>
 <picture>https://todlib2b.com.ua/content/images/23/79364520778319_+3e65d2583b.jpg</picture>
@@ -71703,9 +71703,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[6410329350610]]></param>
 </offer>
-<offer id="TX49171" available="true">
+<offer id="TX49171" available="false">
 <price>1650.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7366">Одяг для собак</category>
 <picture>https://todlib2b.com.ua/content/images/31/49160079380574_+07774a2c75.jpg</picture>
 <picture>https://todlib2b.com.ua/content/images/31/53986283384339_+90642db962.jpg</picture>
@@ -80402,9 +80402,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT17798" available="true">
+<offer id="HT17798" available="false">
 <price>215.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="1715">Кришки для посуду</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/bd2f4f23803176ed.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/a2d7eba9c5af7a5e.jpg</picture>
@@ -81782,9 +81782,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT25294" available="true">
+<offer id="HT25294" available="false">
 <price>2458.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="101">Мультиварки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_964bd7f6-5c0f-11e8-a892-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000000901_4653166.jpg</picture>
@@ -87231,9 +87231,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT33170" available="true">
+<offer id="HT33170" available="false">
 <price>579.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="1708">Каструлі</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000014607_489793599.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000014607_489793600.jpg</picture>
