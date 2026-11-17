@@ -57316,9 +57316,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4019008709965]]></param>
 </offer>
-<offer id="TX39507" available="true">
+<offer id="TX39507" available="false">
 <price>3321.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7366">Одяг для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX39507-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX39507-2.jpg</picture>
@@ -69230,9 +69230,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[6410329348570]]></param>
 </offer>
-<offer id="TX45371" available="true">
+<offer id="TX45371" available="false">
 <price>748.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7358">Вітаміни для тварин</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45371-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45371-2.jpg</picture>
@@ -86505,9 +86505,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT13174" available="true">
+<offer id="HT13174" available="false">
 <price>5397.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="1619">Бойлери</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000007002_230171_417369.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000007002_230171_417362.jpg</picture>
@@ -87402,9 +87402,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT21146" available="true">
+<offer id="HT21146" available="false">
 <price>935.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="8699">Ретранслятори Wi-Fi</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/010553241bdac70d.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/bb7cc52d65ea3888.jpg</picture>
@@ -92995,9 +92995,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT32116" available="true">
+<offer id="HT32116" available="false">
 <price>8292.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="82">Духові шафи</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013553_5828491028_5828491028.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013553_5828491029_5828491029.jpg</picture>
@@ -100951,9 +100951,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35715" available="true">
+<offer id="HT35715" available="false">
 <price>172.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="5401">Тримери для стрижки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178622.jpg</picture>
 <name lang="ua">Тример Rotex RHC12-S</name>
@@ -102762,9 +102762,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT36219" available="true">
+<offer id="HT36219" available="false">
 <price>8986.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="82">Духові шафи</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188871.jpg</picture>
 <name lang="ua">Духова шафа KUMTEL EKO B66-SF2 GREY</name>
@@ -103422,9 +103422,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT9975" available="true">
+<offer id="HT9975" available="false">
 <price>495.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000004446_152579903.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000004446_152579898.jpg</picture>
