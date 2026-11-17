@@ -88139,9 +88139,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT23890" available="true">
+<offer id="HT23890" available="false">
 <price>5198.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="111">Електричні печі</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000004090_478312667.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/9_000004090_478312670.jpg</picture>
@@ -89851,9 +89851,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT29753" available="true">
+<offer id="HT29753" available="false">
 <price>16989.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="81">Кухонні плити</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/afb29fd83dbc2c05.jpg</picture>
 <name lang="ua">Плита комбінована CASTLE CPG-60H</name>
@@ -92724,9 +92724,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT32068" available="true">
+<offer id="HT32068" available="false">
 <price>4944.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="87">Пилососи</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000013505_459776963.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013505_459776942.jpg</picture>
