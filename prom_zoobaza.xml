@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-16 16:01">
+<yml_catalog date="2026-11-17 08:01">
 <shop>
 <categories>
 <category id="105501">Одяг для тварин</category>
@@ -6763,7 +6763,6 @@
 <price>1305.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
-<picture>https://www.zoobaza.com.ua/content/images/15/1208x800l80mc0/48378884574410.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/15/1208x800l80mc0/26542234380854.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3814</vendorCode>
@@ -21037,7 +21036,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/35/76900854213226_+8b1e4d5b42.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/35/1208x800l80mc0/44538958087563.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/35/1208x800l80mc0/31217011560849.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/35/1208x800l80mc0/80732827885723.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/35/1208x800l80mc0/53851926462600.jpeg</picture>
@@ -21199,6 +21197,7 @@
 <picture>https://www.zoobaza.com.ua/content/images/44/1208x800l80mc0/69007090353114.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/44/1208x800l80mc0/18842232827659.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/44/1208x800l80mc0/86120275655269.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/44/1208x800l80mc0/57283219846328.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3543</vendorCode>
 <param name="Розмір">d50</param>
@@ -36353,7 +36352,7 @@
 <portal_category_id>640</portal_category_id>
 <price>407.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>23</quantity_in_stock>
+<quantity_in_stock>22</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_f264ce6c-3ced-11ea-8085-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_f264ce6c-3ced-11ea-8085-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_f264ce6c-3ced-11ea-8085-8c89a59571bd.jpg</picture>
@@ -40168,7 +40167,7 @@
 <name>Морозильна скриня Gorenje FH25EAW</name>
 <categoryId>225</categoryId>
 <portal_category_id>62701</portal_category_id>
-<price>16975.00</price>
+<price>17100.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000087861.jpg</picture>
@@ -42428,7 +42427,7 @@
 <portal_category_id>640</portal_category_id>
 <price>727.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_200c9cb1-b1e6-11e9-ba49-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_200c9cb1-b1e6-11e9-ba49-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_200c9cb1-b1e6-11e9-ba49-8c89a59571bd.jpg</picture>
@@ -48259,7 +48258,7 @@
 <portal_category_id>640</portal_category_id>
 <price>401.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>16</quantity_in_stock>
+<quantity_in_stock>13</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013240_444187331.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013240_444187332.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013240_444187333.jpg</picture>
@@ -55707,7 +55706,7 @@
 <name>Холодильник Gorenje NRK6182PS4</name>
 <categoryId>218</categoryId>
 <portal_category_id>602</portal_category_id>
-<price>24313.00</price>
+<price>24644.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>6</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000015010_323422845.jpg</picture>
@@ -59267,7 +59266,7 @@
 <name>Морозильна камера Gorenje FN617EEW5</name>
 <categoryId>225</categoryId>
 <portal_category_id>62701</portal_category_id>
-<price>24838.00</price>
+<price>25250.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156970.jpg</picture>
@@ -65570,7 +65569,7 @@
 <portal_category_id>6300424</portal_category_id>
 <price>3769.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>11</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171881.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171882.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171883.jpg</picture>
@@ -67522,7 +67521,7 @@
 <portal_category_id>609</portal_category_id>
 <price>847.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000173791.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000173792.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000173793.jpg</picture>
@@ -69179,7 +69178,7 @@
 <name>Морозильна камера Gorenje FN617EES5</name>
 <categoryId>225</categoryId>
 <portal_category_id>62701</portal_category_id>
-<price>25113.00</price>
+<price>25625.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175981.jpg</picture>
@@ -69267,7 +69266,7 @@
 <name>Холодильник Gorenje N619EAXL4</name>
 <categoryId>218</categoryId>
 <portal_category_id>602</portal_category_id>
-<price>26538.00</price>
+<price>26225.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175971.jpg</picture>
@@ -69907,7 +69906,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Льодогенератор MPM MKD-206: надійність та функціональністьЛьодогенератор MPM MKD-206 є сучасним пристроєм, розробленим для забезпечення вашого будинку або офісу свіжим льодом у будь-який час. Модель поєднує в собі високу продуктивність та простоту використання, роблячи її ідеальним вибором для тих, хто цінує комфорт та зручність.Пристрій має місткий контейнер для льоду об'ємом 0,45 кг, що дозволяє зберігати достатню кількість льоду для ваших потреб. У комплект поставки входять льодогенератор, кошик для льоду, совок та інструкція, що забезпечує простоту встановлення та експлуатації. Продуктивність моделі становить 12 кг льоду на добу, що робить її незамінною в умовах інтенсивного використання.Висока продуктивність та енергозбереженняПотужність льодогенератора MPM MKD-206 складає всього 100 Вт, що робить його енергоефективним рішенням для вашого будинку чи офісу. Об'єм резервуару для води становить 0,8 літра, забезпечуючи достатню кількість води для виробництва льоду. Пристрій оснащений електронною панеллю управління з індикаторами та звуковим сигналом, що спрощує процес його використання.Однією з ключових особливостей моделі є можливість вибору розміру кубиків льоду, що дозволяє адаптувати пристрій під індивідуальні уподобання. Функція самоочищення забезпечує гігієнічність та продовжує термін служби пристрою, а тиха робота робить його ідеальним рішенням для використання у житлових приміщеннях.Зручність та практичністьЛьодогенератор MPM MKD-206 не вимагає підключення до водопроводу, що робить його мобільним та зручним у використанні. Завдяки ручці для перенесення пристрій легко транспортувати, а його компактні розміри (202 x 281 x 264 мм) дозволяють розмістити його в будь-якому зручному для вас місці. Вага пристрою становить лише 5,3 кг, що забезпечує легкість переміщення.]]></description>
 </offer>
-<offer id="HT35605" available="true" selling_type="r">
+<offer id="HT35605" available="false" selling_type="r">
 <name>Блендер Rotex RTB1840-B MegaPower (подрібнювач, міксер)</name>
 <categoryId>274</categoryId>
 <portal_category_id>64301</portal_category_id>
@@ -79548,7 +79547,7 @@
 <portal_category_id>642</portal_category_id>
 <price>3157.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188681.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188682.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188683.jpg</picture>
