@@ -54293,9 +54293,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[6410329344749]]></param>
 </offer>
-<offer id="TX32464" available="true">
+<offer id="TX32464" available="false">
 <price>612.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="9410">Іграшки для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX32464-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX32464-2.jpg</picture>
@@ -56801,9 +56801,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[9345719102272]]></param>
 </offer>
-<offer id="TX33561" available="true">
+<offer id="TX33561" available="false">
 <price>588.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="9410">Іграшки для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX33561-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX33561-2.jpg</picture>
@@ -69328,9 +69328,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[035585498836]]></param>
 </offer>
-<offer id="TX45422" available="true">
+<offer id="TX45422" available="false">
 <price>1069.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="9410">Іграшки для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45422-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45422-2.jpg</picture>
@@ -75844,9 +75844,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4260688859208]]></param>
 </offer>
-<offer id="TX48341" available="true">
+<offer id="TX48341" available="false">
 <price>321.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7933">Ласощі для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX48341-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX48341-2.jpg</picture>
@@ -100443,9 +100443,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35605" available="true">
+<offer id="HT35605" available="false">
 <price>1671.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="119">Блендери</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175161.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175167.jpg</picture>
@@ -103963,9 +103963,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT30466" available="false">
-<price>265.00</price>
-<availability>out_of_stock</availability>
+<offer id="HT30466" available="true">
+<price>255.00</price>
+<availability>in_stock</availability>
 <category code="93">Аксесуари до техніки для догляду за домом</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011902_20338_.jpg</picture>
 <name lang="ua">Мішок д/пилососа б/р СЛОН P-03 C-I c до Philips</name>
