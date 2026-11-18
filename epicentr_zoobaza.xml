@@ -90075,9 +90075,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT29646" available="true">
+<offer id="HT29646" available="false">
 <price>18192.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="84">Витяжки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011083_28_36901712_19_02.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011083_28_36901712_19_01.jpg</picture>
@@ -91433,9 +91433,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT30913" available="true">
+<offer id="HT30913" available="false">
 <price>626.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="107">Тостери</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012349__toster-rotex-rtm121-b.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012349_RTM121-B-2.jpg</picture>
@@ -99658,9 +99658,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35045" available="true">
+<offer id="HT35045" available="false">
 <price>1678.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="2791">Відпарювачі</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167412.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167413.jpg</picture>
@@ -104462,9 +104462,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT36054" available="true">
+<offer id="HT36054" available="false">
 <price>3074.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="2559">Бутербродниці</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184263.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184261.jpg</picture>
