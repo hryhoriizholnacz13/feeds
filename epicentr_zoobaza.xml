@@ -60577,9 +60577,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[7071652132633]]></param>
 </offer>
-<offer id="TX40341" available="true">
+<offer id="TX40341" available="false">
 <price>1666.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7366">Одяг для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX40341-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX40341-2.jpg</picture>
@@ -61437,9 +61437,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[7071652173735]]></param>
 </offer>
-<offer id="TX40539" available="true">
+<offer id="TX40539" available="false">
 <price>728.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="9410">Іграшки для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX40539-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX40539-2.jpg</picture>
@@ -67556,9 +67556,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[9421016592975]]></param>
 </offer>
-<offer id="TX42229" available="true">
+<offer id="TX42229" available="false">
 <price>564.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="9410">Іграшки для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42229-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42229-2.jpg</picture>
@@ -69299,9 +69299,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[5430003885475]]></param>
 </offer>
-<offer id="TX45421" available="true">
+<offer id="TX45421" available="false">
 <price>1069.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="9410">Іграшки для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45421-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45421-2.jpg</picture>
@@ -75788,9 +75788,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4262437743417]]></param>
 </offer>
-<offer id="TX48340" available="true">
+<offer id="TX48340" available="false">
 <price>321.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7933">Ласощі для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX48340-3.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX48340-1.jpg</picture>
@@ -86201,7 +86201,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT10002" available="true">
-<price>647.00</price>
+<price>578.00</price>
 <availability>in_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000000910_screenshot_1_38_3.jpg</picture>
@@ -86229,7 +86229,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT10007" available="true">
-<price>1066.00</price>
+<price>1052.00</price>
 <availability>in_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000004625_178271801.jpg</picture>
@@ -86345,9 +86345,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT12166" available="true">
+<offer id="HT12166" available="false">
 <price>399.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="119">Блендери</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000002867_181743708.jpg</picture>
 <name lang="ua">Блендер Rotex RTB410-W</name>
@@ -86732,7 +86732,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT17125" available="true">
-<price>770.00</price>
+<price>715.00</price>
 <availability>in_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/2efdd8bc497e4a12.jpg</picture>
@@ -87602,7 +87602,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT22662" available="true">
-<price>626.00</price>
+<price>544.00</price>
 <availability>in_stock</availability>
 <category code="131">Ваги підлогові</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000005074_60228579.jpg</picture>
@@ -88287,9 +88287,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT23889" available="true">
+<offer id="HT23889" available="false">
 <price>4827.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="111">Електричні печі</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000002294_ROT450-B-2.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000002294_ROT450-B-3.jpg</picture>
@@ -89661,7 +89661,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT29075" available="true">
-<price>599.00</price>
+<price>571.00</price>
 <availability>in_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/ea2d9ab1a8450c65.jpg</picture>
@@ -89687,7 +89687,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT29092" available="true">
-<price>729.00</price>
+<price>715.00</price>
 <availability>in_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_200c9cb1-b1e6-11e9-ba49-8c89a59571bd.jpg</picture>
@@ -89772,9 +89772,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT29247" available="true">
+<offer id="HT29247" available="false">
 <price>1857.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/8fdf3ae7ef0e5f52.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/71f90cde0564e401.jpg</picture>
@@ -90511,9 +90511,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT30209" available="true">
+<offer id="HT30209" available="false">
 <price>15359.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="81">Кухонні плити</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011644_356787107.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011644_417852146.jpg</picture>
@@ -90701,7 +90701,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT30424" available="true">
-<price>784.00</price>
+<price>750.00</price>
 <availability>in_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011859_RKT%2075-S.jpg</picture>
@@ -91433,9 +91433,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT30913" available="false">
+<offer id="HT30913" available="true">
 <price>626.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="107">Тостери</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012349__toster-rotex-rtm121-b.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012349_RTM121-B-2.jpg</picture>
@@ -92264,7 +92264,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT31897" available="true">
-<price>1774.00</price>
+<price>1121.00</price>
 <availability>in_stock</availability>
 <category code="119">Блендери</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013334_428747722.jpg</picture>
@@ -92332,7 +92332,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT31926" available="true">
-<price>1059.00</price>
+<price>1052.00</price>
 <availability>in_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013364_RKT79-B%20Smart.jpg</picture>
@@ -96172,7 +96172,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT33205" available="true">
-<price>2475.00</price>
+<price>2056.00</price>
 <availability>in_stock</availability>
 <category code="8750">Мультипечі</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014643_ROM420-L-MultiFry-1.jpg</picture>
@@ -96205,7 +96205,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT33206" available="true">
-<price>3314.00</price>
+<price>3156.00</price>
 <availability>in_stock</availability>
 <category code="8750">Мультипечі</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014642_ROM680-XL-MultiFry.jpg</picture>
@@ -98880,7 +98880,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT34780" available="true">
-<price>5480.00</price>
+<price>4944.00</price>
 <availability>in_stock</availability>
 <category code="8750">Мультипечі</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000162920.jpg</picture>
@@ -99093,7 +99093,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT34890" available="true">
-<price>440.00</price>
+<price>434.00</price>
 <availability>in_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/debc347d11f20001.jpg</picture>
@@ -101112,7 +101112,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT35273" available="true">
-<price>3177.00</price>
+<price>3156.00</price>
 <availability>in_stock</availability>
 <category code="119">Блендери</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171891.jpg</picture>
@@ -101137,7 +101137,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT35275" available="true">
-<price>4043.00</price>
+<price>3988.00</price>
 <availability>in_stock</availability>
 <category code="8750">Мультипечі</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171881.jpg</picture>
@@ -101161,7 +101161,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT35284" available="true">
-<price>406.00</price>
+<price>399.00</price>
 <availability>in_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171912.jpg</picture>
@@ -101192,7 +101192,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT35285" available="true">
-<price>406.00</price>
+<price>399.00</price>
 <availability>in_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171924.jpg</picture>
@@ -101744,7 +101744,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT35478" available="true">
-<price>1155.00</price>
+<price>1142.00</price>
 <availability>in_stock</availability>
 <category code="2788">Фени</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175236.jpg</picture>
@@ -101771,7 +101771,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT35479" available="true">
-<price>1369.00</price>
+<price>1355.00</price>
 <availability>in_stock</availability>
 <category code="2788">Фени</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175222.jpg</picture>
@@ -103742,9 +103742,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35983" available="true">
+<offer id="HT35983" available="false">
 <price>13015.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="161">Телевізори</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183021.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183022.jpg</picture>
@@ -104435,7 +104435,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT36053" available="true">
-<price>2881.00</price>
+<price>2860.00</price>
 <availability>in_stock</availability>
 <category code="2559">Бутербродниці</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184253.jpg</picture>
@@ -104462,9 +104462,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT36054" available="false">
-<price>3074.00</price>
-<availability>out_of_stock</availability>
+<offer id="HT36054" available="true">
+<price>3142.00</price>
+<availability>in_stock</availability>
 <category code="2559">Бутербродниці</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184263.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184261.jpg</picture>
@@ -105007,7 +105007,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT4846" available="true">
-<price>317.00</price>
+<price>324.00</price>
 <availability>in_stock</availability>
 <category code="108">Ваги кухонні</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_146d7a3d-696a-11e8-a892-8c89a59571bd.jpg</picture>
@@ -105526,7 +105526,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT9988" available="true">
-<price>406.00</price>
+<price>399.00</price>
 <availability>in_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000026811.jpg</picture>
@@ -105779,9 +105779,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[035585498843]]></param>
 </offer>
-<offer id="TX48341" available="true">
+<offer id="TX48341" available="false">
 <price>321.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7933">Ласощі для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX48341-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX48341-2.jpg</picture>
@@ -105849,9 +105849,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT23890" available="false">
+<offer id="HT23890" available="true">
 <price>5198.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="111">Електричні печі</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000004090_478312667.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/9_000004090_478312670.jpg</picture>
@@ -105935,9 +105935,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35605" available="false">
-<price>1671.00</price>
-<availability>out_of_stock</availability>
+<offer id="HT35605" available="true">
+<price>1664.00</price>
+<availability>in_stock</availability>
 <category code="119">Блендери</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175161.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175167.jpg</picture>
@@ -105956,9 +105956,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35715" available="false">
+<offer id="HT35715" available="true">
 <price>172.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="5401">Тримери для стрижки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178622.jpg</picture>
 <name lang="ua">Тример Rotex RHC12-S</name>
@@ -106415,9 +106415,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT25294" available="false">
-<price>2458.00</price>
-<availability>out_of_stock</availability>
+<offer id="HT25294" available="true">
+<price>2338.00</price>
+<availability>in_stock</availability>
 <category code="101">Мультиварки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_964bd7f6-5c0f-11e8-a892-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000000901_4653166.jpg</picture>
@@ -106437,9 +106437,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT25295" available="false">
-<price>3443.00</price>
-<availability>out_of_stock</availability>
+<offer id="HT25295" available="true">
+<price>3314.00</price>
+<availability>in_stock</availability>
 <category code="101">Мультиварки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_41df0236-6375-11e8-a892-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000000965_REPC57-B-2.jpg</picture>
@@ -106459,9 +106459,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT25296" available="false">
-<price>3600.00</price>
-<availability>out_of_stock</availability>
+<offer id="HT25296" available="true">
+<price>3465.00</price>
+<availability>in_stock</availability>
 <category code="101">Мультиварки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/000001357_130.png</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/000001357_131.png</picture>
@@ -106550,9 +106550,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35495" available="false">
-<price>586.00</price>
-<availability>out_of_stock</availability>
+<offer id="HT35495" available="true">
+<price>550.00</price>
+<availability>in_stock</availability>
 <category code="126">Електробритви</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175195.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175196.jpg</picture>
@@ -106727,9 +106727,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[9345719115494]]></param>
 </offer>
-<offer id="HT30426" available="false">
-<price>1036.00</price>
-<availability>out_of_stock</availability>
+<offer id="HT30426" available="true">
+<price>942.00</price>
+<availability>in_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011861_5008802446_w640_h2048.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011861_RKT79-S-Smart-2.jpg</picture>
@@ -106752,9 +106752,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT34715" available="false">
-<price>1893.00</price>
-<availability>out_of_stock</availability>
+<offer id="HT34715" available="true">
+<price>1822.00</price>
+<availability>in_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000162071.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000162072.jpg</picture>
@@ -106791,9 +106791,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT6934" available="false">
-<price>3843.00</price>
-<availability>out_of_stock</availability>
+<offer id="HT6934" available="true">
+<price>3699.00</price>
+<availability>in_stock</availability>
 <category code="101">Мультиварки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000001358_4660693.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000001358_4660694.jpg</picture>
