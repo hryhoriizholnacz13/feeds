@@ -58034,34 +58034,6 @@
 <param name="Фасовка">70 г</param>
 <param name="EAN">5060084829695</param>
 </offer>
-<offer id="TX41810" available="true">
-<stock_quantity>2</stock_quantity>
-<price>1550.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>3935762</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41810-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41810-2.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41810-3.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41810-4.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41810-5.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41810-6.jpg</picture>
-<vendor>Ruffwear</vendor>
-<article>41810</article>
-<name>Обувь для собак Ruffwear Summit Trex Желтый размер 3.8 см (38 мм) (41810)</name>
-<name_ua>Взуття для собак Ruffwear Summit Trex Жовтий розмір 3.8 см (38 мм) (41810)</name_ua>
-<description><![CDATA[<p>Новая версия обуви Summit Trex стала еще более прочной и гибкой, при этом сохраняя высокий уровень защиты лап. Эти ботинки прекрасно подходят для ежедневных прогулок, защищая лапы от грязи, льда, соли и истирания.</p><p>Верх ботинок выполнен из водонепроницаемого полиэстера рипстоп, который предотвращает попадание влаги и мусора, а подошва, не оставляющая следов, обеспечивает отличное сцепление и защиту. Обновленная система фиксации с манжетой помогает обуви надежно сидеть на лапе, а застежка-липучка гарантирует плотное прилегание.</p><p><strong>Основные преимущества:</strong></p><p>Устойчивость к погодным условиям: Верх из легкого и прочного полиэстера защищает лапы в любых погодных условиях.</p><p>Защита лап: Специальная резиновая подошва предотвращает скольжение и защищает лапы от внешних факторов.</p><p>Надежная фиксация: Застежка-липучка обеспечивает удобную и надежную посадку на лапе.</p><p>Дополнительные особенности: Ботинки защищают лапы от горячего асфальта, неровных поверхностей, снега, дождя и химикатов, применяемых для таяния льда. Широкое раскрытие облегчает надевание, а светоотражающие элементы повышают видимость в темное время суток.</p><p>Эти ботинки идеально подходят для ежедневного использования, предлагая комфорт и защиту в любых условиях.</p><p>В комплекте - 2 ботиночка.</p>]]></description>
-<description_ua><![CDATA[<p>Нова версія взуття Summit Trex стала ще міцнішою та гнучкішою, при цьому зберігаючи високий рівень захисту лап. Ці черевики чудово підходять для щоденних прогулянок, захищаючи лапи від бруду, льоду, солі та стирання.</p><p>Верх черевиків виконаний з водонепроникного поліестеру ріпстоп, який запобігає попаданню вологи та сміття, а підошва, що не залишає слідів, забезпечує відмінне зчеплення та захист. Оновлена система фіксації з манжетою допомагає взуттю надійно сидіти на лапі, а застібка-липучка гарантує щільне прилягання.</p><p><strong>Основні переваги:</strong></p><p>Стійкість до погодних умов: Верх з легкого та міцного поліестеру захищає лапи у будь-яких погодних умовах.</p><p>Захист лап: Спеціальна гумова підошва запобігає ковзанню та захищає лапи від зовнішніх факторів.</p><p>Надійна фіксація: Застібка-липучка забезпечує зручну та надійну посадку на лапі.</p><p>Додаткові особливості: Черевики захищають лапи від гарячого асфальту, нерівних поверхонь, снігу, дощу та хімікатів, що застосовуються для танення льоду. Широке розкриття полегшує надягання, а світловідбиваючі елементи підвищують видимість у темний час доби.</p><p>Ці черевики ідеально підходять для щоденного використання, пропонуючи комфорт та захист у будь-яких умовах.</p><p>У комплекті — 2 черевички.</p>]]></description_ua>
-<param name="Особливості">Водонепроницаемая</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Вид">Взуття</param>
-<param name="Кількість в упаковці, шт">2</param>
-<param name="Колір">Жовтий</param>
-<param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
-<param name="Тип">Взуття</param>
-<param name="Розмір">3.8 см</param>
-<param name="EAN">748960805586</param>
-</offer>
 <offer id="TX41811" available="true">
 <stock_quantity>2</stock_quantity>
 <price>1550.00</price>
@@ -59663,30 +59635,6 @@
 <param name="Сезон">Демісезон</param>
 <param name="Колір">Зелений</param>
 <param name="EAN">748960681760</param>
-</offer>
-<offer id="TX42005" available="true">
-<stock_quantity>2</stock_quantity>
-<price>1250.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>3779482</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42005-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42005-2.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42005-3.jpg</picture>
-<vendor>Ruffwear</vendor>
-<article>42005</article>
-<name>Диспенсер для гигиенических пакетов Ruffwear Stash Bag Mini Светло-серый (42005)</name>
-<name_ua>Диспенсер для гігієнічних пакетів Ruffwear Stash Bag Mini Світло-сірий (42005)</name_ua>
-<description><![CDATA[<p>Диспенсер для гигиенических пакетов Stash Bag Mini - это изящный, легкий и прочный аксессуар, который крепится к ручке поводка, обеспечивая легкий и удобный доступ к пакетикам для сбора отходов, благодаря молнии-застежке, оснащенной специальным местом для хранения рулона.</p><p>Эти мелочи имеют большое значение в повседневных прогулках: диспенсер оснащен поверхностью с текстурой, предотвращающей скольжение или движение диспенсера при использовании, а также петлей для удобного переноса пакетов к ближайшему мусорному баку.</p><p>Внешний карман из эластичной сетки обеспечивает быстрый доступ к мелким предметам, кмтаким как пакетикам для уборки или ключам. Этот аксессуар совместим с любыми гигиеническими пакетиками и поставляется с 15 пакетиками Earth Rated.</p><p>Размеры: 12 х 5,7 см.</p>]]></description>
-<description_ua><![CDATA[<p>Диспенсер для гігієнічних пакетів Stash Bag Mini - це витончений, легкий та міцний аксесуар, який кріпиться до ручки повідця, забезпечуючи легкий та зручний доступ до пакетиків для збору відходів завдяки блискавці-застібці, оснащеній спеціальним місцем для зберігання рулону.</p><p>Ці дрібниці мають велике значення у повсякденних прогулянках: диспенсер оснащений поверхнею з текстурою, що запобігає ковзанню або руху диспенсера при використанні, а також петлею для зручного перенесення пакетів до найближчого бака для сміття.</p><p>Зовнішня кишеня з еластичної сітки забезпечує швидкий доступ до дрібних предметів, таких як пакетики для прибирання або ключів. Цей аксесуар сумісний з будь-якими гігієнічними пакетиками та поставляється з 15 пакетиками Earth Rated.</p><p>Розміри: 12 х 5,7 см.</p>]]></description_ua>
-<param name="Тип">Диспенсер для гігієнічних пакетів</param>
-<param name="Колір">Светло-серый</param>
-<param name="Розмір">Mini</param>
-<param name="Тип">Диспенсери</param>
-<param name="Тварина">Собака</param>
-<param name="Кількість в упаковці, шт">1</param>
-<param name="Особливості">Водонепроницаемая</param>
-<param name="Матеріал">Поліестер</param>
-<param name="EAN">748960276201</param>
 </offer>
 <offer id="TX42006" available="true">
 <stock_quantity>2</stock_quantity>
@@ -70950,8 +70898,8 @@
 <param name="Розмір">65</param>
 <param name="EAN">6410329350870</param>
 </offer>
-<offer id="RC10020051" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC10020051" available="false">
+<stock_quantity>0</stock_quantity>
 <price>275.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -70975,8 +70923,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550793568</param>
 </offer>
-<offer id="RC10020151" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC10020151" available="false">
+<stock_quantity>0</stock_quantity>
 <price>765.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -71000,8 +70948,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550793612</param>
 </offer>
-<offer id="RC10020301" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC10020301" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1345.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -71025,8 +70973,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550793636</param>
 </offer>
-<offer id="RC10030050" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC10030050" available="false">
+<stock_quantity>0</stock_quantity>
 <price>275.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -71050,8 +70998,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550793704</param>
 </offer>
-<offer id="RC10030150" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC10030150" available="false">
+<stock_quantity>0</stock_quantity>
 <price>765.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -71075,8 +71023,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550793728</param>
 </offer>
-<offer id="RC10030300" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC10030300" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1345.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -71100,8 +71048,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550793735</param>
 </offer>
-<offer id="RC1006030" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC1006030" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1540.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -71124,8 +71072,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550894050</param>
 </offer>
-<offer id="RC10070080" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC10070080" available="false">
+<stock_quantity>0</stock_quantity>
 <price>435.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -71149,8 +71097,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550793353</param>
 </offer>
-<offer id="RC1071001" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC1071001" available="false">
+<stock_quantity>0</stock_quantity>
 <price>66.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -71172,8 +71120,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579007136</param>
 </offer>
-<offer id="RC109600100" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC109600100" available="false">
+<stock_quantity>0</stock_quantity>
 <price>66.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -71197,8 +71145,8 @@
 <param name="Тип упаковки">Паучі</param>
 <param name="EAN">9003579008256</param>
 </offer>
-<offer id="RC10990019" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC10990019" available="false">
+<stock_quantity>0</stock_quantity>
 <price>66.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -71222,8 +71170,8 @@
 <param name="Тип упаковки">Паучі</param>
 <param name="EAN">9003579008218</param>
 </offer>
-<offer id="RC12270020" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC12270020" available="false">
+<stock_quantity>0</stock_quantity>
 <price>150.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -71246,8 +71194,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579013410</param>
 </offer>
-<offer id="RC1228004" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC1228004" available="false">
+<stock_quantity>0</stock_quantity>
 <price>360.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -71270,8 +71218,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550906241</param>
 </offer>
-<offer id="RC12290020" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC12290020" available="false">
+<stock_quantity>0</stock_quantity>
 <price>160.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -71295,8 +71243,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579013397</param>
 </offer>
-<offer id="RC1242004" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC1242004" available="false">
+<stock_quantity>0</stock_quantity>
 <price>340.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -71318,8 +71266,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550914628</param>
 </offer>
-<offer id="RC12430010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC12430010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>69.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -71341,8 +71289,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579015889</param>
 </offer>
-<offer id="RC1255005" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC1255005" available="false">
+<stock_quantity>0</stock_quantity>
 <price>315.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -71365,8 +71313,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550908436</param>
 </offer>
-<offer id="RC1255015" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC1255015" available="false">
+<stock_quantity>0</stock_quantity>
 <price>820.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -71389,8 +71337,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550908443</param>
 </offer>
-<offer id="RC12560010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC12560010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>70.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -71412,8 +71360,8 @@
 <param name="Тип упаковки">Паучі</param>
 <param name="EAN">9003579013755</param>
 </offer>
-<offer id="RC1260015" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC1260015" available="false">
+<stock_quantity>0</stock_quantity>
 <price>880.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -71436,8 +71384,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550908504</param>
 </offer>
-<offer id="RC1323004" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC1323004" available="false">
+<stock_quantity>0</stock_quantity>
 <price>300.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -71459,8 +71407,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550939133</param>
 </offer>
-<offer id="RC13230350" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC13230350" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2030.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -71482,8 +71430,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550939188</param>
 </offer>
-<offer id="RC1466001" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC1466001" available="false">
+<stock_quantity>0</stock_quantity>
 <price>68.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -71504,8 +71452,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579014905</param>
 </offer>
-<offer id="RC1505001" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC1505001" available="false">
+<stock_quantity>0</stock_quantity>
 <price>55.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -71529,8 +71477,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579027646</param>
 </offer>
-<offer id="RC1517001" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC1517001" available="false">
+<stock_quantity>0</stock_quantity>
 <price>66.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -71550,8 +71498,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579018514</param>
 </offer>
-<offer id="RC1518001" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC1518001" available="false">
+<stock_quantity>0</stock_quantity>
 <price>66.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -71571,8 +71519,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579018866</param>
 </offer>
-<offer id="RC15190010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC15190010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>66.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -71593,8 +71541,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579018941</param>
 </offer>
-<offer id="RC15270010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC15270010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>66.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -71614,8 +71562,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579018835</param>
 </offer>
-<offer id="RC15280010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC15280010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>66.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -71636,8 +71584,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579018910</param>
 </offer>
-<offer id="RC15290010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC15290010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>66.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -71658,8 +71606,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579018996</param>
 </offer>
-<offer id="RC15440010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC15440010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>792.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -71680,8 +71628,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579019030</param>
 </offer>
-<offer id="RC1593001" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC1593001" available="false">
+<stock_quantity>0</stock_quantity>
 <price>70.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -71705,8 +71653,8 @@
 <param name="Тип упаковки">Паучі</param>
 <param name="EAN">9003579020302</param>
 </offer>
-<offer id="RC1800004" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC1800004" available="false">
+<stock_quantity>0</stock_quantity>
 <price>300.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -71727,8 +71675,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550842907</param>
 </offer>
-<offer id="RC1800020" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC1800020" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1345.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -71749,8 +71697,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550842938</param>
 </offer>
-<offer id="RC1800100" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC1800100" available="false">
+<stock_quantity>0</stock_quantity>
 <price>6100.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -71771,8 +71719,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550842969</param>
 </offer>
-<offer id="RC19500201" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC19500201" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2080.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -71792,8 +71740,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550939218</param>
 </offer>
-<offer id="RC2031001" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2031001" available="false">
+<stock_quantity>0</stock_quantity>
 <price>68.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -71815,8 +71763,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579001219</param>
 </offer>
-<offer id="RC20320010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC20320010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>68.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -71837,8 +71785,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579001257</param>
 </offer>
-<offer id="RC20400010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC20400010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>70.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -71861,8 +71809,8 @@
 <param name="Тип упаковки">Паучі</param>
 <param name="EAN">9003579001448</param>
 </offer>
-<offer id="RC20410010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC20410010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>70.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -71885,8 +71833,8 @@
 <param name="Тип упаковки">Паучі</param>
 <param name="EAN">9003579001516</param>
 </offer>
-<offer id="RC21000159" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC21000159" available="false">
+<stock_quantity>0</stock_quantity>
 <price>770.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -71909,8 +71857,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550821414</param>
 </offer>
-<offer id="RC21000759" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC21000759" available="false">
+<stock_quantity>0</stock_quantity>
 <price>3445.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -71933,8 +71881,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550821438</param>
 </offer>
-<offer id="RC2106030" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2106030" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1280.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -71957,8 +71905,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550821766</param>
 </offer>
-<offer id="RC2200015" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2200015" available="false">
+<stock_quantity>0</stock_quantity>
 <price>770.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -71981,8 +71929,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550743228</param>
 </offer>
-<offer id="RC2210005" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2210005" available="false">
+<stock_quantity>0</stock_quantity>
 <price>315.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -72005,8 +71953,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550718813</param>
 </offer>
-<offer id="RC2210015" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2210015" available="false">
+<stock_quantity>0</stock_quantity>
 <price>820.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -72029,8 +71977,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550728102</param>
 </offer>
-<offer id="RC2210030" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2210030" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1520.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -72053,8 +72001,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550747820</param>
 </offer>
-<offer id="RC2220075" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2220075" available="false">
+<stock_quantity>0</stock_quantity>
 <price>3445.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -72077,8 +72025,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550813020</param>
 </offer>
-<offer id="RC24380051" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC24380051" available="false">
+<stock_quantity>0</stock_quantity>
 <price>315.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -72101,8 +72049,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550722537</param>
 </offer>
-<offer id="RC24380151" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC24380151" available="false">
+<stock_quantity>0</stock_quantity>
 <price>820.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -72125,8 +72073,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550722544</param>
 </offer>
-<offer id="RC2447030" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2447030" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1540.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -72149,8 +72097,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550894012</param>
 </offer>
-<offer id="RC249103019" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC249103019" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1280.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -72173,8 +72121,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550725507</param>
 </offer>
-<offer id="RC249112019" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC249112019" available="false">
+<stock_quantity>0</stock_quantity>
 <price>4485.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -72197,8 +72145,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550725514</param>
 </offer>
-<offer id="RC2518110" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2518110" available="false">
+<stock_quantity>0</stock_quantity>
 <price>4110.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -72221,8 +72169,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550892759</param>
 </offer>
-<offer id="RC251903019" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC251903019" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1280.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -72245,8 +72193,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550724142</param>
 </offer>
-<offer id="RC25191201" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC25191201" available="false">
+<stock_quantity>0</stock_quantity>
 <price>4485.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -72269,8 +72217,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550724159</param>
 </offer>
-<offer id="RC2520004" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2520004" available="false">
+<stock_quantity>0</stock_quantity>
 <price>235.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72290,8 +72238,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550702157</param>
 </offer>
-<offer id="RC2520020" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2520020" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1065.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72311,8 +72259,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550702201</param>
 </offer>
-<offer id="RC2520040" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2520040" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2050.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72332,8 +72280,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550702225</param>
 </offer>
-<offer id="RC2520100" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2520100" available="false">
+<stock_quantity>0</stock_quantity>
 <price>4750.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72353,8 +72301,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550702249</param>
 </offer>
-<offer id="RC2521004" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2521004" available="false">
+<stock_quantity>0</stock_quantity>
 <price>265.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72374,8 +72322,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550702263</param>
 </offer>
-<offer id="RC2521020" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2521020" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1110.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72395,8 +72343,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550702317</param>
 </offer>
-<offer id="RC2521040" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2521040" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2135.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72416,8 +72364,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550702331</param>
 </offer>
-<offer id="RC2521100" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2521100" available="false">
+<stock_quantity>0</stock_quantity>
 <price>5120.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72437,8 +72385,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550702355</param>
 </offer>
-<offer id="RC25220049" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC25220049" available="false">
+<stock_quantity>0</stock_quantity>
 <price>235.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72459,8 +72407,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550702379</param>
 </offer>
-<offer id="RC2522020" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2522020" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1068.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72482,8 +72430,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550702423</param>
 </offer>
-<offer id="RC25220400" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC25220400" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2050.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72505,8 +72453,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550702447</param>
 </offer>
-<offer id="RC2522100" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2522100" available="false">
+<stock_quantity>0</stock_quantity>
 <price>4750.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72528,8 +72476,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550702973</param>
 </offer>
-<offer id="RC25240041" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC25240041" available="false">
+<stock_quantity>0</stock_quantity>
 <price>300.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72550,8 +72498,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550706810</param>
 </offer>
-<offer id="RC2524015" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2524015" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1010.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72572,8 +72520,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550902991</param>
 </offer>
-<offer id="RC2526004" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2526004" available="false">
+<stock_quantity>0</stock_quantity>
 <price>300.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72594,8 +72542,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550721721</param>
 </offer>
-<offer id="RC2526020" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2526020" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1345.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72616,8 +72564,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550721738</param>
 </offer>
-<offer id="RC2526040" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2526040" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2565.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72638,8 +72586,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550721745</param>
 </offer>
-<offer id="RC2526100" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2526100" available="false">
+<stock_quantity>0</stock_quantity>
 <price>6100.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72660,8 +72608,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550721752</param>
 </offer>
-<offer id="RC25290049" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC25290049" available="false">
+<stock_quantity>0</stock_quantity>
 <price>235.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72681,8 +72629,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550704618</param>
 </offer>
-<offer id="RC25290209" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC25290209" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1065.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72702,8 +72650,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550704625</param>
 </offer>
-<offer id="RC25290409" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC25290409" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2050.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72723,8 +72671,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550706933</param>
 </offer>
-<offer id="RC25291009" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC25291009" available="false">
+<stock_quantity>0</stock_quantity>
 <price>4750.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72744,8 +72692,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550706940</param>
 </offer>
-<offer id="RC25320040" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC25320040" available="false">
+<stock_quantity>0</stock_quantity>
 <price>300.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72766,8 +72714,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550717175</param>
 </offer>
-<offer id="RC25320150" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC25320150" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1010.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72788,8 +72736,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550717182</param>
 </offer>
-<offer id="RC25320800" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC25320800" available="false">
+<stock_quantity>0</stock_quantity>
 <price>4900.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72809,8 +72757,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550721622</param>
 </offer>
-<offer id="RC2534004" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2534004" available="false">
+<stock_quantity>0</stock_quantity>
 <price>300.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72831,8 +72779,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550721394</param>
 </offer>
-<offer id="RC2534020" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2534020" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1345.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72853,8 +72801,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550721400</param>
 </offer>
-<offer id="RC2534100" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2534100" available="false">
+<stock_quantity>0</stock_quantity>
 <price>6100.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72875,8 +72823,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550721424</param>
 </offer>
-<offer id="RC2537004" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2537004" available="false">
+<stock_quantity>0</stock_quantity>
 <price>265.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72896,8 +72844,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550737555</param>
 </offer>
-<offer id="RC2537020" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2537020" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1110.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72917,8 +72865,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550737593</param>
 </offer>
-<offer id="RC2537040" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2537040" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2135.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72938,8 +72886,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550737616</param>
 </offer>
-<offer id="RC2537100" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2537100" available="false">
+<stock_quantity>0</stock_quantity>
 <price>5120.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72959,8 +72907,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550737623</param>
 </offer>
-<offer id="RC2544004" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2544004" available="false">
+<stock_quantity>0</stock_quantity>
 <price>245.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -72982,8 +72930,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550707305</param>
 </offer>
-<offer id="RC2544020" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2544020" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1068.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73005,8 +72953,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550707312</param>
 </offer>
-<offer id="RC2544100" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2544100" available="false">
+<stock_quantity>0</stock_quantity>
 <price>4380.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73028,8 +72976,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550931038</param>
 </offer>
-<offer id="RC25480159" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC25480159" available="false">
+<stock_quantity>0</stock_quantity>
 <price>835.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73049,8 +72997,8 @@
 <param name="Вік кота">Кошенята</param>
 <param name="EAN">3182550784399</param>
 </offer>
-<offer id="RC25480359" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC25480359" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1890.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73071,8 +73019,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550784412</param>
 </offer>
-<offer id="RC25490209" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC25490209" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1065.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73092,8 +73040,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550739382</param>
 </offer>
-<offer id="RC2550020" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2550020" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1280.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73115,8 +73063,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182559300774</param>
 </offer>
-<offer id="RC2550100" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2550100" available="false">
+<stock_quantity>0</stock_quantity>
 <price>5875.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73138,8 +73086,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550710664</param>
 </offer>
-<offer id="RC2551004" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2551004" available="false">
+<stock_quantity>0</stock_quantity>
 <price>295.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73161,8 +73109,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550710671</param>
 </offer>
-<offer id="RC2552020" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2552020" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1280.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73184,8 +73132,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550702614</param>
 </offer>
-<offer id="RC2556020" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2556020" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1280.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73207,8 +73155,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550758840</param>
 </offer>
-<offer id="RC2556100" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2556100" available="false">
+<stock_quantity>0</stock_quantity>
 <price>5875.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73230,8 +73178,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550758857</param>
 </offer>
-<offer id="RC2557004" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2557004" available="false">
+<stock_quantity>0</stock_quantity>
 <price>295.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73253,8 +73201,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550756402</param>
 </offer>
-<offer id="RC2557020" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2557020" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1280.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73276,8 +73224,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550756419</param>
 </offer>
-<offer id="RC2557040" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2557040" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2435.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73299,8 +73247,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550756440</param>
 </offer>
-<offer id="RC2557100" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2557100" available="false">
+<stock_quantity>0</stock_quantity>
 <price>5875.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73322,8 +73270,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550756464</param>
 </offer>
-<offer id="RC2558004" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2558004" available="false">
+<stock_quantity>0</stock_quantity>
 <price>295.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73345,8 +73293,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550770941</param>
 </offer>
-<offer id="RC2558020" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2558020" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1280.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73368,8 +73316,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550816502</param>
 </offer>
-<offer id="RC2560015" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2560015" available="false">
+<stock_quantity>0</stock_quantity>
 <price>865.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73390,8 +73338,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550784566</param>
 </offer>
-<offer id="RC2560100" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2560100" available="false">
+<stock_quantity>0</stock_quantity>
 <price>5340.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73412,8 +73360,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550805629</param>
 </offer>
-<offer id="RC2562004" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2562004" available="false">
+<stock_quantity>0</stock_quantity>
 <price>255.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73435,8 +73383,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550805155</param>
 </offer>
-<offer id="RC2562020" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2562020" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1105.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73458,8 +73406,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550805186</param>
 </offer>
-<offer id="RC25630209" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC25630209" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1345.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73480,8 +73428,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550920391</param>
 </offer>
-<offer id="RC2566004" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2566004" available="false">
+<stock_quantity>0</stock_quantity>
 <price>295.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73503,8 +73451,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550816526</param>
 </offer>
-<offer id="RC2566020" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2566020" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1280.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73526,8 +73474,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550816533</param>
 </offer>
-<offer id="RC2566100" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2566100" available="false">
+<stock_quantity>0</stock_quantity>
 <price>5875.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73549,8 +73497,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550816540</param>
 </offer>
-<offer id="RC2590030" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2590030" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1280.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -73573,8 +73521,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550719797</param>
 </offer>
-<offer id="RC2590120" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2590120" available="false">
+<stock_quantity>0</stock_quantity>
 <price>4485.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -73597,8 +73545,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550719803</param>
 </offer>
-<offer id="RC27210040" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC27210040" available="false">
+<stock_quantity>0</stock_quantity>
 <price>270.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73620,8 +73568,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550799621</param>
 </offer>
-<offer id="RC27210150" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC27210150" available="false">
+<stock_quantity>0</stock_quantity>
 <price>850.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73643,8 +73591,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550799638</param>
 </offer>
-<offer id="RC27210350" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC27210350" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1920.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73666,8 +73614,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550799645</param>
 </offer>
-<offer id="RC27211200" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC27211200" available="false">
+<stock_quantity>0</stock_quantity>
 <price>6400.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73689,8 +73637,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550799669</param>
 </offer>
-<offer id="RC27240150" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC27240150" available="false">
+<stock_quantity>0</stock_quantity>
 <price>880.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73712,8 +73660,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550799423</param>
 </offer>
-<offer id="RC27240350" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC27240350" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1920.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73735,8 +73683,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550799430</param>
 </offer>
-<offer id="RC27250150" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC27250150" available="false">
+<stock_quantity>0</stock_quantity>
 <price>880.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -73757,8 +73705,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550799478</param>
 </offer>
-<offer id="RC2990010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2990010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>545.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -73782,8 +73730,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550778657</param>
 </offer>
-<offer id="RC2990080" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2990080" available="false">
+<stock_quantity>0</stock_quantity>
 <price>3360.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -73807,8 +73755,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550932691</param>
 </offer>
-<offer id="RC2993010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC2993010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>460.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -73832,8 +73780,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550778718</param>
 </offer>
-<offer id="RC29940400" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC29940400" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1600.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -73856,8 +73804,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550778770</param>
 </offer>
-<offer id="RC30000082" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC30000082" available="false">
+<stock_quantity>0</stock_quantity>
 <price>390.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -73881,8 +73829,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550792929</param>
 </offer>
-<offer id="RC30000202" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC30000202" available="false">
+<stock_quantity>0</stock_quantity>
 <price>900.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -73906,8 +73854,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550793001</param>
 </offer>
-<offer id="RC30000801" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC30000801" available="false">
+<stock_quantity>0</stock_quantity>
 <price>3075.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -73931,8 +73879,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550793049</param>
 </offer>
-<offer id="RC30010080" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC30010080" available="false">
+<stock_quantity>0</stock_quantity>
 <price>3075.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -73956,8 +73904,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182551055757</param>
 </offer>
-<offer id="RC30010200" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC30010200" available="false">
+<stock_quantity>0</stock_quantity>
 <price>900.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -73981,8 +73929,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182551055696</param>
 </offer>
-<offer id="RC30010400" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC30010400" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1710.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74006,8 +73954,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182551055733</param>
 </offer>
-<offer id="RC30010800" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC30010800" available="false">
+<stock_quantity>0</stock_quantity>
 <price>390.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74031,8 +73979,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182551055658</param>
 </offer>
-<offer id="RC3002080" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3002080" available="false">
+<stock_quantity>0</stock_quantity>
 <price>415.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74056,8 +74004,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550831413</param>
 </offer>
-<offer id="RC30030101" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC30030101" available="false">
+<stock_quantity>0</stock_quantity>
 <price>425.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74081,8 +74029,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550402439</param>
 </offer>
-<offer id="RC30030400" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC30030400" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1450.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74106,8 +74054,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550708180</param>
 </offer>
-<offer id="RC30031501" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC30031501" available="false">
+<stock_quantity>0</stock_quantity>
 <price>4490.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74131,8 +74079,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550402132</param>
 </offer>
-<offer id="RC30040400" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC30040400" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1450.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74156,8 +74104,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182551055801</param>
 </offer>
-<offer id="RC30041500" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC30041500" available="false">
+<stock_quantity>0</stock_quantity>
 <price>4490.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74181,8 +74129,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182551055856</param>
 </offer>
-<offer id="RC30050400" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC30050400" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1470.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74206,8 +74154,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550708203</param>
 </offer>
-<offer id="RC30060101" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC30060101" available="false">
+<stock_quantity>0</stock_quantity>
 <price>425.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74231,8 +74179,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550402460</param>
 </offer>
-<offer id="RC30060400" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC30060400" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1450.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74256,8 +74204,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550402149</param>
 </offer>
-<offer id="RC30061501" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC30061501" available="false">
+<stock_quantity>0</stock_quantity>
 <price>4490.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74281,8 +74229,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550402163</param>
 </offer>
-<offer id="RC30070400" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC30070400" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1450.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74305,8 +74253,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182551055917</param>
 </offer>
-<offer id="RC30071500" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC30071500" available="false">
+<stock_quantity>0</stock_quantity>
 <price>4490.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74330,8 +74278,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550401937</param>
 </offer>
-<offer id="RC30081500" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC30081500" available="false">
+<stock_quantity>0</stock_quantity>
 <price>4725.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74355,8 +74303,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550402316</param>
 </offer>
-<offer id="RC30091500" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC30091500" available="false">
+<stock_quantity>0</stock_quantity>
 <price>4325.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74380,8 +74328,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550703079</param>
 </offer>
-<offer id="RC3030010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3030010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>405.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74405,8 +74353,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550707022</param>
 </offer>
-<offer id="RC3030150" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3030150" available="false">
+<stock_quantity>0</stock_quantity>
 <price>4325.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74430,8 +74378,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550707046</param>
 </offer>
-<offer id="RC3031150" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3031150" available="false">
+<stock_quantity>0</stock_quantity>
 <price>4325.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74455,8 +74403,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550707077</param>
 </offer>
-<offer id="RC3051005" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3051005" available="false">
+<stock_quantity>0</stock_quantity>
 <price>315.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74479,8 +74427,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550710046</param>
 </offer>
-<offer id="RC3051015" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3051015" available="false">
+<stock_quantity>0</stock_quantity>
 <price>820.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74503,8 +74451,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550716857</param>
 </offer>
-<offer id="RC3051075" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3051075" available="false">
+<stock_quantity>0</stock_quantity>
 <price>3485.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74527,8 +74475,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550716925</param>
 </offer>
-<offer id="RC3059015" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3059015" available="false">
+<stock_quantity>0</stock_quantity>
 <price>770.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74551,8 +74499,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550717335</param>
 </offer>
-<offer id="RC3064001" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3064001" available="false">
+<stock_quantity>0</stock_quantity>
 <price>80.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74572,8 +74520,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550784641</param>
 </offer>
-<offer id="RC3317015" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3317015" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1075.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74597,8 +74545,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550938785</param>
 </offer>
-<offer id="RC3317030" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3317030" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2030.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74622,8 +74570,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550938983</param>
 </offer>
-<offer id="RC3318015" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3318015" available="false">
+<stock_quantity>0</stock_quantity>
 <price>850.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74647,8 +74595,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550938839</param>
 </offer>
-<offer id="RC37120080" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC37120080" available="false">
+<stock_quantity>0</stock_quantity>
 <price>360.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74673,8 +74621,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550761772</param>
 </offer>
-<offer id="RC37120150" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC37120150" available="false">
+<stock_quantity>0</stock_quantity>
 <price>650.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74699,8 +74647,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550761765</param>
 </offer>
-<offer id="RC37140100" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC37140100" available="false">
+<stock_quantity>0</stock_quantity>
 <price>410.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74725,8 +74673,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550782159</param>
 </offer>
-<offer id="RC37140350" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC37140350" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1300.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74751,8 +74699,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550761840</param>
 </offer>
-<offer id="RC37140900" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC37140900" available="false">
+<stock_quantity>0</stock_quantity>
 <price>3050.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74777,8 +74725,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550925204</param>
 </offer>
-<offer id="RC3801015" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3801015" available="false">
+<stock_quantity>0</stock_quantity>
 <price>800.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -74801,8 +74749,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550780940</param>
 </offer>
-<offer id="RC3900004" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3900004" available="false">
+<stock_quantity>0</stock_quantity>
 <price>340.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -74824,8 +74772,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550914833</param>
 </offer>
-<offer id="RC39000209" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39000209" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1500.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -74847,8 +74795,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550711142</param>
 </offer>
-<offer id="RC39000409" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39000409" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2675.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -74870,8 +74818,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550711012</param>
 </offer>
-<offer id="RC39010041" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39010041" available="false">
+<stock_quantity>0</stock_quantity>
 <price>310.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -74892,8 +74840,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550711043</param>
 </offer>
-<offer id="RC3901009" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3901009" available="false">
+<stock_quantity>0</stock_quantity>
 <price>5600.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -74914,8 +74862,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550785242</param>
 </offer>
-<offer id="RC39010151" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39010151" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1040.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -74936,8 +74884,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550711159</param>
 </offer>
-<offer id="RC39010351" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39010351" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2240.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -74958,8 +74906,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550711050</param>
 </offer>
-<offer id="RC39020051" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39020051" available="false">
+<stock_quantity>0</stock_quantity>
 <price>375.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -74981,8 +74929,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550939324</param>
 </offer>
-<offer id="RC39020251" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39020251" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2080.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -75004,8 +74952,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550939478</param>
 </offer>
-<offer id="RC39050041" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39050041" available="false">
+<stock_quantity>0</stock_quantity>
 <price>320.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -75026,8 +74974,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550771245</param>
 </offer>
-<offer id="RC39050201" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39050201" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1450.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -75048,8 +74996,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550771252</param>
 </offer>
-<offer id="RC3905400" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3905400" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2610.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -75070,8 +75018,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550771269</param>
 </offer>
-<offer id="RC39060041" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39060041" available="false">
+<stock_quantity>0</stock_quantity>
 <price>400.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -75092,8 +75040,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550711074</param>
 </offer>
-<offer id="RC39060151" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39060151" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1360.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -75114,8 +75062,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550711166</param>
 </offer>
-<offer id="RC39090041" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39090041" available="false">
+<stock_quantity>0</stock_quantity>
 <price>365.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -75135,8 +75083,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550939591</param>
 </offer>
-<offer id="RC39090150" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39090150" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1250.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -75157,8 +75105,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550939638</param>
 </offer>
-<offer id="RC39100201" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39100201" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1125.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75181,8 +75129,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550940849</param>
 </offer>
-<offer id="RC39101401" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39101401" available="false">
+<stock_quantity>0</stock_quantity>
 <price>6300.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75205,8 +75153,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550939904</param>
 </offer>
-<offer id="RC39110201" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39110201" available="false">
+<stock_quantity>0</stock_quantity>
 <price>910.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75229,8 +75177,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550771054</param>
 </offer>
-<offer id="RC3911150" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3911150" available="false">
+<stock_quantity>0</stock_quantity>
 <price>5800.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75253,8 +75201,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550905695</param>
 </offer>
-<offer id="RC39130201" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39130201" available="false">
+<stock_quantity>0</stock_quantity>
 <price>965.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75277,8 +75225,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550711036</param>
 </offer>
-<offer id="RC39131309" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39131309" available="false">
+<stock_quantity>0</stock_quantity>
 <price>5400.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75301,8 +75249,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550896856</param>
 </offer>
-<offer id="RC39160209" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39160209" available="false">
+<stock_quantity>0</stock_quantity>
 <price>990.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75325,8 +75273,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550710992</param>
 </offer>
-<offer id="RC39161409" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39161409" available="false">
+<stock_quantity>0</stock_quantity>
 <price>5900.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75349,8 +75297,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550842556</param>
 </offer>
-<offer id="RC39220150" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39220150" available="false">
+<stock_quantity>0</stock_quantity>
 <price>850.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75373,8 +75321,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550940047</param>
 </offer>
-<offer id="RC39221400" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39221400" available="false">
+<stock_quantity>0</stock_quantity>
 <price>6300.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75397,8 +75345,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550940108</param>
 </offer>
-<offer id="RC39270151" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39270151" available="false">
+<stock_quantity>0</stock_quantity>
 <price>790.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75421,8 +75369,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550771719</param>
 </offer>
-<offer id="RC39271201" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39271201" available="false">
+<stock_quantity>0</stock_quantity>
 <price>5400.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75445,8 +75393,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550771740</param>
 </offer>
-<offer id="RC3930020" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3930020" available="false">
+<stock_quantity>0</stock_quantity>
 <price>900.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75469,8 +75417,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550944458</param>
 </offer>
-<offer id="RC39320151" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39320151" available="false">
+<stock_quantity>0</stock_quantity>
 <price>725.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75493,8 +75441,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550771153</param>
 </offer>
-<offer id="RC39321201" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39321201" available="false">
+<stock_quantity>0</stock_quantity>
 <price>5200.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75517,8 +75465,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550771177</param>
 </offer>
-<offer id="RC3943004" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3943004" available="false">
+<stock_quantity>0</stock_quantity>
 <price>340.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -75540,8 +75488,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550903233</param>
 </offer>
-<offer id="RC39430151" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39430151" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1175.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -75562,8 +75510,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550768474</param>
 </offer>
-<offer id="RC3946020" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3946020" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1690.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -75584,8 +75532,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550767644</param>
 </offer>
-<offer id="RC39480121" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39480121" available="false">
+<stock_quantity>0</stock_quantity>
 <price>4700.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75608,8 +75556,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550731386</param>
 </offer>
-<offer id="RC39481501" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39481501" available="false">
+<stock_quantity>0</stock_quantity>
 <price>685.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75632,8 +75580,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550731355</param>
 </offer>
-<offer id="RC3949004" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3949004" available="false">
+<stock_quantity>0</stock_quantity>
 <price>340.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -75655,8 +75603,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550917049</param>
 </offer>
-<offer id="RC3952010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3952010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>650.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75679,8 +75627,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550940153</param>
 </offer>
-<offer id="RC3954004" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3954004" available="false">
+<stock_quantity>0</stock_quantity>
 <price>330.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -75701,8 +75649,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550764513</param>
 </offer>
-<offer id="RC39550200" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39550200" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1400.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -75722,8 +75670,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550765350</param>
 </offer>
-<offer id="RC3957010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3957010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>540.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75747,8 +75695,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550815512</param>
 </offer>
-<offer id="RC39570251" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39570251" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1280.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75772,8 +75720,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550771030</param>
 </offer>
-<offer id="RC3970120" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3970120" available="false">
+<stock_quantity>0</stock_quantity>
 <price>4485.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75796,8 +75744,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550743440</param>
 </offer>
-<offer id="RC39720051" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39720051" available="false">
+<stock_quantity>0</stock_quantity>
 <price>315.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75820,8 +75768,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550743464</param>
 </offer>
-<offer id="RC39720151" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39720151" available="false">
+<stock_quantity>0</stock_quantity>
 <price>820.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75844,8 +75792,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550743471</param>
 </offer>
-<offer id="RC39720751" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39720751" available="false">
+<stock_quantity>0</stock_quantity>
 <price>3485.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75868,8 +75816,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550811422</param>
 </offer>
-<offer id="RC3981030" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3981030" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1440.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75892,8 +75840,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550811774</param>
 </offer>
-<offer id="RC3985015" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3985015" available="false">
+<stock_quantity>0</stock_quantity>
 <price>770.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75916,8 +75864,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550752404</param>
 </offer>
-<offer id="RC3985030" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3985030" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1440.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75940,8 +75888,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550799775</param>
 </offer>
-<offer id="RC39900101" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39900101" available="false">
+<stock_quantity>0</stock_quantity>
 <price>470.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75964,8 +75912,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550765220</param>
 </offer>
-<offer id="RC3991015" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3991015" available="false">
+<stock_quantity>0</stock_quantity>
 <price>705.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -75988,8 +75936,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550811620</param>
 </offer>
-<offer id="RC3991030" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3991030" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1280.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -76012,8 +75960,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550811637</param>
 </offer>
-<offer id="RC3995005" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3995005" available="false">
+<stock_quantity>0</stock_quantity>
 <price>315.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -76036,8 +75984,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550782180</param>
 </offer>
-<offer id="RC3995015" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC3995015" available="false">
+<stock_quantity>0</stock_quantity>
 <price>820.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -76060,8 +76008,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550782203</param>
 </offer>
-<offer id="RC400700491" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC400700491" available="false">
+<stock_quantity>0</stock_quantity>
 <price>395.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76083,8 +76031,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550771320</param>
 </offer>
-<offer id="RC400702091" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC400702091" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1750.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76106,8 +76054,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550771337</param>
 </offer>
-<offer id="RC4007040" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC4007040" available="false">
+<stock_quantity>0</stock_quantity>
 <price>3175.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76129,8 +76077,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550771344</param>
 </offer>
-<offer id="RC40080041" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40080041" available="false">
+<stock_quantity>0</stock_quantity>
 <price>330.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76152,8 +76100,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550771283</param>
 </offer>
-<offer id="RC40080201" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40080201" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1500.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76175,8 +76123,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550771290</param>
 </offer>
-<offer id="RC400900119" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC400900119" available="false">
+<stock_quantity>0</stock_quantity>
 <price>69.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76197,8 +76145,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579027783</param>
 </offer>
-<offer id="RC401202091" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC401202091" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1680.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76220,8 +76168,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550787963</param>
 </offer>
-<offer id="RC4013110" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC4013110" available="false">
+<stock_quantity>0</stock_quantity>
 <price>5000.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -76244,8 +76192,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550940450</param>
 </offer>
-<offer id="RC40140301" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40140301" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2075.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -76268,8 +76216,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550940580</param>
 </offer>
-<offer id="RC40140801" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40140801" available="false">
+<stock_quantity>0</stock_quantity>
 <price>5000.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -76292,8 +76240,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550940566</param>
 </offer>
-<offer id="RC40200040" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40200040" available="false">
+<stock_quantity>0</stock_quantity>
 <price>200.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -76315,8 +76263,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579000748</param>
 </offer>
-<offer id="RC40210019" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40210019" available="false">
+<stock_quantity>0</stock_quantity>
 <price>200.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -76339,8 +76287,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579310632</param>
 </offer>
-<offer id="RC40220041" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40220041" available="false">
+<stock_quantity>0</stock_quantity>
 <price>200.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -76363,8 +76311,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579309469</param>
 </offer>
-<offer id="RC40260040" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40260040" available="false">
+<stock_quantity>0</stock_quantity>
 <price>200.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -76387,8 +76335,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579026595</param>
 </offer>
-<offer id="RC40270040" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40270040" available="false">
+<stock_quantity>0</stock_quantity>
 <price>200.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -76411,8 +76359,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579026625</param>
 </offer>
-<offer id="RC40290040" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40290040" available="false">
+<stock_quantity>0</stock_quantity>
 <price>195.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -76435,8 +76383,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579024515</param>
 </offer>
-<offer id="RC403000100" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC403000100" available="false">
+<stock_quantity>0</stock_quantity>
 <price>69.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76458,8 +76406,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579000465</param>
 </offer>
-<offer id="RC40310010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40310010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>69.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76481,8 +76429,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579027547</param>
 </offer>
-<offer id="RC40320010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40320010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>69.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76503,8 +76451,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579027721</param>
 </offer>
-<offer id="RC40350011" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40350011" available="false">
+<stock_quantity>0</stock_quantity>
 <price>69.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76525,8 +76473,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579025420</param>
 </offer>
-<offer id="RC40380041" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40380041" available="false">
+<stock_quantity>0</stock_quantity>
 <price>190.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -76547,8 +76495,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579309445</param>
 </offer>
-<offer id="RC40390011" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40390011" available="false">
+<stock_quantity>0</stock_quantity>
 <price>69.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76569,8 +76517,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579027752</param>
 </offer>
-<offer id="RC40550021" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40550021" available="false">
+<stock_quantity>0</stock_quantity>
 <price>155.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76592,8 +76540,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579307717</param>
 </offer>
-<offer id="RC4058001" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC4058001" available="false">
+<stock_quantity>0</stock_quantity>
 <price>66.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76615,8 +76563,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579308943</param>
 </offer>
-<offer id="RC40590010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40590010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>66.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76636,8 +76584,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579308936</param>
 </offer>
-<offer id="RC40670019" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40670019" available="false">
+<stock_quantity>0</stock_quantity>
 <price>69.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76659,8 +76607,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579000526</param>
 </offer>
-<offer id="RC40710010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40710010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>68.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76681,8 +76629,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579308929</param>
 </offer>
-<offer id="RC40740010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40740010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>66.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76701,8 +76649,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579309513</param>
 </offer>
-<offer id="RC4076001" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC4076001" available="false">
+<stock_quantity>0</stock_quantity>
 <price>68.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76723,8 +76671,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579309537</param>
 </offer>
-<offer id="RC4077002" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC4077002" available="false">
+<stock_quantity>0</stock_quantity>
 <price>140.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -76747,8 +76695,8 @@
 <param name="Тип упаковки">Консерви</param>
 <param name="EAN">9003579311462</param>
 </offer>
-<offer id="RC40800010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40800010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>69.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76768,8 +76716,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579027738</param>
 </offer>
-<offer id="RC40830010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40830010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>66.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76791,8 +76739,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579310168</param>
 </offer>
-<offer id="RC40840040" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40840040" available="false">
+<stock_quantity>0</stock_quantity>
 <price>200.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -76815,8 +76763,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579311004</param>
 </offer>
-<offer id="RC40850011" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40850011" available="false">
+<stock_quantity>0</stock_quantity>
 <price>69.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76838,8 +76786,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579027813</param>
 </offer>
-<offer id="RC40880019" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40880019" available="false">
+<stock_quantity>0</stock_quantity>
 <price>67.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76861,8 +76809,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579027608</param>
 </offer>
-<offer id="RC40890019" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40890019" available="false">
+<stock_quantity>0</stock_quantity>
 <price>67.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76883,8 +76831,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579027615</param>
 </offer>
-<offer id="RC40900019" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40900019" available="false">
+<stock_quantity>0</stock_quantity>
 <price>65.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76907,8 +76855,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579027622</param>
 </offer>
-<offer id="RC4092001" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC4092001" available="false">
+<stock_quantity>0</stock_quantity>
 <price>65.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76930,8 +76878,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579011539</param>
 </offer>
-<offer id="RC40950010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC40950010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>66.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76950,8 +76898,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579311301</param>
 </offer>
-<offer id="RC4098002" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC4098002" available="false">
+<stock_quantity>0</stock_quantity>
 <price>150.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -76973,8 +76921,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579311660</param>
 </offer>
-<offer id="RC41300151" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC41300151" available="false">
+<stock_quantity>0</stock_quantity>
 <price>770.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -76997,8 +76945,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550813082</param>
 </offer>
-<offer id="RC41450011" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC41450011" available="false">
+<stock_quantity>0</stock_quantity>
 <price>66.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -77020,8 +76968,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579003848</param>
 </offer>
-<offer id="RC41460010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC41460010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>66.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -77042,8 +76990,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579003886</param>
 </offer>
-<offer id="RC41470010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC41470010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>66.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -77062,8 +77010,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579003923</param>
 </offer>
-<offer id="RC4150001" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC4150001" available="false">
+<stock_quantity>0</stock_quantity>
 <price>66.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -77085,8 +77033,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579311714</param>
 </offer>
-<offer id="RC41510010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC41510010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>68.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -77107,8 +77055,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579311721</param>
 </offer>
-<offer id="RC41560010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC41560010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>66.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -77127,8 +77075,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579311776</param>
 </offer>
-<offer id="RC41570019" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC41570019" available="false">
+<stock_quantity>0</stock_quantity>
 <price>68.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -77149,8 +77097,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579000366</param>
 </offer>
-<offer id="RC4158001" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC4158001" available="false">
+<stock_quantity>0</stock_quantity>
 <price>68.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -77171,8 +77119,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579000410</param>
 </offer>
-<offer id="RC41600049" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC41600049" available="false">
+<stock_quantity>0</stock_quantity>
 <price>340.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -77194,8 +77142,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550917360</param>
 </offer>
-<offer id="RC41600209" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC41600209" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1500.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -77217,8 +77165,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550842204</param>
 </offer>
-<offer id="RC41600409" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC41600409" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2675.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -77240,8 +77188,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550842211</param>
 </offer>
-<offer id="RC42210209" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC42210209" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1065.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -77264,8 +77212,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550932998</param>
 </offer>
-<offer id="RC4221120" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC4221120" available="false">
+<stock_quantity>0</stock_quantity>
 <price>5400.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -77288,8 +77236,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550933018</param>
 </offer>
-<offer id="RC42500041" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC42500041" available="false">
+<stock_quantity>0</stock_quantity>
 <price>200.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -77311,8 +77259,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579311851</param>
 </offer>
-<offer id="RC4370020" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC4370020" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1280.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -77334,8 +77282,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550864091</param>
 </offer>
-<offer id="RC8033010" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC8033010" available="false">
+<stock_quantity>0</stock_quantity>
 <price>70.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -77359,8 +77307,8 @@
 <param name="Тип упаковки">Паучі</param>
 <param name="EAN">9003579028964</param>
 </offer>
-<offer id="RCR223154" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR223154" available="false">
+<stock_quantity>0</stock_quantity>
 <price>68.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -77381,8 +77329,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579308769</param>
 </offer>
-<offer id="RCR322694" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR322694" available="false">
+<stock_quantity>0</stock_quantity>
 <price>70.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -77404,8 +77352,8 @@
 <param name="Тип упаковки">Паучі</param>
 <param name="EAN">9003579001653</param>
 </offer>
-<offer id="RCR355476" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR355476" available="false">
+<stock_quantity>0</stock_quantity>
 <price>4485.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -77428,8 +77376,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550715645</param>
 </offer>
-<offer id="RCR355486" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR355486" available="false">
+<stock_quantity>0</stock_quantity>
 <price>705.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -77452,8 +77400,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550743174</param>
 </offer>
-<offer id="RCR355515" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR355515" available="false">
+<stock_quantity>0</stock_quantity>
 <price>3150.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -77476,8 +77424,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550771061</param>
 </offer>
-<offer id="RCR366871" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR366871" available="false">
+<stock_quantity>0</stock_quantity>
 <price>65.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -77499,8 +77447,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579027820</param>
 </offer>
-<offer id="RCR373385" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR373385" available="false">
+<stock_quantity>0</stock_quantity>
 <price>3847.50</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -77521,8 +77469,8 @@
 <param name="Вік собаки">Дорослі</param>
 <param name="EAN">3182550702874</param>
 </offer>
-<offer id="RCR377293" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR377293" available="false">
+<stock_quantity>0</stock_quantity>
 <price>92.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -77546,8 +77494,8 @@
 <param name="Тип упаковки">Паучі</param>
 <param name="EAN">9003579008331</param>
 </offer>
-<offer id="RCR377359" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR377359" available="false">
+<stock_quantity>0</stock_quantity>
 <price>92.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -77571,8 +77519,8 @@
 <param name="Тип упаковки">Паучі</param>
 <param name="EAN">9003579008379</param>
 </offer>
-<offer id="RCR386668" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR386668" available="false">
+<stock_quantity>0</stock_quantity>
 <price>55.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -77592,8 +77540,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579027714</param>
 </offer>
-<offer id="RCR386703" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR386703" available="false">
+<stock_quantity>0</stock_quantity>
 <price>55.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -77614,8 +77562,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579010365</param>
 </offer>
-<offer id="RCR439300" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR439300" available="false">
+<stock_quantity>0</stock_quantity>
 <price>69.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -77636,8 +77584,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579027776</param>
 </offer>
-<offer id="RCR444703" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR444703" available="false">
+<stock_quantity>0</stock_quantity>
 <price>4725.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -77661,8 +77609,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550402286</param>
 </offer>
-<offer id="RCR444807" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR444807" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2850.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -77685,8 +77633,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550771160</param>
 </offer>
-<offer id="RCR447741" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR447741" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2435.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -77708,8 +77656,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550704533</param>
 </offer>
-<offer id="RCR447789" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR447789" available="false">
+<stock_quantity>0</stock_quantity>
 <price>750.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -77730,8 +77678,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550919579</param>
 </offer>
-<offer id="RCR447831" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR447831" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2400.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -77753,8 +77701,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550768481</param>
 </offer>
-<offer id="RCR447851" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR447851" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1540.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -77777,8 +77725,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550894104</param>
 </offer>
-<offer id="RCR447914" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR447914" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2650.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -77800,8 +77748,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550771306</param>
 </offer>
-<offer id="RCR447916" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR447916" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1130.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -77823,8 +77771,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550914642</param>
 </offer>
-<offer id="RCR447970" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR447970" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1650.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -77847,8 +77795,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550906258</param>
 </offer>
-<offer id="RCR447972" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR447972" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2950.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -77870,8 +77818,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550787987</param>
 </offer>
-<offer id="RCR448000" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR448000" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1075.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -77894,8 +77842,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550940382</param>
 </offer>
-<offer id="RCR448006" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR448006" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2030.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -77918,8 +77866,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550940214</param>
 </offer>
-<offer id="RCR448046" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR448046" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1230.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -77941,8 +77889,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550710862</param>
 </offer>
-<offer id="RCR448047" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR448047" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1610.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -77959,8 +77907,8 @@
 <param name="Вік собаки">Цуценята</param>
 <param name="EAN">3182550768641</param>
 </offer>
-<offer id="RCR448048" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR448048" available="false">
+<stock_quantity>0</stock_quantity>
 <price>3735.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -77982,8 +77930,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550768658</param>
 </offer>
-<offer id="RCR448065" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR448065" available="false">
+<stock_quantity>0</stock_quantity>
 <price>975.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -78005,8 +77953,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550939157</param>
 </offer>
-<offer id="RCR448070" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR448070" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1815.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -78030,8 +77978,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550938921</param>
 </offer>
-<offer id="RCR448175" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR448175" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2000.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -78051,8 +77999,8 @@
 <param name="Вага 1 шт">4 кг</param>
 <param name="EAN">3182550725064</param>
 </offer>
-<offer id="RCR448193" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR448193" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1875.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -78074,8 +78022,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550765398</param>
 </offer>
-<offer id="RCR448271" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR448271" available="false">
+<stock_quantity>0</stock_quantity>
 <price>705.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -78097,8 +78045,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550930550</param>
 </offer>
-<offer id="RCR448366" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR448366" available="false">
+<stock_quantity>0</stock_quantity>
 <price>235.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -78118,8 +78066,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550739344</param>
 </offer>
-<offer id="RCR448399" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR448399" available="false">
+<stock_quantity>0</stock_quantity>
 <price>280.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -78140,8 +78088,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550784511</param>
 </offer>
-<offer id="RCR448430" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR448430" available="false">
+<stock_quantity>0</stock_quantity>
 <price>750.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -78161,8 +78109,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550780896</param>
 </offer>
-<offer id="RCR448445" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR448445" available="false">
+<stock_quantity>0</stock_quantity>
 <price>295.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -78183,8 +78131,8 @@
 <param name="Вік собаки">Цуценята</param>
 <param name="EAN">3182550765190</param>
 </offer>
-<offer id="RCR448522" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR448522" available="false">
+<stock_quantity>0</stock_quantity>
 <price>295.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -78207,8 +78155,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550716826</param>
 </offer>
-<offer id="RCR448557" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR448557" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1380.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -78230,8 +78178,8 @@
 <param name="Розмір тварини">Малі</param>
 <param name="EAN">3182550894128</param>
 </offer>
-<offer id="RCR448559" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR448559" available="false">
+<stock_quantity>0</stock_quantity>
 <price>800.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -78252,8 +78200,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550896528</param>
 </offer>
-<offer id="RCR448583" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR448583" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1540.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -78276,8 +78224,8 @@
 <param name="Тип упаковки">Мішок</param>
 <param name="EAN">3182550893916</param>
 </offer>
-<offer id="RCR448614" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR448614" available="false">
+<stock_quantity>0</stock_quantity>
 <price>295.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -78299,8 +78247,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550825948</param>
 </offer>
-<offer id="RCR448619" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR448619" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2435.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -78322,8 +78270,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550710657</param>
 </offer>
-<offer id="RCR459725" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR459725" available="false">
+<stock_quantity>0</stock_quantity>
 <price>3350.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -78346,8 +78294,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550947466</param>
 </offer>
-<offer id="RCR459817" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR459817" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1700.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -78368,8 +78316,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550948784</param>
 </offer>
-<offer id="RCR475618" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR475618" available="false">
+<stock_quantity>0</stock_quantity>
 <price>265.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -78389,8 +78337,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182551065671</param>
 </offer>
-<offer id="RCR475625" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR475625" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1110.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -78410,8 +78358,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182551065701</param>
 </offer>
-<offer id="RCR475627" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR475627" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2135.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -78431,8 +78379,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182551065732</param>
 </offer>
-<offer id="RCR475737" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR475737" available="false">
+<stock_quantity>0</stock_quantity>
 <price>5120.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -78452,8 +78400,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182551065763</param>
 </offer>
-<offer id="RCR475948" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR475948" available="false">
+<stock_quantity>0</stock_quantity>
 <price>285.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -78474,8 +78422,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182551065916</param>
 </offer>
-<offer id="RCR475950" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR475950" available="false">
+<stock_quantity>0</stock_quantity>
 <price>285.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -78496,8 +78444,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182551065947</param>
 </offer>
-<offer id="RCR475954" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR475954" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1175.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -78518,8 +78466,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182551066005</param>
 </offer>
-<offer id="RCR475957" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR475957" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1175.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -78540,8 +78488,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182551066036</param>
 </offer>
-<offer id="RCR601188" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR601188" available="false">
+<stock_quantity>0</stock_quantity>
 <price>66.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -78562,8 +78510,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">9003579050095</param>
 </offer>
-<offer id="RCR603745" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR603745" available="false">
+<stock_quantity>0</stock_quantity>
 <price>210.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -78583,8 +78531,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579051122</param>
 </offer>
-<offer id="RCR604332" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR604332" available="false">
+<stock_quantity>0</stock_quantity>
 <price>68.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -78604,8 +78552,8 @@
 <param name="Вага 1 шт">85 г</param>
 <param name="EAN">9003579051405</param>
 </offer>
-<offer id="RCR606100" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR606100" available="false">
+<stock_quantity>0</stock_quantity>
 <price>815.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -78625,8 +78573,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182551101614</param>
 </offer>
-<offer id="RCR606107" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR606107" available="false">
+<stock_quantity>0</stock_quantity>
 <price>860.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -81058,7 +81006,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT23323" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>8244.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80140</categoryId>
@@ -81610,7 +81558,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT23892" available="true">
-<stock_quantity>25</stock_quantity>
+<stock_quantity>20</stock_quantity>
 <price>6000.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80142</categoryId>
@@ -82653,7 +82601,7 @@
 <param name="Кількість циклів прання">46</param>
 </offer>
 <offer id="HT26694" available="true">
-<stock_quantity>15</stock_quantity>
+<stock_quantity>16</stock_quantity>
 <price>14119.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -83600,7 +83548,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT29092" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>755.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -86408,7 +86356,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30787" available="true">
-<stock_quantity>39</stock_quantity>
+<stock_quantity>38</stock_quantity>
 <price>346.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4674121</categoryId>
@@ -86592,7 +86540,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30835" available="true">
-<stock_quantity>10</stock_quantity>
+<stock_quantity>8</stock_quantity>
 <price>56419.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -87677,7 +87625,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31703" available="true">
-<stock_quantity>12</stock_quantity>
+<stock_quantity>11</stock_quantity>
 <price>9475.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80162</categoryId>
@@ -94774,7 +94722,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT33877" available="true">
-<stock_quantity>8</stock_quantity>
+<stock_quantity>7</stock_quantity>
 <price>22119.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80123</categoryId>
@@ -98883,36 +98831,6 @@
 <param name="Глибина">50 см</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
-<offer id="HT34982" available="true">
-<stock_quantity>1</stock_quantity>
-<price>4534.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80140</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166131.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166132.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166133.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166134.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166135.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166136.jpg</picture>
-<vendor>Minola</vendor>
-<article>HK 5614 BL 1000 LED</article>
-<name>Вытяжка Minola HK 5614 BL 1000 LED (HK 5614 BL 1000 LED)</name>
-<name_ua>Витяжка Minola HK 5614 BL 1000 LED (HK 5614 BL 1000 LED)</name_ua>
-<description><![CDATA[<p>Minola HK 5614 BL 1000 LED — идеальное сочетание современного минимализма и практичностиКлассический дизайн модели составит идеальную комбинацию с любым интерьерным решением, а также станет стильным декоративным элементом на вашей кухнеТрехслойная защита мотораМодель имеет надежные жировые алюминиевые фильтры, которые состоят из трех слоев. Они препятствуют попаданию жира и испарений внутрь вытяжки. Благодаря этому мотор защищен, а потому прослужит вам значительно дольшеОптимальная производительность и три режима работыМощность вытяжки — 1000 м³/ч. Она эффективно освежит воздух в помещении, устранив испарения, дым и лишние запахи. В зависимости от интенсивности процесса приготовления работу вытяжки можно регулировать, выбирая нужный режимДополнительное освещение рабочей зоныМодель оборудована современной LED-лампой мощностью 2 Вт. Этого достаточно, чтобы использовать ее как дополнительное освещение варочной поверхности. Светодиоды комфортны для глаз, выносливы и экономичныУправление легким нажатиемУдобные механические кнопки позволяют без усилий управлять вытяжкой. Основные преимущества такой панели — это надежность и простота в эксплуатации.</p>]]></description>
-<description_ua><![CDATA[<p>Minola HK 5614 BL 1000 LED — ідеальне поєднання сучасного мінімалізму й практичностіКласичний дизайн моделі складе ідеальну комбінацію з будь-яким інтер'єрним рішенням, а також стане стильним декоративним елементом на вашій кухніТришаровий захист моторуМодель має надійні жирові алюмінієві фільтри, які складаються з трьох шарів. Вони перешкоджають потраплянню жиру та випарів всередину витяжки. Завдяки цьому мотор захищений, а тому прослужить вам значно довшеОптимальна продуктивність і три режими роботиПотужність витяжки — 1000 м³/год. Вона ефективно освіжить повітря у приміщенні, усунувши випари, дим і зайві запахи. В залежності від інтенсивності процесу готування, роботу витяжки можна регулювати, обираючи потрібний режимДодаткове освітлення робочої зониМодель обладнана сучасною LED-лампою потужністю 2 Вт. Цього достатньо, щоб використовувати її як додаткове освітлення варильної поверхні. Світлодіоди комфортні для очей, витривалі та економніКерування легким натискомЗручні механічні кнопки дозволяють без зусиль керувати витяжкою. Основні переваги такої панелі — це надійність і простота в експлуатації.</p>]]></description_ua>
-<param name="Тип">Витяжка</param>
-<param name="Колір">Чорний</param>
-<param name="Кількість швидкостей">3</param>
-<param name="Ширина">55 см</param>
-<param name="Керування">Кнопкове</param>
-<param name="Тип конструкції">Купольна</param>
-<param name="Кількість моторів">1</param>
-<param name="Матеріал корпусу">Метал</param>
-<param name="Вага">4,8 кг</param>
-<param name="Висота">53 см</param>
-<param name="Глибина">24 см</param>
-<param name="Гарантія">25 місяців</param>
-</offer>
 <offer id="HT34996" available="true">
 <stock_quantity>1</stock_quantity>
 <price>19294.00</price>
@@ -100089,7 +100007,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35154" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>8750.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81227</categoryId>
@@ -101076,6 +100994,32 @@
 <param name="Ємність подрібнювача">400 мл</param>
 <param name="Керування">Кнопкове</param>
 <param name="Потужність">1000 Вт</param>
+<param name="Гарантія">24 місяці</param>
+</offer>
+<offer id="HT35275" available="true">
+<stock_quantity>22</stock_quantity>
+<price>3905.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>81089</categoryId>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171881.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171882.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171883.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171885.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171886.jpg</picture>
+<vendor>Rotex</vendor>
+<article>ROM990-XXL</article>
+<name>Мультипечь-фритюрница Rotex ROM990-XXL UP&amp;DownFry (ROM990-XXL)</name>
+<name_ua>Мультипіч-фритюрниця Rotex ROM990-XXL UP&amp;DownFry (ROM990-XXL)</name_ua>
+<description><![CDATA[<p>Мультипечь ROM990-XXL Up&amp;DownFry: Максимальный объём и интеллектуальный нагревМультипечь ROM990-XXL Up&amp;DownFry — это флагман линейки с расширенным функционалом, сочетающий огромный объём в 9.5 литров и передовую технологию двойного нагрева.</p><ul><li>Благодаря 11 автоматическим программам и мощности 2000 Вт это устройство способно полностью заменить духовой шкаф, обеспечивая быстрое приготовление здоровой пищи для большой семьи.</li><li>Основные преимущества:Технология Up&amp;DownFry: Нагревательные элементы расположены сверху и снизу, что позволяет готовить блюда без необходимости переворачивания, гарантируя равномерную корочку со всех сторон.</li><li>Гигантский объём XXL: Чаша на 9.5 л (корзина 8.5 л) позволяет запекать целую индейку, большие порции мяса или готовить гарниры на 6–8 человек одновременно.11 автоматических программ: Расширенное меню включает специальные режимы для размораживания и предварительного нагрева камеры, что делает процесс приготовления максимально профессиональным.</li><li>Сенсорное управление: Большой интуитивно понятный LED-дисплей обеспечивает точную настройку температуры и времени одним касанием.11 автоматических программ:Картофель Фри — идеально хрустящий без лишнего жира.</li><li>Куриная Голень — сочное мясо с румяной корочкой.</li><li>Курица — равномерное запекание целой птицы.</li><li>Рыба — сохранение сочности и нежной текстуры.</li><li>Стейк — быстрое обжаривание с эффектом гриля.</li><li>Пицца — хрустящая основа благодаря нижнему нагреву.</li><li>Маффины — деликатная выпечка большими порциями.</li><li>Овощи — здоровый гарнир за считанные минуты.</li><li>Картофель — запекание ломтиками или целым.</li><li>Разморозка — быстрое и безопасное размораживание продуктов.</li><li>Предварительный нагрев — подготовка камеры для идеального результата запекания.</li><li>Технические характеристики:Модель: ROM990-XXL Up&amp;DownFryМощность: 2000 ВтОбщий объём чаши: 9.5 лОбъём корзины: 8.5 лТип нагрева: Комбинированный (Верхний + Нижний)Тип управления: Сенсорный (Digital LED)Особенности: 3D конвекция, таймер, антипригарное покрытие.</li></ul>]]></description>
+<description_ua><![CDATA[<p>Мультипіч ROM990-XXL Up&amp;DownFry: Максимальний об'єм та інтелектуальний нагрівМультипіч ROM990-XXL Up&amp;DownFry — це флагман лінійки з розширеним функціоналом, що поєднує величезний об'єм у 9.5 літрів та передову технологію подвійного нагріву.</p><ul><li>Завдяки 11 автоматичним програмам та потужності 2000 Вт, цей пристрій здатен повністю замінити духову шафу, забезпечуючи швидке приготування здорової їжі для великої родини.</li><li>Основні переваги:Технологія Up&amp;DownFry: Нагрівальні елементи розташовані зверху та знизу, що дозволяє готувати страви без необхідності перевертання, гарантуючи рівномірну скоринку з усіх боків.</li><li>Гігантський об'єм XXL: Чаша на 9.5 л (кошик 8.5 л) дозволяє запікати цілу індичку, великі порції м'яса або готувати гарніри на 6–8 осіб одночасно.11 автоматичних програм: Розширене меню включає спеціальні режими для розморожування та попереднього нагріву камери, що робить процес приготування максимально професійним.</li><li>Сенсорне керування: Великий інтуїтивно зрозумілий LED-дисплей забезпечує точне налаштування температури та часу одним дотиком.11 автоматичних програм:Картопля Фрі — ідеально хрустка без зайвого жиру.</li><li>Куряча Гомілка — соковите м'ясо з рум'яною скоринкою.</li><li>Курка — рівномірне запікання цілої птиці.</li><li>Риба — збереження соковитості та ніжної текстури.</li><li>Стейк — швидке обсмажування з ефектом гриля.</li><li>Піца — хрустка основа завдяки нижньому нагріву.</li><li>Мафіни — делікатна випічка великими порціями.</li><li>Овочі — здоровий гарнір за лічені хвилини.</li><li>Картопля — запікання скибочками або цілою.</li><li>Розморозка — швидке та безпечне розморожування продуктів.</li><li>Попередній нагрів — підготовка камери для ідеального результату запікання.</li><li>Технічні характеристики:Модель: ROM990-XXL Up&amp;DownFryПотужність: 2000 ВтЗагальний об'єм чаші: 9.5 лОб'єм кошика: 8.5 лТип нагріву: Комбінований (Верхній + Нижній)Тип керування: Сенсорний (Digital LED)Особливості: 3D конвекція, таймер, антипригарне покриття.</li></ul>]]></description_ua>
+<param name="Тип">Мультипіч-фритюрниця</param>
+<param name="Колір">Чорний з сріблястим</param>
+<param name="Об`єм">9 л</param>
+<param name="Покриття чаші">Антипригарне</param>
+<param name="Керування">Сенсорне</param>
+<param name="Матеріал корпусу">Пластик + метал</param>
+<param name="Кількість програм приготування">14</param>
+<param name="Температура нагріву">80 - 200°C</param>
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35276" available="true">
@@ -108170,33 +108114,6 @@
 <param name="Тип принтера">БФП</param>
 <param name="Тип сканера">Планшетний</param>
 <param name="Вага">5,13 кг</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
-<offer id="HT36004" available="true">
-<stock_quantity>1</stock_quantity>
-<price>6287.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80007</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183241.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183242.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183243.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183244.jpg</picture>
-<vendor>HP</vendor>
-<article>OfficeJet Pro 8122E</article>
-<name>МФУ HP OfficeJet Pro 8122E (OfficeJet Pro 8122E)</name>
-<name_ua>МФУ HP OfficeJet Pro 8122E (OfficeJet Pro 8122E)</name_ua>
-<description><![CDATA[<p>Многофункциональное устройство HP OfficeJet Pro 8122e – это ключ к более эффективному управлению документами. Разработанная с мыслью о домашних офисах и небольших фирмах, эта модель в эстетичной бело-серой отделке объединяет печать, сканирование и копирование. Вы ограничите потребление бумаги и время выполнения задач благодаря автоматической двусторонней печати.</p><ul><li>Кроме того, автоматический податчик документов (ADF) на 35 листов облегчает работу с большими заданиями, устраняя необходимость в ручном перекладывании страниц.</li><li>Универсальность и производительность для вашей работыЗащита и постоянная готовность с HP+Повысьте контроль над офисными процессами, активируя систему HP+.</li></ul><p>Благодаря этой технологии HP OfficeJet Pro 8122e остаётся подключённым к облаку, что даёт возможность текущих обновлений программного обеспечения и защиты. Пользуйтесь печатью из любого места, имея уверенность во всесторонней защите от киберугроз, которую предлагает HP Wolf Pro Security.</p><ul><li>Активация HP+ продлевает также период поддержки для устройства, поддерживая его долговременную работу.</li><li>Оптимизация расходов на печать с Instant InkРешите проблему внезапного отсутствия чернил, присоединившись к программе подписки Instant Ink.</li></ul><p>Картриджи придут к вам автоматически, прежде чем имеющиеся закончатся. Это позволяет снизить расходы на чернила даже до 50% благодаря гибким планам, которые рассчитываются по количеству напечатанных страниц, а не по расходу чернил.</p><ul><li>Каждая страница, независимо от того, цветная это фотография или чёрно-белый документ, имеет одинаковую стоимость, а использованные картриджи вы легко отправите на переработку, заботясь об окружающей среде.</li><li>Скорость и детализация в каждом заданииНаслаждайтесь быстрым выполнением заданий и чёткими отпечатками.</li></ul><p>HP OfficeJet Pro 8122e достигает скорости до 20 страниц в минуту в чёрно-белом режиме и 10 страниц в минуту в цветном, с первой страницей, готовой уже через 15 или 18 секунд. Тексты выглядят чётко благодаря разрешению печати 1200 x 1200 dpi, а цветные изображения отличает детализация при разрешении 4800 x 1200 dpi.</p><ul><li>Планшетный сканер CIS точно оцифровывает документы в формате A4 с разрешением 1200 x 1200 dpi, а копировальный аппарат создаёт дубликаты в качестве 600 x 600 dpi с возможностью выполнения до 99 копий.</li><li>Свободное соединение и мобильные возможностиПользуйтесь свободой печати с каждого устройства и места благодаря разнообразным опциям подключения.</li></ul><p>HP OfficeJet Pro 8122e имеет двухдиапазонный Wi-Fi с функцией самовосстановления, что способствует поддержанию стабильных беспроводных соединений. Альтернативно вы можете подключить устройство с помощью интерфейсов Ethernet и USB 2.0.</p><ul><li>Поддержка технологий AirPrint и Mopria позволяет непосредственно печатать со смартфонов и планшетов, тогда как приложение HP Smart даёт возможность печатать, сканировать и копировать документы мобильно, а также синхронизироваться с облачными услугами, такими как Dropbox, Google Drive или OneDrive.</li><li>Дизайн с мыслью о пользователе и окружающей средеHP OfficeJet Pro 8122e – это многофункциональное устройство, разработанное с заботой о комфорте обслуживания и экологической ответственности.</li></ul><p>Интуитивно понятный сенсорный экран облегчает навигацию и доступ к функциям. Тихий режим минимизирует уровень шума во время печати, что особенно выгодно в домашних офисах. Большой лоток для бумаги на 225 листов и приёмный лоток на 60 листов уменьшают частоту пополнения носителей. Устройство содержит 45% пластика из переработки, а каждый отпечаток поддерживает инициативу HP Forest Positive Framework, способствуя охране лесных ресурсов.</p>]]></description>
-<description_ua><![CDATA[<p>Багатофункціональний пристрій HP OfficeJet Pro 8122e – це ключ до ефективнішого управління документами. Розроблений з думкою про домашні офіси та малі фірми, ця модель в естетичному біло-сірому оздобленні інтегрує друк, сканування та копіювання. Ви обмежите споживання паперу та час виконання завдань завдяки автоматичному двосторонньому друку.</p><ul><li>Крім того, автоматичний подавач документів (ADF) на 35 аркушів полегшує роботу з великими завданнями, усуваючи потребу в ручному перекладанні сторінок.</li><li>Універсальність та продуктивність для вашої роботиЗахист та постійна готовність з HP+Підвищте контроль над офісними процесами, активуючи систему HP+.</li></ul><p>Завдяки цій технології HP OfficeJet Pro 8122e залишається підключеним до хмари, що дає змогу поточних оновлень програмного забезпечення та захистів. Користуйтеся друком з будь-якого місця, маючи впевненість у всебічній обороні перед кіберзагрозами, яку пропонує HP Wolf Pro Security.</p><ul><li>Активація HP+ подовжує також період підтримки для пристрою, підтримуючи його довготривалу роботу.</li><li>Оптимізація витрат на друк з Instant InkЗавершіть проблему з раптовою відсутністю чорнила, приєднуючись до програми підписки Instant Ink.</li></ul><p>Контейнери друку дійдуть до вас автоматично, перш ніж наявні вичерпаються. Це дозволяє знизити видатки на чорнило навіть до 50%, завдяки гнучким планам, що розраховуються за кількість друкованих сторінок, а не споживання чорнила.</p><ul><li>Кожна сторінка, незалежно від того, чи це кольорова фотографія, чи чорно-білий документ, має однакову вартість, а використані картриджі ви легко відправите на переробку, дбаючи про навколишнє середовище.</li><li>Швидкість та деталізація в кожному завданніНасолоджуйтесь швидким виконанням завдань і чіткими відбитками.</li></ul><p>HP OfficeJet Pro 8122e досягає швидкості до 20 сторінок на хвилину в чорно-білому режимі та 10 сторінок на хвилину в кольоровому, з першою сторінкою готовою вже через 15 або 18 секунд. Тексти виглядають чітко завдяки роздільній здатності друку 1200 x 1200 dpi, а кольорові зображення вирізняє деталізація при роздільній здатності 4800 x 1200 dpi.</p><ul><li>Планарний сканер CIS точно оцифровує документи у форматі A4 з роздільною здатністю 1200 x 1200 dpi, а копіювальний апарат створює дублікати в якості 600 x 600 dpi, з можливістю виконання до 99 копій.</li><li>Вільне з'єднання та мобільні можливостіКористуйтеся свободою друку з кожного пристрою та місця завдяки різноманітним опціям підключень.</li></ul><p>HP OfficeJet Pro 8122e має дводіапазонне Wi-Fi з функцією самовідновлення, що сприяє підтриманню стабільних бездротових з'єднань. Альтернативно, ви можете підключити пристрій за допомогою інтерфейсів Ethernet та USB 2.0.</p><ul><li>Підтримка технологій AirPrint і Mopria дозволяє безпосередньо друкувати зі смартфонів і планшетів, тоді як застосунок HP Smart дає змогу друкувати, сканувати та копіювати документи мобільно, а також синхронізуватися з хмарними послугами, такими як Dropbox, Google Drive чи OneDrive.</li><li>Дизайн з думкою про користувача та навколишнє середовищеHP OfficeJet Pro 8122e – це багатофункціональний пристрій, розроблений з дбайливістю про комфорт обслуговування та екологічну відповідальність.</li></ul><p>Інтуїтивно зрозумілий сенсорний екран полегшує навігацію та доступ до функцій. Тихий режим мінімізує рівень шуму під час друку, що є особливо вигідним у домашніх офісах. Великий лоток для паперу на 225 аркушів і приймальний лоток на 60 аркушів зменшують частоту поповнення носіїв. Пристрій містить 45% пластику з переробки, а кожен відбиток підтримує ініціативу HP Forest Positive Framework, сприяючи охороні лісових ресурсів.</p>]]></description_ua>
-<param name="Тип">МФУ</param>
-<param name="Колір">Сірий</param>
-<param name="Wi-Fi">Так</param>
-<param name="Стандарти зв&apos;язку">Wi-Fі</param>
-<param name="Максимальний формат друку">4800Х1200dpi</param>
-<param name="Технологія друку">Струменева</param>
-<param name="Тип друку">Кольоровий</param>
-<param name="Тип принтера">Струйний</param>
-<param name="Тип сканера">Планшетний</param>
-<param name="Вага">8 кг</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT36005" available="true">
