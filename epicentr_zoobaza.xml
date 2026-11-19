@@ -86191,9 +86191,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT10416" available="true">
+<offer id="HT10416" available="false">
 <price>3569.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="119">Блендери</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/0f708718a0a0969e.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/62a0023e000a4e9b.jpg</picture>
@@ -93265,9 +93265,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT31984" available="true">
+<offer id="HT31984" available="false">
 <price>812.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="1758">Сковорідки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013421_449725508.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013421_449725509.jpg</picture>
@@ -99253,9 +99253,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT34715" available="true">
+<offer id="HT34715" available="false">
 <price>1822.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000162071.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000162072.jpg</picture>
@@ -99589,9 +99589,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT34840" available="true">
+<offer id="HT34840" available="false">
 <price>5707.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="111">Електричні печі</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000163631.jpg</picture>
 <name lang="ua">Духовка Rotex ROT655-B2G EUROSTANDART</name>
@@ -102588,9 +102588,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35495" available="true">
+<offer id="HT35495" available="false">
 <price>550.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="126">Електробритви</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175195.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175196.jpg</picture>
@@ -105543,9 +105543,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT36206" available="true">
+<offer id="HT36206" available="false">
 <price>5445.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="83">Варильні поверхні</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188851.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188852.jpg</picture>
@@ -106714,9 +106714,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT23889" available="false">
+<offer id="HT23889" available="true">
 <price>4827.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="111">Електричні печі</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000002294_ROT450-B-2.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000002294_ROT450-B-3.jpg</picture>
