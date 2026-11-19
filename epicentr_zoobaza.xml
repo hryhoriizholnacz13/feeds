@@ -54396,9 +54396,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[9345719094096]]></param>
 </offer>
-<offer id="TX32573" available="true">
+<offer id="TX32573" available="false">
 <price>300.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7933">Ласощі для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX32573-1.jpg</picture>
 <name lang="ua">Натуральні сушені ласощі для собак Cooka&apos;s Cookies 100% М&apos;ясо кабана 60 г</name>
@@ -107041,9 +107041,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4019008710053]]></param>
 </offer>
-<offer id="TX45371" available="false">
+<offer id="TX45371" available="true">
 <price>748.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="7358">Вітаміни для тварин</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45371-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45371-2.jpg</picture>
@@ -107274,9 +107274,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="TX29582" available="false">
-<price>1950.00</price>
-<availability>out_of_stock</availability>
+<offer id="TX29582" available="true">
+<price>1877.00</price>
+<availability>in_stock</availability>
 <category code="7376">Шлейки для тварин</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX29582-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX29582-2.jpg</picture>
@@ -107458,9 +107458,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[886284415309]]></param>
 </offer>
-<offer id="TX41810" available="false">
-<price>1550.00</price>
-<availability>out_of_stock</availability>
+<offer id="TX41810" available="true">
+<price>1492.00</price>
+<availability>in_stock</availability>
 <category code="7366">Одяг для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41810-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41810-2.jpg</picture>
@@ -107658,9 +107658,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT30466" available="false">
+<offer id="HT30466" available="true">
 <price>255.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="93">Аксесуари до техніки для догляду за домом</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011902_20338_.jpg</picture>
 <name lang="ua">Мішок д/пилососа б/р СЛОН P-03 C-I c до Philips</name>
