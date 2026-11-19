@@ -107765,9 +107765,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT36207" available="false">
-<price>5286.00</price>
-<availability>out_of_stock</availability>
+<offer id="HT36207" available="true">
+<price>5088.00</price>
+<availability>in_stock</availability>
 <category code="83">Варильні поверхні</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188861.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188862.jpg</picture>
