@@ -88057,9 +88057,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT23349" available="true">
+<offer id="HT23349" available="false">
 <price>4091.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="84">Витяжки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000009386_298368954.jpg</picture>
 <name lang="ua">Витяжка Minola HPL 613 I</name>
@@ -89446,9 +89446,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT26759" available="true">
+<offer id="HT26759" available="false">
 <price>13097.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="77">Пральні машини</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000010012_62b2e720cd3c4.jpg</picture>
 <name lang="ua">Пральна машина Midea MFE06W60/ W-UA</name>
@@ -89887,9 +89887,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT27598" available="true">
+<offer id="HT27598" available="false">
 <price>80.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="1767">Тарілки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000010267_7854226-1654085405.jpg</picture>
 <name lang="ua">Тарілка LUMINARC PAMPILLE LIGHT TURQUOISE /25 см /обід</name>
@@ -91826,9 +91826,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT30858" available="true">
+<offer id="HT30858" available="false">
 <price>8615.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="8750">Мультипечі</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012293_378479827.jpg</picture>
 <name lang="ua">Мультипіч-фритюрниця Zelmer ZAF 9000 Dual</name>
@@ -93629,9 +93629,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT32025" available="true">
+<offer id="HT32025" available="false">
 <price>2812.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="2558">Вафельниці</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013462_393412378.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000013462_393412389.jpg</picture>
@@ -101778,9 +101778,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35275" available="true">
+<offer id="HT35275" available="false">
 <price>3988.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="8750">Мультипечі</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171881.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171882.jpg</picture>
@@ -105616,9 +105616,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT36217" available="true">
+<offer id="HT36217" available="false">
 <price>4531.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="84">Витяжки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184611.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184612.jpg</picture>
