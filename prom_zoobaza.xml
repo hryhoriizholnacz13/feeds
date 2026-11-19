@@ -21092,7 +21092,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/38/1208x800l80mc0/80314347378945.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/38/1208x800l80mc0/59719238141841.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3537</vendorCode>
 <param name="Розмір">d65</param>
@@ -42246,7 +42245,7 @@
 <portal_category_id>6300403</portal_category_id>
 <price>2494.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>12</quantity_in_stock>
+<quantity_in_stock>11</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000007514_74139992.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000007514_74139994.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000007514_74139938.jpg</picture>
@@ -44243,7 +44242,7 @@
 <portal_category_id>609</portal_category_id>
 <price>4134.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_6ea1bc32-3385-11ee-8a54-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/10_6ea1bc32-3385-11ee-8a54-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/11_6ea1bc32-3385-11ee-8a54-dc4a3e701323.jpg</picture>
@@ -66643,7 +66642,7 @@
 <portal_category_id>63303</portal_category_id>
 <price>1812.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171121.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171122.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171123.jpg</picture>
@@ -66771,7 +66770,7 @@
 <portal_category_id>64301</portal_category_id>
 <price>2941.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171891.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171892.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171893.jpg</picture>
@@ -83264,7 +83263,7 @@
 <param name="Гарантія">2 роки</param>
 <description><![CDATA[Капсульна кавомашина L’OR Barista Sublime варить каву під високим тиском (19 бар), щоб забезпечити бездоганний смак еспресо.ПЕРСОНАЛІЗАЦІЯ НАПОЇВ.Легко відрегулюйте об’єм приготованої кави відповідно до своїх уподобань та насолоджуйтесь своєю ідеальною чашкою кави.ІНДИВІДУАЛЬНИЙ ПІДХІД ДО КОЖНОЇ ЧАШКИ КАВИ.Приготуйте свою улюблену каву за допомогою L’OR Barista Sublime. Насолоджуйтесь трьома видами кавових напоїв: ристретто, еспресо або лунго.РЕГУЛЬОВАНИЙ ПІДДОН.Піддон кавомашини можна легко відрегулювати відповідно до розміру вашої чашки. Зніміть піддон для збирання крапель та його кришку, а потім встановіть чашку для приготування улюбленої кави.10 капсул в наборіКомпактний дизайнГотує 1 або 2 чашки кави одночасноТиск до 19 бар для ідеального еспресоСумісна з капсулами L’OR та з усіма іншими капсулами типу Nespresso.]]></description>
 </offer>
-<offer id="HT36274" available="true" selling_type="r">
+<offer id="HT36274" available="false" selling_type="r">
 <name>Мікрохвильова піч Grunhelm 20MX711-G Gray 20л</name>
 <categoryId>220</categoryId>
 <portal_category_id>605</portal_category_id>
