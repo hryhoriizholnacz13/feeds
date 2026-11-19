@@ -1792,7 +1792,6 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://www.zoobaza.com.ua/content/images/38/1208x800l80mc0/80314347378945.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/38/1208x800l80mc0/59719238141841.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>8447</article>
 <name>Лежак-матрас ЗооБаза Магнус d65 фуксия и серый (8447)</name>
@@ -37144,6 +37143,35 @@
 <param name="Для кого">Для собак</param>
 <param name="EAN">4019008304764</param>
 </offer>
+<offer id="TX29582" available="true">
+<stock_quantity>2</stock_quantity>
+<price>1950.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>4626659</categoryId>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX29582-1.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX29582-2.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX29582-3.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX29582-4.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX29582-5.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX29582-6.jpg</picture>
+<vendor>Wolters</vendor>
+<article>29582</article>
+<name>Анатомическая шлейка для собак Wolters Professional XL 75-100 см / 25 мм Оливковый (29582)</name>
+<name_ua>Анатомічна шлейка для собак Wolters Professional XL 75-100 см / 25 мм Оливковий (29582)</name_ua>
+<description><![CDATA[<p>Анатомическая шлея для собак Wolters Professional – это отличный выбор для тех четырехлапых друзей, которые любят исследовать окружающий мир.</p><p>Идеально подходит для собак с широкой грудной клеткой, таких как мопсы и бульдоги. Также, это идеальный выбор для щенков, поскольку она гибко регулируется и сможет расти вместе с ними. Гибкая регулировка ремней на груди, животе и шее позволяет идеально подобрать шлейку для любой собаки.</p><p>Прочный нейлоновый материал обеспечивает комфорт собаки во время носки и оснащен надежными быстросъемными застежками для легкого одевания и снятия шлеи.</p><p><strong>Советы по чистке:</strong></p><p>Шлею можно стирать в мешке для белья в деликатном режиме при температуре не более 30 градусов по Цельсию. После стирки тщательно высушите металлическую фурнитуру во избежание ржавения.</p><p><strong>Детали продукта:</strong></p><p><strong>Специальные размеры для широкой груди мопсов и подобных пород, а также для очень маленьких собак;</strong></p><p><strong>Комфортно в носке;</strong></p><p><strong>Гибкая регулировка ремней на груди и животе;</strong></p><p><strong>Крепкие застежки;</strong></p><p>100% нейлон;</p><p>Можно стирать.</p>]]></description>
+<description_ua><![CDATA[<p>Анатомічна шлейка для собак Wolters Professional - це відмінний вибір для тих чотирилапих друзів, які люблять досліджувати навколишній світ.</p><p>Ідеально підходить для собак з широкою грудною кліткою, таких як мопси та бульдоги. Також, це ідеальний вибір для цуценят, оскільки вона гнучко регулюється і зможе зростати разом з ними. Гнучке регулювання ременів на грудях, животі та шиї дозволяє ідеально підібрати шлею для будь-якої собаки.</p><p>Міцний нейлоновий матеріал забезпечує комфорт собаки під час носіння та оснащений надійними швидкознімними застібками для легкого одягання та знімання шлеї.</p><p><strong>Поради з чистки:</strong></p><p>Шлею можна прати в мішку для білизни в делікатному режимі при температурі не більше 30 градусів по Цельсію. Після прання ретельно висушіть металеву фурнітуру, щоб уникнути ржавіння.</p><p><strong>Деталі продукту:</strong></p><p><strong>Спеціальні розміри для широких грудей мопсів та подібних порід, а також для дуже малих собак;</strong></p><p><strong>Комфортне носіння;</strong></p><p><strong>Гнучке регулювання ременів на грудях і животі;</strong></p><p><strong>Міцні застібки;</strong></p><p>100% нейлон;</p><p>Можна прати.</p>]]></description_ua>
+<param name="Колір">Оливковий</param>
+<param name="Розмір">XL</param>
+<param name="Тварина">Собака</param>
+<param name="Ширина">25 мм</param>
+<param name="Особливості">Анатомический</param>
+<param name="Матеріал">Нейлон</param>
+<param name="Серія">Professional</param>
+<param name="Обхват груди">65-100 см</param>
+<param name="Обхват шиї">25-35 см</param>
+<param name="Для кого">Для собак</param>
+<param name="EAN">4019008304740</param>
+</offer>
 <offer id="TX29584" available="true">
 <stock_quantity>2</stock_quantity>
 <price>1950.00</price>
@@ -48946,28 +48974,6 @@
 <param name="Серія">Octo-Posse</param>
 <param name="EAN">9345719094096</param>
 </offer>
-<offer id="TX32573" available="true">
-<stock_quantity>2</stock_quantity>
-<price>355.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4675022</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX32573-1.jpg</picture>
-<vendor>Cooka&apos;s Cookies</vendor>
-<article>32573</article>
-<name>Натуральные сушеные лакомства для собак Cooka&apos;s Cookies 100% Мясо кабана 60 г (32573)</name>
-<name_ua>Натуральні сушені ласощі для собак Cooka&apos;s Cookies 100% М&apos;ясо кабана 60 г (32573)</name_ua>
-<description><![CDATA[<p>Cooka's Cookies "100% Мясо кабана" – это вкусное и питательное сушеное лакомство, изготовленное из высококачественного мяса кабана, которое станет идеальным дополнением к рациону вашего любимца, обеспечивая его важными питательными веществами, необходимыми для поддержания энергии и здоровья.</p><p><strong>Основные преимущества:</strong></p><p>100% натуральное мясо кабана без искусственных добавок и консервантов.</p><p>Богато на белок и минералы – поддерживает здоровье мышц, кожи и шерсти.</p><p>Легко усваивается и подходит собакам с чувствительным желудком.</p><p>Прекрасный перекус или дополнение к основному рациону.</p>]]></description>
-<description_ua><![CDATA[<p>Cooka's Cookies "100% М'ясо кабана" – це смачні та поживні сушені ласощі, виготовлені з високоякісного м'яса кабана. Вони стануть ідеальним доповненням до раціону вашого улюбленця, забезпечуючи його важливими поживними речовинами, необхідними для підтримки енергії та здоров'я.</p><p><strong>Основні переваги:</strong></p><p>100% натуральне м'ясо кабана – без штучних добавок і консервантів.</p><p>Багате на білок та мінерали – підтримує здоров'я м'язів, шкіри та шерсті.</p><p>Легко засвоюється і підходить для собак з чутливим шлунком.</p><p>Чудовий перекус або додаток до основного раціону.</p>]]></description_ua>
-<param name="Вага">60 г</param>
-<param name="Розмір породи">Средние ; Крупные ; Миниатюрные ; Гигантские</param>
-<param name="Особливості">Натуральные ; Мясные ; Сушености ; Гипоаллергенные</param>
-<param name="Інгредієнти">Кабан</param>
-<param name="Вид">Бітси</param>
-<param name="Призначення">Для перекуса ; Для тренировок</param>
-<param name="Фасовка">60 г</param>
-<param name="Тварина">Собаки</param>
-<param name="EAN">745314272032</param>
-</offer>
 <offer id="TX33318" available="true">
 <stock_quantity>2</stock_quantity>
 <price>4950.00</price>
@@ -58028,6 +58034,62 @@
 <param name="Фасовка">70 г</param>
 <param name="EAN">5060084829695</param>
 </offer>
+<offer id="TX41810" available="true">
+<stock_quantity>2</stock_quantity>
+<price>1550.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41810-1.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41810-2.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41810-3.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41810-4.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41810-5.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41810-6.jpg</picture>
+<vendor>Ruffwear</vendor>
+<article>41810</article>
+<name>Обувь для собак Ruffwear Summit Trex Желтый размер 3.8 см (38 мм) (41810)</name>
+<name_ua>Взуття для собак Ruffwear Summit Trex Жовтий розмір 3.8 см (38 мм) (41810)</name_ua>
+<description><![CDATA[<p>Новая версия обуви Summit Trex стала еще более прочной и гибкой, при этом сохраняя высокий уровень защиты лап. Эти ботинки прекрасно подходят для ежедневных прогулок, защищая лапы от грязи, льда, соли и истирания.</p><p>Верх ботинок выполнен из водонепроницаемого полиэстера рипстоп, который предотвращает попадание влаги и мусора, а подошва, не оставляющая следов, обеспечивает отличное сцепление и защиту. Обновленная система фиксации с манжетой помогает обуви надежно сидеть на лапе, а застежка-липучка гарантирует плотное прилегание.</p><p><strong>Основные преимущества:</strong></p><p>Устойчивость к погодным условиям: Верх из легкого и прочного полиэстера защищает лапы в любых погодных условиях.</p><p>Защита лап: Специальная резиновая подошва предотвращает скольжение и защищает лапы от внешних факторов.</p><p>Надежная фиксация: Застежка-липучка обеспечивает удобную и надежную посадку на лапе.</p><p>Дополнительные особенности: Ботинки защищают лапы от горячего асфальта, неровных поверхностей, снега, дождя и химикатов, применяемых для таяния льда. Широкое раскрытие облегчает надевание, а светоотражающие элементы повышают видимость в темное время суток.</p><p>Эти ботинки идеально подходят для ежедневного использования, предлагая комфорт и защиту в любых условиях.</p><p>В комплекте - 2 ботиночка.</p>]]></description>
+<description_ua><![CDATA[<p>Нова версія взуття Summit Trex стала ще міцнішою та гнучкішою, при цьому зберігаючи високий рівень захисту лап. Ці черевики чудово підходять для щоденних прогулянок, захищаючи лапи від бруду, льоду, солі та стирання.</p><p>Верх черевиків виконаний з водонепроникного поліестеру ріпстоп, який запобігає попаданню вологи та сміття, а підошва, що не залишає слідів, забезпечує відмінне зчеплення та захист. Оновлена система фіксації з манжетою допомагає взуттю надійно сидіти на лапі, а застібка-липучка гарантує щільне прилягання.</p><p><strong>Основні переваги:</strong></p><p>Стійкість до погодних умов: Верх з легкого та міцного поліестеру захищає лапи у будь-яких погодних умовах.</p><p>Захист лап: Спеціальна гумова підошва запобігає ковзанню та захищає лапи від зовнішніх факторів.</p><p>Надійна фіксація: Застібка-липучка забезпечує зручну та надійну посадку на лапі.</p><p>Додаткові особливості: Черевики захищають лапи від гарячого асфальту, нерівних поверхонь, снігу, дощу та хімікатів, що застосовуються для танення льоду. Широке розкриття полегшує надягання, а світловідбиваючі елементи підвищують видимість у темний час доби.</p><p>Ці черевики ідеально підходять для щоденного використання, пропонуючи комфорт та захист у будь-яких умовах.</p><p>У комплекті — 2 черевички.</p>]]></description_ua>
+<param name="Особливості">Водонепроницаемая</param>
+<param name="Матеріал">Поліестер</param>
+<param name="Вид">Взуття</param>
+<param name="Кількість в упаковці, шт">2</param>
+<param name="Колір">Жовтий</param>
+<param name="Тварина">Собака</param>
+<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Тип">Взуття</param>
+<param name="Розмір">3.8 см</param>
+<param name="EAN">748960805586</param>
+</offer>
+<offer id="TX41811" available="true">
+<stock_quantity>2</stock_quantity>
+<price>1550.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41811-1.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41811-2.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41811-3.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41811-4.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41811-5.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41811-6.jpg</picture>
+<vendor>Ruffwear</vendor>
+<article>41811</article>
+<name>Обувь для собак Ruffwear Summit Trex Желтый размер 4.4 см (44 мм) (41811)</name>
+<name_ua>Взуття для собак Ruffwear Summit Trex Жовтий розмір 4.4 см (44 мм) (41811)</name_ua>
+<description><![CDATA[<p>Новая версия обуви Summit Trex стала еще более прочной и гибкой, при этом сохраняя высокий уровень защиты лап. Эти ботинки прекрасно подходят для ежедневных прогулок, защищая лапы от грязи, льда, соли и истирания.</p><p>Верх ботинок выполнен из водонепроницаемого полиэстера рипстоп, который предотвращает попадание влаги и мусора, а подошва, не оставляющая следов, обеспечивает отличное сцепление и защиту. Обновленная система фиксации с манжетой помогает обуви надежно сидеть на лапе, а застежка-липучка гарантирует плотное прилегание.</p><p><strong>Основные преимущества:</strong></p><p>Устойчивость к погодным условиям: Верх из легкого и прочного полиэстера защищает лапы в любых погодных условиях.</p><p>Защита лап: Специальная резиновая подошва предотвращает скольжение и защищает лапы от внешних факторов.</p><p>Надежная фиксация: Застежка-липучка обеспечивает удобную и надежную посадку на лапе.</p><p>Дополнительные особенности: Ботинки защищают лапы от горячего асфальта, неровных поверхностей, снега, дождя и химикатов, применяемых для таяния льда. Широкое раскрытие облегчает надевание, а светоотражающие элементы повышают видимость в темное время суток.</p><p>Эти ботинки идеально подходят для ежедневного использования, предлагая комфорт и защиту в любых условиях.</p><p>В комплекте - 2 ботиночка.</p>]]></description>
+<description_ua><![CDATA[<p>Нова версія взуття Summit Trex стала ще міцнішою та гнучкішою, при цьому зберігаючи високий рівень захисту лап. Ці черевики чудово підходять для щоденних прогулянок, захищаючи лапи від бруду, льоду, солі та стирання.</p><p>Верх черевиків виконаний з водонепроникного поліестеру ріпстоп, який запобігає попаданню вологи та сміття, а підошва, що не залишає слідів, забезпечує відмінне зчеплення та захист. Оновлена система фіксації з манжетою допомагає взуттю надійно сидіти на лапі, а застібка-липучка гарантує щільне прилягання.</p><p><strong>Основні переваги:</strong></p><p>Стійкість до погодних умов: Верх з легкого та міцного поліестеру захищає лапи у будь-яких погодних умовах.</p><p>Захист лап: Спеціальна гумова підошва запобігає ковзанню та захищає лапи від зовнішніх факторів.</p><p>Надійна фіксація: Застібка-липучка забезпечує зручну та надійну посадку на лапі.</p><p>Додаткові особливості: Черевики захищають лапи від гарячого асфальту, нерівних поверхонь, снігу, дощу та хімікатів, що застосовуються для танення льоду. Широке розкриття полегшує надягання, а світловідбиваючі елементи підвищують видимість у темний час доби.</p><p>Ці черевики ідеально підходять для щоденного використання, пропонуючи комфорт та захист у будь-яких умовах.</p><p>У комплекті — 2 черевички.</p>]]></description_ua>
+<param name="Особливості">Водонепроницаемая</param>
+<param name="Матеріал">Поліестер</param>
+<param name="Вид">Взуття</param>
+<param name="Кількість в упаковці, шт">2</param>
+<param name="Колір">Жовтий</param>
+<param name="Тварина">Собака</param>
+<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Тип">Взуття</param>
+<param name="Розмір">4.4 см</param>
+<param name="EAN">748960081850</param>
+</offer>
 <offer id="TX41813" available="true">
 <stock_quantity>2</stock_quantity>
 <price>1550.00</price>
@@ -59905,8 +59967,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>3935762</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42067-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42067-2.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42067-3.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42067-2.jpg</picture>
 <vendor>Hurtta</vendor>
 <article>42067</article>
 <name>Дождевик для собак Hurtta Monsoon coat II ECO Серый 65 (42067)</name>
@@ -60706,11 +60768,11 @@
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42171-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42171-2.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42171-4.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42171-5.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42171-6.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42171-2.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42171-3.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42171-4.jpg</picture>
 <vendor>ZIWI</vendor>
 <article>42171</article>
 <name>Полнорационный влажный корм для собак ZIWI Peak Series Говядина 170 г (42171)</name>
@@ -62390,6 +62452,58 @@
 <param name="Для кого">Для собак</param>
 <param name="EAN">6410329348570</param>
 </offer>
+<offer id="TX45370" available="true">
+<stock_quantity>2</stock_quantity>
+<price>787.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>2986023</categoryId>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45370-1.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45370-2.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45370-3.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45370-4.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45370-5.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45370-6.jpg</picture>
+<vendor>Treatsy</vendor>
+<article>45370</article>
+<name>Ежедневная добавка для собак Treatsy Daily Defence Probiotics Для здорового пищеварения и поддержки кишечника 30 шт (45370)</name>
+<name_ua>Щоденна добавка для собак Treatsy Daily Defence Probiotics Для здорового травлення та підтримки кишківника 30 шт (45370)</name_ua>
+<description><![CDATA[<p>Treatsy Daily Defence Probiotics – ежедневный союзник для собак с чувствительным пищеварением или склонных к расстройствам ЖКТ.</p><p>Создан с высоким содержанием научно подтверждённых активных ингредиентов, продукт поддерживает здоровье пищеварительной системы вашего питомца, способствуя сбалансированному микробиоту и нормальной консистенции стула.</p><p>Укрепляет микробиоту: живые пробиотики Enterococcus Faecium, микроинкапсулированные, чтобы оставаться активными до кишечника.</p><p><strong>Питает «полезные» бактерии: пребиотики (FOS) помогают поддерживать баланс флоры</strong></p><p><strong>Регулирует пищеварение и качество стула: пектин и псиллиум способствуют нормальному транзиту кишечника при диарее или запорах</strong></p><p><strong>Обеспечивает длительный комфорт: полезные метаболиты поддерживают иммунитет и общее здоровье</strong></p><p><strong>Безопасная и натуральная формула:</strong></p><p><strong>Гипоаллергенная: один источник белка – гидролизованная свинина</strong></p><p><strong>Без глютена, красителей, консервантов и искусственных ароматизаторов</strong></p><p><strong>Подходит для чувствительных собак и собак с непереносимостью</strong></p><p><strong>Практично и вкусно:</strong></p><p>Забудьте о таблетках, которые трудно давать! Treatsy Daily Defence – это нежные и вкусные кусочки, которые обожают собаки.</p><p><strong>Простое применение без стресса – время лакомства становится приятным для вас и вашего питомца</strong></p><p>Treatsy Daily Defence Probiotics – для здорового пищеварения и комфорта вашей собаки каждый день.</p>]]></description>
+<description_ua><![CDATA[<p>Treatsy Daily Defence Probiotics – щоденний союзник для собак із чутливим травленням або схильних до розладів шлунково-кишкового тракту.</p><p>Створений із високим вмістом науково підтверджених активних інгредієнтів, цей продукт підтримує здоров’я травної системи вашого улюбленця, сприяючи збалансованому мікробіоту та нормальній консистенції калу.</p><p>Зміцнює мікробіоту: живі пробіотики Enterococcus Faecium, мікроинкапсульовані, щоб залишатися активними досягаючи кишечника.</p><p><strong>Підтримує «корисні» бактерії: пребіотики (FOS) допомагають зберегти баланс флори</strong></p><p><strong>Регулює травлення та якість стільця: пектин та псиліум сприяють нормальному транзиту кишечника, при діареї чи запорах</strong></p><p><strong>Забезпечує тривалий комфорт для шлунка: корисні метаболіти підтримують імунітет та загальне здоров’я</strong></p><p><strong>Безпечна та натуральна формула:</strong></p><p><strong>Гіпоалергенна: лише один джерело білка – гідролізована свинина</strong></p><p><strong>Без глютену, барвників, консервантів та штучних ароматизаторів</strong></p><p><strong>Підходить для чутливих собак та собак з непереносимістю</strong></p><p><strong>Практично та смачно:</strong></p><p>Закінчилися таблетки, які важко давати! Treatsy Daily Defence – це ніжні та смачні шматочки, які обожнюють собаки.</p><p><strong>Легко давати без стресу – час ласощів стає приємним для вас і вашого улюбленця</strong></p><p>Treatsy Daily Defence Probiotics – для здорового травлення та комфорту вашої собаки кожного дня.</p>]]></description_ua>
+<param name="Тип">Щоденна добавка для собак</param>
+<param name="Тип">Вітаміни</param>
+<param name="Кількість в упаковці, шт">30</param>
+<param name="Особливості">Гипоалергенный ; Функциональные</param>
+<param name="Призначення">Поддержка пищеварения</param>
+<param name="Фасовка">30 шт.</param>
+<param name="Тварина">Собаки</param>
+<param name="EAN">5430003885437</param>
+</offer>
+<offer id="TX45371" available="true">
+<stock_quantity>2</stock_quantity>
+<price>787.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>2986023</categoryId>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45371-1.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45371-2.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45371-3.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45371-4.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45371-5.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45371-6.jpg</picture>
+<vendor>Treatsy</vendor>
+<article>45371</article>
+<name>Ежедневная добавка для собак Treatsy Daily Defence Hip &amp; Joint Поддержка суставов и костей 30 шт (45371)</name>
+<name_ua>Щоденна добавка для собак Treatsy Daily Defence Hip &amp; Joint Підтримка суглобів та кісток 30 шт (45371)</name_ua>
+<description><![CDATA[<p><strong>Treatsy Daily Defence Hip &amp; Joint – Мобильность и комфорт суставов</strong></p><p>Разработано ветеринарными нутрициологами и рекомендовано сотнями ветеринаров по всей Европе. С возрастом, из-за физической активности или предрасположенности некоторых пород, собаки часто страдают от скованности, ограниченной подвижности или боли в суставах (артроз, дисплазия и др.).</p><p>Treatsy Daily Defence Hip &amp; Joint специально создан для защиты суставов, поддержки подвижности и улучшения качества жизни вашего питомца.</p><p><strong>Преимущества для вашей собаки:</strong></p><p>Защита хрящей: неконденсированный коллаген типа II (UC-II) помогает сохранить структуру хряща и уменьшить его разрушение, обеспечивая более прочные суставы.</p><p>Снижение воспаления: омега-3 EPA и DHA из высококачественных рыбьих масел уменьшают воспаление, улучшают гибкость и снижают дискомфорт в суставах.</p><p>Комплексная поддержка подвижности: уникальная комбинация ингредиентов помогает сохранять эластичность и устойчивость суставов, поддерживая активных, пожилых собак или собак с предрасположенностью к проблемам с суставами.</p><p><strong>Безопасная и полноценная формула:</strong></p><p><strong>Гипоаллергенная: только один источник гидролизованного белка, снижает риск аллергий и непереносимости</strong></p><p><strong>Без глютена, красителей, консервантов и искусственных ароматизаторов</strong></p><p><strong>Подходит для всех собак, включая чувствительных</strong></p><p><strong>Практично и вкусно:</strong></p><p><strong>Забудьте о таблетках, которые собаки отказываются есть, или порошках, которые сложно смешать</strong></p><p><strong>Treatsy Daily Defence Hip &amp; Joint – нежные и вкусные кусочки, которые легко давать и которые обожают собаки</strong></p><p>Результат: более подвижная собака, защищённые и гибкие суставы и активная, комфортная повседневная жизнь.</p>]]></description>
+<description_ua><![CDATA[<p><strong>Treatsy Daily Defence Hip &amp; Joint – Мобільність та комфорт суглобів</strong></p><p>Розроблено ветеринарними нутриціологами та рекомендовано сотнями ветеринарів по всій Європі. З віком, через фізичну активність або схильність деяких порід, собаки часто страждають від скутості, обмеженої рухливості або болю в суглобах (артроз, дисплазія тощо).</p><p>Treatsy Daily Defence Hip &amp; Joint спеціально створений для захисту суглобів, підтримки рухливості та покращення якості життя вашого улюбленця.</p><p><strong>Переваги для вашого собаки:</strong></p><p>Захист хрящів: неконденсований колаген типу II (UC-II) допомагає зберегти структуру хряща та зменшити його руйнування, забезпечуючи міцніші суглоби.</p><p>Зменшення запалення: омега-3 EPA та DHA з високоякісних риб’ячих олій зменшують запалення, покращують гнучкість та зменшують дискомфорт у суглобах.</p><p>Комплексна підтримка рухливості: унікальна комбінація інгредієнтів допомагає зберегти еластичність і стійкість суглобів, підтримуючи активних, літніх собак або собак із схильністю до проблем із суглобами.</p><p><strong>Безпечна та повноцінна формула:</strong></p><p><strong>Гіпоалергенна: лише одне джерело гідролізованого білка, що зменшує ризик алергій та непереносимості</strong></p><p><strong>Без глютену, барвників, консервантів та штучних ароматизаторів</strong></p><p><strong>Підходить для всіх собак, включно з чутливими</strong></p><p><strong>Практично та смачно:</strong></p><p><strong>Забудьте про таблетки, які відмовляються їсти, або порошки, які складно змішати</strong></p><p><strong>Treatsy Daily Defence Hip &amp; Joint – ніжні та смачні шматочки, які легко давати та які обожнюють собаки</strong></p><p>Результат: більш рухливий собака, захищені та гнучкі суглоби і активне та комфортне повсякденне життя.</p>]]></description_ua>
+<param name="Тип">Щоденна добавка для собак</param>
+<param name="Тип">Вітаміни</param>
+<param name="Кількість в упаковці, шт">30</param>
+<param name="Особливості">Гипоалергенный ; Функциональные</param>
+<param name="Призначення">Для суставов и связок</param>
+<param name="Фасовка">30 шт.</param>
+<param name="Тварина">Собаки</param>
+<param name="EAN">5430003885444</param>
+</offer>
 <offer id="TX45372" available="true">
 <stock_quantity>2</stock_quantity>
 <price>787.00</price>
@@ -62414,6 +62528,31 @@
 <param name="Фасовка">30 шт.</param>
 <param name="Тварина">Собаки</param>
 <param name="EAN">5430003885451</param>
+</offer>
+<offer id="TX45373" available="true">
+<stock_quantity>2</stock_quantity>
+<price>787.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>2986023</categoryId>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45373-1.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45373-2.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45373-3.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45373-5.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45373-4.jpg</picture>
+<vendor>Treatsy</vendor>
+<article>45373</article>
+<name>Ежедневная добавка для собак Treatsy Daily Defence Anti-stress Для спокойствия и снятия стресса 30 шт (45373)</name>
+<name_ua>Щоденна добавка для собак Treatsy Daily Defence Anti-stress Для спокою та зняття стресу 30 шт (45373)</name_ua>
+<description><![CDATA[<p><strong>Treatsy Daily Defence Anti-Stress – Спокойствие и эмоциональное равновесие для собак</strong></p><p>Разработано ветеринарными нутрициологами и рекомендовано сотнями ветеринаров по всей Европе. Многие собаки чувствительны к стрессу: разлука, поездки, громкие звуки, смена обстановки.</p><p>Эти ситуации могут вызывать тревогу, возбуждение, лай или деструктивное поведение. Treatsy Daily Defence Anti-Stress создан для естественного успокоения вашей собаки, поддержки её эмоционального благополучия и равновесия в повседневной жизни без риска привыкания.</p><p><strong>Преимущества для вашей собаки:</strong></p><p>Способствует расслаблению: L-Триптофан – незаменимая аминокислота, предшественник серотонина («гормон счастья»), помогает уменьшить стресс и тревожность.</p><p><strong>Помогает в стрессовых ситуациях: поездки, одиночество, переезды, визиты к ветеринару или громкие звуки (фейерверки)</strong></p><p><strong>Улучшает поведение: успокаивает, снижает гиперактивность, возбуждение и чрезмерный лай</strong></p><p><strong>Поддержка общего благополучия: способствует эмоциональному равновесию и повышает качество жизни</strong></p><p><strong>Безопасная и натуральная формула:</strong></p><p><strong>Гипоаллергенная: только один источник гидролизованного белка</strong></p><p><strong>Без глютена, красителей, консервантов и искусственных ароматизаторов</strong></p><p><strong>Подходит для собак любого размера, включая чувствительных</strong></p><p><strong>Практично и вкусно:</strong></p><p><strong>Нежные и вкусные кусочки, легко давать, которые обожают собаки</strong></p><p><strong>Простое применение без стресса, превращает прием добавки в приятный момент</strong></p><p>Результат: спокойная, менее тревожная собака, готовая к стрессовым ситуациям и более спокойная повседневная жизнь.</p>]]></description>
+<description_ua><![CDATA[<p><strong>Treatsy Daily Defence Anti-Stress – Спокій та емоційна рівновага для собак</strong></p><p>Розроблено ветеринарними нутриціологами та рекомендовано сотнями ветеринарів по всій Європі. Багато собак чутливі до стресу: розлука, поїздки, гучні звуки, зміни середовища.</p><p>Ці ситуації можуть викликати тривогу, збудження, гавкіт або деструктивну поведінку. Treatsy Daily Defence Anti-Stress створений для природного заспокоєння вашого собаки, підтримки його емоційного благополуччя та рівноваги в повсякденному житті без ризику звикання.</p><p><strong>Переваги для вашого собаки:</strong></p><p>Сприяє розслабленню: L-Триптофан – незамінна амінокислота, попередник серотоніну («гормон щастя»), допомагає зменшити стрес та тривожність.</p><p><strong>Допомагає у стресових ситуаціях: поїздки, самотність, переїзди, візити до ветеринара або гучні звуки (феєрверки)</strong></p><p><strong>Покращує поведінку: заспокоює, зменшує гіперактивність, збудження та надмірний гавкіт</strong></p><p><strong>Підтримка загального благополуччя: сприяє емоційній рівновазі та підвищує якість життя</strong></p><p><strong>Безпечна та натуральна формула:</strong></p><p><strong>Гіпоалергенна: лише одне джерело гідролізованого білка</strong></p><p><strong>Без глютену, барвників, консервантів та штучних ароматизаторів</strong></p><p><strong>Підходить для собак будь-яких розмірів, включно з чутливими</strong></p><p><strong>Практично та смачно:</strong></p><p><strong>Ніжні та смачні шматочки, легко давати, які обожнюють собаки</strong></p><p><strong>Просте застосування без стресу, перетворює прийом добавки на приємний момент</strong></p><p>Результат: спокійніший, менш тривожний собака, готовий до стресових ситуацій і більш спокійне повсякденне життя.</p>]]></description_ua>
+<param name="Тип">Щоденна добавка для собак</param>
+<param name="Тип">Вітаміни</param>
+<param name="Кількість в упаковці, шт">30</param>
+<param name="Особливості">Гипоалергенный ; Функциональные</param>
+<param name="Призначення">Для успокоения</param>
+<param name="Фасовка">30 шт.</param>
+<param name="Тварина">Собаки</param>
+<param name="EAN">5430003885468</param>
 </offer>
 <offer id="TX45374" available="true">
 <stock_quantity>2</stock_quantity>
@@ -83124,7 +83263,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT27519" available="true">
-<stock_quantity>12</stock_quantity>
+<stock_quantity>11</stock_quantity>
 <price>2707.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80697</categoryId>
@@ -101135,7 +101274,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35256" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>1919.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675058</categoryId>
@@ -101260,7 +101399,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35273" available="true">
-<stock_quantity>8</stock_quantity>
+<stock_quantity>7</stock_quantity>
 <price>3104.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80155</categoryId>
