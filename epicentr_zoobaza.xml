@@ -45169,9 +45169,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[748960934781]]></param>
 </offer>
-<offer id="TX30507" available="true">
+<offer id="TX30507" available="false">
 <price>3610.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7366">Одяг для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30507-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30507-2.jpg</picture>
@@ -60315,9 +60315,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[7071652013345]]></param>
 </offer>
-<offer id="TX40328" available="true">
+<offer id="TX40328" available="false">
 <price>1781.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7366">Одяг для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX40328-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX40328-2.jpg</picture>
@@ -86435,9 +86435,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT13178" available="true">
+<offer id="HT13178" available="false">
 <price>8271.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="1619">Бойлери</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000007011_fe92887e9e1b8286b8ef86a23c970304.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000007011_709a269d384b141928758439ce2edfd6.jpg</picture>
@@ -98100,7 +98100,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT33854" available="true">
-<price>5872.00</price>
+<price>5982.00</price>
 <availability>in_stock</availability>
 <category code="1619">Бойлери</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/100015292.jpg</picture>
@@ -105492,7 +105492,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT36195" available="true">
-<price>5198.00</price>
+<price>5445.00</price>
 <availability>in_stock</availability>
 <category code="1619">Бойлери</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188654.jpg</picture>
