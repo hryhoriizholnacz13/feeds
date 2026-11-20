@@ -40013,7 +40013,7 @@
 <param name="Гарантія">60 міс</param>
 <description><![CDATA[Кронштейн похило-поворотний для телевізорів з діагоналлю 24”-50”, максимальне навантаження 30 кг, кут нахилу -10°~+5°, кут повороту 180°, відстань від стіни 65-200 мм.]]></description>
 </offer>
-<offer id="HT24440" available="true" selling_type="r">
+<offer id="HT24440" available="false" selling_type="r">
 <name>Кронштейн ATG W2450FB (24&quot;-50&quot; Статичний)</name>
 <categoryId>314</categoryId>
 <portal_category_id>63708</portal_category_id>
@@ -41589,7 +41589,7 @@
 <portal_category_id>603</portal_category_id>
 <price>14969.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>33</quantity_in_stock>
+<quantity_in_stock>32</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_dd68bc84-0cd7-11ec-89e4-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000006663_7542253-1638446692.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000006663_7542265-1638446692.jpg</picture>
@@ -41720,7 +41720,7 @@
 <portal_category_id>603</portal_category_id>
 <price>17438.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>27</quantity_in_stock>
+<quantity_in_stock>26</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_cec7ed8c-40f6-11ed-89f0-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_cec7ed8c-40f6-11ed-89f0-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_cec7ed8c-40f6-11ed-89f0-dc4a3e701323.jpg</picture>
@@ -41909,7 +41909,7 @@
 <portal_category_id>609</portal_category_id>
 <price>916.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000002158_RIC40-C-Ultra-Glide-1.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000002158_RIC40-C-Ultra-Glide-2.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000002158_RIC40-C-Ultra-Glide-3.jpg</picture>
@@ -42075,7 +42075,7 @@
 <portal_category_id>152201</portal_category_id>
 <price>226.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000010031_23_4000.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000010031_2447533736_w640_h640_2447533736.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000010031_carine_white-1000x1000.jpg</picture>
@@ -42501,7 +42501,7 @@
 <portal_category_id>152201</portal_category_id>
 <price>136.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000010137_7854325-1654087305.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000010137_7854323-1654087305.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000010137_7854326-1654087305.jpg</picture>
@@ -45404,7 +45404,7 @@
 <portal_category_id>640</portal_category_id>
 <price>921.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011861_5008802446_w640_h2048.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011861_RKT79-S-Smart-2.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011861_RKT79-S-Smart-3.jpg</picture>
@@ -46625,7 +46625,7 @@
 <portal_category_id>608</portal_category_id>
 <price>2667.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012076_244302861.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012076_244302862.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012076_244302863.jpg</picture>
@@ -46818,6 +46818,38 @@
 <param name="Розмір">47 х 51,3 х 34,6 см</param>
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Вбудована мікрохвильова піч Стильна вбудована мікрохвильова піч із нержавіючої сталі з рамкою, яка надає елегантності та акцентує увагу на деталях. Інтуїтивне та просте Максимально просте керування для досягнення чудових результатів. Сенсорна панель керування дає можливість встановити вагу їжі, що готується, після чого автоматично встановлюється необхідний час і температура. Насолоджуйтесь легким приготуванням Автоматичні програми допомагають вам у приготуванні страв, адже вам лише необхідно вибрати одну з 13 наявних функцій. Ви зможете легко вибрати страву, яку хочете приготувати; тепер кожен може стати шеф-кухарем без особливих зусиль. Швидке розморожування Розморозка продуктів у мікрохвильовій печі - найкраще рішення,якщо вам потрібно приготувати страву якнайшвидше. Просто встановіть час і мікрохвильова піч зробить все за вас. Абсолютна безпека на кухні Candy завжди приділяла особливу увагу безпеці сім'ї. Функція блокування, що є у всіх моделях з електронним керуванням, запобігає будь-якому випадковому використанню печі, особливо дітьми. Вимкнути піч, що працює, можна тільки дорослій людині, що гарантує абсолютну безпеку всієї родини. Інтуїтивний алгоритм користування Одне просте натискання на кнопку - і функція швидкого старту запустить цикл розігріву максимальної потужності роботи на 30 секунд. При кожному додатковому натисканні кнопки на час приготування будуть додаватися додаткові 30 секунд. Інтуїтивно проста та корисна функція.]]></description>
+</offer>
+<offer id="HT30711" available="true" selling_type="r">
+<name>Мікрохвильова піч WHIRLPOOL MBNA920B (вбудована)</name>
+<categoryId>220</categoryId>
+<portal_category_id>605</portal_category_id>
+<price>16132.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>2</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012148_350886554.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012148_350886555.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012148_350886556.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000012148_350886557.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000012148_350886558.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000012148_350886559.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000012148_350886560.jpg</picture>
+<vendor>Whirlpool</vendor>
+<vendorCode>HT30711</vendorCode>
+<country>Італія</country>
+<param name="Колір">Чорний</param>
+<param name="Об`єм">22 л</param>
+<param name="Призначення">Побутове</param>
+<param name="Споживана потужність">750 Вт</param>
+<param name="Тип управління">Електронне</param>
+<param name="Ширина">59,2 см</param>
+<param name="Гриль">Кварцовий</param>
+<param name="Кількість рівнів">4</param>
+<param name="Тип НВЧ">Вбудована</param>
+<param name="Вага">27 кг</param>
+<param name="Висота">38,2 см</param>
+<param name="Глибина">32 см</param>
+<param name="Гарантія">12 міс</param>
+<description><![CDATA[Функція Jet Start Надзвичайно швидкий нагрів.Функція JetStart прискорює нагрів до максимуму за 30 секунд, забезпечуючи ідеальний температурний режим для розігірву їжі з високим вмістом води, таку як бульйони або напої. Функція JetDefrost - турбо розморозка Швидка розморозка.Використовуйте унікальну функцію JetDefrost 3D-систему для ефективної і швидкої розморозки. Кварцовий гриль Багатогранний досвід приготування.Кварцовий гриль підігріває і готує їжу швидше, ніж традиційні інфрачервоні грилі. Він має високу ефективність, зменшує витрати енергії і має автоматичне очищення. Блокування панелі управління Child lock Безпека в першу чергу.Ця модель мікрохвильової печі Whirlpool має систему блокування від дітей, щоб запобігти використанню приладу без нагляду дорослих. Гриль Швидке приготування на грилі, швидке очищення.Потужний гриль забезпечить результати як у духовій шафі . Оскільки гриль відкидний очищення стане надзвичайно простим. Об'єм 22 літри Більше місця для приготування кулінарних творінь.Ця мікрохвильова піч Whirlpool має об'єм 22л., надаючи Вам достатньо місця для втілення в життя нових рецептів. 3D-Технологія Приготовано до досконалості.Революційна система 3D забезпечує циркуляцію та трьохмірний розподіл тепла, тож Ви завжди можете насолоджуватися рівномірно приготованими стравами лише у один дотик. Прозорі дверцята Тоновані дверцята під час роботи перетворюються з темно-чорних на прозорі для легшого моніторингу їжі, гарантуючи споживачу повну видимість своїх делікатесів. Естетичність, що привертає увагу, і відтінок для будь-якої кухні.]]></description>
 </offer>
 <offer id="HT30713" available="true" selling_type="r">
 <name>Холодильник Whirlpool WHC18 T573 (вбудований)</name>
@@ -47805,7 +47837,7 @@
 <portal_category_id>605</portal_category_id>
 <price>10875.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012531_223176718.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012531_223176742.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012531_223176836.jpg</picture>
@@ -50757,7 +50789,7 @@
 <portal_category_id>617</portal_category_id>
 <price>429.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013529_auto.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013529_465483936.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013529_465483938.jpg</picture>
@@ -51440,13 +51472,13 @@
 <param name="Гарантія">36 місяців</param>
 <description><![CDATA[Розумно заощаджуйте енергію Режим SmartThings AI Energy - до 10%Зменшуйте споживання електроенергії до 10% за допомогою режиму AI Energy. Якщо ваш середній рахунок за електрику перевищує встановлену вами норму, цей режим допоможе вам заощадити. Режим AI Energy оптимізує швидкість компресора та цикл розморожування залежно від способу використання та навколишнього середовища. Більше простору всередині Технологія SpaceMaxЗберігайте більше продуктів у великому холодильнику об'ємом 385 літрів з глибиною 600 мм. Унікальна технологія SpaceMax використовує спеціальну високоуретанову ізоляцію, яка дає змогу зробити стінки набагато тоншими, не погіршуючи водночас енергоефективності. Таким чином, всередині стає більше простору. SmartThings вдома SmartThings EnergyКеруйте споживанням енергії, щоб скоротити викиди вуглекислого газу в атмосферу і заощадити гроші. SmartThings Energy дає поради щодо енергоефективності. Він також відстежує енергоспоживання приладів у режимі реального часу та порівнює його з попереднім місяцем. SmartThings Home Care Розумне обслуговування. Легкий догляд.Організовуйте, готуйте та купуйте їжу ефективніше. SmartThings Food дає змогу створювати список продуктів у вашому холодильнику та керувати термінами їх придатності, щоб ви могли перевірити, що у вас є. Він також рекомендує персоналізовані рецепти на основі ваших уподобань. Рівномірно охолоджує від кута до кута Всебічне охолодженняГарантує, що вся ваша їжа належним чином охолоджена. Система всебічного охолодження рівномірно охолоджує кожне відділення від кута до кута. Вона постійно перевіряє температуру і забезпечує циркуляцію холодного повітря через оптимально розташовані вентиляційні отвори. Довговічна свіжість продуктів без утворення льоду Система No Frost з автоматичним розморожуваннямНе витрачайте час та енергію на розморожування холодильника. Технологія No Frost покращує циркуляцію повітря для підтримання постійної температури, що запобігає утворенню льоду. Завдяки їй необхідна температура досягається набагато швидше, і система охолодження працює з меншим навантаженням. Швидке охолодження та заморожування за потребою Power Cool + Power FreezeНасолоджуйтеся швидким охолодженням. Одним натисканням кнопки Power Cool інтенсивно вдуває холодне повітря в холодильник, щоб швидко охолодити ваші продукти або улюблені напої. Power Freeze забезпечує швидке подавання холодного повітря в морозильну камеру. Чистота, надійність і захист Легке очищенняОчистити задню стінку вашого холодильника набагато простіше. Захисний короб захищає кабелі та легко очищається, тож можна не переживати за комплектуючі холодильника. Відкриваються на 90° навіть біля стіни Зручне відкриття дверейРозмістіть холодильник у зручному для вас місці, не звертаючи уваги на стіни. Конструкція реверсивних дверей дає змогу відчиняти їх на 90°, не зачіпаючи жодної стіни. Таким чином, ви можете розмістити холодильник у найзручнішому місці, а дверцята повністю відкриватимуться до рівня бічної стіни.]]></description>
 </offer>
-<offer id="HT32188" available="false" selling_type="r">
+<offer id="HT32188" available="true" selling_type="r">
 <name>Варильна поверхня Whirlpool TGML661IX</name>
 <categoryId>223</categoryId>
 <portal_category_id>61911</portal_category_id>
 <price>10200.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013625_396108071.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013625_396108072.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013625_396108073.jpg</picture>
@@ -55015,7 +55047,7 @@
 <portal_category_id>61903</portal_category_id>
 <price>19144.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014654_127_2796_25_1.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000014654_127_2796_24_1.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000014654_127_2796_19_1.jpg</picture>
@@ -56338,7 +56370,7 @@
 <portal_category_id>641</portal_category_id>
 <price>28188.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014954_496896491.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000014954_496896531.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000014954_496896485.jpg</picture>
@@ -57382,7 +57414,7 @@
 <portal_category_id>640</portal_category_id>
 <price>889.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000151741.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000151742.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000151743.jpg</picture>
@@ -57513,7 +57545,7 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Опис Кондиціонер Cooper&Hunter Supreme Continental (CH-S09FTXAL2-FB) Кондиціонер Cooper&Hunter Supreme Continental (CH-S09FTXAL2-FB) — це ідеальне рішення для вашого комфорту, яке поєднує в собі передові технології, стильний дизайн та вражаючу функціональність. Цей чорний кристал у світі кондиціонерів стане справжньою прикрасою вашого інтер’єру, надаючи приміщенню сучасного вигляду та вишуканості. Завдяки інверторному компресору та фреону R32, модель забезпечує високу енергоефективність, що суттєво знижує витрати на електроенергію та робить його економічним вибором як взимку, так і влітку. Конструкція спліт-системи дозволяє гармонійно вливатися в будь-який інтер'єр, а настінний монтаж внутрішнього блоку надасть вашому простору більше свободи. З маркуванням 9, кондиціонер ідеально підходить для приміщень площами до 25 м², забезпечуючи оптимальний клімат протягом усього року. Він працює в широкому діапазоні режимів, таких як вентиляція, турборежим, нічний режим, що створюють сприятливі умови для відпочинку, охолодження, обігрів, осушення та очищення повітря, надаючи максимальний комфорт саме тоді, коли це потрібно. Кожна деталь цієї моделі створена з турботою про користувача: самоочищення зменшує необхідність у обслуговуванні, захист від перепаду напруги забезпечує безпеку при нестабільній електромережі, а фільтрація повітря та фільтри тонкої очистки гарантують здорове довкілля у вашій оселі. Функція iFeel дозволяє кондиціонеру працювати з урахуванням температури в місці знаходження пульта, що робить кліматичне регулювання ще точнішим та комфортнішим. Крім того, WI-FI управління дає змогу дистанційно керувати всіма параметрами і режимами через ваш смартфон, роблячи цей кондиціонер ще зручнішим у використанні. Вбудований дисплей дозволяє легко контролювати всі налаштування, а таймер дозволяє програмувати роботу пристрою на день вперед, щоб ви завжди поверталися в оселю саме з таким кліматом, який ви бажаєте. Кондиціонер Cooper&Hunter Supreme Continental також виділяється унікальною системою самодіагностики, яка позбавляє складнощів при виникненні неполадок, та функцією авторестарту, що автоматично поновлює роботу з попередніми налаштуваннями після вимкнення світла або технічного збою. Завдяки гідрофільному покриттю теплообмінників, термін служби компонентів значно збільшується, а ефективність роботи підтримується на високому рівні навіть у складних умовах. Вражає діапазон температур, за яких цей кондиціонер здатний успішно працювати — аж до -25 °С, що робить його незамінним помічником у холодних кліматичних умовах, а низький рівень шуму внутрішнього блоку в 41 дБ гарантує тишу та спокій у вашій оселі. Його функціональні можливості вміщують навіть управління потоком повітря та блокування пульта, що додає зручності та безпеки у використанні. Отже, кондиціонер Cooper&Hunter Supreme Continental (CH-S09FTXAL2-FB) — це поєднання якості, інновацій та стильного дизайну, створене для тих, хто цінує комфорт, ефективність та сучасні рішення у сфері кліматичної техніки. Подбайте про свій домашній затишок, обираючи надійність та передові технології з Cooper&Hunter.]]></description>
 </offer>
-<offer id="HT33781" available="true" selling_type="r">
+<offer id="HT33781" available="false" selling_type="r">
 <name>Кондиціонер Cooper&amp;Hunter CH-S09FTXAL2-SC (серія SUPREME CONTINENTAL, тепл. насос-25, SILVER)</name>
 <categoryId>263</categoryId>
 <portal_category_id>601</portal_category_id>
@@ -58807,7 +58839,7 @@
 <portal_category_id>605</portal_category_id>
 <price>13644.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153741.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153742.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153743.jpg</picture>
@@ -59962,7 +59994,7 @@
 <portal_category_id>603</portal_category_id>
 <price>27250.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156511.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156512.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156513.jpg</picture>
@@ -60598,7 +60630,7 @@
 <portal_category_id>62702</portal_category_id>
 <price>21182.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157541.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157542.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157543.jpg</picture>
@@ -62005,7 +62037,7 @@
 <portal_category_id>641</portal_category_id>
 <price>17207.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000161081.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000161082.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000161083.jpg</picture>
@@ -62263,7 +62295,7 @@
 <description><![CDATA[Пилосос Castle CW-113S - це компактний і зручний прилад для сухого прибирання, який поєднує практичність і ефективну роботу. Модель оснащена функцією автоматичного змотування шнура, прогумованим колесом для дбайливого переміщення по різних поверхнях і можливістю вертикального та горизонтального паркування. У корпусі пилососа передбачений спеціальний відсік для зберігання двох додаткових насадок — щілинних і для м'яких меблів, що робить прибирання більш універсальним і зручним.Пилосос працює на основі мішкової системи з потужністю 900 Вт та має алюмінієву телескопічну трубку. Об'єм пилозбірника становить 3 літри, чого цілком достатньо для повноцінного прибирання квартири чи будинку. Регулятор повітряного потоку розташований на корпусі, що дозволяє легко підлаштувати потужність під тип покриття. Castle CW-113S - відмінний вибір для повсякденного сухого прибирання з продуманим функціоналом та ергономічним дизайном.]]></description>
 </offer>
 <offer id="HT34653" available="true" selling_type="r">
-<name>Телевізор ARTEL A32NHCH001 BLACK</name>
+<name>Телевізор ARTEL A32NHCH001 BLACK (Т2, Smart TV)</name>
 <categoryId>295</categoryId>
 <portal_category_id>6370714</portal_category_id>
 <price>8094.00</price>
@@ -63110,7 +63142,7 @@
 <portal_category_id>6300407</portal_category_id>
 <price>6869.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000163641.jpg</picture>
 <vendor>Rotex</vendor>
 <vendorCode>HT34841</vendorCode>
@@ -64016,7 +64048,7 @@
 <portal_category_id>603</portal_category_id>
 <price>19625.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>41</quantity_in_stock>
+<quantity_in_stock>40</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165551.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165552.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165553.jpg</picture>
@@ -64434,7 +64466,7 @@
 <portal_category_id>64302</portal_category_id>
 <price>737.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167061.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167062.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167063.jpg</picture>
@@ -65471,7 +65503,7 @@
 <portal_category_id>15230302</portal_category_id>
 <price>585.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169381.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169382.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169384.jpg</picture>
@@ -66904,7 +66936,7 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Мультипіч ROM990-XXL Up&DownFry: Максимальний об'єм та інтелектуальний нагрівМультипіч ROM990-XXL Up&DownFry — це флагман лінійки з розширеним функціоналом, що поєднує величезний об'єм у 9.5 літрів та передову технологію подвійного нагріву. Завдяки 11 автоматичним програмам та потужності 2000 Вт, цей пристрій здатен повністю замінити духову шафу, забезпечуючи швидке приготування здорової їжі для великої родини.Основні переваги:Технологія Up&DownFry: Нагрівальні елементи розташовані зверху та знизу, що дозволяє готувати страви без необхідності перевертання, гарантуючи рівномірну скоринку з усіх боків.Гігантський об'єм XXL: Чаша на 9.5 л (кошик 8.5 л) дозволяє запікати цілу індичку, великі порції м'яса або готувати гарніри на 6–8 осіб одночасно.11 автоматичних програм: Розширене меню включає спеціальні режими для розморожування та попереднього нагріву камери, що робить процес приготування максимально професійним.Сенсорне керування: Великий інтуїтивно зрозумілий LED-дисплей забезпечує точне налаштування температури та часу одним дотиком.11 автоматичних програм:Картопля Фрі — ідеально хрустка без зайвого жиру.Куряча Гомілка — соковите м'ясо з рум'яною скоринкою.Курка — рівномірне запікання цілої птиці.Риба — збереження соковитості та ніжної текстури.Стейк — швидке обсмажування з ефектом гриля.Піца — хрустка основа завдяки нижньому нагріву.Мафіни — делікатна випічка великими порціями.Овочі — здоровий гарнір за лічені хвилини.Картопля — запікання скибочками або цілою.Розморозка — швидке та безпечне розморожування продуктів.Попередній нагрів — підготовка камери для ідеального результату запікання.Технічні характеристики:Модель: ROM990-XXL Up&DownFryПотужність: 2000 ВтЗагальний об'єм чаші: 9.5 лОб'єм кошика: 8.5 лТип нагріву: Комбінований (Верхній + Нижній)Тип керування: Сенсорний (Digital LED)Особливості: 3D конвекція, таймер, антипригарне покриття.]]></description>
 </offer>
-<offer id="HT35276" available="true" selling_type="r">
+<offer id="HT35276" available="false" selling_type="r">
 <name>Пральна машина Samsung WW90DG5G34AELE</name>
 <categoryId>229</categoryId>
 <portal_category_id>603</portal_category_id>
@@ -69051,7 +69083,7 @@
 <portal_category_id>63005</portal_category_id>
 <price>1382.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000173901.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000173902.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000173903.jpg</picture>
@@ -71106,7 +71138,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Відмовтеся від одноразових пляшок з водою, куплених у магазині. Зробіть свій внесок у захист навколишнього середовища та зведіть до мінімуму використання пластику у своєму житті. У нас є ідеальний спосіб зробити це! Візьміть із собою воду або інші напої у пляшці Dream об'ємом 750 мл із носиком від Florina.Пляшка Dream виготовлена із пластику, безпечного при контакті з напоями. Це не впливає на їх смак та запах. Також він не вбирає барвники. Пляшечка легка, міцна та стійка до сколів та розбивання, що робить її ідеальним варіантом, особливо для дітей. Упакуйте її в рюкзак і візьміть із собою до школи, на прогулянку або в подорож. Кришка пляшки також оснащена мундштуком, який дозволяє легко вгамувати спрагу під час фізичних навантажень. Через прикраси ми рекомендуємо мити пляшку тільки вручну.]]></description>
 </offer>
-<offer id="HT35570" available="true" selling_type="r">
+<offer id="HT35570" available="false" selling_type="r">
 <name>Пральна машина Beko BM1WFSU37233WPBB(7 кг, інвертор, пар)</name>
 <categoryId>229</categoryId>
 <portal_category_id>603</portal_category_id>
@@ -71290,7 +71322,7 @@
 <portal_category_id>64302</portal_category_id>
 <price>3719.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000176881.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000176882.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000176883.jpg</picture>
@@ -71348,7 +71380,7 @@
 <portal_category_id>82104</portal_category_id>
 <price>362.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000176901.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000176902.jpg</picture>
 <vendor>Active</vendor>
@@ -71817,7 +71849,7 @@
 <portal_category_id>6300423</portal_category_id>
 <price>4194.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177691.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177692.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177693.jpg</picture>
@@ -73036,7 +73068,7 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Використання бездротової праски First Austria значно полегшить виконання домашніх завдань. Від'єднавши її від базової станції, ви зможете прасувати одяг без незручного дроту та повністю вільно. Базова станція нагріває праску швидко, і через кілька секунд вона буде готова до роботи. Час перегріву між сеансами прасування мінімальний.Праска має місткий резервуар для води, що вміщує до 450 мл. За допомогою зручної кнопки для подачі пари можна легко вибрати режим:безперервна подача пари ВИМКбезперервна подача на середньому рівнібезперервна подача на максимальному рівні (30 г/хв)Крім того, можна використовувати кнопку для розпилення води зверху. Ця праска може використовуватися як зазвичай на прасувальній дошці, так і у вертикальному положенні, щоб розгладжувати одяг паровими ударами. Зручний механізм блокування базової станції дозволяє керувати праскою за допомогою кабелю. Керамічна підошва з антипригарним покриттям забезпечує плавне ковзання праски по всьому виду тканин і не залишає слідів.Ця праска також має функцію автоматичного очищення, антикрапельної системи та захисту від накипу. Вона оснащена керамічною підошвою, функцією самоочищення та захистом від накипу. Також присутня антикрапельна система, можливість ручного регулювання температури та подачі пари. Комплект включає прасувальну станцію та контейнер для води.]]></description>
 </offer>
-<offer id="HT35733" available="true" selling_type="r">
+<offer id="HT35733" available="false" selling_type="r">
 <name>Бритва Philips S5885/10</name>
 <categoryId>275</categoryId>
 <portal_category_id>3314</portal_category_id>
@@ -74285,7 +74317,7 @@
 <portal_category_id>602</portal_category_id>
 <price>34750.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000179691.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000179692.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000179693.jpg</picture>
@@ -76674,7 +76706,7 @@
 <portal_category_id>615</portal_category_id>
 <price>12838.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182961.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182962.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182963.jpg</picture>
@@ -76732,7 +76764,7 @@
 <portal_category_id>612</portal_category_id>
 <price>7881.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000174731.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000174732.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000174733.jpg</picture>
@@ -77923,7 +77955,7 @@
 <portal_category_id>61601</portal_category_id>
 <price>1244.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>26</quantity_in_stock>
+<quantity_in_stock>22</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184761.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184762.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184763.jpg</picture>
@@ -81384,7 +81416,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Газова варильна поверхня KUMTEL C6-40B - елегантна частинка будь-якого кухонного інтер'єру в сучасному стилі. Окрім шикарного зовнішнього вигляду, модель C6-40B ефективна за рахунок наявності системи електропідпалювання та потужної великої конфорки.Поверхня вбудовується в стільницю таким чином, що видимим залишається лише скляний стіл. На ньому розташовані газові конфорки, решітки та 4 круглі ручки управління. Ручки управління моделі C6-40B – це не лише важливий елемент управління, а й настільки ж важливий елемент дизайну. Вони створені з нетоксичного жаростійкого пластику чорного кольору. Верхня частина ручок декорована сріблястою шапочкою з металу.Газова варильна поверхня C6-40B має наступні характеристики:Ширина 60 см.Матеріал робочого столу - міцне скло білого кольору товщиною 8 мм.Чотири газові конфорки.Велика конфорка з потужністю 2,2 кВт.Механічні круглі ручки для регулювання інтенсивності подачі газу. Виготовлені з бакеліту, а зверху доповнені металевою шапочкою.Кожна ручка управління має вмонтовану систему електропідпалювання.Розсікачі на конфорках з товщиною 3 мм, не прогорають та прослужать весь період експлуатації техніки.Локальні емальовані решітки легко знімаються та миються.Виробник – Туреччина.Гарантія - 1 рік.Велика конфорка: 1 x 2,20 kWСередня конфорка: 2 x 1,65 kWМаленька конфорка: 1 x 1,10 KwВ комплекті інструкція, ущільнювач.]]></description>
 </offer>
-<offer id="HT36207" available="true" selling_type="r">
+<offer id="HT36207" available="false" selling_type="r">
 <name>Варильна поверхня KUMTEL C6-40BF BLACK</name>
 <categoryId>223</categoryId>
 <portal_category_id>61911</portal_category_id>
@@ -82692,7 +82724,7 @@
 <portal_category_id>603</portal_category_id>
 <price>20413.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183671.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183672.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183673.jpg</picture>
@@ -83168,7 +83200,7 @@
 <portal_category_id>603</portal_category_id>
 <price>38875.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000190181.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000190182.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000190183.jpg</picture>
@@ -83812,6 +83844,223 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Бездоганно чистий посуд вже за 28 хвилинОдин натиск замість складних налаштуваньМийте складне завантаження посуду без попереднього очищення руками лише одним натисканням Push&Go на панелі. Вже за 90 хвилин ця щоденна програма очистить всі забруднення, включаючи жир і їжу, що пригріла, - вам залишиться тільки вивантажити ідеально чистий і сухий посуд по полицях.Гігієнічна чистота без бактерійДомагайтеся бездоганних результатів миття з видаленням до 99,9999%* бактерій, щоб ваш посуд залишався гігієнічно чистим. Антибактеріальний цикл eXtra Hygiene ретельно помиє посуд і висушить за 120 хвилин, нагріваючи воду до 72°С при ополіскуванні.Швидко та якісно помиє посуд за 28 хвилинБажаєте швидко освіжити посуд після обіду? З циклом Fast&Clean в Indesit цикл миття тепер займе всього 28 хвилин, що позбавить будь-яких очікувань. Ретельно очищаючи посуд, він стане ідеальним вибором для використання щодня, коли потрібно швидко обполоснути посуд, не залишаючи його брудним у кошиках.Нова ефективність миттяРозроблена на базі інверторного двигуна, посудомийна машина Indesit створює мінімум шуму, одночасно підвищуючи ефективність миття навіть дуже забрудненого посуду. При цьому вона споживатиме менше енергії та збереже тривалу ефективність роботи, як би часто ви не запускали програми. Потужна, довговічна і напрочуд тиха – ця посудомийна машина стане ідеальною для дому.Міцність та довговічністьВнутрішнє оздоблення камери із 100% нержавіючої сталі підвищить ефективність миття будь-якого типу завантаження. Як би часто ви не мили посуд, цей матеріал запобігатиме освіті мікробів і запахів, а також не утворюватиме вм'ятин і знебарвлюватиметься.]]></description>
 </offer>
+<offer id="HT36297" available="true" selling_type="r">
+<name>Пральна машина Gorenje WG694A11 (інверторна, 9кг,1400 об.) чорний люк</name>
+<categoryId>229</categoryId>
+<portal_category_id>603</portal_category_id>
+<price>24457.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>3</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183661.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183662.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183663.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183664.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183665.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183666.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183667.jpg</picture>
+<vendor>Gorenje</vendor>
+<vendorCode>HT36297</vendorCode>
+<country>Словенія</country>
+<param name="Колір">Білий</param>
+<param name="Ширина">60 см</param>
+<param name="Керування">Електронне</param>
+<param name="Клас енергоспоживання">А</param>
+<param name="Макс. швидкість віджиму">1400 об/хв</param>
+<param name="Максимальне завантаження">9 кг</param>
+<param name="Двигун">Інверторний</param>
+<param name="Вага">77 кг</param>
+<param name="Висота">85 см</param>
+<param name="Глибина">54 см</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Повнорозмірна автоматична пральна машина Gorenje серії G600 моделі WG694A11/UA розроблена для великих родин та прання об'ємних речей, таких як ковдри чи пуховики. Окремостояча модель WG694A11/UA має фронтальне завантаження на 9 кг, виконана у білому корпусі з контрастним чорним люком і глибиною 54 см. Тихий та високоефективний інверторний двигун Inverter PowerDrive забезпечує винятковий клас енергозбереження А та клас прання А зі споживанням лише 0.41 кВт·год електроенергії та 43 л води за цикл.Завдяки Smart-технологіям та дистанційному Wi-Fi керуванню через застосунок ConnectLife, контролювати роботу пральної машини WG694A11/UA можна з будь-якого місця. Інтелектуальні сенсори AdaptTech оптимізують параметри прання, а технологія StainExpert ефективно видаляє складні плями. Барабан WaveActive об'ємом 54 л із карботековим баком гарантує дбайливе поводження з волокнами, а система парової обробки SteamTech усуває алергени та бактерії. Також у модель WG694A11/UA інтегровано самоочищення бака SterilTub та антивібраційні панелі StableTech для зниження рівнів шуму до 53 дБ при пранні та 74 дБ при віджимі на швидкості до 1400 об/хв (клас B).Арсенал пральної машини WG694A11/UA складається з 16 програм прання із повністю україномовною панеллю керування. Серед корисних режимів: відстрочка старту, регулювання температури та віджиму, попереднє прання, додаткове полоскання, економія часу TimeCare, прискорене прання FastWash Pro, збереження персональних налаштувань і пауза StopAddGo.Бренд та серія: Gorenje G600Модель: WG694A11/UAТип: автоматична, повнорозмірна, фронтальне завантаження, окремостоячаГабарити (ВхШхГ): 85х60х54 см (глибина 54 см)Колір: білий корпус, чорний люкМаксимальне завантаження: 9 кгМаксимальна швидкість віджиму: 1400 об/хв (клас B)Клас енергоспоживання та прання: A / AСпоживання за цикл: 0.41 кВт·год / 43 л водиДвигун: інверторний Inverter PowerDriveБарабан та бак: WaveActive, об'єм 54 л, бак з карботекуКількість програм: 16Рівень шуму: 53 дБ (прання) / 74 дБ (віджим)Панель керування: електронна, українська моваЗахист та безпека: захист від дітей ChildLock, захист від протікання, захист від переливу, контроль піноутворення, контроль дисбалансу]]></description>
+</offer>
+<offer id="HT36298" available="true" selling_type="r">
+<name>Пральна машина Gorenje WG884A31 (інверторна, 8кг,1400 об.)</name>
+<categoryId>229</categoryId>
+<portal_category_id>603</portal_category_id>
+<price>26850.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>5</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/000018364.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183641.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183642.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183643.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183645.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183646.jpg</picture>
+<vendor>Gorenje</vendor>
+<vendorCode>HT36298</vendorCode>
+<country>Словенія</country>
+<param name="Колір">Білий</param>
+<param name="Тип управління">Wi-Fi керування</param>
+<param name="Ширина">60 см</param>
+<param name="Керування">Електронне</param>
+<param name="Клас енергоспоживання">А</param>
+<param name="Макс. швидкість віджиму">1400 об/хв</param>
+<param name="Максимальне завантаження">8 кг</param>
+<param name="Двигун">Інверторний</param>
+<param name="Вага">61,6 кг</param>
+<param name="Висота">85 см</param>
+<param name="Глибина">54 см</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Флагманська автоматична пральна машина Gorenje серії G800 моделі WG884A31 створена для бездоганного догляду за вашими речами. Модель WG884A31 виконана у білому корпусі з вишуканим чорним люком, має фронтальне завантаження до 8 кг та окремостоячу конструкцію. Серцем приладу є довговічний та тихий інверторний двигун Inverter PowerDrive, який забезпечує клас енергоспоживання А та клас прання А при споживанні лише 0.9 кВт·год електроенергії та 54 л води за один цикл. Віджимання здійснюється на швидкості до 1400 об/хв (клас B) із рівнем шуму 74 дБ, тоді як під час прання рівень шуму становить всього 53 дБ.Завдяки підтримці Smart-функцій та віддаленого керування через Wi-Fi у застосунку ConnectLife, керувати пральною машиною WG884A31 можна безпосередньо зі смартфона. Інтелектуальна система AdaptTech запам'ятовує ваші особисті налаштування, а спеціальні режими StainExpert ефективно видаляють найскладніші плями. Фірмовий барабан WaveActive об'ємом 54 л із карботековим баком гарантує дбайливе ставлення до тканин, а функція обробки парою SteamTech дезінфікує білизну та усуває складки. Для підтримки гігієни всередині приладу передбачена програма самоочищення SterilTub, а антивібраційні бокові панелі StableTech гарантують максимальну стійкість.Пральна машина WG884A31 пропонує 16 програм прання, а її панель керування повністю адаптована українською мовою. Серед функціональних можливостей доступні відстрочка старту, регулювання температури та швидкості віджиму, попереднє прання, додаткове полоскання, економія часу TimeCare, швидкі режими FastWash Pro, збереження власних налаштувань, а також зручна функція паузи та дозавантаження білизни StopAddGo.Бренд та серія: Gorenje G800Модель: WG884A31Тип: автоматична, фронтальне завантаження, окремостоячаГабарити (ВхШхГ): 85х60х54 см (глибина 54 см)Колір: білий корпус, чорний люкМаксимальне завантаження: 8 кгМаксимальна швидкість віджиму: 1400 об/хв (клас B)Клас енергоспоживання та прання: A / AСпоживання за цикл: 0.9 кВт·год / 54 л водиДвигун: інверторний Inverter PowerDriveБарабан та бак: WaveActive, об'єм 54 л, бак з карботекуКількість програм: 16Рівень шуму: 53 дБ (прання) / 74 дБ (віджим)Панель керування: електронна, українська моваЗахист та безпека: захист від дітей ChildLock, захист від протікання, захист від переливу, контроль піноутворення, контроль дисбалансу]]></description>
+</offer>
+<offer id="HT36299" available="true" selling_type="r">
+<name>Пральна машина Saturn ST-WM0822WB (8кг, інвертор, 856050)</name>
+<categoryId>229</categoryId>
+<portal_category_id>603</portal_category_id>
+<price>15619.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>16</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186081.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186082.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186083.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186084.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186085.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186086.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186087.jpg</picture>
+<vendor>Saturn</vendor>
+<vendorCode>HT36299</vendorCode>
+<country>Китай</country>
+<param name="Колір">Білий</param>
+<param name="Ширина">60 см</param>
+<param name="Керування">Електронно-механічне</param>
+<param name="Клас енергоспоживання">А++</param>
+<param name="Макс. швидкість віджиму">1200 об/хв</param>
+<param name="Максимальне завантаження">8 кг</param>
+<param name="Двигун">Інверторний</param>
+<param name="Привід">Ремінний</param>
+<param name="Висота">84 см</param>
+<param name="Глибина">45 см</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Пральна машина вузька Saturn ST-WM0822WB — автоматична модель із фронтальним завантаженням та місткістю до 8 кг білизни. Інверторний двигун забезпечує ефективну роботу, а максимальна швидкість віджимання становить 1200 об/хв. При глибині корпусу лише 45 см пральна машина поєднує місткість із компактними габаритами.Модель оснащена 14 програмами прання, що дозволяє підібрати відповідний режим для різних типів білизни та повсякденних завдань. Додатковою перевагою є функція пари, яка допомагає урізноманітнити догляд за речами та зробити процес прання більш функціональним.Механічне керування та дисплей забезпечують зручне налаштування і контроль параметрів програми. Для безпечної експлуатації передбачено блокування від дітей. Клас енергоспоживання D відповідає зазначеним характеристикам моделі.Saturn ST-WM0822WB поєднує місткість 8 кг, інверторний двигун, віджимання до 1200 об/хв і функцію пари в компактному корпусі. Габарити 84 × 60 × 45 см дозволяють раціонально використовувати простір, тому модель стане практичним рішенням для сучасної оселі.]]></description>
+</offer>
+<offer id="HT36300" available="true" selling_type="r">
+<name>Пральна машина Saturn ST-WM1024WD (10кг, інвертор, прямий привід, 856060)</name>
+<categoryId>229</categoryId>
+<portal_category_id>603</portal_category_id>
+<price>18307.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>6</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186091.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186092.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186093.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186094.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186095.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186096.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186097.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186098.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186099.jpg</picture>
+<vendor>Saturn</vendor>
+<vendorCode>HT36300</vendorCode>
+<country>Китай</country>
+<param name="Колір">Білий</param>
+<param name="Ширина">60 см</param>
+<param name="Керування">Електронно-механічне</param>
+<param name="Клас енергоспоживання">А++</param>
+<param name="Макс. швидкість віджиму">1200 об/хв</param>
+<param name="Максимальне завантаження">10 кг</param>
+<param name="Двигун">Інверторний</param>
+<param name="Привід">Прямий</param>
+<param name="Висота">84 см</param>
+<param name="Глибина">53 см</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Пральна машина повногабаритна Saturn ST-WM1024WD — автоматична модель із фронтальним завантаженням та місткістю до 10 кг білизни. Інверторний двигун забезпечує ефективну роботу, а максимальна швидкість віджимання становить 1200 об/хв. Повногабаритний корпус глибиною 53 см дозволяє поєднати велику місткість із зручним завантаженням білизни.Модель оснащена 14 програмами прання для різних типів тканин і потреб. Додатково передбачена функція пари, яка розширює можливості догляду за білизною. Збільшений люк діаметром 520 мм забезпечує зручніше завантаження та вивантаження речей, особливо великогабаритних текстильних виробів.Сенсорне керування та дисплей роблять налаштування програм зручним і зрозумілим. Користувач може обрати потрібний режим та контролювати параметри прання, а блокування від дітей допомагає запобігти випадковій зміні налаштувань під час роботи приладу.Saturn ST-WM1024WD поєднує місткість 10 кг, інверторний двигун, віджим до 1200 об/хв, функцію пари та сучасне сенсорне керування. Габарити 84 × 60 × 53 см і збільшений люк роблять модель практичним рішенням для великої родини та регулярного прання значних обсягів білизни.]]></description>
+</offer>
+<offer id="HT36301" available="true" selling_type="r">
+<name>Пральна машина Whirlpool WAM 872 XAB</name>
+<categoryId>229</categoryId>
+<portal_category_id>603</portal_category_id>
+<price>22650.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>1</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187791.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187792.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187793.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187794.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187795.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187796.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187797.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187798.jpg</picture>
+<vendor>Whirlpool</vendor>
+<vendorCode>HT36301</vendorCode>
+<country>Румунія</country>
+<param name="Колір">Сірий</param>
+<param name="Ширина">60 см</param>
+<param name="Керування">Механічно-сенсорне</param>
+<param name="Клас енергоспоживання">А</param>
+<param name="Макс. швидкість віджиму">1400 об/хв</param>
+<param name="Максимальне завантаження">8 кг</param>
+<param name="Двигун">Інверторний</param>
+<param name="Вага">64 кг</param>
+<param name="Висота">84.5 см</param>
+<param name="Глибина">44,4 см</param>
+<param name="Гарантія">12 міс</param>
+<description><![CDATA[Пральна машина вузька Whirlpool WAM 872 XAB — сучасна та містка модель із фронтальним завантаженням, яка поєднує компактні габарити та високу продуктивність для щоденного прання.Машина розрахована на завантаження до 8 кг білизни, що дозволяє комфортно обслуговувати сім’ю з кількох осіб. Завдяки інверторному двигуну забезпечується тиха робота, довговічність і економне споживання електроенергії (клас А).Модель оснащена дисплеєм, підтримує сенсорне та механічне керування, а також функцію пари, яка допомагає освіжити речі, зменшити складки та усунути запахи без повноцінного прання.Максимальна швидкість віджимання становить 1400 об/хв, що дозволяє отримати добре віджату білизну з мінімальною залишковою вологістю.Фірмова технологія 6th Sense автоматично оптимізує параметри прання (воду, час, електроенергію) залежно від завантаження, забезпечуючи ефективний результат і економію ресурсів.Додаткові можливості:відкладений старт і таймер зворотного відлікупрограма Cold Wash 15° для делікатного прання при низьких температурахфункція HomeWhizблокування від дітей для безпекиКомпактні розміри (глибина 44.4 см) роблять модель ідеальною для невеликих ванних кімнат або кухонь. Стильний сірий корпус гармонійно впишеться в сучасний інтер’єр.Whirlpool WAM 872 XAB — це оптимальне рішення для тих, хто шукає вузьку, містку та функціональну пральну машину з парою, великою кількістю програм і економною роботою.]]></description>
+</offer>
+<offer id="HT36303" available="true" selling_type="r">
+<name>Холодильник Gorenje NRK620EABK4</name>
+<categoryId>218</categoryId>
+<portal_category_id>602</portal_category_id>
+<price>29263.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>24</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175771.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175772.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175773.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175774.jpg</picture>
+<vendor>Gorenje</vendor>
+<vendorCode>HT36303</vendorCode>
+<param name="Колір">Сірий</param>
+<param name="Ширина">59,5 см</param>
+<param name="Керування">Електронне</param>
+<param name="Клас енергоспоживання">А+</param>
+<param name="Об&apos;єм морозильної камери">98 л</param>
+<param name="Система охолодження">NoFrost</param>
+<param name="Тип компресора">Звичайний</param>
+<param name="Об&apos;єм холодильної камери">238 л</param>
+<param name="Автономне збереження холоду">10 год</param>
+<param name="Загальний об&apos;єм">336 л</param>
+<param name="Вага">64 кг</param>
+<param name="Висота">200,4 см</param>
+<param name="Глибина">59 см</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Холодильник Gorenje NRK620EABK4: ідеальне поєднання стилю та технологійХолодильник GORENJE NRK620EABK4 (HZF36682SED) - це сучасний двокамерний агрегат, який поєднує в собі естетичний дизайн та передові технології. Цей холодильник стане ідеальним вибором для тих, хто цінує якість, функціональність і стиль у кожній деталі. Його елегантний чорний колір гармонійно впишеться в будь-який інтер'єр, додаючи кухні вишуканості та сучасності.Система розморожування No Frost забезпечує легкість у догляді та підтриманні чистоти. Завдяки цій технології, ви зможете забути про необхідність ручного розморожування, адже вона запобігає утворенню льоду та інею як у холодильній, так і в морозильній камерах. Морозильна камера розташована внизу, що додає зручності у використанні, особливо при частому доступі до холодильного відділення.Енергоефективність та екологічністьХолодильник GORENJE NRK620EABK4 відзначається класом енергоспоживання E, що дозволяє зменшити витрати на електроенергію до 247 кВт.год/рік. Це особливо важливо для тих, хто прагне зберегти не лише свої фінанси, а й природні ресурси. Кліматичний клас N, SN, T, ST гарантує стабільну роботу пристрою за різних температурних умов, що робить його універсальним варіантом для будь-якої місцевості.Рівень шуму, який становить всього 39 дБ, забезпечує тиху роботу холодильника, що особливо важливо для відкритих кухонь та квартир-студій. Крім того, сенсорне керування дозволяє легко налаштовувати температуру та інші параметри, роблячи експлуатацію максимально комфортною.Інноваційні технології та функціональністьОднією з ключових особливостей холодильника GORENJE NRK620EABK4 є використання фірмових технологій MultiFlow 360° та IonAir. Технологія MultiFlow 360° забезпечує рівномірний розподіл повітря і підтримання стабільної температури у всіх відділеннях холодильника, що допомагає продуктам залишатися свіжими довше. IonAir, у свою чергу, нейтралізує бактерії та неприємні запахи, створюючи оптимальні умови для зберігання продуктів.Загальнокорисний об'єм холодильника становить 336 літрів, з яких 238 літрів припадає на холодильну камеру, а 98 літрів - на морозильну. Це дозволяє зберігати значні запаси продуктів, що особливо зручно для великих родин. Холодильна камера оснащена чотирма скляними полицями та чотирма кишенями на дверях, що забезпечує зручність у розміщенні різних продуктів.Морозильна камера складається з трьох відділень, що дозволяє розділити заморожені продукти за категоріями. Функція швидкого заморожування забезпечує швидке охолодження свіжих продуктів, зберігаючи їхні корисні властивості.Також варто зазначити наявність зони свіжості, перевішуваних дверцят та дисплея, що додає зручності у використанні. Оповіщення про незакриті дверцята допоможе уникнути втрати холоду та зберегти енергію.Загальні габарити холодильника складають 200.4 см у висоту, 59.5 см у ширину та 59 см у глибину, що робить його компактним та водночас містким рішенням для будь-якої кухні. При вазі 64 кг без упаковки, він є досить легким для встановлення та перенесення.Холодильник GORENJE NRK620EABK4 - це втілення надійності та інновацій, що забезпечує комфортне зберігання продуктів та економію енергії. Завдяки поєднанню сучасних технологій та стильного дизайну, цей холодильник стане незамінним помічником на вашій кухні.]]></description>
+</offer>
+<offer id="HT36304" available="true" selling_type="r">
+<name>Холодильник Gorenje NRKI519E41(вбудований)</name>
+<categoryId>218</categoryId>
+<portal_category_id>602</portal_category_id>
+<price>34613.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>4</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189101.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189102.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189103.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189104.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189105.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189106.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189107.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189108.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189109.jpg</picture>
+<vendor>Gorenje</vendor>
+<vendorCode>HT36304</vendorCode>
+<country>Словенія</country>
+<param name="Колір">Білий</param>
+<param name="Ширина">54 см</param>
+<param name="Керування">Електронне</param>
+<param name="Клас енергоспоживання">Е</param>
+<param name="Об&apos;єм морозильної камери">76 л</param>
+<param name="Система охолодження">NoFrost</param>
+<param name="Тип компресора">Інверторний</param>
+<param name="Об&apos;єм холодильної камери">208 л</param>
+<param name="Автономне збереження холоду">10 год</param>
+<param name="Загальний об&apos;єм">284 л</param>
+<param name="Вага">67,5 кг</param>
+<param name="Висота">193,5 см</param>
+<param name="Глибина">54,5 см</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Холодильник Gorenje NRKI519E41, що вбудовується: Інновації та ЕфективністьВбудований холодильник GORENJE NRKI519E41 (HZFI29282) є вдалим поєднанням інноваційних технологій і функціонального дизайну, забезпечуючи максимальну зручність і ефективність у використанні. Цей двокамерний холодильник з нижнім розташуванням морозильної камери пропонує загальний корисний об'єм 284 літри, що робить його ідеальним вибором для тих, хто цінує простір та організованість у зберіганні продуктів.Холодильна камера з корисним об'ємом 208 літрів оснащена чотирма скляними полицями та чотирма кишенями дверей, що дозволяє зручно розміщувати продукти та забезпечувати до них легкий доступ. Морозильна камера об'ємом 76 літрів оснащена трьома висувними ящиками, що робить процес заморожування та зберігання продуктів зручнішим та організованішим. Завдяки технологіям No Frost розморожування обох камер відбувається автоматично, що значно спрощує догляд за холодильником.Енергоефективність та Зручність УправлінняКлас енергоспоживання E та річне споживання електроенергії в 232 кВт роблять цей холодильник економічним рішенням для будь-якої родини. Рівень шуму всього 35 дБ забезпечує тиху роботу пристрою, що особливо важливо для моделей, що вбудовуються. Хладагент R600a та кліматичний клас N, SN, T, ST забезпечують надійну та стабільну роботу в різних кліматичних умовах.Управління холодильником здійснюється за допомогою сенсорної панелі, забезпечуючи легкість та точність у налаштуванні. Світлодіодне освітлення LED рівномірно розподіляє світло по всій камері, забезпечуючи чудову видимість та доступність усіх продуктів. Вбудовані технології, такі як зона свіжості, суперохолодження та швидке заморожування, дозволяють зберігати свіжість та якість продуктів на більш тривалий термін.Технічні Особливості та Продумана КонструкціяВбудований холодильник GORENJE NRKI519E41 оснащений інверторним компресором, що забезпечує ефективну та стабільну роботу при мінімальному рівні шуму та енергоспоживання. Додаткові функції, такі як дверцята, що навішують, дисплей, сповіщення про незачинені дверцята і сповіщення про підвищення температури, роблять використання холодильника ще більш зручним і безпечним.Внутрішнє оснащення включає лоток для яєць та ящик для овочів та фруктів, що дозволяє зручно організувати простір для зберігання різних видів продуктів. Габарити холодильника (висота 193.2 см, ширина 54 см, глибина 54.5 см) та розмір ніші для вбудовування (193.8-194.2 х 56-56.8 х 56 см) забезпечують легку інтеграцію в кухонний простір, зберігаючи його стиль та функціональність.Термін гарантії на холодильник становить 24 місяці, що свідчить про надійність та високу якість виробу. Вбудований холодильник GORENJE NRKI519E41 – це продумане рішення для тих, хто цінує інновації, функціональність та стиль в одному пристрої.]]></description>
+</offer>
 <offer id="HT4815" available="true" selling_type="r">
 <name>Бутербродниця Rotex RSM110-W</name>
 <categoryId>293</categoryId>
@@ -84401,7 +84650,7 @@
 <portal_category_id>63005</portal_category_id>
 <price>2850.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000002292_17558483.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000002292_233443682.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000002292_17558500.jpg</picture>
