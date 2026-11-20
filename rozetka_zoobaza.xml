@@ -1047,7 +1047,6 @@
 <picture>https://www.zoobaza.com.ua/content/images/22/1208x800l80mc0/33477246100130.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/22/1208x800l80mc0/15868802332302.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/22/1208x800l80mc0/55664793081666.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/22/1208x800l80mc0/45458269076068.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/22/1024x994l80mc0/49502279860025.jpeg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3471-1.jpg</picture>
 <vendor>ЗооБаза</vendor>
@@ -1792,6 +1791,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://www.zoobaza.com.ua/content/images/38/1208x800l80mc0/80314347378945.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/38/1208x800l80mc0/59719238141841.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>8447</article>
 <name>Лежак-матрас ЗооБаза Магнус d65 фуксия и серый (8447)</name>
@@ -2970,7 +2970,6 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3603-1.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/4/1208x800l80mc0/61328418724080.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/4/1208x800l80mc0/70594844468996.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/4/1208x800l80mc0/37667297969951.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/4/1208x800l80mc0/74707542296016.jpeg</picture>
@@ -39752,42 +39751,6 @@
 <param name="Розмір">S</param>
 <param name="EAN">748960934781</param>
 </offer>
-<offer id="TX30507" available="true">
-<stock_quantity>2</stock_quantity>
-<price>3750.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>3935762</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30507-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30507-2.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30507-3.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30507-4.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30507-5.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30507-6.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30507-7.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30507-9.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30507-10.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30507-11.jpg</picture>
-<vendor>Ruffwear</vendor>
-<article>30507</article>
-<name>Дождевик для собак Ruffwear Sun Shower L Сине-оливковый (30507)</name>
-<name_ua>Дощовик для собак Ruffwear Sun Shower L Синьо-оливковий (30507)</name_ua>
-<description><![CDATA[<p>Когда на улице должен быть дождь, Sun Shower - это идеальная куртка для выгула и прогулок. Её водонепроницаемая оболочка, дополненная складным воротником и рисунком TailGate, обеспечивает расширенную защиту шеи, спины и бедер, чтобы ваш питомец оставался сухим даже во влажные дни. Легкая и без утеплителя, Sun Shower подходит как самостоятельная куртка, так и в качестве верхнего слоя для борьбы с дождем в холодные дни.</p><p>Материалы и узоры были обновлены для увеличения покрытия, а также добавлено отверстие для поводка, что позволяет носить куртку поверх ошейника или шлейки.</p>]]></description>
-<description_ua><![CDATA[<p>Коли на вулиці має бути дощ, Sun Shower – це ідеальна куртка для вигулу та прогулянок. Її водонепроникна оболонка, доповнена складним коміром та малюнком TailGate, забезпечує розширений захист шиї, спини та стегон, щоб ваш вихованець залишався сухим навіть у вологі дні. Легка і без утеплювача, Sun Shower підходить як самостійна куртка, так і як верхній шар для боротьби з дощем в холодні дні.</p><p>Матеріали та візерунки були оновлені для збільшення покриття, а також додано отвір для повідця, що дозволяє носити куртку поверх нашийника чи шлейки.</p>]]></description_ua>
-<param name="Довжина">71 см</param>
-<param name="Особливості">Водонепроницаемая</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Вид">Дощовики</param>
-<param name="Тематика">Повседневный</param>
-<param name="Обхват груди">81-91 см</param>
-<param name="Обхват шиї">67,5 см</param>
-<param name="Кількість в упаковці, шт">1</param>
-<param name="Колір">Синій з зеленим</param>
-<param name="Тварина">Собака</param>
-<param name="Сезон">Демісезон</param>
-<param name="Тип">Дощовики</param>
-<param name="Розмір">L</param>
-<param name="EAN">748960280673</param>
-</offer>
 <offer id="TX30539" available="true">
 <stock_quantity>2</stock_quantity>
 <price>3790.00</price>
@@ -54671,33 +54634,6 @@
 <param name="Тип">Взуття</param>
 <param name="Розмір">L</param>
 <param name="EAN">7071652013345</param>
-</offer>
-<offer id="TX40328" available="true">
-<stock_quantity>2</stock_quantity>
-<price>1850.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>3935762</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX40328-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX40328-2.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX40328-3.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX40328-4.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX40328-5.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX40328-6.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX40328-7.jpg</picture>
-<vendor>Non-stop dogwear</vendor>
-<article>40328</article>
-<name>Ботинки для собак Non-stop dogwear Protector bootie Черный/Оранжевый M (40328)</name>
-<name_ua>Черевики для собак Non-stop dogwear Protector bootie Чорний/Помаранчевий M (40328)</name_ua>
-<description><![CDATA[<p>Protector Bootie – это сверхпрочные ботиночки для собак, которые обеспечивают защиту лап от грубых поверхностей, битого стекла, соли и горячего асфальта. Они изготовлены из высокостойкого материала 5 уровня anti-cut, предотвращающего порезы, и покрыты нитриловой резиной для дополнительной защиты.</p><p><strong>Основные преимущества:</strong></p><p><strong>Защита лап от порезов, горячего асфальта и дорожной соли</strong></p><ul><li>Покрытие из нитриловой резины – водостойкость и улучшенное сцепление даже на скользких поверхностях.</li><li>Бесшовный внутренний слой – предотвращает натирку и обеспечивает комфорт.</li><li>Эластичная застежка на липучке – надежная фиксация башмачка на лапе</li></ul><p><strong>Идеально подходят для:</strong></p><p><strong>Активные прогулки по городским улицам</strong></p><p><strong>Походов и туристических маршрутов</strong></p><p><strong>Собачьих гонок и тренировок</strong></p><p>Protector Bootie – это максимальная защита лап вашей собаки в любых условиях!</p><p>* Обратите внимание, что ботиночки для собак подвержены износу. Такие факторы, как тип поверхности, длина когтей вашей собаки и пройденное расстояние, влияют на срок службы ботиночек.</p><p>В комплекте - 4 ботиночка.</p>]]></description>
-<description_ua><![CDATA[<p>Protector Bootie – це надміцні черевички для собак, які забезпечують захист лап від грубих поверхонь, битого скла, солі та гарячого асфальту. Вони виготовлені з високостійкого матеріалу рівня 5 anti-cut, що запобігає порізам, і покриті нітриловою гумою для додаткового захисту.</p><p><strong>Основні переваги:</strong></p><p><strong>Захист лап від порізів, гарячого асфальту та дорожньої солі</strong></p><ul><li>Покриття з нітрилової гуми – водостійкість та покращене зчеплення навіть на слизьких поверхнях</li><li>Безшовний внутрішній шар – запобігає натиранню та забезпечує комфорт</li><li>Еластична застібка на липучці – надійна фіксація черевичка на лапі</li></ul><p><strong>Ідеально підходять для:</strong></p><p><strong>Активних прогулянок по міських вулицях</strong></p><p><strong>Походів та туристичних маршрутів</strong></p><p><strong>Собачих перегонів та тренувань</strong></p><p>Protector Bootie – це максимальний захист лап вашого собаки в будь-яких умовах!</p><p>*Зверніть увагу, що черевики для собак можуть зношуватися. Такі фактори, як тип поверхні, довжина кігтів вашої собаки та пройдена відстань впливають на термін служби черевиків.</p><p>У комплекті — 4 черевички.</p>]]></description_ua>
-<param name="Матеріал">Полиэтилен, нейлон</param>
-<param name="Вид">Взуття</param>
-<param name="Кількість в упаковці, шт">4</param>
-<param name="Колір">Чорний з жовтогарячим</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
-<param name="Тип">Взуття</param>
-<param name="Розмір">M</param>
-<param name="EAN">7071652013239</param>
 </offer>
 <offer id="TX40332" available="true">
 <stock_quantity>2</stock_quantity>
@@ -78740,7 +78676,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT12172" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>2919.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80155</categoryId>
@@ -79129,7 +79065,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT14152" available="true">
-<stock_quantity>8</stock_quantity>
+<stock_quantity>7</stock_quantity>
 <price>1919.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>112986</categoryId>
@@ -79160,7 +79096,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT15068" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>7619.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -79241,7 +79177,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT17125" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>755.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -81966,7 +81902,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT24854" available="true">
-<stock_quantity>28</stock_quantity>
+<stock_quantity>27</stock_quantity>
 <price>1344.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81229</categoryId>
@@ -84884,7 +84820,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30363" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>669.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81227</categoryId>
@@ -86375,7 +86311,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30811" available="true">
-<stock_quantity>8</stock_quantity>
+<stock_quantity>7</stock_quantity>
 <price>15150.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80141</categoryId>
@@ -89074,7 +89010,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT32132" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>530.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81232</categoryId>
@@ -92214,7 +92150,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT33202" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>11288.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
@@ -93019,7 +92955,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT33386" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>1781.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81089</categoryId>
@@ -94609,7 +94545,7 @@
 </offer>
 <offer id="HT33854" available="true">
 <stock_quantity>12</stock_quantity>
-<price>5338.00</price>
+<price>5438.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80131</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/100015292.jpg</picture>
@@ -95075,7 +95011,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT34054" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>3508.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>112986</categoryId>
@@ -95837,7 +95773,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT34227" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>675.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>123281</categoryId>
@@ -96052,7 +95988,7 @@
 <param name="Гарантія">5 років</param>
 </offer>
 <offer id="HT34256" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>17832.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
@@ -100914,7 +100850,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35273" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>3104.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80155</categoryId>
@@ -102005,7 +101941,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35366" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>877.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80130</categoryId>
@@ -103404,7 +103340,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35466" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>755.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80155</categoryId>
@@ -104668,7 +104604,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35666" available="true">
-<stock_quantity>25</stock_quantity>
+<stock_quantity>24</stock_quantity>
 <price>27038.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -105040,7 +104976,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35701" available="true">
-<stock_quantity>19</stock_quantity>
+<stock_quantity>18</stock_quantity>
 <price>2687.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>112986</categoryId>
@@ -106994,7 +106930,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35881" available="true">
-<stock_quantity>12</stock_quantity>
+<stock_quantity>11</stock_quantity>
 <price>32588.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -109213,7 +109149,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT36084" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>28838.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -110714,7 +110650,7 @@
 </offer>
 <offer id="HT36195" available="true">
 <stock_quantity>10</stock_quantity>
-<price>4725.00</price>
+<price>4950.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80131</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188651.jpg</picture>
