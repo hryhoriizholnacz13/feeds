@@ -88789,9 +88789,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT24440" available="true">
+<offer id="HT24440" available="false">
 <price>351.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="355">Кріплення для ТВ</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000009970_6c1a90b7-97b6-44a4-b1de-b6391f8ddbac.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000009970_e83b4a80-46f8-4ec4-940c-b129d4640a1c.jpg</picture>
@@ -107765,9 +107765,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT36207" available="true">
+<offer id="HT36207" available="false">
 <price>5088.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="83">Варильні поверхні</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188861.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188862.jpg</picture>
