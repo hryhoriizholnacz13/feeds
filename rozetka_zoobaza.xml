@@ -79717,7 +79717,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT14152" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>1919.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>112986</categoryId>
@@ -80135,7 +80135,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT18486" available="true">
-<stock_quantity>31</stock_quantity>
+<stock_quantity>30</stock_quantity>
 <price>596.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81229</categoryId>
@@ -95574,32 +95574,6 @@
 <param name="Розмір">42 × 31 × 28.5 cm</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
-<offer id="HT34054" available="true">
-<stock_quantity>1</stock_quantity>
-<price>3508.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>112986</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155081.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155082.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155083.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155084.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155085.jpg</picture>
-<vendor>FIRST</vendor>
-<article>FA-5130</article>
-<name>Мультиварка-скороварка FIRST Austria FA-5130 (FA-5130)</name>
-<name_ua>Мультиварка-скороварка FIRST Austria FA-5130 (FA-5130)</name_ua>
-<description><![CDATA[<p>Электрическая скороварка TZS First AustriaНовый фаворит на вашей кухне: эта простая мультиварка из нержавеющей стали. Эта скороварка станет полезным помощником на любой кухне. Благодаря 9 автоматическим программам и мощности 1000 Вт овощи, мясо или рис можно легко приготовить и поддерживать теплыми.</p><ul><li>Благодаря предохранительному клапану и термоизоляционным ручкам скороварка обеспечивает безопасное и быстрое приготовление.</li><li>Скороварка объемом 6 литров имеет съемную, легко моющуюся внутреннюю кастрюлю с антипригарным покрытием, мерную чашку и ложку для риса.</li></ul><p>Эта скороварка с противоскользящим покрытием идеально подходит для домашних кухонь, садовых сараев, кемпинга или путешествий. 9 автоматических программВстроенная функция таймераДополнительная функция поддержания теплаВ комплекте ложка и мерная чашкаТехнические характеристики:Потребляемая мощность [Вт]: 1000Напряжение питания [В]: 220-240Объем [л]: 6Внешняя поверхность: нержавеющая стальРазмеры [см]: Д: 35 x Ш: 31 x В: 34Вес [кг]: 4,6Цвет: нержавеющая сталь. Комплектация:1x электрическая скороварка / скороварка, включая ложку и мерную чашку от TZS First AustriaTZS First Austria уже более 30 лет является синонимом качества, надежности и инноваций. Благодаря современному, привлекательному дизайну вы можете добавить особый штрих к своему дому – стильно.</p>]]></description>
-<description_ua><![CDATA[<p>Електрична скороварка TZS First AustriaНовий фаворит на вашій кухні: ця проста мультиварка з нержавіючої сталі. Ця скороварка стане корисним помічником на будь-якій кухні. Завдяки 9 автоматичним програмам та потужності 1000 Вт, овочі, м'ясо або рис можна легко приготувати та підтримувати теплими.</p><ul><li>Завдяки запобіжному клапану та термоізоляційним ручкам, скороварка забезпечує безпечне та швидке приготування.</li><li>Скороварка об'ємом 6 літрів має знімну, легко миється внутрішню каструлю з антипригарним покриттям, мірну чашку та ложку для рису.</li></ul><p>Ця скороварка з антиковзким покриттям ідеально підходить для домашніх кухонь, садових сараїв, кемпінгу або подорожей. 9 автоматичних програмВбудована функція таймераДодаткова функція підтримки теплаВ комплекті ложка та мірна чашкаТехнічні характеристики:Споживана потужність [Вт]: 1000Напруга живлення [В]: 220-240Об'єм [л]: 6Зовнішня поверхня: нержавіюча стальРозміри [см]: Д: 35 x Ш: 31 x В: 34Вага [кг]: 4,6Колір: нержавіюча сталь. Комплектація:1x електрична скороварка / скороварка, включаючи ложку та мірну чашку від TZS First AustriaTZS First Austria вже понад 30 років є синонімом якості, надійності та інновацій. Завдяки сучасному, привабливому дизайну ви можете додати особливий штрих до свого дому – стильно.</p>]]></description_ua>
-<param name="Тип">Мультиварка-скороварка</param>
-<param name="Колір">Нержавіюча сталь</param>
-<param name="Тип управління">Електронне</param>
-<param name="Матеріал корпусу">Нержавіюча сталь</param>
-<param name="Кількість програм приготування">9</param>
-<param name="Ємність чаші">6 л</param>
-<param name="Потужність">1100 Вт</param>
-<param name="Розмір">Д: 35 x Ш: 31 x В: 34</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
 <offer id="HT34055" available="true">
 <stock_quantity>2</stock_quantity>
 <price>4216.00</price>
@@ -101577,7 +101551,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35286" available="true">
-<stock_quantity>14</stock_quantity>
+<stock_quantity>13</stock_quantity>
 <price>21063.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80141</categoryId>
@@ -108280,7 +108254,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35989" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>15307.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4674672</categoryId>
