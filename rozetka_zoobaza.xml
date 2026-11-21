@@ -79687,7 +79687,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT14151" available="true">
-<stock_quantity>9</stock_quantity>
+<stock_quantity>8</stock_quantity>
 <price>2462.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>112986</categoryId>
@@ -85751,7 +85751,7 @@
 <param name="Матеріал корпусу">Папір</param>
 </offer>
 <offer id="HT30477" available="true">
-<stock_quantity>11</stock_quantity>
+<stock_quantity>9</stock_quantity>
 <price>312.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4626138</categoryId>
@@ -92351,31 +92351,8 @@
 <param name="Глибина">461 мм</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
-<offer id="HT33024" available="true">
-<stock_quantity>1</stock_quantity>
-<price>801.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80160</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014461_439409203.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000014461_439409205.jpg</picture>
-<vendor>CASTLE</vendor>
-<article>CK-01W</article>
-<name>Чайник CASTLE CK-01W (CK-01W)</name>
-<name_ua>Чайник CASTLE CK-01W (CK-01W)</name_ua>
-<description><![CDATA[<p>Ваш дом наполнится уютом и комфортом с новым электрочайником CASTLE CK-01W. Эта модель сочетает элегантность нержавеющей стали и практичность пластика, гарантируя долговечность и стильный вид. Благодаря объему 1.7 литра вы сможете быстро приготовить горячие напитки для всей семьи или гостей. Шкала уровня воды обеспечивает удобство в использовании, а двойные стенки сохраняют тепло напитка. Несъемная крышка CASTLE CK-01W обеспечивает дополнительную безопасность, а система защиты от перегрева обеспечивает безопасное использование. Скрытый нагревательный элемент типа диск мощностью 2000 Вт обеспечивает быстрый нагрев воды, а подставка с отсеком для кабеля добавляет удобства хранения. CASTLE CK-01W идеально подходит для использования в домашних условиях, где каждый день вы сможете наслаждаться ароматным чаем или кофе.</p>]]></description>
-<description_ua><![CDATA[<p>Ваш будинок наповниться затишком та комфортом з новим електрочайником CASTLE CK-01W. Ця модель поєднує елегантність нержавіючої сталі та практичність пластику, гарантуючи довговічність та стильний вигляд. Завдяки об'єму 1.7 літра ви зможете швидко приготувати гарячі напої для всієї родини чи гостей. Шкала рівня води забезпечує зручність у використанні, а подвійні стіни зберігають тепло напою. Незнімна кришка CASTLE CK-01W забезпечує додаткову безпеку, а система захисту від перегріву забезпечує безпечне використання. Прихований нагрівальний елемент типу диск із потужністю 2000 Вт забезпечує швидке нагрівання води, а підставка з відсіком для кабелю надає зручності зберігання. CASTLE CK-01W ідеально підходить для використання в домашніх умовах, де кожен день ви зможете насолоджуватися ароматним чаєм чи кавою.</p>]]></description_ua>
-<param name="Тип">Чайник</param>
-<param name="Колір">Білий</param>
-<param name="Призначення">Побутове</param>
-<param name="Споживана потужність">2000 Вт</param>
-<param name="Матеріал корпусу">Нержавіюча сталь + пластик</param>
-<param name="Нагрівальний елемент">Дисковий</param>
-<param name="Об&apos;єм чайника">1,7 л</param>
-<param name="Вага">1.17 кг</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
 <offer id="HT33027" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>1483.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -104248,7 +104225,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35537" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>25625.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80203</categoryId>
@@ -105850,7 +105827,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35741" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>1436.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81667</categoryId>
@@ -108649,7 +108626,7 @@
 <param name="Об`єм">200 г</param>
 </offer>
 <offer id="HT36020" available="true">
-<stock_quantity>29</stock_quantity>
+<stock_quantity>28</stock_quantity>
 <price>11413.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -108715,7 +108692,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT36028" available="true">
-<stock_quantity>24</stock_quantity>
+<stock_quantity>23</stock_quantity>
 <price>843.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80071</categoryId>
