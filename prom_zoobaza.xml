@@ -3401,6 +3401,7 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/37/12218367542693_+0827012533.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/37/700x933l80mc0/50197946911513.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/37/700x933l80mc0/11921373999317.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3486</vendorCode>
@@ -36178,7 +36179,7 @@
 <portal_category_id>28290204</portal_category_id>
 <price>571.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>81</quantity_in_stock>
+<quantity_in_stock>80</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_364a883a-d117-11ec-89ed-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_364a883a-d117-11ec-89ed-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_364a883a-d117-11ec-89ed-dc4a3e701323.jpg</picture>
@@ -39697,7 +39698,7 @@
 <portal_category_id>6300407</portal_category_id>
 <price>6463.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000005158_59993331.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000005158_59993333.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000005158_59993270.jpg</picture>
@@ -46620,7 +46621,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Порохотяг Astor VC1932WG є відмінним вибором для сухого прибирання. Цей пилосос поєднує в собі потужність і міцний корпус, що робить його ідеальним помічником в домашніх умовах. Завдяки своїй портативності, він легко переноситься і зберігається. Потужність пилососа становить 800 Вт, що дозволяє ефективно збирати сміття і пил об'ємом до 1 літра. Працюючи від стандартної мережі 220 В, він забезпечує швидке і ефективне прибирання. Оснащений циклонічною системою збору пилу, Astor VC1932WG забезпечує безперебійну потужність навіть при повному контейнері. Спеціальний фільтр гарантує, що вихідне повітря завжди залишається чистим. У комплекті до пилососа йдуть різні насадки для всебічного прибирання: щітка для підлоги і килимів, щілинна насадка для важкодоступних місць та мала щітка для чистки дрібних ділянок. Пилосос має компактні розміри і низьку вагу, що робить процес прибирання менш втомлюючим. Ергономічна ручка забезпечує зручний захват, а міцний пластиковий корпус гарантує тривалу службу приладу. Загалом, Astor VC1932WG — це надійний і ефективний пилосос, який прекрасно підійде для будь-якого домогосподарства, забезпечуючи якісне прибирання і довговічність в експлуатації.]]></description>
 </offer>
-<offer id="HT30642" available="true" selling_type="r">
+<offer id="HT30642" available="false" selling_type="r">
 <name>Порохотяг Astor VC20162 (колба)</name>
 <categoryId>272</categoryId>
 <portal_category_id>608</portal_category_id>
@@ -47108,7 +47109,7 @@
 <portal_category_id>64403</portal_category_id>
 <price>333.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>38</quantity_in_stock>
+<quantity_in_stock>37</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012222__1_312.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012222_file_1784_1_2.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012222__2_253_3.jpg</picture>
@@ -47258,7 +47259,7 @@
 <portal_category_id>15230410</portal_category_id>
 <price>1650.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012262_143447887.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012262_143447864.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012262_7556701-1639035173.jpg</picture>
@@ -48021,7 +48022,7 @@
 <portal_category_id>6300407</portal_category_id>
 <price>4400.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012677_5417620998_w640_h640_elektrichna-pich-na.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012677_5417621008_w640_h640_5417621008.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012677_5417620999_w640_h640_5417620999.jpg</picture>
@@ -49015,7 +49016,7 @@
 <portal_category_id>640</portal_category_id>
 <price>401.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>19</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013240_444187331.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013240_444187332.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013240_444187333.jpg</picture>
@@ -61055,7 +61056,7 @@
 <portal_category_id>64422</portal_category_id>
 <price>1140.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000158292.jpg</picture>
 <vendor>Rotex</vendor>
 <vendorCode>HT34355</vendorCode>
@@ -73231,7 +73232,7 @@
 <portal_category_id>6300413</portal_category_id>
 <price>2117.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178861.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178862.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178863.jpg</picture>
