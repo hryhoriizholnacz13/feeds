@@ -79600,7 +79600,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT13837" available="true">
-<stock_quantity>29</stock_quantity>
+<stock_quantity>28</stock_quantity>
 <price>1278.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81229</categoryId>
@@ -80320,7 +80320,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT18907" available="true">
-<stock_quantity>15</stock_quantity>
+<stock_quantity>14</stock_quantity>
 <price>713.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>85432</categoryId>
@@ -83707,7 +83707,7 @@
 <param name="Гарантія">14 днів</param>
 </offer>
 <offer id="HT28041" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>1814.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -85652,7 +85652,7 @@
 <param name="Призначення">Для пилососа</param>
 </offer>
 <offer id="HT30473" available="true">
-<stock_quantity>14</stock_quantity>
+<stock_quantity>11</stock_quantity>
 <price>312.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4626138</categoryId>
@@ -86104,7 +86104,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30597" available="true">
-<stock_quantity>18</stock_quantity>
+<stock_quantity>17</stock_quantity>
 <price>1258.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81667</categoryId>
@@ -88383,36 +88383,6 @@
 <param name="Тип управління">Електронне</param>
 <param name="Номінальна напруга">220-240 В</param>
 <param name="Матеріал корпусу">Нержавіюча сталь</param>
-<param name="Нагрівальний елемент">Дисковий</param>
-<param name="Об&apos;єм чайника">1,7 л</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
-<offer id="HT31927" available="true">
-<stock_quantity>1</stock_quantity>
-<price>986.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80160</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013365_RKT85-GS%20Smart.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013365_RKT85-GS-Smart-3.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000013365_RKT85-GS-Smart-4.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000013365_RKT85-GS-Smart-5.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000013365_RKT85-GS-Smart-6.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000013365_RKT85-GS-Smart-7.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/8_000013365_RKT85-GS-Smart-9.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/9_000013365_RKT85-GS-Smart-10.jpg</picture>
-<vendor>Rotex</vendor>
-<article>RKT85-GS Smart</article>
-<name>Чайник Rotex RKT85-GS Smart (RKT85-GS Smart)</name>
-<name_ua>Чайник Rotex RKT85-GS Smart (RKT85-GS Smart)</name_ua>
-<description><![CDATA[<p>Чайник Rotex RKT85-GS Smart отличается современным дизайном со стеклянным корпусом и подсветкой, что создает эстетичный вид. Он работает от сети с напряжением 220-240В и частотой 50Гц, с мощностью 2200Вт, что обеспечивает быстрый нагрев воды. Вместимость чайника составляет 1,7 литра, что идеально подходит для приготовления больших объемов напитка. Этот чайник оснащен электронным управлением и работает с помощью двух кнопок, что обеспечивает простое и точное управление. Он имеет возможность регулировки температуры воды на уровнях 40, 70, 80 и 90 градусов, что позволяет вам выбрать оптимальную температуру для вашего напитка. Цветные индикаторы температуры воды на чайнике обеспечивают визуальный контроль процесса нагрева. Функция поддержания температуры воды позволяет долгое время сохранять готовую воду при заданной температуре. Чайник оборудован закрытым нагревательным элементом из нержавеющей стали, что обеспечивает безопасность использования. Он автоматически выключается при закипании воды, что позволяет избежать перегрева и экономит электроэнергию. Поворотная база на 360° обеспечивает удобное размещение чайника на подставке. В чайнике предусмотрен съемный фильтр для задержки осадка и защита от протекания. Шкала уровня воды позволяет точно измерить количество воды в чайнике. LED подсветка индикаторов состояния добавляет современный акцент его внешнему виду. Корпус чайника выполнен из термостойкого стекла, а пластиковые элементы имеют черный цвет, что делает его стильным и универсальным в использовании.</p>]]></description>
-<description_ua><![CDATA[<p>Чайник Rotex RKT85-GS Smart відзначається сучасним дизайном зі скляним корпусом та підсвіткою, що створює естетичний вигляд. Він працює від мережі з напругою 220-240В та частотою 50Гц, з потужністю 2200Вт, що забезпечує швидке нагрівання води. Вміст чайника становить 1,7 літра, що ідеально підходить для готування великих обсягів напою. Цей чайник оснащений електронним управлінням і працює за допомогою двох кнопок, що забезпечує просте та точне керування. Він має можливість регулювання температури води на рівнях 40, 70, 80 і 90 градусів, що дозволяє вам вибрати оптимальну температуру для вашого напою. Кольорові індикатори температури води на чайнику забезпечують візуальний контроль інформації про процес нагрівання. Функція підтримки температури води дозволяє тривалий час зберігати готову воду при заданій температурі. Чайник обладнаний закритим нагрівальним елементом з нержавіючої сталі, що забезпечує безпеку використання. Він автоматично вимикається при закипанні води, що дозволяє уникнути перегріву та економить електроенергію. Поворотна база на 360° забезпечує зручне розміщення чайника на підставці. В чайнику передбачений знімний фільтр для утримання осаду та захист від протікання. Шкала рівня води дозволяє точно виміряти кількість води у чайнику. LED підсвітка індикаторів стану додає сучасний акцент до його зовнішнього вигляду. Корпус чайника виконаний з термостійкого скла, а пластикові елементи мають чорний колір, що робить його стильним і універсальним в використанні.</p>]]></description_ua>
-<param name="Тип">Чайник</param>
-<param name="Колір">Чорний з сріблястим</param>
-<param name="Призначення">Побутове</param>
-<param name="Споживана потужність">2200 Вт</param>
-<param name="Тип управління">Електронне</param>
-<param name="Номінальна напруга">220-240 В</param>
-<param name="Матеріал корпусу">Скло</param>
 <param name="Нагрівальний елемент">Дисковий</param>
 <param name="Об&apos;єм чайника">1,7 л</param>
 <param name="Гарантія">12 місяців</param>
@@ -91980,39 +91950,6 @@
 <param name="Висота">192 см</param>
 <param name="Глибина">71,1 см</param>
 <param name="Гарантія">36 місяців</param>
-</offer>
-<offer id="HT32859" available="true">
-<stock_quantity>1</stock_quantity>
-<price>7744.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80140</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014296_14382_146150.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000014296_14382_146154.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000014296_14382_146157.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000014296_14382_148292.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000014296_14382_148293.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000014296_14382_148294.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000014296_14382_148295.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/8_000014296_14382_148296.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/9_000014296_14382_44710.jpg</picture>
-<vendor>INTERLINE</vendor>
-<article>SWAY BL A/60 GL/S</article>
-<name>Вытяжка INTERLINE SWAY BL A/60 GL/S полновстраиваемая (SWAY BL A/60 GL/S)</name>
-<name_ua>Витяжка INTERLINE SWAY BL A/60 GL/S повновбудована (SWAY BL A/60 GL/S)</name_ua>
-<description><![CDATA[<p>Самая мощная встраиваемая вытяжка в коллекции Interline, обладающая высокой производительностью 1000 м3/г! Модель справится со своей задачей даже в самом большом помещении! Сенсорный блок управления — это настоящая гордость Interline, ведь он не только интуитивно понятен, но и отлично реагирует на прикосновения с первого нажатия, даже в том случае, если ваши руки влажные или прохладные. Дизайн, выполненный в закаленном стекле, станет финальным штрихом совершенно прекрасного вида этой модели. Каждый раз, заходя на кухню, вы будете чувствовать, что эта вытяжка - не просто функциональное устройство, но и настоящее украшение вашей кухни! Slim Size Теперь, благодаря уменьшенной глубине конструкции до 280 мм, вытяжка легко помещается в стандартные 30-сантиметровые шкафы. Установка не требует дополнительных обременительных столярных работ или изменения расстановки кухонной мебели. Мебельные вытяжки - это комфорт, функциональность и отличное решение для людей, у которых есть кухни со встроенными рядом шкафами. Работа в режимах отвода и рециркуляции откроет вам широкие возможности по установке этой вытяжки в проект вашей кухни. Организуйте полноценный вывод воздуха из помещения или установите угольный фильтр и используйте вытяжку вместе с ним - какой бы вариант вы ни выбрали, модель от Interline сделает это возможным! 3 скорости работы сверхмощного двигателя дают вам возможность выбрать наиболее подходящий уровень интенсивности в зависимости от ситуации. Жировой фильтр Prof Steel Инновационный жировой фильтр с верхним слоем из перфорированной нержавеющей стали и нижним слоем с особой пятислойной конструкцией, с асинхронным расположением алюминиевых решеток. Такой фильтр имеет высокую способность задерживать частицы жира, пыль. Он является идеальной защитой для мотора.</p>]]></description>
-<description_ua><![CDATA[<p>Найпотужніша вбудована витяжка в колекції Interline, що володіє високою продуктивністю в 1000 м3/г! Модель впорається зі своїм завданням навіть у найбільшому приміщенні! Сенсорний блок керування, це справжня гордість Interline, адже він не тільки є інтуїтивно зрозумілим, але і чудово реагує на дотики з першого натискання, навіть в тому випадку, якщо ваші руки вологі або прохолодні. Дизайн, виконаний в загартованому склі стане фінальним штрихом досконало чудового вигляду цієї моделі. Щоразу, заходячи на кухню, ви будете відчувати, що ця витяжка - не просто функціональний пристрій, але і є справжньою окрасою вашої кухні! Slim Size Тепер, завдяки зменшеній глибині конструкції до 280 мм, витяжка легко поміщається в стандартні 30-сантиметрові шафи. Установка не вимагає додаткових обтяжливих столярних робіт або зміни розстановки кухонних меблів. Меблеві витяжки - це комфорт, функціональність і відмінне рішення для людей, у яких є кухні з вбудованими поруч шафами. Робота в режимах відведення та рециркуляції відкриє вам широкі можливості по установці цієї витяжки в проект вашої кухні. Організуйте повноцінний вивід повітря з приміщення або встановіть вугільний фільтр і використовуйте витяжку разом з ним - який би варіант ви не вибрали, модель від Interline зробить це можливим! 3 швидкості роботи надпотужного двигуна дають вам можливість вибрати найбільш підходящий рівень інтенсивності в залежності від ситуації. Жировий фільтр Prof Steel Інноваційний жировий фільтр з верхнім шаром із перфорованої нержавіючої сталі і нижнім шаром з особливою п'ятишаровою конструкцією, з асинхронним розташуванням алюмінієвих решіток. Такий фільтр має високу здатність затримувати частинки жиру, пил. Він є ідеальним захистом для мотора.</p>]]></description_ua>
-<param name="Тип">Витяжка</param>
-<param name="Колір">Чорний</param>
-<param name="Споживана потужність">100 Вт</param>
-<param name="Тип управління">Сенсорне</param>
-<param name="Кількість швидкостей">3</param>
-<param name="Ширина">52 см</param>
-<param name="Продуктивність">1000 куб.м/г</param>
-<param name="Тип конструкції">Повновбудована</param>
-<param name="Кількість моторів">1</param>
-<param name="Вага">6,6 кг</param>
-<param name="Розмір">24,7 х 52 х 28 см</param>
-<param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT32860" available="true">
 <stock_quantity>2</stock_quantity>
@@ -101303,7 +101240,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35275" available="true">
-<stock_quantity>22</stock_quantity>
+<stock_quantity>21</stock_quantity>
 <price>3905.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81089</categoryId>
@@ -102716,7 +102653,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35394" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>993.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80163</categoryId>
@@ -102997,7 +102934,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35412" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>2608.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80153</categoryId>
@@ -104545,7 +104482,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35595" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>338.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4632103</categoryId>
@@ -108916,7 +108853,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT36046" available="true">
-<stock_quantity>22</stock_quantity>
+<stock_quantity>21</stock_quantity>
 <price>1291.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4634449</categoryId>
@@ -109725,7 +109662,7 @@
 <param name="Розмір">2шт. 28х3 + 3шт.20х3</param>
 </offer>
 <offer id="HT36106" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>6475.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80247</categoryId>
@@ -112540,7 +112477,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT6934" available="true">
-<stock_quantity>10</stock_quantity>
+<stock_quantity>9</stock_quantity>
 <price>3627.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>112986</categoryId>
