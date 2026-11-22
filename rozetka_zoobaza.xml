@@ -79775,7 +79775,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT17115" available="true">
-<stock_quantity>34</stock_quantity>
+<stock_quantity>33</stock_quantity>
 <price>431.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -85634,7 +85634,7 @@
 <param name="Матеріал корпусу">Тканина</param>
 </offer>
 <offer id="HT30472" available="true">
-<stock_quantity>9</stock_quantity>
+<stock_quantity>8</stock_quantity>
 <price>312.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4626138</categoryId>
@@ -88065,7 +88065,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31703" available="true">
-<stock_quantity>11</stock_quantity>
+<stock_quantity>10</stock_quantity>
 <price>9475.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80162</categoryId>
@@ -88150,7 +88150,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31803" available="true">
-<stock_quantity>19</stock_quantity>
+<stock_quantity>18</stock_quantity>
 <price>424.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -108509,7 +108509,7 @@
 <param name="Об`єм">200 г</param>
 </offer>
 <offer id="HT36020" available="true">
-<stock_quantity>28</stock_quantity>
+<stock_quantity>27</stock_quantity>
 <price>11413.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
