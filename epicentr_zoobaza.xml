@@ -47384,9 +47384,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[748960407735]]></param>
 </offer>
-<offer id="TX30780" available="true">
+<offer id="TX30780" available="false">
 <price>2878.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7376">Шлейки для тварин</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30780-5.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30780-12.jpg</picture>
