@@ -1116,6 +1116,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675996</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3486-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/37/700x933l80mc0/50197946911513.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/37/700x933l80mc0/11921373999317.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>7539</article>
@@ -34284,7 +34285,7 @@
 <param name="Тематика">Повседневный</param>
 <param name="Кількість в упаковці, шт">1</param>
 <param name="Колір">Зелений</param>
-<param name="Сезон">Зима, Літо</param>
+<param name="Сезон">Літо, Зима</param>
 <param name="Тип">Бандана</param>
 <param name="Розмір">XS</param>
 <param name="EAN">1110000264223</param>
@@ -34309,7 +34310,7 @@
 <param name="Кількість в упаковці, шт">1</param>
 <param name="Колір">Зелений</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Літо</param>
+<param name="Сезон">Літо, Зима</param>
 <param name="Тип">Бандана</param>
 <param name="Розмір">S</param>
 <param name="EAN">1110000264230</param>
@@ -34334,7 +34335,7 @@
 <param name="Кількість в упаковці, шт">1</param>
 <param name="Колір">Зелений</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Літо</param>
+<param name="Сезон">Літо, Зима</param>
 <param name="Тип">Бандана</param>
 <param name="Розмір">M</param>
 <param name="EAN">1110000264247</param>
@@ -34359,7 +34360,7 @@
 <param name="Кількість в упаковці, шт">1</param>
 <param name="Колір">Зелений</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Літо</param>
+<param name="Сезон">Літо, Зима</param>
 <param name="Тип">Бандана</param>
 <param name="Розмір">L</param>
 <param name="EAN">1110000264254</param>
@@ -34384,7 +34385,7 @@
 <param name="Кількість в упаковці, шт">1</param>
 <param name="Колір">Різнобарвний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Літо</param>
+<param name="Сезон">Літо, Зима</param>
 <param name="Тип">Бандана</param>
 <param name="Розмір">XS</param>
 <param name="EAN">1110000264278</param>
@@ -34409,7 +34410,7 @@
 <param name="Кількість в упаковці, шт">1</param>
 <param name="Колір">Різнобарвний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Літо</param>
+<param name="Сезон">Літо, Зима</param>
 <param name="Тип">Бандана</param>
 <param name="Розмір">S</param>
 <param name="EAN">1110000264339</param>
@@ -34434,7 +34435,7 @@
 <param name="Кількість в упаковці, шт">1</param>
 <param name="Колір">Різнобарвний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Літо</param>
+<param name="Сезон">Літо, Зима</param>
 <param name="Тип">Бандана</param>
 <param name="Розмір">M</param>
 <param name="EAN">1110000264346</param>
@@ -34459,7 +34460,7 @@
 <param name="Кількість в упаковці, шт">1</param>
 <param name="Колір">Різнобарвний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Літо</param>
+<param name="Сезон">Літо, Зима</param>
 <param name="Тип">Бандана</param>
 <param name="Розмір">XS</param>
 <param name="EAN">1110000264421</param>
@@ -34484,7 +34485,7 @@
 <param name="Кількість в упаковці, шт">1</param>
 <param name="Колір">Різнобарвний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Літо</param>
+<param name="Сезон">Літо, Зима</param>
 <param name="Тип">Бандана</param>
 <param name="Розмір">S</param>
 <param name="EAN">1110000264438</param>
@@ -34509,7 +34510,7 @@
 <param name="Кількість в упаковці, шт">1</param>
 <param name="Колір">Різнобарвний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Літо</param>
+<param name="Сезон">Літо, Зима</param>
 <param name="Тип">Бандана</param>
 <param name="Розмір">M</param>
 <param name="EAN">1110000264445</param>
@@ -35134,7 +35135,7 @@
 <param name="Кількість в упаковці, шт">1</param>
 <param name="Колір">Різнобарвний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Літо</param>
+<param name="Сезон">Літо, Зима</param>
 <param name="Тип">Бандана</param>
 <param name="Розмір">XS</param>
 <param name="EAN">1110000264988</param>
@@ -35159,7 +35160,7 @@
 <param name="Кількість в упаковці, шт">1</param>
 <param name="Колір">Різнобарвний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Літо</param>
+<param name="Сезон">Літо, Зима</param>
 <param name="Тип">Бандана</param>
 <param name="Розмір">S</param>
 <param name="EAN">1110000264995</param>
@@ -40121,7 +40122,7 @@
 <param name="Кількість в упаковці, шт">2</param>
 <param name="Колір">Чорний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">3.8 см</param>
 <param name="EAN">748960859855</param>
@@ -40152,7 +40153,7 @@
 <param name="Кількість в упаковці, шт">2</param>
 <param name="Колір">Чорний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">4.4 см</param>
 <param name="EAN">748960282530</param>
@@ -40183,7 +40184,7 @@
 <param name="Кількість в упаковці, шт">2</param>
 <param name="Колір">Чорний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">5.1 см</param>
 <param name="EAN">748960540579</param>
@@ -40214,7 +40215,7 @@
 <param name="Кількість в упаковці, шт">2</param>
 <param name="Колір">Чорний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">5.7 см</param>
 <param name="EAN">748960451943</param>
@@ -40245,7 +40246,7 @@
 <param name="Кількість в упаковці, шт">2</param>
 <param name="Колір">Червоний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">3.8 см</param>
 <param name="EAN">748960579050</param>
@@ -40276,7 +40277,7 @@
 <param name="Кількість в упаковці, шт">2</param>
 <param name="Колір">Червоний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">4.4 см</param>
 <param name="EAN">748960416683</param>
@@ -40307,7 +40308,7 @@
 <param name="Кількість в упаковці, шт">2</param>
 <param name="Колір">Червоний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">5.1 см</param>
 <param name="EAN">748960111977</param>
@@ -41793,43 +41794,6 @@
 <param name="Обхват груди">81-107 см</param>
 <param name="Для кого">Для собак</param>
 <param name="EAN">748960407735</param>
-</offer>
-<offer id="TX30780" available="true">
-<stock_quantity>2</stock_quantity>
-<price>2990.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4626659</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30780-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30780-5.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30780-10.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30780-12.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30780-13.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30780-14.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30780-15.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30780-16.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30780-18.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30780-2.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30780-3.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30780-4.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30780-7.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30780-8.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX30780-9.jpg</picture>
-<vendor>Ruffwear</vendor>
-<article>30780</article>
-<name>Повседневная шлейка для собак Ruffwear Front Range L/XL 81-107 см Синий (30780)</name>
-<name_ua>Повсякденна шлейка для собак Ruffwear Front Range L/XL 81-107 см Синій (30780)</name_ua>
-<description><![CDATA[<p>Front Range представляет собой мягкую повседневную шлейку для собак, которая легко одевается и комфортно сидит на животе собаки. Этот важный элемент экипировки для собак, которые готовы к приключениям вместе со своими владельцами, имеет две опции крепления поводка: алюминиевое V-образное кольцо в центре спины собаки для обычных прогулок и усиленное переднее крепление на груди собаки, чтобы предотвратить тягу поводка. Карман для идентификационных жетонов обеспечивает бесшумный доступ к ним, а светоотражающая вставка и петля для фонарика The Beacon улучшают видимость в условиях недостаточной освещенности.</p><p>Конструкция с подкладкой из пеноматериала для комфортного длительного ношения.</p><p>Четыре точки регулировки для оптимальной посадки.</p><p>Две точки крепления поводка: алюминиевое V-образное кольцо на спине и усиленная петля на груди.</p>]]></description>
-<description_ua><![CDATA[<p>Front Range є м'якою повсякденною шлейкою для собак, яка легко одягається і комфортно сидить на животі собаки. Цей важливий елемент екіпірування для собак, які завжди готові до пригод разом зі своїми власниками, має дві опції кріплення повідця: алюмінієве V-подібне кільце в центрі спини собаки для звичайних прогулянок та посилене переднє кріплення на грудях собаки, щоб запобігти потягу повідця. Кишеня для ідентифікаційних жетонів забезпечує безшумний доступ до них, а світловідбивна вставка та петля для ліхтарика The Beacon покращують видимість в умовах недостатнього освітлення.</p><p>Конструкція з підкладкою з піноматеріалу для тривалого та комфортного носіння.</p><p>Чотири точки регулювання для оптимальної посадки.</p><p>Дві точки кріплення повідця: алюмінієве V-подібне кільце на спині та посилена петля на грудях.</p>]]></description_ua>
-<param name="Колір">Синій</param>
-<param name="Розмір">L/XL</param>
-<param name="Тварина">Собака</param>
-<param name="Особливості">Активный образ жизни</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Серія">Front Range</param>
-<param name="Сезон">Демісезон</param>
-<param name="Обхват груди">81-107 см</param>
-<param name="Для кого">Для собак</param>
-<param name="EAN">748960410414</param>
 </offer>
 <offer id="TX30781" available="true">
 <stock_quantity>2</stock_quantity>
@@ -51256,7 +51220,7 @@
 <param name="Кількість в упаковці, шт">2</param>
 <param name="Колір">Чорний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">4.4 см</param>
 <param name="EAN">748960937805</param>
@@ -51284,7 +51248,7 @@
 <param name="Кількість в упаковці, шт">2</param>
 <param name="Колір">Чорний</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">6.4 см</param>
 <param name="EAN">748960335366</param>
@@ -54750,7 +54714,7 @@
 <param name="Вид">Взуття</param>
 <param name="Кількість в упаковці, шт">4</param>
 <param name="Колір">Синій</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">3XS</param>
 <param name="EAN">7071652013291</param>
@@ -54775,7 +54739,7 @@
 <param name="Вид">Взуття</param>
 <param name="Кількість в упаковці, шт">4</param>
 <param name="Колір">Синій</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">XXS</param>
 <param name="EAN">7071652013307</param>
@@ -54800,7 +54764,7 @@
 <param name="Вид">Взуття</param>
 <param name="Кількість в упаковці, шт">4</param>
 <param name="Колір">Синій</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">S</param>
 <param name="EAN">7071652013321</param>
@@ -54825,7 +54789,7 @@
 <param name="Вид">Взуття</param>
 <param name="Кількість в упаковці, шт">4</param>
 <param name="Колір">Синій</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">M</param>
 <param name="EAN">7071652013338</param>
@@ -54850,7 +54814,7 @@
 <param name="Вид">Взуття</param>
 <param name="Кількість в упаковці, шт">4</param>
 <param name="Колір">Синій</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">L</param>
 <param name="EAN">7071652013345</param>
@@ -54879,7 +54843,7 @@
 <param name="Вид">Взуття|Шкарпетки</param>
 <param name="Кількість в упаковці, шт">4</param>
 <param name="Колір">Жовтогарячий</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Розмір">XS</param>
 <param name="EAN">7071652132121</param>
 </offer>
@@ -54907,7 +54871,7 @@
 <param name="Вид">Взуття|Шкарпетки</param>
 <param name="Кількість в упаковці, шт">4</param>
 <param name="Колір">Жовтогарячий</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Розмір">S</param>
 <param name="EAN">7071652132220</param>
 </offer>
@@ -54935,7 +54899,7 @@
 <param name="Вид">Взуття|Шкарпетки</param>
 <param name="Кількість в упаковці, шт">4</param>
 <param name="Колір">Жовтогарячий</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Розмір">M</param>
 <param name="EAN">7071652132329</param>
 </offer>
@@ -54963,7 +54927,7 @@
 <param name="Вид">Взуття|Шкарпетки</param>
 <param name="Кількість в упаковці, шт">4</param>
 <param name="Колір">Жовтогарячий</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Розмір">L</param>
 <param name="EAN">7071652132428</param>
 </offer>
@@ -54990,7 +54954,7 @@
 <param name="Вид">Взуття|Шкарпетки</param>
 <param name="Кількість в упаковці, шт">4</param>
 <param name="Колір">Жовтогарячий</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Розмір">XS</param>
 <param name="EAN">7071652132435</param>
 </offer>
@@ -55017,7 +54981,7 @@
 <param name="Вид">Взуття|Шкарпетки</param>
 <param name="Кількість в упаковці, шт">4</param>
 <param name="Колір">Жовтогарячий</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Розмір">S</param>
 <param name="EAN">7071652132534</param>
 </offer>
@@ -55044,7 +55008,7 @@
 <param name="Вид">Взуття|Шкарпетки</param>
 <param name="Кількість в упаковці, шт">4</param>
 <param name="Колір">Жовтогарячий</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Розмір">M</param>
 <param name="EAN">7071652132633</param>
 </offer>
@@ -55072,7 +55036,7 @@
 <param name="Вид">Взуття</param>
 <param name="Кількість в упаковці, шт">4</param>
 <param name="Колір">Жовтогарячий</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">3XS</param>
 <param name="EAN">7071652041003</param>
@@ -55101,7 +55065,7 @@
 <param name="Вид">Взуття</param>
 <param name="Кількість в упаковці, шт">4</param>
 <param name="Колір">Жовтогарячий</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">XXS</param>
 <param name="EAN">7071652041010</param>
@@ -55130,7 +55094,7 @@
 <param name="Вид">Взуття</param>
 <param name="Кількість в упаковці, шт">4</param>
 <param name="Колір">Жовтогарячий</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">XS</param>
 <param name="EAN">7071652041027</param>
@@ -55159,7 +55123,7 @@
 <param name="Вид">Взуття</param>
 <param name="Кількість в упаковці, шт">4</param>
 <param name="Колір">Жовтогарячий</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">S</param>
 <param name="EAN">7071652041034</param>
@@ -55188,7 +55152,7 @@
 <param name="Вид">Взуття</param>
 <param name="Кількість в упаковці, шт">4</param>
 <param name="Колір">Жовтогарячий</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">M</param>
 <param name="EAN">7071652041041</param>
@@ -58259,7 +58223,7 @@
 <param name="Кількість в упаковці, шт">2</param>
 <param name="Колір">Жовтий</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">4.4 см</param>
 <param name="EAN">748960081850</param>
@@ -58287,7 +58251,7 @@
 <param name="Кількість в упаковці, шт">2</param>
 <param name="Колір">Жовтий</param>
 <param name="Тварина">Собака</param>
-<param name="Сезон">Зима, Демісезон, Літо</param>
+<param name="Сезон">Демісезон, Літо, Зима</param>
 <param name="Тип">Взуття</param>
 <param name="Розмір">5.7 см</param>
 <param name="EAN">748960208295</param>
@@ -79657,7 +79621,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT13882" available="true">
-<stock_quantity>81</stock_quantity>
+<stock_quantity>80</stock_quantity>
 <price>596.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81229</categoryId>
@@ -82179,7 +82143,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT23894" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>6463.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80142</categoryId>
@@ -86510,39 +86474,6 @@
 <param name="Об`єм пилозбірника">1 л</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
-<offer id="HT30642" available="true">
-<stock_quantity>1</stock_quantity>
-<price>2859.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4631249</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012076_244302861.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012076_244302862.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012076_244302863.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000012076_244302865.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000012076_244302866.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000012076_244302867.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000012076_244302868.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/8_000012076_244302870.jpg</picture>
-<vendor>ASTOR</vendor>
-<article>VC20162</article>
-<name>Пылесос ASTOR VC20162 (VC20162)</name>
-<name_ua>Порохотяг ASTOR VC20162 (VC20162)</name_ua>
-<description><![CDATA[<p>Компактный циклонный пылесос без мешка для сбора пыли. Усовершенствованная конструкция пылесборника предотвращает контакт с пылью во время его очистки. Astor VC-20162: Объем пылесборника 2 л Уникальная циклонная система фильтрации Моющиеся микрофильтры, которые не требуют замены в течение длительного срока эксплуатации Моторный фильтр В системе очистки используются HEPA и EPA-фильтры Сохраняет высокую мощность всасывания длительное время даже при заполненном пылесборнике Энергосберегающий двигатель Максимальная мощность: 1600 Вт Мощность всасывания: 360 Вт Стальная телескопическая труба Для удобной транспортировки предусмотрена эргономичная ручка.</p>]]></description>
-<description_ua><![CDATA[<p>Компактний циклонний пилосос без мішка для збирання пилу. Удосконалена конструкція пилозбірника запобігає контакту з пилом під час його очищення. Astor VC-20162: Об'єм пилозбірника 2 л Унікальна циклонна система фільтрації Мийні мікрофільтри, що не потребують заміни впродовж тривалого терміну експлуатації Моторний фільтр В системі очищення використовуються HEPA та EPA-фільтри Зберігає високу потужність всмоктування тривалий час навіть за заповненого пилозбірника Енергоощадний двигун Максимальна потужність: 1600 Вт Потужність всмоктування: 360 Вт Сталева телескопічна труба Для зручного транспортування передбачена ергономічна ручка.</p>]]></description_ua>
-<param name="Тип">Порохотяг</param>
-<param name="Колір">Чорний з червоним</param>
-<param name="Призначення">Побутове</param>
-<param name="Споживана потужність">1600 Вт</param>
-<param name="Живлення">від мережі</param>
-<param name="Кількість насадок">3</param>
-<param name="Тип пилососа">Контейнерного типу (без мішка)</param>
-<param name="Вид прибирання">Сухе</param>
-<param name="Об`єм пилозбірника">2 л</param>
-<param name="Потужність всмоктування">360 Вт</param>
-<param name="Вага">4,5 кг</param>
-<param name="Розмір">33.5 х 46 х 29.5 см</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
 <offer id="HT30643" available="true">
 <stock_quantity>1</stock_quantity>
 <price>3997.00</price>
@@ -86890,7 +86821,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30787" available="true">
-<stock_quantity>38</stock_quantity>
+<stock_quantity>37</stock_quantity>
 <price>346.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4674121</categoryId>
@@ -86995,7 +86926,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30820" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>1747.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4626676</categoryId>
@@ -88244,7 +88175,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31803" available="true">
-<stock_quantity>20</stock_quantity>
+<stock_quantity>19</stock_quantity>
 <price>424.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -96973,7 +96904,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT34355" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>1198.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4672828</categoryId>
@@ -105856,7 +105787,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35742" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>2231.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80180</categoryId>
