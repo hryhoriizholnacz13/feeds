@@ -66,6 +66,8 @@
 <category id="4652737" rz_id="4652737">Аксесуари ВПТ</category>
 <category id="4653745" rz_id="4653745">Посуд</category>
 <category id="4655126" rz_id="4655126">Посуд</category>
+<category id="4655571" rz_id="4655571">Рекламна продукція (мерч)</category>
+<category id="4655607" rz_id="4655607">Рекламна продукція (мерч)</category>
 <category id="4660433" rz_id="4660433">Трімери</category>
 <category id="4660496" rz_id="4660496">Аксесуари МПТ</category>
 <category id="4672828" rz_id="4672828">Аксесуари МПТ</category>
@@ -80800,37 +80802,6 @@
 <param name="Вага">0,8 кг</param>
 <param name="Гарантія">24 місяці</param>
 </offer>
-<offer id="HT19817" available="true">
-<stock_quantity>1</stock_quantity>
-<price>4375.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80131</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000010596_foto_boyler_midea_d06_20va.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000010596_Boi_ler-Midea-D06_20VA_U_2.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000010596_Boi_ler-Midea-D06_20VA_U_3.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000010596_Boi_ler-Midea-D06_20VA_U_4.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000010596_Boi_ler-Midea-D06_20VA_U_5.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000010596_Boi_ler-Midea-D06_20VA_U_6.jpg</picture>
-<vendor>Midea</vendor>
-<article>D06-15A U</article>
-<name>Водонагреватель Midea ECO компакт D06-15A (D06-15A U)</name>
-<name_ua>Водонагрівач Midea ECO компакт D06-15A (D06-15A U)</name_ua>
-<description><![CDATA[<p>Стильный, малогабаритный и экономичный водонагреватель в элегантном корпусе. Предназначен для настенного вертикального монтажа с верхним подводом коммуникаций. Благодаря сверхмалой глубине (22,7 см) подойдёт для установки в помещениях ограниченной площади. Предназначен для обеспечения небольших потребностей в горячей воде, например, на кухне, в медицинском или массажном кабинете. Можно быстро, менее чем за 10 мин, приготовить 5 л горячей воды с температурой до 75 °C. Бойлер Midea D06-20VA(U) использует надёжный внутренний бак из качественной холоднокатаной стали толщиной 1,8 мм, рассчитанный на рабочее давление до 7,5 бар. Внутренняя поверхность этого бака защищена от контакта с водой эмалевым покрытием, которое имеет высокую устойчивость к перепадам температуры. Кроме того, коррозия обеспечивает электрохимическую систему с магниевым анодом. Высокую скорость нагрева воды обеспечивает трубчатый электрический нагреватель мощностью 1600 Вт. Управление температурой выполняется с помощью надёжного механического термостата. Для длительного сохранения температуры воды аппарат оснащён пенополиуретановой теплоизоляцией.</p>]]></description>
-<description_ua><![CDATA[<p>Стильний, малогабаритний і економний водонагрівач в елегантному корпусі. Призначений для настінного вертикального монтажу з верхнім підводом комунікацій. Завдяки надмалій глибині (22,7 см) підійде для встановлення в приміщеннях обмеженої площі. Призначений для забезпечення невеликих потреб у гарячій воді, наприклад, на кухні, у медичному чи масажному кабінеті. Можливо швидко, менш ніж за 10 хв, приготувати 5 л гарячої води з температурою до 75 °C. Бойлер Midea D06-20VA(U) використовує надійний внутрішній бак з якісної холоднокатаної сталі товщиною 1,8 мм, розрахований на робочий тиск до 7,5 бар. Внутрішня поверхня цього бака захищена від контакту з водою емалевим покриттям, яке має високу стійкість до перепадів температури. Крім того, корозія забезпечує електрохімічну систему з магнієвим анодом. Високу швидкість нагрівання води забезпечує трубчастий електричний нагрівач потужністю 1600 Вт. Керування температурою виконується за допомогою надійного механічного термостату. Для тривалого збереження температури води апарат оснащений пінополіуретановою теплоізоляцією.</p>]]></description_ua>
-<param name="Тип">Водонагрівач</param>
-<param name="Колір">Білий</param>
-<param name="Споживана потужність">1600 Вт</param>
-<param name="Тип управління">Механічне</param>
-<param name="Регулятор температури">На корпусі</param>
-<param name="Максимальна температура нагріву">до 75°C</param>
-<param name="Встановлення">Під раковиною</param>
-<param name="Кількість ТЕНів">1</param>
-<param name="Об&apos;єм баку">5 л</param>
-<param name="Тип нагрівального елемента">Мокрий ТЕН</param>
-<param name="Вага">4,5 кг</param>
-<param name="Розмір">328 х 234 х 227 мм</param>
-<param name="Гарантія">24 місяці</param>
-</offer>
 <offer id="HT19827" available="true">
 <stock_quantity>1</stock_quantity>
 <price>19375.00</price>
@@ -83137,7 +83108,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT26698" available="true">
-<stock_quantity>32</stock_quantity>
+<stock_quantity>28</stock_quantity>
 <price>14969.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -86423,7 +86394,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30637" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>4282.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4631249</categoryId>
@@ -88417,7 +88388,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31927" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>986.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -89133,7 +89104,7 @@
 <param name="Вага">4,675 кг</param>
 </offer>
 <offer id="HT32059" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>1615.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4626754</categoryId>
@@ -90378,7 +90349,7 @@
 <param name="Підтримка відеовикликів">Так</param>
 </offer>
 <offer id="HT32374" available="true">
-<stock_quantity>9</stock_quantity>
+<stock_quantity>7</stock_quantity>
 <price>2890.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>651392</categoryId>
@@ -95434,7 +95405,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT34052" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>5870.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80163</categoryId>
@@ -96401,6 +96372,7 @@
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157112.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157113.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157114.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157116.jpg</picture>
 <vendor>Whirlpool</vendor>
 <article>WSQ4860NE</article>
 <name>Варочная поверхность Whirlpool WSQ4860NE (WSQ4860NE)</name>
@@ -104190,7 +104162,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35540" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>21625.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
@@ -104970,7 +104942,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35666" available="true">
-<stock_quantity>23</stock_quantity>
+<stock_quantity>21</stock_quantity>
 <price>27038.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -107067,7 +107039,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35862" available="true">
-<stock_quantity>16</stock_quantity>
+<stock_quantity>15</stock_quantity>
 <price>3832.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80162</categoryId>
@@ -108166,31 +108138,6 @@
 <param name="Глибина">60 см</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
-<offer id="HT35989" available="true">
-<stock_quantity>1</stock_quantity>
-<price>15307.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4674672</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183591.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183592.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183594.jpg</picture>
-<vendor>Whirlpool</vendor>
-<article>WS QS460 N</article>
-<name>Варочная поверхность Whirlpool WS QS460 N (WS QS460 N)</name>
-<name_ua>Варильна поверхня Whirlpool WS QS460 N (WS QS460 N)</name_ua>
-<description><![CDATA[<p>Индукционная стеклокерамическая варочная поверхность Whirlpool - WS QS460 N4 индукционные зоны нагрева. Интуитивный слайдер для простого управления прибором. Характеристики индукционной варочной поверхности Whirlpool: Технология, которая нагревает непосредственно посуду, а не варочную поверхность, снижая дисперсию тепла и гарантируя качество результатов.</p><ul><li>Подключение к электросети.</li><li>Вы можете установить ограничение максимальной мощностиНепревзойденная энергоэффективностьС помощью функции Power Management вы устанавливаете нужный уровень мощности варочной поверхности, чтобы предотвратить перегрузку электросети в вашем доме.</li><li>Необычайный дизайнНаши варочные поверхности призваны быть красивыми и функциональными.</li></ul><ul><li>Выдающийся дизайн Filo наших интегрированных варочных поверхностей делает уборку проще, чем когда-либо.</li><li>Управление на фронтальной панелиПолный контроль.</li></ul><ul><li>Эргономичные и понятные элементы управления удобно расположены на фронтальной панели варочной поверхности, обеспечивая приятное и простое использование.</li><li>Индукционная технологияПриготовление еды быстро и с экономией ресурсов.</li></ul><ul><li>Индукционная технология заключается в нагреве исключительно посуды, а не всей поверхности прибора, снижая дисперсию энергии на 10% и также обеспечивая идеальные результаты.</li><li>Booster 3 кВтНаслаждайтесь идеальными результатами еще быстрее.</li></ul><ul><li>Эта модель варочной поверхности Whirlpool оснащена зоной быстрого нагрева Booster мощностью 3 кВт.</li><li>Простое управлениеНовый интерфейс пользователя позволит интуитивно взаимодействовать с варочной поверхностью.</li></ul><ul><li>Благодаря удобно расположенным обозначениям вы всегда легко будете управлять всеми настройками.</li><li>Электронный таймерУстановите самое оптимальное время приготовления ваших блюд в зависимости от рецепта.</li><li>Power managementСовершенная энергоэффективность.</li></ul><ul><li>С функцией управления напряжением Power management вы имеете возможность установить уровень мощности варочной поверхности, чтобы избежать риска перегрузки блока питания в вашем доме.</li><li>СлайдерИнтуитивное приготовление.</li></ul><ul><li>Интуитивная панель-слайдер позволит вам легко контролировать мощность каждой зоны нагрева, в то время как подсветка дисплея будет указывать на те зоны, которые уже активированы.</li><li>Сенсорное управлениеПриготовление любимых блюд одним нажатием кнопки.</li></ul><p>С системой TouchControl точное управление варочной панелью еще никогда не было таким простым. Регулировка мощности осуществляется с помощью умного сенсора, отныне циферблат с 10 делениями, как на старых моделях, не нужен, — при его отсутствии вам будет легче осуществлять чистку и уход за варочной поверхностью.</p>]]></description>
-<description_ua><![CDATA[<p>Індукційна склокерамічна варильна поверхня Whirlpool - WS QS460 N4 індукційні зони нагрівання. Інтуїтивний слайдер для простого управління приладом. Характеристики індукційної варильної поверхні Whirlpool: Технологія яка нагріває безпосередньо посуд, а не варильну поверхню, знижуючи дисперсію тепла та гарантуючи якість результатів.</p><ul><li>Підключення до електромережі.</li><li>Ви можете встановити обмеження максимальної потужностіНеперевершена енергоефективністьЗа допомогою функції Power Management ви встановлюєте потрібний рівень потужності варильної поверхні, щоб запобігти перевантаженню електромережі у вашій оселі.</li><li>Надзвичайний дизайнНаші варильні поверхні покликані бути красивими і функціональними.</li></ul><ul><li>Видатний дизайн Filo наших інтегрованих варильних поверхонь робить прибирання простішим, ніж будь-коли.</li><li>Керування на фронтальній панеліПовний контроль.</li></ul><ul><li>Ергономічні та зрозумілі елементи керування зручно розташовані на фронтальній панелі варильнї поверхні, забезпечуючи приємне та просте використання.</li><li>Індукційна технологіяПриготування їжі швидко та з економією ресурсів.</li></ul><ul><li>Індукційна технологія полягає у нагріванні виключно посуду, а не всієї поверхні приладу, знижуючи дисперсію енергії на 10% та також забезпечуючи ідеальні результати.</li><li>Booster 3 кВтНасолоджуйтесь ідеальними результатами ще швидше.</li></ul><ul><li>Ця модель варильної поверхні Whirlpool оснащена зоною швидкого нагріву Booster потужністю 3 кВт.</li><li>Просте управлінняНовий інтерфейс користувача дозволить інтуїтивно взаємодіяти з варильною поверхнею.</li></ul><ul><li>Завдяки зручно розташованним позначкам ви завжди легко будете керувати всіма налаштуваннями.</li><li>Електронний таймерВстановіть найоптимальніший час приготування ваших страв в залежності від рецепта.</li><li>Power managementДосконала енергоефективність.</li></ul><ul><li>З функцією керування напругою Power management, ви маєте можливість встановити рівень потужності варильної поверхні, щоб уникнути ризику перевантаження блоку живлення в вашій оселі.</li><li>СлайдерІнтуїтивне приготування.</li></ul><ul><li>Інтуїтивна панель-слайдер дозволить вам легко контролювати потужність кожної зони нагріву, в той час як підсвітка дисплею вказуватиме на ті зони, які вже активовано.</li><li>Сенсорне керуванняПриготування улюблених страв одним натисканням кнопки.</li></ul><p>Із системою TouchControl точне керування варильною панеллю ще ніколи не було таким простим. Регулювання потужності здійснюється за допомогою розумного сенсора, відтепер циферблат з 10-ма поділками, як на старих моделях, не потрібен, — за його відсутності вам буде легше здійснити чищення та догляд за варильною поверхнею.</p>]]></description_ua>
-<param name="Тип">Варильна поверхня</param>
-<param name="Колір">Чорний</param>
-<param name="Ширина">65 см</param>
-<param name="Керування">Сенсорне</param>
-<param name="Кількість конфорок / зон нагріву">4</param>
-<param name="Матеріал основи панелі">Склокераміка</param>
-<param name="Тип варильної панелі">Індукційна</param>
-<param name="Висота">12 см</param>
-<param name="Глибина">60 см</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
 <offer id="HT35991" available="true">
 <stock_quantity>1</stock_quantity>
 <price>3762.00</price>
@@ -109041,7 +108988,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT36050" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>609.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80145</categoryId>
@@ -116720,6 +116667,100 @@
 <param name="Фасовка">1 л</param>
 <param name="EAN">7898574024323</param>
 </offer>
+<offer id="DB00007197" available="true">
+<stock_quantity>2</stock_quantity>
+<price>4154.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>4655607</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-10-26-122129961-6adf29f009e98113725743.webp</picture>
+<vendor>Hydra</vendor>
+<article>HJ00154</article>
+<name>Блуза для грумера Hydra Jacket Unisex Black and Purple S черная с фиолетовым (HJ00154)</name>
+<name_ua>Блуза для грумера Hydra Jacket Unisex Black and Purple S чорна з фіолетовим (HJ00154)</name_ua>
+<description><![CDATA[<p>Блуза для грумера Hydra Jacket Unisex Black and Purple S черная с фиолетовым.</p><p>Тип товара — рекламная продукция (мерч).</p><p>Для собак и кошек.</p><p>Бренд — Hydra.</p>]]></description>
+<description_ua><![CDATA[<p>Блуза для грумера Hydra Jacket Unisex Black and Purple S чорна з фіолетовим.</p><p>Тип товару — рекламна продукція (мерч).</p><p>Для собак і котів.</p><p>Бренд — Hydra.</p>]]></description_ua>
+<param name="Тип">Блуза для грумера</param>
+<param name="Вид тварин">Собаки/Коти</param>
+</offer>
+<offer id="DB00007198" available="true">
+<stock_quantity>2</stock_quantity>
+<price>4154.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>4655607</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-10-26-122120179-6adf29a218879443261399.webp</picture>
+<vendor>Hydra</vendor>
+<article>HJ00151</article>
+<name>Блуза для грумера Hydra Jacket Unisex Black and Purple XS черная с фиолетовым (HJ00151)</name>
+<name_ua>Блуза для грумера Hydra Jacket Unisex Black and Purple XS чорна з фіолетовим (HJ00151)</name_ua>
+<description><![CDATA[<p>Блуза для грумера Hydra Jacket Unisex Black and Purple XS черная с фиолетовым.</p><p>Тип товара — рекламная продукция (мерч).</p><p>Для собак и кошек.</p><p>Бренд — Hydra.</p>]]></description>
+<description_ua><![CDATA[<p>Блуза для грумера Hydra Jacket Unisex Black and Purple XS чорна з фіолетовим.</p><p>Тип товару — рекламна продукція (мерч).</p><p>Для собак і котів.</p><p>Бренд — Hydra.</p>]]></description_ua>
+<param name="Тип">Блуза для грумера</param>
+<param name="Вид тварин">Собаки/Коти</param>
+<param name="EAN">998300000151</param>
+</offer>
+<offer id="DB00007199" available="true">
+<stock_quantity>2</stock_quantity>
+<price>4154.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>4655607</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-10-26-121856103-6adf2989932eb963291698.webp</picture>
+<vendor>Hydra</vendor>
+<article>HJ00152</article>
+<name>Блуза для грумера Hydra Jacket Unisex Black and Purple L черная с фиолетовым (HJ00152)</name>
+<name_ua>Блуза для грумера Hydra Jacket Unisex Black and Purple L чорна з фіолетовим (HJ00152)</name_ua>
+<description><![CDATA[<p>Блуза для грумера Hydra Jacket Unisex Black and Purple L черная с фиолетовым.</p><p>Тип товара — рекламная продукция (мерч).</p><p>Для собак и кошек.</p><p>Бренд — Hydra.</p>]]></description>
+<description_ua><![CDATA[<p>Блуза для грумера Hydra Jacket Unisex Black and Purple L чорна з фіолетовим.</p><p>Тип товару — рекламна продукція (мерч).</p><p>Для собак і котів.</p><p>Бренд — Hydra.</p>]]></description_ua>
+<param name="Тип">Блуза для грумера</param>
+<param name="Вид тварин">Собаки/Коти</param>
+</offer>
+<offer id="DB00007200" available="true">
+<stock_quantity>5</stock_quantity>
+<price>3195.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>4655607</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2025-07-03-130331398-686656b506aa4336777965-amigovet-6adf254ef3113934540489.webp</picture>
+<vendor>Hydra</vendor>
+<article>HJ00141</article>
+<name>Блуза для грумера Hydra Jacket Unisex Purple L фиолетовая (HJ00141)</name>
+<name_ua>Блуза для грумера Hydra Jacket Unisex Purple L фіолетова (HJ00141)</name_ua>
+<description><![CDATA[<p>Блуза для грумера Hydra Jacket Unisex Purple L фиолетовая.</p><p>Тип товара — рекламная продукция (мерч).</p><p>Для собак и кошек.</p><p>Бренд — Hydra.</p><p>Фасовка — L.</p>]]></description>
+<description_ua><![CDATA[<p>Блуза для грумера Hydra Jacket Unisex Purple L фіолетова.</p><p>Тип товару — рекламна продукція (мерч).</p><p>Для собак і котів.</p><p>Бренд — Hydra.</p><p>Фасовка — L.</p>]]></description_ua>
+<param name="Тип">Блуза для грумера</param>
+<param name="Вид тварин">Собаки/Коти</param>
+<param name="Фасовка">L</param>
+</offer>
+<offer id="DB00007201" available="true">
+<stock_quantity>7</stock_quantity>
+<price>3195.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>4655607</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2025-07-03-130331398-686656b506aa4336777965-amigovet-6adf25335c2fc566783086.webp</picture>
+<vendor>Hydra</vendor>
+<article>HJ00140</article>
+<name>Блуза для грумера Hydra Jacket Unisex Purple M фиолетовая (HJ00140)</name>
+<name_ua>Блуза для грумера Hydra Jacket Unisex Purple M фіолетова (HJ00140)</name_ua>
+<description><![CDATA[<p>Блуза для грумера Hydra Jacket Unisex Purple M фиолетовая.</p><p>Тип товара — рекламная продукция (мерч).</p><p>Для собак и кошек.</p><p>Бренд — Hydra.</p><p>Фасовка — M.</p>]]></description>
+<description_ua><![CDATA[<p>Блуза для грумера Hydra Jacket Unisex Purple M фіолетова.</p><p>Тип товару — рекламна продукція (мерч).</p><p>Для собак і котів.</p><p>Бренд — Hydra.</p><p>Фасовка — M.</p>]]></description_ua>
+<param name="Тип">Блуза для грумера</param>
+<param name="Вид тварин">Собаки/Коти</param>
+<param name="Фасовка">M</param>
+</offer>
+<offer id="DB00007202" available="true">
+<stock_quantity>5</stock_quantity>
+<price>3195.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>4655607</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2025-07-03-130331398-686656b506aa4336777965-amigovet-6adf24f53b7ef297482741.webp</picture>
+<vendor>Hydra</vendor>
+<article>HJ00139</article>
+<name>Блуза для грумера Hydra Jacket Unisex Purple S фиолетовая (HJ00139)</name>
+<name_ua>Блуза для грумера Hydra Jacket Unisex Purple S фіолетова (HJ00139)</name_ua>
+<description><![CDATA[<p>Блуза для грумера Hydra Jacket Unisex Purple S фиолетовая.</p><p>Тип товара — рекламная продукция (мерч).</p><p>Для собак и кошек.</p><p>Бренд — Hydra.</p><p>Фасовка — S.</p>]]></description>
+<description_ua><![CDATA[<p>Блуза для грумера Hydra Jacket Unisex Purple S фіолетова.</p><p>Тип товару — рекламна продукція (мерч).</p><p>Для собак і котів.</p><p>Бренд — Hydra.</p><p>Фасовка — S.</p>]]></description_ua>
+<param name="Тип">Блуза для грумера</param>
+<param name="Вид тварин">Собаки/Коти</param>
+<param name="Фасовка">S</param>
+</offer>
 <offer id="DB00007206" available="true">
 <stock_quantity>100</stock_quantity>
 <price>493.00</price>
@@ -116735,6 +116776,22 @@
 <param name="Тип">Міцелярна вода для собак і котів</param>
 <param name="Вид тварин">Собаки/Коти</param>
 <param name="EAN">7898574027126</param>
+</offer>
+<offer id="DB00007212" available="true">
+<stock_quantity>34</stock_quantity>
+<price>1344.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>4655571</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2025-07-03-125711779-6866554b057b4666756952-amigovet-6adf2ab0e2bd7821010428.webp</picture>
+<vendor>Hydra</vendor>
+<article>HNR27010</article>
+<name>Фартук Hydra Nylon Rubbered Black Apron нейлоновый с резиновым покрытием черный (HNR27010)</name>
+<name_ua>Фартух Hydra Nylon Rubbered Black Apron нейлоновий з гумовим покриттям чорний (HNR27010)</name_ua>
+<description><![CDATA[<p>Фартук Hydra Nylon Rubbered Black Apron нейлоновый с резиновым покрытием черный.</p><p>Тип товара — рекламная продукция (мерч).</p><p>Для собак и кошек.</p><p>Бренд — Hydra.</p>]]></description>
+<description_ua><![CDATA[<p>Фартух Hydra Nylon Rubbered Black Apron нейлоновий з гумовим покриттям чорний.</p><p>Тип товару — рекламна продукція (мерч).</p><p>Для собак і котів.</p><p>Бренд — Hydra.</p>]]></description_ua>
+<param name="Тип">Фартух</param>
+<param name="Вид тварин">Собаки/Коти</param>
+<param name="EAN">7898574027010</param>
 </offer>
 <offer id="DB00007214" available="true">
 <stock_quantity>17</stock_quantity>
@@ -118858,6 +118915,63 @@
 <param name="Фасовка">XS</param>
 <param name="EAN">4255636825503</param>
 </offer>
+<offer id="DB00007701" available="true">
+<stock_quantity>5</stock_quantity>
+<price>2038.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/UTC7CLNq6jmTw.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>120091</article>
+<name>Халат для собак Max &amp; Molly Bath Robe Leopard Pink 40 см S розовый (120091)</name>
+<name_ua>Халат для собак Max &amp; Molly Bath Robe Leopard Pink 40 см S рожевий (120091)</name_ua>
+<description><![CDATA[<p>Халат для собак Max &amp; Molly Bath Robe Leopard Pink 40 см S розовый.</p><p>Тип товара — полотенца и халаты.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — S.</p>]]></description>
+<description_ua><![CDATA[<p>Халат для собак Max &amp; Molly Bath Robe Leopard Pink 40 см S рожевий.</p><p>Тип товару — рушники та халати.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — S.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">S</param>
+<param name="Розмір">S</param>
+<param name="Колір">Рожевий</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636830798</param>
+</offer>
+<offer id="DB00007704" available="true">
+<stock_quantity>4</stock_quantity>
+<price>2330.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/yMjVnpo2QZvYA.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>120092</article>
+<name>Халат для собак Max &amp; Molly Bath Robe Leopard Pink 55 см M розовый (120092)</name>
+<name_ua>Халат для собак Max &amp; Molly Bath Robe Leopard Pink 55 см M рожевий (120092)</name_ua>
+<description><![CDATA[<p>Халат для собак Max &amp; Molly Bath Robe Leopard Pink 55 см M розовый.</p><p>Тип товара — полотенца и халаты.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — M.</p>]]></description>
+<description_ua><![CDATA[<p>Халат для собак Max &amp; Molly Bath Robe Leopard Pink 55 см M рожевий.</p><p>Тип товару — рушники та халати.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — M.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">M</param>
+<param name="Розмір">M</param>
+<param name="Колір">Рожевий</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636830804</param>
+</offer>
+<offer id="DB00007707" available="true">
+<stock_quantity>4</stock_quantity>
+<price>2621.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/Ybq8oqFejmy8A.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>120093</article>
+<name>Халат для собак Max &amp; Molly Bath Robe Leopard Pink 70 см L розовый (120093)</name>
+<name_ua>Халат для собак Max &amp; Molly Bath Robe Leopard Pink 70 см L рожевий (120093)</name_ua>
+<description><![CDATA[<p>Халат для собак Max &amp; Molly Bath Robe Leopard Pink 70 см L розовый.</p><p>Тип товара — полотенца и халаты.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — L.</p>]]></description>
+<description_ua><![CDATA[<p>Халат для собак Max &amp; Molly Bath Robe Leopard Pink 70 см L рожевий.</p><p>Тип товару — рушники та халати.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — L.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">L</param>
+<param name="Розмір">L</param>
+<param name="Колір">Рожевий</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636830811</param>
+</offer>
 <offer id="DB00007710" available="true">
 <stock_quantity>11</stock_quantity>
 <price>1564.00</price>
@@ -119045,6 +119159,546 @@
 <param name="Тип">Стенд</param>
 <param name="Вид тварин">Собаки</param>
 <param name="EAN">4894512026605</param>
+</offer>
+<offer id="DB00007730" available="true">
+<stock_quantity>4</stock_quantity>
+<price>2359.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-05-04-004050195-69f7c11a8028d509102622.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>305601</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Jade 40 см XXS нефритовый (305601)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Jade 40 см XXS нефритовий (305601)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Jade 40 см XXS нефритовый.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — XXS.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Jade 40 см XXS нефритовий.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — XXS.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">XXS</param>
+<param name="Розмір">XXS</param>
+<param name="Колір">Зелений</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636828139</param>
+</offer>
+<offer id="DB00007731" available="true">
+<stock_quantity>5</stock_quantity>
+<price>2359.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-05-04-004231676-69f7c1822db30900328479.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>304601</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Rose 40 см XXS розовый (304601)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Rose 40 см XXS рожевий (304601)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Rose 40 см XXS розовый.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — XXS.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Rose 40 см XXS рожевий.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — XXS.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">XXS</param>
+<param name="Розмір">XXS</param>
+<param name="Колір">Рожевий</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636828078</param>
+</offer>
+<offer id="DB00007732" available="true">
+<stock_quantity>5</stock_quantity>
+<price>2359.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-05-04-004351416-69f7c1b71c61a916832542.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>306601</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Turquoise 40 см XXS бирюзовый (306601)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Turquoise 40 см XXS бірюзовий (306601)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Turquoise 40 см XXS бирюзовый.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — XXS.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Turquoise 40 см XXS бірюзовий.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — XXS.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">XXS</param>
+<param name="Розмір">XXS</param>
+<param name="Колір">Бірюзовий</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636828191</param>
+</offer>
+<offer id="DB00007733" available="true">
+<stock_quantity>5</stock_quantity>
+<price>2570.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/ERTiq1yf4uaUTw.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>301602</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Black 45 см XS черный (301602)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Black 45 см XS чорний (301602)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Black 45 см XS черный.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — XS.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Black 45 см XS чорний.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — XS.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">XS</param>
+<param name="Розмір">XS</param>
+<param name="Колір">Чорний</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636827903</param>
+</offer>
+<offer id="DB00007734" available="true">
+<stock_quantity>5</stock_quantity>
+<price>2570.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-05-04-004053685-69f7c115208f3182349235.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>305602</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Jade 45 см XS нефритовый (305602)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Jade 45 см XS нефритовий (305602)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Jade 45 см XS нефритовый.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — XS.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Jade 45 см XS нефритовий.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — XS.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">XS</param>
+<param name="Розмір">XS</param>
+<param name="Колір">Зелений</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636828146</param>
+</offer>
+<offer id="DB00007735" available="true">
+<stock_quantity>5</stock_quantity>
+<price>2570.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-05-04-004223685-69f7c1718b03e206136091.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>304602</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Rose 45 см XS розовый (304602)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Rose 45 см XS рожевий (304602)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Rose 45 см XS розовый.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — XS.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Rose 45 см XS рожевий.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — XS.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">XS</param>
+<param name="Розмір">XS</param>
+<param name="Колір">Рожевий</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636828085</param>
+</offer>
+<offer id="DB00007736" available="true">
+<stock_quantity>5</stock_quantity>
+<price>2570.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-05-04-004440137-69f7c1db1b27e970376495.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>302602</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Stone 45 см XS серый (302602)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Stone 45 см XS сірий (302602)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Stone 45 см XS серый.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — XS.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Stone 45 см XS сірий.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — XS.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">XS</param>
+<param name="Розмір">XS</param>
+<param name="Колір">Сірий</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636827965</param>
+</offer>
+<offer id="DB00007737" available="true">
+<stock_quantity>5</stock_quantity>
+<price>2570.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-05-04-004345634-69f7c1ae2822c603184108.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>306602</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Turquoise 45 см XS бирюзовый (306602)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Turquoise 45 см XS бірюзовий (306602)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Turquoise 45 см XS бирюзовый.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — XS.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Turquoise 45 см XS бірюзовий.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — XS.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">XS</param>
+<param name="Розмір">XS</param>
+<param name="Колір">Бірюзовий</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636828207</param>
+</offer>
+<offer id="DB00007738" available="true">
+<stock_quantity>5</stock_quantity>
+<price>2780.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/OFvoeafyGr92g.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>301603</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Black 50 см S черный (301603)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Black 50 см S чорний (301603)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Black 50 см S черный.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — S.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Black 50 см S чорний.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — S.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">S</param>
+<param name="Розмір">S</param>
+<param name="Колір">Чорний</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636827910</param>
+</offer>
+<offer id="DB00007739" available="true">
+<stock_quantity>5</stock_quantity>
+<price>2780.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-05-04-004058131-69f7c1111cfb9135951491.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>305603</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Jade 50 см S нефритовый (305603)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Jade 50 см S нефритовий (305603)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Jade 50 см S нефритовый.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — S.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Jade 50 см S нефритовий.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — S.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">S</param>
+<param name="Розмір">S</param>
+<param name="Колір">Зелений</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636828153</param>
+</offer>
+<offer id="DB00007740" available="true">
+<stock_quantity>3</stock_quantity>
+<price>2780.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-05-04-004219636-69f7c169141a6341026530.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>304603</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Rose 50 см S розовый (304603)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Rose 50 см S рожевий (304603)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Rose 50 см S розовый.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — S.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Rose 50 см S рожевий.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — S.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">S</param>
+<param name="Розмір">S</param>
+<param name="Колір">Рожевий</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636828092</param>
+</offer>
+<offer id="DB00007741" available="true">
+<stock_quantity>5</stock_quantity>
+<price>2780.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-05-03-231020371-69f7abda3ee95185880733.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>302603</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Stone 50 см S серый (302603)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Stone 50 см S сірий (302603)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Stone 50 см S серый.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — S.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Stone 50 см S сірий.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — S.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">S</param>
+<param name="Розмір">S</param>
+<param name="Колір">Сірий</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636827972</param>
+</offer>
+<offer id="DB00007742" available="true">
+<stock_quantity>4</stock_quantity>
+<price>2780.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-05-03-230624054-69f7ab176c206347175058.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>306603</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Turquoise 50 см S бирюзовый (306603)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Turquoise 50 см S бірюзовий (306603)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Turquoise 50 см S бирюзовый.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — S.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Turquoise 50 см S бірюзовий.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — S.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">S</param>
+<param name="Розмір">S</param>
+<param name="Колір">Бірюзовий</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636828214</param>
+</offer>
+<offer id="DB00007743" available="true">
+<stock_quantity>4</stock_quantity>
+<price>2991.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/FpS1x4e5pzHTRA.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>301604</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Black 62 см M черный (301604)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Black 62 см M чорний (301604)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Black 62 см M черный.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — M.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Black 62 см M чорний.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — M.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">M</param>
+<param name="Розмір">M</param>
+<param name="Колір">Чорний</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636827927</param>
+</offer>
+<offer id="DB00007744" available="true">
+<stock_quantity>2</stock_quantity>
+<price>2991.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-05-03-232031578-69f7ae38a8268571493499.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>305604</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Jade 62 см M нефритовый (305604)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Jade 62 см M нефритовий (305604)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Jade 62 см M нефритовый.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — M.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Jade 62 см M нефритовий.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — M.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">M</param>
+<param name="Розмір">M</param>
+<param name="Колір">Зелений</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636828160</param>
+</offer>
+<offer id="DB00007745" available="true">
+<stock_quantity>5</stock_quantity>
+<price>2991.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-05-03-231925689-69f7adf1804d9130994098.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>304604</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Rose 62 см M розовый (304604)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Rose 62 см M рожевий (304604)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Rose 62 см M розовый.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — M.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Rose 62 см M рожевий.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — M.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">M</param>
+<param name="Розмір">M</param>
+<param name="Колір">Рожевий</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636828108</param>
+</offer>
+<offer id="DB00007746" available="true">
+<stock_quantity>5</stock_quantity>
+<price>2991.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-05-03-231015243-69f7abe1360fc134770732.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>302604</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Stone 62 см M серый (302604)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Stone 62 см M сірий (302604)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Stone 62 см M серый.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — M.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Stone 62 см M сірий.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — M.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">M</param>
+<param name="Розмір">M</param>
+<param name="Колір">Сірий</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636827989</param>
+</offer>
+<offer id="DB00007747" available="true">
+<stock_quantity>5</stock_quantity>
+<price>2991.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-05-03-230618739-69f7ab1955a2c417827514.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>306604</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Turquoise 62 см M бирюзовый (306604)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Turquoise 62 см M бірюзовий (306604)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Turquoise 62 см M бирюзовый.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — M.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Turquoise 62 см M бірюзовий.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — M.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">M</param>
+<param name="Розмір">M</param>
+<param name="Колір">Бірюзовий</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636828221</param>
+</offer>
+<offer id="DB00007748" available="true">
+<stock_quantity>5</stock_quantity>
+<price>3201.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/2OdA4F474OWuA.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>301605</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Black 70 см L черный (301605)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Black 70 см L чорний (301605)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Black 70 см L черный.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — L.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Black 70 см L чорний.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — L.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">L</param>
+<param name="Розмір">L</param>
+<param name="Колір">Чорний</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636827934</param>
+</offer>
+<offer id="DB00007749" available="true">
+<stock_quantity>5</stock_quantity>
+<price>3201.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-05-03-225833723-69f7a9f23e8ce637442690.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>305605</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Jade 70 см L нефритовый (305605)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Jade 70 см L нефритовий (305605)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Jade 70 см L нефритовый.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — L.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Jade 70 см L нефритовий.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — L.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">L</param>
+<param name="Розмір">L</param>
+<param name="Колір">Зелений</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636828177</param>
+</offer>
+<offer id="DB00007750" available="true">
+<stock_quantity>5</stock_quantity>
+<price>3201.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-05-03-230410271-69f7aa7d9782c341394031.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>304605</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Rose 70 см L розовый (304605)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Rose 70 см L рожевий (304605)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Rose 70 см L розовый.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — L.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Rose 70 см L рожевий.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — L.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">L</param>
+<param name="Розмір">L</param>
+<param name="Колір">Рожевий</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636828115</param>
+</offer>
+<offer id="DB00007751" available="true">
+<stock_quantity>5</stock_quantity>
+<price>3201.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-05-03-225653366-69f7a8c9e90ca464202028.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>302605</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Stone 70 см L серый (302605)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Stone 70 см L сірий (302605)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Stone 70 см L серый.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — L.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Stone 70 см L сірий.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — L.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">L</param>
+<param name="Розмір">L</param>
+<param name="Колір">Сірий</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636827996</param>
+</offer>
+<offer id="DB00007752" available="true">
+<stock_quantity>3</stock_quantity>
+<price>3201.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-05-03-230332887-69f7aa2abf64f178770967.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>306605</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Turquoise 70 см L бирюзовый (306605)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Turquoise 70 см L бірюзовий (306605)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Turquoise 70 см L бирюзовый.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — L.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Turquoise 70 см L бірюзовий.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — L.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">L</param>
+<param name="Розмір">L</param>
+<param name="Колір">Бірюзовий</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636828238</param>
+</offer>
+<offer id="DB00007753" available="true">
+<stock_quantity>5</stock_quantity>
+<price>3412.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/qzfWCTzvRkouQ.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>301606</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Black 80 см XL черный (301606)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Black 80 см XL чорний (301606)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Black 80 см XL черный.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — XL.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Black 80 см XL чорний.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — XL.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">XL</param>
+<param name="Розмір">XL</param>
+<param name="Колір">Чорний</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636827941</param>
+</offer>
+<offer id="DB00007754" available="true">
+<stock_quantity>4</stock_quantity>
+<price>3412.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-05-03-225825582-69f7a9eab40db312826425.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>305606</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Jade 80 см XL нефритовый (305606)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Jade 80 см XL нефритовий (305606)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Jade 80 см XL нефритовый.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — XL.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Jade 80 см XL нефритовий.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — XL.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">XL</param>
+<param name="Розмір">XL</param>
+<param name="Колір">Зелений</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636828184</param>
+</offer>
+<offer id="DB00007755" available="true">
+<stock_quantity>4</stock_quantity>
+<price>3412.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-05-03-225700464-69f7a8c0beed7565914568.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>302606</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Stone 80 см XL серый (302606)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Stone 80 см XL сірий (302606)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Stone 80 см XL серый.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — XL.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Stone 80 см XL сірий.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — XL.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">XL</param>
+<param name="Розмір">XL</param>
+<param name="Колір">Сірий</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636828009</param>
+</offer>
+<offer id="DB00007756" available="true">
+<stock_quantity>5</stock_quantity>
+<price>3412.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>3935762</categoryId>
+<picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/zobrazhennya-2026-05-03-225013294-69f7a710e6475196925959.webp</picture>
+<vendor>Max &amp; Molly</vendor>
+<article>306606</article>
+<name>Дождевик для собак Max &amp; Molly Matrix 2.0 Turquoise 80 см XL бирюзовый (306606)</name>
+<name_ua>Дощовик для собак Max &amp; Molly Matrix 2.0 Turquoise 80 см XL бірюзовий (306606)</name_ua>
+<description><![CDATA[<p>Дождевик для собак Max &amp; Molly Matrix 2.0 Turquoise 80 см XL бирюзовый.</p><p>Тип товара — одежда.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — XL.</p>]]></description>
+<description_ua><![CDATA[<p>Дощовик для собак Max &amp; Molly Matrix 2.0 Turquoise 80 см XL бірюзовий.</p><p>Тип товару — одяг.</p><p>Для собак.</p><p>Бренд — Max &amp; Molly.</p><p>Фасовка — XL.</p>]]></description_ua>
+<param name="Вид тварин">Собаки</param>
+<param name="Фасовка">XL</param>
+<param name="Розмір">XL</param>
+<param name="Колір">Бірюзовий</param>
+<param name="Тип">Дощовики</param>
+<param name="Тварина">Собака</param>
+<param name="EAN">4255636828245</param>
 </offer>
 <offer id="DB00007768" available="true">
 <stock_quantity>15</stock_quantity>
