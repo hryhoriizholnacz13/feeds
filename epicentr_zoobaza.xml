@@ -87505,9 +87505,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT19817" available="true">
+<offer id="HT19817" available="false">
 <price>4813.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="1619">Бойлери</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000010596_foto_boyler_midea_d06_20va.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000010596_Boi_ler-Midea-D06_20VA_U_2.jpg</picture>
