@@ -19621,6 +19621,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4847-1.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/cf5d0406ce5d60f5.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <name>Будка ЗооБаза Геросс 36х32х32 см коричневый</name>
 <name_ua>Будка ЗооБаза Геросс 36х32х32 см коричневий</name_ua>
@@ -79759,7 +79760,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT17125" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>755.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -81740,7 +81741,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT23603" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>1886.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80161</categoryId>
@@ -82724,33 +82725,6 @@
 <param name="Розмір">38.8 х 59.5 х 40.1 см</param>
 <param name="Гарантія">24 місяці</param>
 </offer>
-<offer id="HT25561" available="true">
-<stock_quantity>1</stock_quantity>
-<price>5321.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80162</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_dd42c85f-254e-11ec-89e9-dc4a3e701323.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_dd42c85f-254e-11ec-89e9-dc4a3e701323.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_dd42c85f-254e-11ec-89e9-dc4a3e701323.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000006887_mikrovolnovaya-pech-whirlpool-mwp-251-b-2.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000006887_mikrovolnovaya-pech-whirlpool-mwp-251-b_3.jpg</picture>
-<vendor>Whirlpool</vendor>
-<article>MWP 251 B</article>
-<name>Микроволновая печь Whirlpool MWP 251 B (MWP 251 B)</name>
-<name_ua>Мікрохвильова піч Whirlpool MWP 251 B (MWP 251 B)</name_ua>
-<description><![CDATA[<p>Функция Jet Start. Чрезвычайно быстрый нагрев Функция JetStart ускоряет нагрев до максимума за 30 секунд, обеспечивая идеальный температурный режим для разогрева еды с высоким содержанием воды, такой как бульоны или напитки. Функция Йогурт Сделайте Ваши завтраки ещё полезнее с функцией Йогурт. Специальная функция для быстрой и простой ферментации йогуртов и увеличения их пищевой ценности. Блокировка панели управления Child lock Безопасность прежде всего. Эта модель микроволновой печи Whirlpool имеет систему блокировки от детей, чтобы предотвратить использование прибора без присмотра взрослых. Auto Cook Большой выбор вкусных блюд. Целый мир кулинарных возможностей, специально подобранных в соответствии с разными жизненными потребностями и выбором диеты: здоровая, вечеринка, этническая, вегетарианская и т. д. Подъём теста Идеальные настройки для приготовления теста. Функция разогрева Быстрый разогрев. Эта функция обеспечит разогрев за считанные минуты. Поддержание тепла Всегда тёплые блюда. Функция поддержания тепла в этой микроволновой печи Whirlpool гарантирует, что ваша еда будет оставаться тёплой в течение 4 часов, так что вы сможете насладиться подогретой едой в любое время.</p>]]></description>
-<description_ua><![CDATA[<p>Функція Jet Start. Надзвичайно швидкий нагрів Функція JetStart прискорює нагрів до максимуму за 30 секунд, забезпечуючи ідеальний температурний режим для розігірву їжі з високим вмістом води, такої як бульйони або напої. Функція Йогурт Зробіть Ваші сніданки ще кориснішими з функцією Йогурт. Спеціальна функція для швидкої та простої ферментації йогуртів та збільшення їх харчової цінності. Блокування панелі управління Child lock Безпека в першу чергу. Ця модель мікрохвильової печі Whirlpool має систему блокування від дітей, щоб запобігти використанню приладу без нагляду дорослих. Auto Cook Великий вибір смачних страв. Цілий світ кулінарних можливостей, спеціально підібраних відповідно до різних життєвих потреб і вибору дієти: здорова, вечірка, етнічна, вегетаріанська тощо. Підйом тіста Ідеальні налаштування для приготування тіста. Функція розігріву Швидкий розігрів. Ця функція забезпечить розігрів у лічені хвилини. Підтримання тепла Завжди теплі страви. Функція підтримки тепла в цій мікрохвильовій печі Whirlpool гарантує, що ваша їжа буде залишатися теплою протягом 4 годин, так що ви зможете насолодитися підігрітою їжею у будь-який час.</p>]]></description_ua>
-<param name="Тип">Мікрохвильова піч</param>
-<param name="Колір">Чорний</param>
-<param name="Об`єм">25 л</param>
-<param name="Споживана потужність">900 Вт</param>
-<param name="Тип управління">Електронне</param>
-<param name="Кількість рівнів">7</param>
-<param name="Тип НВЧ">Соло (Звичайний)</param>
-<param name="Вага">13,9 кг</param>
-<param name="Розмір">28.1 x 48.3 x 41.4 см</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
 <offer id="HT25625" available="true">
 <stock_quantity>1</stock_quantity>
 <price>11275.00</price>
@@ -82895,7 +82869,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT26360" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>23175.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80123</categoryId>
@@ -86620,7 +86594,7 @@
 <param name="Матеріал корпусу">Пластик</param>
 </offer>
 <offer id="HT30730" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>457.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4674088</categoryId>
@@ -86939,7 +86913,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30835" available="true">
-<stock_quantity>8</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>56419.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -88108,6 +88082,38 @@
 <param name="Вага">0,79 кг</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
+<offer id="HT31802" available="true">
+<stock_quantity>7</stock_quantity>
+<price>3640.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>112986</categoryId>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013239_444673144.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013239_444673145.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013239_444673146.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000013239_444673147.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000013239_444673148.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000013239_444673149.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000013239_444673151.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/8_000013239_444673150.jpg</picture>
+<vendor>Rotex</vendor>
+<article>REPC78-B Universal</article>
+<name>Мультиварка-скороварка Rotex REPC78-B Universal (REPC78-B Universal)</name>
+<name_ua>Мультиварка-скороварка Rotex REPC78-B Universal (REPC78-B Universal)</name_ua>
+<description><![CDATA[<p>Rotex REPC78-B – Мультиварка-скороварка с двойным антипригарным покрытием. Эта мультиварка-скороварка от Rotex идеально подходит для разнообразных кулинарных задач благодаря ее большой 5-литровой чаше с тефлоновым покрытием, которая легко очищается и предотвращает пригорание. Благодаря мощности нагревательного элемента 900 Вт эта мультиварка быстро нагревается и эффективно готовит пищу согласно вашим требованиям. Функционал Smart Cooking включает интеллектуальное меню с возможностью приготовления йогурта, пароварки, пастеризации, поддержания температуры, жарки, а также таймеры выключения и отсрочки. Мультиварка имеет поворотный переключатель для удобного управления, а ее алюминиевая чаша с тефлоновым покрытием обеспечивает надежность и долговечность в эксплуатации. Особенности включают внутреннюю крышку и съемную верхнюю крышку для легкой очистки и предварительное отключение функции автоподогрева. Мультиварка оснащена увеличенным трехполосным LED-дисплеем, который одновременно показывает все настройки, что делает ее использование максимально удобным. Язык меню – украинский, что делает этот прибор доступным и понятным для широкого круга пользователей. Количество автоматических программ составляет 22, включая инновационные опции ШЕФ-повар, Сувид, Домашний сыр, которые расширяют возможности кулинарии. Мультиварка Rotex REPC78-B – надежный помощник на кухне, готовый удовлетворить все ваши кулинарные желания с комфортом и качеством в каждом блюде!</p>]]></description>
+<description_ua><![CDATA[<p>Rotex REPC78-B – Мультиварка-скороварка з подвійним антипригарним покриттям. Ця мультиварка-скороварка від Rotex ідеально підходить для різноманітних кулінарних викликів завдяки її великій 5-літровій чаші з тефлоновим покриттям, яка легко очищається та запобігає пригоранню. Завдяки потужності нагрівального елемента 900 Вт ця мультиварка швидко нагрівається і ефективно приготовує їжу згідно з вашими вимогами. Функціонал Smart Cooking включає інтелектуальне меню з можливістю приготування йогурту, пароварки, пастеризації, підтримки температури, смаження, а також таймери вимкнення та відтермінування. Мультиварка має поворотний перемикач для зручного керування, а її алюмінієва чаша з тефлоновим покриттям забезпечує надійність та довговічність в експлуатації. Особливості включають внутрішню кришку і знімну верхню кришку для легкого очищення та попереднє вимкнення функції автопідігріву. Мультиварка оснащена збільшеним триполосним LED-дисплеєм, який одночасно показує всі налаштування, що робить її використання максимально зручним. Мова меню – українська, що робить цей прилад доступним і зрозумілим для широкого кола користувачів. Кількість автоматичних програм становить 22, включаючи інноваційні опції ШЕФ-кухар, Сувід, Домашній сир, що розширюють можливості кулінарії. Мультиварка Rotex REPC78-B – надійний помічник на кухні, готовий задовольнити всі ваші кулінарні бажання з комфортом і якістю в кожній страві!</p>]]></description_ua>
+<param name="Тип">Мультиварка-скороварка</param>
+<param name="Колір">Чорний з сріблястим</param>
+<param name="Споживана потужність">900 Вт</param>
+<param name="Тип управління">Електронне</param>
+<param name="Покриття чаші">Подвійне антипригарне</param>
+<param name="Номінальна напруга">220-240 В</param>
+<param name="Матеріал корпусу">Нержавіюча сталь + пластик</param>
+<param name="Кількість програм приготування">22</param>
+<param name="Відстрочка старту">Так</param>
+<param name="Об&apos;єм чаші">5 л</param>
+<param name="Вага">4,7 кг</param>
+<param name="Гарантія">24 місяці</param>
+</offer>
 <offer id="HT31803" available="true">
 <stock_quantity>18</stock_quantity>
 <price>424.00</price>
@@ -88250,7 +88256,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31897" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>1145.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80155</categoryId>
@@ -89388,7 +89394,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT32092" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>450.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81227</categoryId>
@@ -95181,7 +95187,7 @@
 <param name="Тип фреону">R32</param>
 </offer>
 <offer id="HT33954" available="true">
-<stock_quantity>16</stock_quantity>
+<stock_quantity>15</stock_quantity>
 <price>27657.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80141</categoryId>
@@ -95712,32 +95718,6 @@
 <description_ua><![CDATA[<p>Вакуумний пакувальник Mesko MS 4492 легко захистить вашу їжу та подовже термін її зберігання. Вакуумний пакувальник Mesko MS 4492 має дві функції - забезпечує вакуумне пакування, завдяки видаленню повітря з поліетиленового пакета і дозволяє зварювати краї пакета і герметично закривати його. Ви можете використовувати обидві ці функції одну за одною або просто щільно закрити пакет. Рекомендовано використовувати пакети шириною не більше 28 см.</p>]]></description_ua>
 <param name="Тип">Вакууматор</param>
 <param name="Потужність">100 Вт</param>
-<param name="Гарантія">24 місяці</param>
-</offer>
-<offer id="HT34106" available="true">
-<stock_quantity>1</stock_quantity>
-<price>14788.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80122</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155591.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155592.jpg</picture>
-<vendor>CASTLE</vendor>
-<article>CG-60X</article>
-<name>Плита газовая CASTLE CG-60X (CG-60X)</name>
-<name_ua>Плита газова CASTLE CG-60X (CG-60X)</name_ua>
-<description><![CDATA[<p>Съемное стеклоСъемное стекло может быть полностью снято, что делает очистку легче щелчка пальцем.</p>]]></description>
-<description_ua><![CDATA[<p>Знімне склоЗнімне скло може бути повністю знято, що робить очищення легшим клацання пальцем.</p>]]></description_ua>
-<param name="Тип">Плита газова</param>
-<param name="Колір">Сірий з чорним</param>
-<param name="Ширина">60 см</param>
-<param name="Керування">Механічне</param>
-<param name="Тип духової шафи">Газова</param>
-<param name="Тип варильної панелі">Газова</param>
-<param name="Електропідпал">Так</param>
-<param name="Кількість конфорок">4</param>
-<param name="Вага">35,5 кг</param>
-<param name="Висота">86.5 см</param>
-<param name="Глибина">60 см</param>
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT34107" available="true">
@@ -97495,7 +97475,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT34573" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>1211.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80156</categoryId>
@@ -97697,7 +97677,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT34659" available="true">
-<stock_quantity>8</stock_quantity>
+<stock_quantity>7</stock_quantity>
 <price>5248.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81089</categoryId>
@@ -99204,7 +99184,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35015" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>1165.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80143</categoryId>
@@ -99668,7 +99648,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35083" available="true">
-<stock_quantity>8</stock_quantity>
+<stock_quantity>7</stock_quantity>
 <price>497.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81667</categoryId>
@@ -101627,7 +101607,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35318" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>1635.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80163</categoryId>
@@ -102656,7 +102636,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35396" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>3119.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -102795,7 +102775,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35405" available="true">
-<stock_quantity>10</stock_quantity>
+<stock_quantity>9</stock_quantity>
 <price>894.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80161</categoryId>
@@ -103739,7 +103719,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35483" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>22500.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -104051,7 +104031,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35540" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>21625.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
@@ -104612,7 +104592,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35643" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>3488.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675061</categoryId>
@@ -106474,7 +106454,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35820" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>11238.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80131</categoryId>
@@ -106900,7 +106880,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35861" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>8169.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80141</categoryId>
@@ -107971,38 +107951,6 @@
 <param name="Довжина шнура">2.5 м</param>
 <param name="Потужність">1200 Вт</param>
 <param name="Гарантія">12 місяців</param>
-</offer>
-<offer id="HT35982" available="true">
-<stock_quantity>1</stock_quantity>
-<price>17394.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80123</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182981.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182982.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182983.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182984.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182985.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182986.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182987.jpg</picture>
-<vendor>Midea</vendor>
-<article>MFD60S05S</article>
-<name>Посудомоечная машина Midea MFD60S05S (MFD60S05S)</name>
-<name_ua>Посудомийна машина Midea MFD60S05S (MFD60S05S)</name_ua>
-<description><![CDATA[<ul><li>Посудомоечная машина Midea MFD60S050S (в сетях часто маркируется как MFD60S050S или MFD60S05S) — это полноразмерная отдельностоящая модель шириной 60 см, выполненная в современном сером (серебристом) цвете.</li><li>ХарактеристикиВместимость: рассчитана на 12–13 комплектов посуды, что делает ее отличным выбором для семей из 3–5 человек.</li><li>Программы мытья (5 режимов): Автоматическая (Auto), Эко (Eco), Интенсивный уход+, Быстрая и режим "90 минут".</li><li>Сушка: конденсационного типа, дополненная функцией автоматического открывания дверцы после завершения цикла (это значительно улучшает высыхание пластиковой и стеклянной посуды без разводов).</li><li>Экономичность: расход воды за один стандартный цикл составляет 11 литров, класс энергопотребления — A+.</li><li>Управление: современная электронно-сенсорная панель.</li><li>Уровень шума: 51 дБ.</li><li>Габариты (ВхШхГ): 85 х 60 х 60 см.</li><li>Полная защита от протечек (AquaStop): гарантирует безопасность использования в многоквартирных домах.</li><li>Гибкость загрузки: есть режим половинной загрузки (если посуды немного), а верхнюю корзину можно регулировать по высоте для размещения больших кастрюль или противней.</li><li>Удобство.</li></ul>]]></description>
-<description_ua><![CDATA[<ul><li>Посудомийна машина Midea MFD60S050S (у мережах часто маркується як MFD60S050S або MFD60S05S) — це повнорозмірна окремостояча модель шириною 60 см, виконана в сучасному сірому (сріблястому) кольорі.</li><li>ХарактеристикиМісткість: розрахована на 12–13 комплектів посуду, що робить її чудовим вибором для сімей із 3–5 осіб.</li><li>Програми миття (5 режимів): Автоматична (Auto), Еко (Eco), Інтенсивний догляд+, Швидка та режим "90 хвилин".</li><li>Сушіння: конденсаційного типу, доповнене функцією автоматичного відкривання дверцятах після завершення циклу (це значно покращує висихання пластикового та скляного посуду без розводів).</li><li>Економічність: витрата води за один стандартний цикл становить 11 літрів, клас енергоспоживання — A+.</li><li>Керування: сучасна електронно-сенсорна панель.</li><li>Рівень шуму: 51 дБ.</li><li>Габарити (ВхШхГ): 85 х 60 х 60 см.</li><li>Повний захист від протікання (AquaStop): гарантує безпеку використання у багатоквартирних будинках.</li><li>Гнучкість завантаження: є режим половинного завантаження (якщо посуду небагато), а верхній кошик можна регулювати за висотою для розміщення великих каструль чи деко.</li><li>Зручність.</li></ul>]]></description_ua>
-<param name="Тип">Посудомийна машина</param>
-<param name="Колір">Сірий</param>
-<param name="Ширина">60 см</param>
-<param name="Керування">Електронне</param>
-<param name="Клас енергоспоживання">А+</param>
-<param name="Кількість програм мийки">5</param>
-<param name="Місткість комплектів посуду">13</param>
-<param name="Тип посудомийки">Повновбудована</param>
-<param name="Споживання води">11 л</param>
-<param name="Тип сушіння">Конденсаційний</param>
-<param name="Висота">85 см</param>
-<param name="Глибина">60 см</param>
-<param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT35984" available="true">
 <stock_quantity>1</stock_quantity>
@@ -109101,35 +109049,6 @@
 <param name="Глибина">28 см</param>
 <param name="Гарантія">36 місяців</param>
 </offer>
-<offer id="HT36061" available="true">
-<stock_quantity>1</stock_quantity>
-<price>11044.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80140</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185211.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185212.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185213.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185214.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185215.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185216.jpg</picture>
-<vendor>Samsung</vendor>
-<article>NK52FG454CM/UR</article>
-<name>Вытяжка Samsung NK52FG454CM/UR (NK52FG454CM/UR)</name>
-<name_ua>Витяжка Samsung NK52FG454CM/UR (NK52FG454CM/UR)</name_ua>
-<description><![CDATA[<p>Непревзойденная свежесть на кухне3 скорости втягиванияНаслаждайтесь комфортной атмосферой на кухне, сколько бы блюд вы ни готовили, с вытяжкой, которая отлично отводит все испарения, дым, запахи и тепло, сохраняя ощущение свежести.</p><ul><li>Просто регулируйте мощность втягивания в пределах трех скоростей или активируйте Boost, чтобы мгновенно очистить воздух с производительностью до 647 м3/ч*.</li><li>Утонченный минимализмИзысканный дизайнДополните вашу кухню встраиваемой вытяжкой, которая сохраняет идеальную гармонию интерьера благодаря сверхтонкому профилю, который полностью прячется в конструкции мебели.</li></ul><ul><li>Ее утонченный минималистичный дизайн с отделкой из нержавеющей стали отлично подчеркнет дизайн вашей кухни, где все элементы техники дополняют единый целостный стиль.</li><li>Идеальный обзорРасширенная зона подсветкиНаслаждайтесь максимальным комфортом благодаря LED-панели, которая создает расширенную зону подсветки на всю область приготовления.</li></ul><ul><li>Легко контролируйте каждое блюдо с яркой светодиодной подсветкой, которая охватывает всю варочную поверхность на кухне и создает ощущение роскоши.</li><li>Быстрый и комфортный уходМоющийся алюминиевый фильтрБлагодаря алюминиевому фильтру, который защищает двигатель от засорения, вытяжка прослужит исключительно долго, сохраняя высокую производительность втягивания.</li></ul><p>Очищайте его через каждые 3-4 недели использования и легко мойте в посудомоечной машине, чтобы поддерживать высокую эффективность фильтрации без снижения мощности.</p>]]></description>
-<description_ua><![CDATA[<p>Неперевершена свіжість на кухні3 швидкості втягуванняНасолоджуйтеся комфортною атмосферою на кухні, як би багато не готував страв, з витяжкою, яка чудово відводить усі випари, дим, запахи та тепло, зберігаючи відчуття свіжості.</p><ul><li>Просто регулюйте потужність втягування в межах трьох швидкостей або активуйте Boost, щоб миттєво очистити повітря з продуктивністю до 647 м3/год*.</li><li>Витончений мінімалізмВитончений дизайнДоповніть вашу кухню витяжкою, що вбудовується, що зберігає ідеальну гармонію інтер'єру завдяки надтонкому профілю, який повністю ховається в конструкції меблів.</li></ul><ul><li>Її витончений мінімалістичний дизайн з оздобленням із нержавіючої сталі чудово підкреслить дизайн вашої кухні, де всі елементи техніки доповнюють єдиний цілісний стиль.</li><li>Ідеальний оглядРозширена зона підсвічуванняНасолоджуйтесь максимальним комфортом завдяки LED-панелі, що створює розширену зону підсвічування на всю область виготовлення.</li></ul><ul><li>Легко контролюйте кожну страву з яскравим світлодіодним підсвічуванням, що охоплює всю варильну поверхню на кухні і створює відчуття розкоші.</li><li>Швидкий та комфортний доглядАлюмінієвий фільтр, що миєтьсяЗавдяки алюмінієвому фільтру, що захищає двигун від засмічення, витяжка прослужить виключно довго, зберігаючи високу продуктивність втягування.</li></ul><p>Очищайте його через кожні 3-4 тижні використання і легко мийте в посудомийній машині, щоб підтримувати високу ефективність фільтрації без зниження потужності.</p>]]></description_ua>
-<param name="Тип">Витяжка</param>
-<param name="Колір">Чорний</param>
-<param name="Кількість швидкостей">3</param>
-<param name="Ширина">52 см</param>
-<param name="Керування">Електронне</param>
-<param name="Продуктивність">620 куб.м/г</param>
-<param name="Тип конструкції">Повновбудована</param>
-<param name="Кількість моторів">1</param>
-<param name="Матеріал корпусу">Метал</param>
-<param name="Глибина">28 см</param>
-<param name="Гарантія">24 місяці</param>
-</offer>
 <offer id="HT36064" available="true">
 <stock_quantity>2</stock_quantity>
 <price>3322.00</price>
@@ -109854,35 +109773,6 @@
 <param name="Матеріал решіток">Емальована сталь</param>
 <param name="Висота">85 см</param>
 <param name="Гарантія">12 місяців</param>
-</offer>
-<offer id="HT36124" available="true">
-<stock_quantity>1</stock_quantity>
-<price>32032.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80123</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183783.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183782.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183784.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183785.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183786.jpg</picture>
-<vendor>Gorenje</vendor>
-<article>GV673A65</article>
-<name>Посудомоечная машина Gorenje GV673A65 (GV673A65)</name>
-<name_ua>Посудомийна машина Gorenje GV673A65 (GV673A65)</name_ua>
-<description><![CDATA[<p>Gorenje GV673A65 — это встраиваемая посудомоечная машина премиум-класса, которая сочетает высокую вместительность, умное управление и максимальную энергоэффективность. Она рассчитана на 16 комплектов посуды, что делает ее идеальной для больших семей или любителей частых застолий. Gorenje GV673A65 — это умная и мощная техника, которая сделает уход за посудой быстрым, удобным и безопасным.</p>]]></description>
-<description_ua><![CDATA[<p>Gorenje GV673A65 — це вбудовувана посудомийна машина преміум-класу, що поєднує високу місткість, розумне керування та максимальну енергоефективність. Вона розрахована на 16 комплектів посуду, що робить її ідеальною для великих родин або любителів частих застіль. Gorenje GV673A65 — це розумна та потужна техніка, яка зробить догляд за посудом швидким, зручним і безпечним.</p>]]></description_ua>
-<param name="Тип">Посудомийна машина</param>
-<param name="Колір">Білий</param>
-<param name="Ширина">60 см</param>
-<param name="Керування">Сенсорне</param>
-<param name="Клас енергоспоживання">А+++</param>
-<param name="Кількість програм мийки">9</param>
-<param name="Місткість комплектів посуду">16</param>
-<param name="Тип посудомийки">Вбудована</param>
-<param name="Вага">31 кг</param>
-<param name="Висота">81,6 см</param>
-<param name="Глибина">55,5 см</param>
-<param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT36130" available="true">
 <stock_quantity>1</stock_quantity>
@@ -111175,7 +111065,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT36221" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>4858.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80162</categoryId>
@@ -111986,7 +111876,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT5793" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>5413.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80131</categoryId>
@@ -112016,7 +111906,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT5831" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>821.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80180</categoryId>
@@ -114878,7 +114768,7 @@
 <param name="EAN">100000160381</param>
 </offer>
 <offer id="DB00005460" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>375.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -116001,7 +115891,7 @@
 <param name="EAN">7898574027416</param>
 </offer>
 <offer id="DB00007148" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>833.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -116137,7 +116027,7 @@
 <param name="EAN">7898574026983</param>
 </offer>
 <offer id="DB00007156" available="true">
-<stock_quantity>96</stock_quantity>
+<stock_quantity>95</stock_quantity>
 <price>855.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -116832,7 +116722,7 @@
 <param name="EAN">7898574027126</param>
 </offer>
 <offer id="DB00007207" available="true">
-<stock_quantity>33</stock_quantity>
+<stock_quantity>32</stock_quantity>
 <price>796.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -116848,7 +116738,7 @@
 <param name="EAN">7898574025184</param>
 </offer>
 <offer id="DB00007209" available="true">
-<stock_quantity>9</stock_quantity>
+<stock_quantity>8</stock_quantity>
 <price>848.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -117024,7 +116914,7 @@
 <param name="EAN">7898574026457</param>
 </offer>
 <offer id="DB00007222" available="true">
-<stock_quantity>26</stock_quantity>
+<stock_quantity>25</stock_quantity>
 <price>1921.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -117413,7 +117303,7 @@
 <param name="EAN">8031398000886</param>
 </offer>
 <offer id="DB00007276" available="true">
-<stock_quantity>19</stock_quantity>
+<stock_quantity>17</stock_quantity>
 <price>617.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -117598,7 +117488,7 @@
 <param name="EAN">8031398125404</param>
 </offer>
 <offer id="DB00007293" available="true">
-<stock_quantity>15</stock_quantity>
+<stock_quantity>12</stock_quantity>
 <price>333.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -117614,7 +117504,7 @@
 <param name="EAN">8031398128924</param>
 </offer>
 <offer id="DB00007294" available="true">
-<stock_quantity>41</stock_quantity>
+<stock_quantity>40</stock_quantity>
 <price>311.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -117662,7 +117552,7 @@
 <param name="EAN">8031398123585</param>
 </offer>
 <offer id="DB00007297" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>311.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -117918,7 +117808,7 @@
 <param name="EAN">8031398252117</param>
 </offer>
 <offer id="DB00007324" available="true">
-<stock_quantity>33</stock_quantity>
+<stock_quantity>32</stock_quantity>
 <price>573.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4632096</categoryId>
@@ -118208,7 +118098,7 @@
 <param name="EAN">8031398253893</param>
 </offer>
 <offer id="DB00007364" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>545.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4626409</categoryId>
@@ -118438,7 +118328,7 @@
 <param name="EAN">4894512024670</param>
 </offer>
 <offer id="DB00007608" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>680.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675022</categoryId>
@@ -120379,7 +120269,7 @@
 <param name="EAN">4820266800031</param>
 </offer>
 <offer id="DB00008282" available="true">
-<stock_quantity>35</stock_quantity>
+<stock_quantity>29</stock_quantity>
 <price>341.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>301871</categoryId>
@@ -121650,7 +121540,7 @@
 <param name="EAN">8031398125527</param>
 </offer>
 <offer id="DB00010063" available="true">
-<stock_quantity>24</stock_quantity>
+<stock_quantity>23</stock_quantity>
 <price>358.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -121831,7 +121721,7 @@
 <param name="Фасовка">200 мл</param>
 </offer>
 <offer id="DB00010121" available="true">
-<stock_quantity>15</stock_quantity>
+<stock_quantity>14</stock_quantity>
 <price>430.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
