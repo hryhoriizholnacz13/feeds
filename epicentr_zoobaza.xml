@@ -89977,9 +89977,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT12388" available="true">
+<offer id="HT12388" available="false">
 <price>805.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="2558">Вафельниці</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000007102_237865996.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000007102_237865989.jpg</picture>
@@ -92189,9 +92189,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT23690" available="true">
+<offer id="HT23690" available="false">
 <price>5054.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="1619">Бойлери</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_dbb1028f-286a-11e9-b847-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000001755_411663512.jpg</picture>
@@ -103211,9 +103211,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT34106" available="false">
+<offer id="HT34106" available="true">
 <price>16267.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="81">Кухонні плити</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155592.jpg</picture>
 <name lang="ua">Плита газова CASTLE CG-60X</name>
@@ -105065,9 +105065,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35016" available="true">
+<offer id="HT35016" available="false">
 <price>743.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="1712">Харчові контейнери</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166951.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166952.jpg</picture>
@@ -105734,9 +105734,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35138" available="true">
+<offer id="HT35138" available="false">
 <price>571.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="1715">Кришки для посуду</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169381.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169382.jpg</picture>
@@ -106685,9 +106685,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35272" available="true">
+<offer id="HT35272" available="false">
 <price>10107.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="8750">Мультипечі</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171552.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171553.jpg</picture>
@@ -109217,7 +109217,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT35816" available="true">
-<price>15600.00</price>
+<price>14025.00</price>
 <availability>in_stock</availability>
 <category code="161">Телевізори</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180142.jpg</picture>
