@@ -51342,9 +51342,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[5060189751945]]></param>
 </offer>
-<offer id="TX31311" available="true">
+<offer id="TX31311" available="false">
 <price>739.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4850">Засоби для прибирання за тваринами</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX31311-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX31311-2.jpg</picture>
@@ -54974,9 +54974,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[6410329344855]]></param>
 </offer>
-<offer id="TX31675" available="true">
+<offer id="TX31675" available="false">
 <price>1685.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7372">Нашийники для тварин</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX31675-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX31675-3.jpg</picture>
@@ -63790,9 +63790,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[7071652173735]]></param>
 </offer>
-<offer id="TX40540" available="true">
+<offer id="TX40540" available="false">
 <price>857.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="9410">Іграшки для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX40540-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX40540-2.jpg</picture>
@@ -69778,9 +69778,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[9421016594283]]></param>
 </offer>
-<offer id="TX42170" available="true">
+<offer id="TX42170" available="false">
 <price>501.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4842">Корм для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42170-5.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX42170-6.jpg</picture>
@@ -80196,9 +80196,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[6410329350283]]></param>
 </offer>
-<offer id="TX49166" available="true">
+<offer id="TX49166" available="false">
 <price>1589.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7366">Одяг для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX49166-2.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX49166-3.jpg</picture>
@@ -82882,9 +82882,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[3182550702423]]></param>
 </offer>
-<offer id="RC25220400" available="true">
+<offer id="RC25220400" available="false">
 <price>2255.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4844">Корм для котів</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/royal_canin/RC25220400-2.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/royal_canin/RC25220400-3.jpg</picture>
@@ -85967,9 +85967,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[3182550939324]]></param>
 </offer>
-<offer id="RC39020251" available="false">
+<offer id="RC39020251" available="true">
 <price>2288.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="4844">Корм для котів</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/royal_canin/RC39020251-2.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/royal_canin/RC39020251-3.jpg</picture>
@@ -86455,9 +86455,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[3182550771719]]></param>
 </offer>
-<offer id="RC39271201" available="true">
+<offer id="RC39271201" available="false">
 <price>5940.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4842">Корм для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/royal_canin/RC39271201-3.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/royal_canin/RC39271201-5.jpg</picture>
@@ -87330,9 +87330,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[3182550771344]]></param>
 </offer>
-<offer id="RC40080041" available="false">
+<offer id="RC40080041" available="true">
 <price>363.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="4844">Корм для котів</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/royal_canin/RC40080041-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/royal_canin/RC40080041-2.jpg</picture>
@@ -89305,9 +89305,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[3182550710862]]></param>
 </offer>
-<offer id="RCR448048" available="true">
+<offer id="RCR448048" available="false">
 <price>4109.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4842">Корм для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/royal_canin/RCR448048-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/royal_canin/RCR448048-2.jpg</picture>
@@ -106583,9 +106583,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35256" available="true">
+<offer id="HT35256" available="false">
 <price>1925.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="9760">Випрямлячі для волосся</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171124.jpg</picture>
 <name lang="ua">Стайлер/вирівнювач Adler AD-2327P</name>
@@ -108566,7 +108566,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT35712" available="true">
-<price>13709.00</price>
+<price>11963.00</price>
 <availability>in_stock</availability>
 <category code="161">Телевізори</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178217.jpg</picture>
@@ -109194,7 +109194,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT35815" available="true">
-<price>15524.00</price>
+<price>14850.00</price>
 <availability>in_stock</availability>
 <category code="161">Телевізори</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180134.jpg</picture>
@@ -110274,7 +110274,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT36030" available="true">
-<price>40144.00</price>
+<price>39463.00</price>
 <availability>in_stock</availability>
 <category code="161">Телевізори</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184419.jpg</picture>
@@ -113179,9 +113179,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT32116" available="false">
+<offer id="HT32116" available="true">
 <price>8292.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="82">Духові шафи</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013553_5828491028_5828491028.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013553_5828491029_5828491029.jpg</picture>
