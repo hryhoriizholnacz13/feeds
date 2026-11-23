@@ -41,7 +41,6 @@
 <category id="4626760" rz_id="4626760">Посуд</category>
 <category id="4626766" rz_id="4626766">Посуд</category>
 <category id="4626772" rz_id="4626772">Посуд</category>
-<category id="4626836" rz_id="4626836">Посуд</category>
 <category id="4626868" rz_id="4626868">Посуд</category>
 <category id="4626898" rz_id="4626898">Посуд</category>
 <category id="4626933" rz_id="4626933">Посуд</category>
@@ -79290,7 +79289,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT12707" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>10207.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80225</categoryId>
@@ -80336,7 +80335,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT19075" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>19957.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
@@ -80823,7 +80822,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT19894" available="true">
-<stock_quantity>68</stock_quantity>
+<stock_quantity>67</stock_quantity>
 <price>1198.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81227</categoryId>
@@ -81375,7 +81374,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT23201" available="true">
-<stock_quantity>15</stock_quantity>
+<stock_quantity>13</stock_quantity>
 <price>18144.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4674672</categoryId>
@@ -81494,7 +81493,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT23323" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>8244.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80140</categoryId>
@@ -81583,7 +81582,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT23352" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>3113.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80140</categoryId>
@@ -81896,40 +81895,6 @@
 <param name="Розмір">84 х 45 х 47 см</param>
 <param name="Гарантія">36 місяців</param>
 </offer>
-<offer id="HT23690" available="true">
-<stock_quantity>1</stock_quantity>
-<price>4594.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80131</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_dbb1028f-286a-11e9-b847-8c89a59571bd.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000001755_Standar.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000001755_Standar.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000001755_411663510.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000001755_411663512.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000001755_411663514.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000001755_411663518.jpg</picture>
-<vendor>Novatec</vendor>
-<article>NT-S 50</article>
-<name>Водонагреватель Novatec Standart NT-S 50 (NT-S 50)</name>
-<name_ua>Водонагрівач Novatec Standart NT-S 50 (NT-S 50)</name_ua>
-<description><![CDATA[<p>Компактные размеры STANDARD 50 подходят для кухни, душа, гостиничного номера с душевой кабиной, дачного домика или небольшой торговой точки. STANDARD 50 просто незаменим, если горячая вода подается с незначительными перерывами. Бойлер NOVA TEC Standard 50 используется, когда нужны сравнительно небольшие объемы горячей воды (до 150 литров единоразово). 50-литрового водонагревателя NOVA TEC хватит для того, чтобы принять душ семье из двух-трех человек, искупать ребенка. Основные характеристики:- Регулируемый термостат выполняет сразу 3 функции: управление температурой, обеспечение работы в автоматическом режиме и безопасность. Регулировка позволяет контролировать расход электроэнергии, а следовательно, и финансовые затраты. Автоматика обеспечивает работу водонагревателя NOVA TEC по принципу «включил и забыл» (полный автомат).- Классический медный ТЭН оптимальной мощности не склонен к коррозии. Он обеспечивает быстрый нагрев, бережно расходует электроэнергию и прекрасно работает даже при пониженном напряжении в сети. ТЭН адаптирован для работы в наших условиях и устойчив к перепадам напряжения.- Для дополнительной защиты от коррозии в водонагревателях NOVA TEC используется магниевый протектор. Это проверенный и надежный способ защиты от воздействия агрессивных веществ, содержащихся в водопроводной воде.- Весь электрический блок, включая ТЭН, термостат и магниевый анод, собран на массивном стальном фланце, который крепится к баку с помощью пяти мощных болтов.</p>]]></description>
-<description_ua><![CDATA[<p>Компактні розміри STANDARD 50 підходять для кухні, душа, готельного номера з душовою кабіною, дачного будиночка або невеликої торгової точки. STANDARD 50 просто незамінний, якщо гаряча вода подається з незначними перервами. Бойлер NOVA TEC Standard 50 використовується, коли потрібні порівняно невеликі обсяги гарячої води (до 150 літрів одноразово). 50-літрового водонагрівача NOVA TEC вистачить для того, щоб прийняти душ сім'ї з двох-трьох чоловік, викупати дитину. Основні характеристики:- Регульований термостат виконує відразу 3 функції: управління температурою, забезпечення роботи в автоматичному режимі і безпека. Регулювання дозволяє контролювати витрату електроенергії, а, отже, і фінансові витрати. Автоматика забезпечує роботу водонагрівача NOVA TEC за принципом «включив і забув» (повний автомат).- Класичний мідний ТЕН оптимальної потужності не схильний до корозії. Він забезпечує швидкий нагрів, дбайливо витрачає електроенергію і прекрасно працює навіть при зниженій напрузі в мережі. ТЕН адаптований для роботи в наших умовах і стійкий до перепадів напруги.- Для додаткового захисту від корозії в водонагрівачах NOVA TEC використовується магнієвий протектор. Це перевірений і надійний спосіб захисту від впливу агресивних речовин, що містяться у водопровідній воді.- Весь електричний блок, включаючи ТЕН, термостат і магнієвий анод, зібраний на масивному сталевому фланці, який кріпиться до бака за допомогою п'яти потужних болтів.</p>]]></description_ua>
-<param name="Тип">Водонагрівач</param>
-<param name="Колір">Білий</param>
-<param name="Призначення">Побутове</param>
-<param name="Споживана потужність">1200 Вт</param>
-<param name="Тип управління">Механічне</param>
-<param name="Максимальна температура нагріву">до 77°C</param>
-<param name="Встановлення">Вертикальне</param>
-<param name="Час нагріву">2.40 г</param>
-<param name="Кількість ТЕНів">1</param>
-<param name="Нагрівальний елемент">Відкритий</param>
-<param name="Об&apos;єм баку">50 л</param>
-<param name="Тип нагрівального елемента">Мокрий ТЕН</param>
-<param name="Вага">17 кг</param>
-<param name="Розмір">55.3 х 46 х 46 см</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
 <offer id="HT23779" available="true">
 <stock_quantity>3</stock_quantity>
 <price>4408.00</price>
@@ -82078,7 +82043,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT23894" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>6463.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80142</categoryId>
@@ -82502,7 +82467,7 @@
 <param name="Матеріал корпусу">Папір</param>
 </offer>
 <offer id="HT25139" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>17100.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80203</categoryId>
@@ -82563,7 +82528,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT25294" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>2317.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>112986</categoryId>
@@ -82815,7 +82780,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT26001" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>6175.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4631249</categoryId>
@@ -82869,7 +82834,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT26360" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>23175.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80123</categoryId>
@@ -83041,7 +83006,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT26698" available="true">
-<stock_quantity>28</stock_quantity>
+<stock_quantity>27</stock_quantity>
 <price>14969.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -83097,7 +83062,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT26917" available="true">
-<stock_quantity>26</stock_quantity>
+<stock_quantity>25</stock_quantity>
 <price>17438.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -84139,7 +84104,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT29403" available="true">
-<stock_quantity>10</stock_quantity>
+<stock_quantity>9</stock_quantity>
 <price>1959.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80143</categoryId>
@@ -84932,7 +84897,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT30002" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>4262.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81089</categoryId>
@@ -85016,7 +84981,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30056" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>12169.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80225</categoryId>
@@ -85449,30 +85414,6 @@
 <param name="Нагрівальний елемент">Дисковий</param>
 <param name="Об&apos;єм чайника">1,7 л</param>
 <param name="Гарантія">12 місяців</param>
-</offer>
-<offer id="HT30433" available="true">
-<stock_quantity>1</stock_quantity>
-<price>1745.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>185696</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011868_367975232.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011868_sushka-dlya-belya-eurohome-astra-20m-chernyy-2032lu-5-860x860.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011868_sushka-dlya-belya-eurohome-astra-20m-chernyy-2032lu-4-860x860.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000011868_sushka-dlya-belya-eurohome-astra-20m-chernyy-2032lu-2-860x860.jpg</picture>
-<vendor>Eurohome</vendor>
-<article>2022LX</article>
-<name>Сушилка для одежды Eurohome 2022LX COMFORT 20м (2022LX)</name>
-<name_ua>Сушарка для одягу Eurohome 2022LX COMFORT 20м (2022LX)</name_ua>
-<description><![CDATA[<p>Сушилка для белья Eurohome COMFORT небольшая и компактная, ее легко складывать и раскладывать. В сложенном виде конструкция занимает немного места, и ее можно разместить в небольшом пространстве. Габаритные размеры сушилки в закрытом состоянии: 55 x 8 x 129 см, вес – 3.2 кг. Крылья, которые находятся по бокам корпуса, раскладываются в разные стороны и увеличивают рабочую поверхность сушки до 20 м. Размеры конструкции в раскрытом виде 178 x 55 x 93 см. Максимально допустимая нагрузка - 20 кг, можно одновременно сушить нижнее белье из двух-трех загрузок стиральной машины. Прочная и устойчивая сушилка изготовлена из стали и покрыта электростатической порошковой краской для защиты от коррозии. Все пластиковые компоненты прочные, из стойкого к царапинам и деформации материала.</p>]]></description>
-<description_ua><![CDATA[<p>Сушарка для білизни Eurohome COMFORT невелика та компактна, її легко складати та розкладати. У складеному вигляді конструкція займає небагато місця і її можна розмістити у невеликому просторі. Габаритні розміри сушарки у закритому стані: 55 x 8 x 129 см, вага – 3.2 кг. Крила, які знаходяться з боків корпусу, розкладаються в різні боки і збільшують робочу поверхню сушіння до 20 м. Розміри конструкції в розкритому вигляді 178 x 55 x 93 см. Максимально допустиме навантаження - 20 кг, можна одночасно сушити нижню білизну з двох-трьох завантажень пральної машини. Міцна та стійка сушилка виготовлена зі сталі та покрита електростатичною порошковою фарбою для захисту від корозії. Всі пластикові компоненти міцні, із стійкого до подряпин та деформації матеріалу.</p>]]></description_ua>
-<param name="Тип">Сушарка для одягу</param>
-<param name="Колір">Чорний</param>
-<param name="Призначення">Побутове</param>
-<param name="Встановлення">Підлогове</param>
-<param name="Матеріал корпусу">Сталь</param>
-<param name="Максимальне навантаження, кг">20 кг</param>
-<param name="Вага">3.2 кг</param>
-<param name="Розмір">178 x 55 x 93 см</param>
 </offer>
 <offer id="HT30465" available="true">
 <stock_quantity>15</stock_quantity>
@@ -86266,7 +86207,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30632" available="true">
-<stock_quantity>8</stock_quantity>
+<stock_quantity>7</stock_quantity>
 <price>1662.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4634449</categoryId>
@@ -86708,7 +86649,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT30786" available="true">
-<stock_quantity>46</stock_quantity>
+<stock_quantity>44</stock_quantity>
 <price>346.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4674121</categoryId>
@@ -86729,7 +86670,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30787" available="true">
-<stock_quantity>37</stock_quantity>
+<stock_quantity>33</stock_quantity>
 <price>346.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4674121</categoryId>
@@ -86776,7 +86717,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30811" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>15150.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80141</categoryId>
@@ -86913,7 +86854,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30835" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>7</stock_quantity>
 <price>56419.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -87344,39 +87285,6 @@
 <param name="Висота">27,5 см</param>
 <param name="Глибина">31,3 см</param>
 <param name="Гарантія">36 місяців</param>
-</offer>
-<offer id="HT31158" available="true">
-<stock_quantity>1</stock_quantity>
-<price>22375.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80124</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000125951.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000125952.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000125953.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000125954.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000125955.jpg</picture>
-<vendor>Candy</vendor>
-<article>CW50-BP12307WU1-S</article>
-<name>Стиральная машина Candy CW50-BP12307WU-S (CW50-BP12307WU1-S)</name>
-<name_ua>Пральна машина Candy CW50-BP12307WU-S (CW50-BP12307WU1-S)</name_ua>
-<description><![CDATA[<p>MiniAqua Candy MiniAqua — идеальное решение для вашего ограниченного пространства без ущерба для ухода за одеждой, дизайна или здоровья планеты. Имея всего 70 см в высоту и 51 см в ширину, она может вместить впечатляющие 5 кг одежды, сохраняя отличную энергоэффективность. Более гигиеничная стирка благодаря Smart Dual Spray Candy Smart Dual Spray — это автоматическая система очистки, которая активируется в конце каждого цикла стирки. Эта функция не только обеспечивает более гигиеничную стирку вашего белья, но и улучшает длительный срок службы машины. Идеальные результаты стирки благодаря антибактериальной обработке Благодаря нашей антибактериальной обработке (ABT) ваша стиральная машина в безопасности! Наиболее уязвимые зоны, такие как уплотнитель иллюминатора, защищены от плесени и размножения бактерий, что обеспечивает на 99% более гигиеничную стирку. Бережная и эффективная стирка Будьте готовы почувствовать уход за бельем как никогда раньше благодаря недавно разработанной внутренней поверхности барабана! Независимо от того, насколько деликатны ткани, будьте уверены, что к ним будут относиться максимально бережно, обеспечивая бескомпромиссную стирку. Секрет заключается в наших специально разработанных подушечках, которые позволяют белью мягко скользить по поверхности, устраняя риск зацепления ткани, потому что созданы для защиты вашей одежды! Inverter Silent+ Система Inverter Silent+ с бесшумным инверторным мотором позволяет стиральной машине занять одно из первых мест по бесшумности в своем сегменте и гарантирует оптимизацию потребления и экономию электроэнергии. Выстирайте свою одежду всего за 15 минут Самое умное и быстрое решение выстирать вашу одежду всего за 15 минут? Ответ: программа "Быстрая стирка 15" от Candy —лучший компромисс, если у вас нет времени или просто нужно освежить одежду. Избегайте складок с помощью функции "Антискладки" С Candy MiniAqua вам не нужно немедленно разгружать стиральную машину. Благодаря функции "Антискладки" барабан неоднократно вращается после цикла отжима, позволяя вынимать одежду даже через 12 часов. С отсрочкой старта вы можете стирать, когда это удобнее С помощью этой функции вы можете запрограммировать время завершения цикла стирки до 24 часов! Выберите нужное время завершения и позвольте стиральной машине автоматически рассчитать наиболее подходящее время начала. Candy упрощает вашу жизнь, давая вам свободу определять приоритеты своих обязательств!</p>]]></description>
-<description_ua><![CDATA[<p>MiniAqua Candy MiniAqua — ідеальне рішення для вашого обмеженого простору без шкоди для догляду за одягом, дизайну чи здоров’я планети. Маючи лише 70 см у висоту та 51 см у ширину, вона може вмістити вражаючі 5 кг одягу, зберігаючи чудову енергоефективність. Більш гігієнічне прання завдяки Smart Dual Spray Candy Smart Dual Spray — це автоматична система очищення, яка активується в кінці кожного циклу прання. Ця функція не тільки забезпечує більш гігієнічне прання вашої білизни, але й покращує тривалий термін служби машини. Ідеальні результати прання завдяки антибактеріальній обробці Завдяки нашій антибактеріальній обробці (ABT) ваша пральна машина в безпеці! Найбільш вразливі зони, такі як ущільнювач ілюмінатора, захищені від цвілі та розмноження бактерій, що забезпечує на 99% гігієнічніше прання. Дбайливе та ефективне прання Будьте готові відчути догляд за білизною, як ніколи раніше, завдяки нещодавно розробленій внутрішній поверхні барабана! Незалежно від того, наскільки делікатні тканини, будьте впевнені, що до нього ставитимуться максимально дбайливо, забезпечуючи безкомпромісне прання. Секрет полягає в наших спеціально розроблених подушечках, які дозволяють білизні м’яко ковзати по поверхні, усуваючи ризик зачеплення тканини, тому що створені для захисту вашого одягу! Inverter Silent+ Система Inverter Silent+ з безшумним інверторним мотором дозволяє пральній машині зайняти одне з перших місць з безшумності у своєму сегменті та гарантує оптимізацію споживання і економію електроенергії. Виперіть свій одяг всього за 15 хвилин Найрозумніше та найшвидше рішення випрати ваш одяг лише за 15 хвилин? Відповідь: програма "Швидке прання 15" від Candy —найкращий компроміс, якщо у вас немає часу або просто потрібно освіжити одяг. Уникайте складок за допомогою функції "Антискладки" З Candy MiniAqua вам не потрібно негайно розвантажувати пральну машину. Завдяки функції "Антискладки" барабан неодноразово обертається після циклу віджимання, дозволяючи виймати одяг навіть через 12 годин. З відстрочкою старту ви можете прати, коли це зручніше За допомогою цієї функції ви можете запрограмувати час завершення циклу прання до 24 годин! Виберіть потрібний час завершення і дозвольте пральній машині автоматично розрахувати найбільш відповідний час початку. Candy спрощує ваше життя, даючи вам свободу визначати пріоритети своїх зобов’язань!</p>]]></description_ua>
-<param name="Тип">Пральна машина</param>
-<param name="Колір">Білий</param>
-<param name="Споживана потужність">129 кВт год/рік</param>
-<param name="Тип управління">Сенсорне</param>
-<param name="Номінальна напруга">220-240 В</param>
-<param name="Ширина">51 см</param>
-<param name="Клас енергоспоживання">А</param>
-<param name="Споживання води">30 л</param>
-<param name="Макс. швидкість віджиму">1200 об/хв</param>
-<param name="Максимальне завантаження">5 кг</param>
-<param name="Тип двигуна">Інверторний</param>
-<param name="Тип пральної машини">Автомат</param>
-<param name="Вага">47 кг</param>
-<param name="Висота">70 см</param>
-<param name="Глибина">49 см</param>
-<param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31188" available="true">
 <stock_quantity>1</stock_quantity>
@@ -88083,7 +87991,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31802" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>3640.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>112986</categoryId>
@@ -88115,7 +88023,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT31803" available="true">
-<stock_quantity>18</stock_quantity>
+<stock_quantity>17</stock_quantity>
 <price>424.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -91336,7 +91244,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT32714" available="true">
-<stock_quantity>8</stock_quantity>
+<stock_quantity>7</stock_quantity>
 <price>21313.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80123</categoryId>
@@ -92162,7 +92070,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT33013" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>7657.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80131</categoryId>
@@ -92999,7 +92907,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT33276" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>748.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81232</categoryId>
@@ -93105,7 +93013,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT33282" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>6932.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80131</categoryId>
@@ -95720,6 +95628,32 @@
 <param name="Потужність">100 Вт</param>
 <param name="Гарантія">24 місяці</param>
 </offer>
+<offer id="HT34106" available="true">
+<stock_quantity>1</stock_quantity>
+<price>14788.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>80122</categoryId>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155591.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155592.jpg</picture>
+<vendor>CASTLE</vendor>
+<article>CG-60X</article>
+<name>Плита газовая CASTLE CG-60X (CG-60X)</name>
+<name_ua>Плита газова CASTLE CG-60X (CG-60X)</name_ua>
+<description><![CDATA[<p>Съемное стеклоСъемное стекло может быть полностью снято, что делает очистку легче щелчка пальцем.</p>]]></description>
+<description_ua><![CDATA[<p>Знімне склоЗнімне скло може бути повністю знято, що робить очищення легшим клацання пальцем.</p>]]></description_ua>
+<param name="Тип">Плита газова</param>
+<param name="Колір">Сірий з чорним</param>
+<param name="Ширина">60 см</param>
+<param name="Керування">Механічне</param>
+<param name="Тип духової шафи">Газова</param>
+<param name="Тип варильної панелі">Газова</param>
+<param name="Електропідпал">Так</param>
+<param name="Кількість конфорок">4</param>
+<param name="Вага">35,5 кг</param>
+<param name="Висота">86.5 см</param>
+<param name="Глибина">60 см</param>
+<param name="Гарантія">24 місяці</param>
+</offer>
 <offer id="HT34107" available="true">
 <stock_quantity>49</stock_quantity>
 <price>16600.00</price>
@@ -95874,7 +95808,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT34146" available="true">
-<stock_quantity>10</stock_quantity>
+<stock_quantity>9</stock_quantity>
 <price>23500.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80123</categoryId>
@@ -96141,7 +96075,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT34239" available="true">
-<stock_quantity>15</stock_quantity>
+<stock_quantity>14</stock_quantity>
 <price>3481.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81089</categoryId>
@@ -96230,7 +96164,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT34242" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>43600.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -96289,7 +96223,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT34255" available="true">
-<stock_quantity>14</stock_quantity>
+<stock_quantity>13</stock_quantity>
 <price>2177.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80071</categoryId>
@@ -98406,7 +98340,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT34866" available="true">
-<stock_quantity>43</stock_quantity>
+<stock_quantity>41</stock_quantity>
 <price>16163.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -98910,6 +98844,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>80162</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165731.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165732.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165733.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165734.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165735.jpg</picture>
@@ -99083,36 +99018,6 @@
 <param name="Вага">183 г</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
-<offer id="HT35007" available="true">
-<stock_quantity>1</stock_quantity>
-<price>2555.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80161</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166761.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166762.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166763.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166764.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166765.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166766.jpg</picture>
-<vendor>Philips</vendor>
-<article>STH5010/70</article>
-<name>Отпариватель ручной Philips STH5010/70 (STH5010/70)</name>
-<name_ua>Відпарювач ручний Philips STH5010/70 (STH5010/70)</name_ua>
-<description><![CDATA[<p>Ручной отпариватель Philips серии 5000 – это надёжное решение для быстрого разглаживания складок и освежения одежды. Устройство нагревается всего за 35 секунд и готово к использованию где угодно. Благодаря лёгкому дизайну и съёмному резервуару для воды объёмом 120 мл этот отпариватель подходит для ежедневного ухода за любыми типами тканей, включая деликатные. Технология безопасного отпаривания позволяет освежать одежду, не опасаясь ожогов ткани.</p><ul><li>Идеальный выбор для тех, кто ценит мобильность и удобство в уходе за вещами.</li><li>Изящный дизайн с регулируемой насадкой: простота использования и храненияРучной отпариватель Philips 5000 всегда готов к отпариванию в нужный момент.</li></ul><p>Просто установите насадку для отпаривания одежды на вешалке или плоской поверхности – и приступайте к работе.</p><ul><li>Благодаря регулируемому наклону головки устройство можно легко упаковать для путешествий и быстро и удобно хранить дома.</li><li>Включи и работай: готов к работе за считанные секунды, без гладильной доскиЧрезвычайно простой в использовании ручной отпариватель Philips 5000 нагревается всего за 35 секунд.</li></ul><p>Вы можете забыть о большой старой неудобной гладильной доске – теперь она вам не нужна.</p><ul><li>Просто отпаривайте и разглаживайте одежду на вешалках или на плоской поверхности: работа сделана.</li><li>Режимы Eco и Max: выберите тот, что подходит вашей одеждеРучной отпариватель Philips 5000 поможет вам избавиться от надоедливых складок на любых вещах вашего гардероба, которые можно гладить.</li></ul><ul><li>Идеальный энергосберегающий режим по умолчанию – Eco, тогда как режим Max с более сильной подачей пара отлично подходит для разглаживания жёстких складок и таких тканей, как хлопок.</li><li>Заострённый наконечник: идеален для сложных для глажки участковРучной отпариватель Philips 5000 имеет заострённый наконечник, разработанный таким образом, чтобы проникать в самые сложные уголки и разглаживать даже самые жёсткие складки, рюши и манжеты.</li></ul><p>Это означает, что все ваши самые деликатные и самые мелкие вещи будут готовы к носке, когда вы этого пожелаете.</p><ul><li>Ни один ваш наряд не останется без внимания.</li><li>Мощное отпаривание: для отличных результатов без лишних усилийНа максимальном уровне мощности ручной отпариватель Philips 5000 обеспечивает впечатляющую для ручного отпаривателя мощность подачи пара (до 1400 Вт** с непрерывной подачей пара до 24 г/мин).</li></ul><ul><li>Так что вы можете легко разгладить свою любимую одежду на максимальной скорости и без всяких компромиссов.</li><li>Съёмный резервуар для воды: лёгкое наполнение и отсутствие проливанияРучной отпариватель Philips 5000 поставляется со съёмным резервуаром для воды объёмом 120 мл – поэтому его очень легко наполнить, если вам нужно дольше отпаривать вещи, и легко опорожнить перед тем, как убрать на хранение или упаковать в дорогу.</li></ul><p>Чтобы сделать наше изделие ещё стильнее, на резервуар для воды нанесён стильный узор в виде ряби, который красиво изображает изящный поток воды.45% пластика полностью перерабатывается: отличный вид и забота о планетеНа каждую тысячу проданных нами ручных отпаривателей Philips 5000 мы уменьшаем использование первичного пластика на 295 000 пластиковых соломинок.</p><ul><li>Так что вы будете чувствовать себя лучше уже во время отпаривания, а не только тогда, когда надеваете свою одежду после него.</li><li>Пар уничтожает до 99,9% бактерий/дрожжей* и клещей^Ручной отпариватель Philips 5000 уничтожает 99,99% бактерий, обеспечивая максимальную свежесть.</li></ul><p>Так что вы можете быть уверены, что одежда, которую вы собираетесь надеть, будет чрезвычайно чистой и свежей независимо от того, только что вы её постирали или уже носили.</p>]]></description>
-<description_ua><![CDATA[<p>Ручний відпарювач Philips серії 5000 – це надійне рішення для швидкого вирівнювання складок та освіження одягу. Пристрій нагрівається всього за 35 секунд і готовий до використання будь-де. Завдяки легкому дизайну та знімному резервуару для води об'ємом 120 мл, цей відпарювач підходить для щоденного догляду за будь-якими типами тканин, включаючи делікатні. Технологія безпечного відпарювання дозволяє освіжати одяг, не побоюючись опіків тканини.</p><ul><li>Ідеальний вибір для тих, хто цінує мобільність і зручність у догляді за речами.</li><li>Витончений дизайн із регульованою насадкою: простота використання й зберіганняРучний відпарювач Philips 5000 завжди готовий до відпарювання в потрібний момент.</li></ul><p>Просто встановіть насадку для відпарювання одягу на вішаку або плоскій поверхні – і приступайте до роботи.</p><ul><li>Завдяки регульованому нахилу головки пристрій можна легко упакувати для подорожей і швидко й зручно зберігати вдома.</li><li>Увімкни й працюй: готовий роботи за лічені секунди, без прасувальної дошкиНадзвичайно простий у використанні ручний відпарювач Philips 5000 нагрівається лише за 35 секунд.</li></ul><p>Ви можете забути про велику стару незручну прасувальну дошку – тепер вона вам не потрібна.</p><ul><li>Просто відпарюйте та розгладжуйте одяг на вішаках або на плоскій поверхні: роботу зроблено.</li><li>Режими Eco та Max: оберіть той, що підходить вашому одягуРучний відпарювач Philips 5000 допоможе вам позбутися надокучливих складок на будь-яких речах вашого гардеробу, які можна прасувати.</li></ul><ul><li>Ідеальний енергозберігаючий режим за замовчуванням – Eco, тоді як режим Max із сильнішою подачею пари чудово підходить для розгладжування жорстких складок і таких тканин, як бавовна.</li><li>Загострений наконечник: ідеальний для складних для прасування ділянокРучний відпарювач Philips 5000 має загострений наконечник, розроблений таким чином, щоб проникати у найскладніші куточки та розгладжувати навіть найжорсткіші складки, рюші й манжети.</li></ul><p>Це означає, що всі ваші найделікатніші та найдрібніші речі будуть готові до носіння, коли ви цього забажаєте.</p><ul><li>Жодне ваше вбрання не залишиться поза увагою.</li><li>Потужне відпарювання: для чудових результатів без зайвих зусильНа максимальному рівні потужності ручний відпарювач Philips 5000 забезпечує вражаючу для ручного відпарювача потужність подачі пари (до 1400 Вт** з безперервною подачею пари до 24 г/хв).</li></ul><ul><li>Тож ви можете легко розгладити свій улюблений одяг за максимальної швидкості й без жодних компромісів.</li><li>Знімний резервуар для води: легке наповнення та уникнення проливанняРучний відпарювач Philips 5000 постачається зі знімним резервуаром для води об’ємом 120 мл – тому його дуже легко наповнити, якщо вам потрібно довше відпарювати речі, і легко спорожнити перед тим, як прибирати на зберігання або пакувати в дорогу.</li></ul><p>Щоб зробити наш виріб ще стильнішим, на резервуар для води нанесено стильний візерунок у вигляді брижів, що красиво зображує витончений потік води.45% пластику повністю переробляється: чудовий вигляд і турбота про планетуНа кожну тисячу проданих нами ручних відпарювачів Philips 5000 ми зменшуємо використання первинного пластику на 295 000 пластикових соломинок.</p><ul><li>Тож ви почуватиметеся краще вже під час відпарювання, а не лише тоді, коли одягаєте свій одяг після нього.</li><li>Пара знищує до 99,9% бактерій/дріжджів* і кліщів^Ручний відпарювач Philips 5000 знищує 99,99% бактерій, забезпечуючи максимальну свіжість.</li></ul><p>Тож ви можете бути впевнені, що одяг, який ви збираєтесь одягнути, буде надзвичайно чистим і свіжим незалежно від того, чи ви його щойно випрали або вже носили.</p>]]></description_ua>
-<param name="Тип">Відпарювач ручний</param>
-<param name="Колір">Зелений</param>
-<param name="Регулятор температури">Так</param>
-<param name="Керування">Механічне</param>
-<param name="Об&apos;єм резервуару для води">120 мл</param>
-<param name="Покриття підошви">Керамічне</param>
-<param name="Тип праски">Відпарювач</param>
-<param name="Час нагріву">35 сек</param>
-<param name="Паровий удар">24 г/хв</param>
-<param name="Автоматичне відключення">Так</param>
-<param name="Вага">0,75 кг</param>
-<param name="Гарантія">24 місяці</param>
-</offer>
 <offer id="HT35012" available="true">
 <stock_quantity>7</stock_quantity>
 <price>980.00</price>
@@ -99207,31 +99112,6 @@
 <param name="Вага">0.8 кг</param>
 <param name="Гарантія">24 місяці</param>
 </offer>
-<offer id="HT35016" available="true">
-<stock_quantity>1</stock_quantity>
-<price>781.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4626836</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166951.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166952.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166953.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166954.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166955.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166956.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166957.jpg</picture>
-<vendor>Adler</vendor>
-<article>AD 4474 grey</article>
-<name>Ланч-бокс с подогревом Adler AD 4474 grey (AD 4474 grey)</name>
-<name_ua>Ланч-бокс з підігрівом Adler AD 4474 grey (AD 4474 grey)</name_ua>
-<description><![CDATA[<p>Обзор Ланч-бокс с подогревом Adler AD 4474 greyВы любите горячие блюда и не всегда можете съесть их сразу после приготовления? Берете обед на работу? Или вы собираетесь в путешествие и не будете иметь возможности пообедать?</p><ul><li>Контейнер для еды с подогревом AD 4474 grey - это ответ на все эти ситуации.</li><li>Нагрев и поддержание температурыПри подключении к электросети контейнер превращается в обогреватель - в нем можно разогреть еду до 50°C, а затем поддерживать температуру, пока вы ее не съедите.</li></ul><ul><li>Благодаря надежной теплоизоляции стенок и крышки контейнера ваша еда останется приятно теплой в течение длительного времени, даже если ее отсоединить от источника питания.</li><li>Функциональное пространство для разнообразных блюдПищевой контейнер Adler AD 4474 grey имеет объем 1,1 литра, чего достаточно для упаковки как минимум двух порций.</li></ul><p>Он двухкамерный, поэтому вы можете легко разделить разные продукты - например, соус и картофель. Благодаря съемному контейнеру также не возникает проблем с переноской и разогревом супа.</p><ul><li>Крышка имеет удобную ручку для переноски и специальный контейнер для ложки, которая входит в комплект.</li><li>Незаменим во многих ситуацияхБлагодаря питанию от сети AD 4474 идеально подходит для всех мест, где есть электрические розетки, но нет возможности немедленно приготовить еду.</li></ul><p>Вы особенно оцените его на рабочем месте, где теперь можно разогреть готовую еду, даже если нет микроволновой печи или электрической духовки.</p><ul><li>Кроме того, ланч-бокс пригодится, например, в командировке или во время путешествия - электрические розетки есть во многих аэропортах, на вокзалах и в общественных зданиях, и даже в некоторых видах транспорта.</li><li>Характеристики Ланч бокс с подогревом Adler AD 4474 greyНагревает еду до 50°C и сохраняет ее теплойПитание от сетиДвухкамерныйСъемный внутренний контейнерЗащитное уплотнениеЛегко разогревает едуСкладная ручкаОбъем: 1.1 лВ комплекте ложкаТип вилки: CГабариты упаковки (ВхШхГ): 24.5 х 18.5 х 12 смВес: 0.56 кгВес в упаковке: 0.80 кг</li></ul>]]></description>
-<description_ua><![CDATA[<p>Огляд Ланч-бокс з підігрівом Adler AD 4474 greyВи любите гарячі страви і не завжди можете з'їсти їх одразу після приготування? Берете обід на роботу? Або ви збираєтеся в подорож і не матимете можливості пообідати?</p><ul><li>Контейнер для їжі з підігрівом AD 4474 grey - це відповідь на всі ці ситуації.</li><li>Нагрівання та підтримання температуриПри підключенні до електромережі контейнер перетворюється на обігрівач - в ньому можна розігріти їжу до 50°C, а потім підтримувати температуру, поки ви її не з'їсте.</li></ul><ul><li>Завдяки надійній теплоізоляції стінок і кришки контейнера ваша їжа залишиться приємно теплою протягом тривалого часу, навіть якщо її від'єднати від джерела живлення.</li><li>Функціональний простір для різноманітних стравХарчовий контейнер Adler AD 4474 grey має об'єм 1,1 літра, чого достатньо для пакування щонайменше двох порцій.</li></ul><p>Він двокамерний, тому ви можете легко розділити різні продукти - наприклад, соус і картоплю. Завдяки знімному контейнеру також не виникає проблем з перенесенням та розігрівом супу.</p><ul><li>Кришка має зручну ручку для перенесення та спеціальний контейнер для ложки, що входить до комплекту.</li><li>Незамінний у багатьох ситуаціяхЗавдяки живленню від мережі, AD 4474 ідеально підходить для всіх місць, де є електричні розетки, але немає можливості негайно приготувати їжу.</li></ul><p>Ви особливо оціните його на робочому місці, де тепер можна розігріти готову їжу, навіть якщо немає мікрохвильової печі або електричної духовки.</p><ul><li>Крім того, ланч-бокс стане в нагоді, наприклад, у відрядженні або під час подорожі - електричні розетки є в багатьох аеропортах, на вокзалах і в громадських будівлях, і навіть у деяких видах транспорту.</li><li>Характеристики Ланч бокс з підігрівом Adler AD 4474 greyНагріває їжу до 50°C і зберігає її теплоюЖивлення від мережіДвокамернийЗнімний внутрішній контейнерЗахисне ущільненняЛегко розігріває їжуСкладна ручкаОб'єм: 1.1 лУ комплекті ложкаТип вилки: CГабарити упаковки (ВхШхГ): 24.5 х 18.5 х 12 смВага: 0.56 кгВага в упаковці: 0.80 кг</li></ul>]]></description_ua>
-<param name="Тип">Ланч-бокс з підігрівом</param>
-<param name="Колір">Сірий</param>
-<param name="Об`єм">1,2 л</param>
-<param name="Матеріал корпусу">Метал та пластик</param>
-<param name="Вага">0,56 кг</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
 <offer id="HT35017" available="true">
 <stock_quantity>3</stock_quantity>
 <price>371.00</price>
@@ -99283,7 +99163,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35025" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>1471.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>91458</categoryId>
@@ -99507,6 +99387,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>80162</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167692.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167693.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167694.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167695.jpg</picture>
 <vendor>Whirlpool</vendor>
@@ -99857,40 +99738,6 @@
 <param name="Вага">4,8 кг</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
-<offer id="HT35109" available="true">
-<stock_quantity>1</stock_quantity>
-<price>81875.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80037</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000168681.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000168682.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000168684.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000168685.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000168686.jpg</picture>
-<vendor>LG</vendor>
-<article>OLED65B56LA</article>
-<name>Телевизор LG OLED65B56LA (OLED65B56LA)</name>
-<name_ua>Телевізор LG OLED65B56LA (OLED65B56LA)</name_ua>
-<description><![CDATA[<p>КибербезопасностьCES Innovation Awards- 2025 HonoreewebOS Re:New ProgramLG OLEDimgРаскройте все детали света и темнотыНа базе процессора α8 Al Processor Gen2Благодаря десятилетию инноваций появился более умный и быстрый ИИ-процессор alpha 8 Gen2Наш процессор со встроенным ИИ способен распознавать контент по жанру.</p><ul><li>На основе этого он автоматически подбирает оптимальные настройки изображения для лучшей глубины и детализации.</li><li>Производительность по сравнению с OLED 2025 годапримерно в1.7xNPUУлучшенная нейроннаяобработка ИИ1.4xCPUБолее быстраяработа ЦППо сравнению с базовым Smart TV того же года, с процессором α7 AI Gen8, на основе внутреннего сравнения технических характеристик.</li><li>Почувствуйте идеальный черный цвет OLEDтолько с LG OLEDИдеальный черный цвет даже в светлыхи темных помещенияхИдеальный черный цвет сертифицирован UL и обеспечивает настоящий уровень черного, улучшая яркость и контрастность, независимо от того, светло или темно вокруг вас.</li><li>Идеальный цветСертифицировано 100 % Объем цвета и 100 % Точность передачи цвета.</li></ul><ul><li>Наслаждайтесь точными, яркими цветами даже при солнечном свете или в темноте.</li><li>Оживляйте каждый кадр с помощью AI Picture ProТехнологии AI Super Upscaling, AI Perceived Object Enhancer и OLED Dynamic Tone Mapping анализируют элементы каждого кадра, чтобы повысить разрешение, яркость, глубину и четкость.</li><li>Следующее поколение телевизоров LG с технологией искусственного интеллектаПульт AI Magic Remote дополняет опыт использования искусственным интеллектомЛегко управляйте телевизором с помощью пульта AI Magic Remote — никаких дополнительных устройств не нужно!</li></ul><ul><li>Благодаря датчику движения и колесику прокрутки вы можете наводить и кликать, как воздушной мышью, или просто использовать голосовые команды.</li><li>AI Voice IDТехнология LG Идентификации голоса ИИ распознает уникальный голос каждого пользователя и мгновенно предлагает персонализированные рекомендации.</li><li>Умный поиск с искусственным интеллектомСпросите свой телевизор о чем угодно.</li></ul><p>Встроенный искусственный интеллект распознает ваш голос и быстро дает персонализированные рекомендации на ваши запросы.</p><ul><li>Вы также можете получить дополнительные результаты и решения с помощью Microsoft Copilot.</li><li>Чат-бот с искусственным интеллектомОбщайтесь с чат-ботом на базе искусственного интеллекта с помощью пульта AI Magic Remote — решайте любые вопросы: от настроек до устранения неполадок.</li></ul><ul><li>Искусственный интеллект распознает намерения пользователя и мгновенно предлагает решения.</li><li>Консьерж с искусственным интеллектомОдно короткое нажатие кнопки ИИ на пульте открывает Консьержа с искусственным интеллектом, который предлагает персонализированные подсказки и рекомендации на основе вашей истории поиска и просмотров.</li><li>AI Picture WizardРасширенные алгоритмы анализируют 1,6 миллиарда возможных вариантов изображения, чтобы изучить ваши предпочтения.</li></ul><ul><li>В соответствии с вашим выбором телевизор формирует персонализированное изображение именно для вас.</li><li>AI Sound WizardВыберите аудио, которое вам нравится, из подборки звуковых клипов.</li></ul><ul><li>На основе 40 миллионов параметров искусственный интеллект создает индивидуальный звуковой профиль, настроенный в соответствии с вашими предпочтениями.</li><li>Обновления в течение 5 лет с отмеченной наградами программой webOS Re:NewПолучайте полные обновления и пользуйтесь преимуществами новейших функций и программного обеспечения.</li></ul><p>Лауреат награды CES Innovation Awards в категории кибербезопасности.</p><ul><li>Чувствуйте себя в безопасности, зная, что webOS защищает вашу конфиденциальность и данные.</li><li>AI Sound Pro точно настраивает звук для максимальной выразительностиЧистый звук с технологией ИИТочная коррекция тона повышает четкость звука для непревзойденных впечатлений от прослушивания.</li><li>Насыщенный звук вместе с телевизором и саундбаром LGWOW Orchestra — захватывающее звучание благодаря идеальной синергииТелевизор LG OLED и Саундбар LG — идеальное сочетание, созданное для гармоничной работы и погружения в объемное многоканальное звучание.</li><li>Изящный дизайнДобавьте современный штрих с помощью изящного дизайна, который гармонично впишется в ваше пространство.</li><li>Игра на высшем уровнеНаслаждайтесь играми на высшем уровне благодаря совместимости с G-Sync, времени отклика пикселя 0,1 мс и поддержке AMD FreeSync Premium.</li></ul><ul><li>Играйте без задержек и размытия движения.</li><li>Лучший телевизор OLED для фильмовНаслаждайтесь просмотром фильмов в домашнем кинотеатре в режиме FILMMAKER MODE с функцией компенсации окружающего освещения, которая подстраивается под окружающее освещение для обеспечения качества изображения, отвечающего высочайшим стандартам кинематографистов.</li></ul>]]></description>
-<description_ua><![CDATA[<p>КібербезпекаCES Innovation Awards- 2025 HonoreewebOS Re:New ProgramLG OLEDimgРозкрийте всі деталі світла і темрявиНа базі процесора α8 Al Processor Gen2Завдяки десятиріччю інновацій з’явився розумніший і швидший ШІ процесор alpha 8 Gen2Наш процесор із вбудованим ШІ здатен розпізнавати контент за жанром.</p><ul><li>На основі цього, він автоматично підбирає оптимальні налаштування зображення для кращої глибини та деталізації.</li><li>Продуктивність порівняно з OLED 2025 рокуприблизно в1.7xNPUПокращена нейроннаобробка ШІ1.4xCPUШвидшаробота ЦППорівняно з базовим Smart TV того ж року, з процесором α7 AI Gen8, на основі внутрішнього порівняння технічних характеристик.</li><li>Відчуйте ідеальний чорний колір OLEDлише з LG OLEDІдеальний чорний колір навіть у світлихі темних приміщенняхІдеальний чорний колір сертифікований UL та забезпечує справжній рівень чорного, покращуючи яскравість і контрастність, незалежно від того, чи навколо вас яскраво, чи темно.</li><li>Ідеальний колірСертифіковано 100 % Об’єм кольору та 100 % Точність передачі кольору.</li></ul><ul><li>Насолоджуйтеся точними, яскравими кольорами навіть при сонячному світлі або в темряві.</li><li>Оживляйте кожен кадр за допомогою AI Picture ProТехнології AI Super Upscaling, AI Perceived Object Enhancer і OLED Dynamic Tone Mapping аналізують елементи кожного кадру, щоб підвищити роздільну здатність, яскравість, глибину й чіткість.</li><li>Наступне покоління телевізорів LG з технологією штучного інтелектуПульт AI Magic Remote доповнює досвід користування штучним інтелектомЛегко керуйте телевізором за допомогою пульта AI Magic Remote — жодних додаткових пристроїв не потрібно!</li></ul><ul><li>Завдяки датчику руху та коліщатку прокрутки ви можете наводити й клацати, як повітряною мишею, або просто використовувати голосові команди.</li><li>AI Voice IDТехнологія LG Ідентифікації голосу ШІ розпізнає унікальний голос кожного користувача та миттєво пропонує персоналізовані рекомендації.</li><li>Розумний пошук з штучним інтелектомЗапитайте свого телевізора будь-що.</li></ul><p>Вбудований штучний інтелект розпізнає ваш голос і швидко надає персоналізовані рекомендації на ваші запити.</p><ul><li>Ви також можете отримати додаткові результати та рішення за допомогою Microsoft Copilot.</li><li>Чат-бот з штучним інтелектомСпілкуйтеся з чат-ботом на базі штучного інтелекту за допомогою пульта AI Magic Remote — вирішуйте будь-які питання: від налаштувань до усунення неполадок.</li></ul><ul><li>Штучний інтелект розпізнає наміри користувача та миттєво надає рішення.</li><li>Консьєрж з штучним інтелектомОдне коротке натискання кнопки ШІ на пульті відкриває Консьєржа з штучним інтелектом, який пропонує персоналізовані підказки та рекомендації на основі вашої історії пошуків і переглядів.</li><li>AI Picture WizardРозширені алгоритми аналізують 1,6 мільярда можливих варіантів зображення, щоб вивчити ваші вподобання.</li></ul><ul><li>Відповідно до ваших виборів телевізор формує персоналізоване зображення саме для вас.</li><li>AI Sound WizardОберіть аудіо, яке вам подобається, з добірки звукових кліпів.</li></ul><ul><li>На основі 40 мільйонів параметрів штучний інтелект створює індивідуальний звуковий профіль, налаштований відповідно до ваших уподобань.</li><li>Оновлення протягом 5 років з відзначеною нагородами програмою webOS Re:NewОтримайте повні оновлення та користуйтеся перевагами найновіших функцій і програмного забезпечення.</li></ul><p>Лауреат нагороди CES Innovation Awards у категорії кібербезпеки.</p><ul><li>Почувайтеся в безпеці, знаючи, що webOS захищає вашу конфіденційність і дані.</li><li>AI Sound Pro точно налаштовує звук для максимальної виразностіЧистий звук з технологією ШІТочна корекція тону підвищує чіткість звуку для неперевершених вражень від прослуховування.</li><li>Насичений звук разом із телевізором і саундбаром LGWOW Orchestra — захопливе звучання завдяки ідеальній синергіїТелевізор LG OLED та Саундбар LG — ідеальне поєднання, створене для гармонійної роботи й занурення в об’ємне багатоканальне звучання.</li><li>Витончений дизайнДодайте сучасний штрих за допомогою витонченого дизайну, який гармонійно впишеться у ваш простір.</li><li>Гра на вищому рівніНасолоджуйтесь іграми на найвищому рівні завдяки сумісності з G-Sync, часу відгуку пікселя 0,1 мс і підтримці AMD FreeSync Premium.</li></ul><ul><li>Грайте без затримок і розмиття руху.</li><li>Найкращий телевізор OLED для фільмівНасолоджуйтеся переглядом фільмів у домашньому кінотеатрі в режимі FILMMAKER MODE з функцією компенсації навколишнього освітлення, яка підлаштовується під навколишнє освітлення для забезпечення якості зображення, що відповідає найвищим стандартам кінематографістів.</li></ul>]]></description_ua>
-<param name="Тип">Телевізор</param>
-<param name="Колір">Чорний</param>
-<param name="Ширина">159,6 см</param>
-<param name="Bluetooth">Так</param>
-<param name="Wi-Fi">Так</param>
-<param name="Операційна система">WebOS</param>
-<param name="Роздільна здатність відео">4K (3840 x 2160)</param>
-<param name="DVB-C">Так</param>
-<param name="DVB-S2">Так</param>
-<param name="DVB-T2">Так</param>
-<param name="SmartTV">Так</param>
-<param name="Роздільна здатність дисплея">3840 х 2160</param>
-<param name="Частота розгортки екрана">120 Гц</param>
-<param name="Діагональ екрана">65&quot;</param>
-<param name="Вага">23 кг</param>
-<param name="Висота">95 см</param>
-<param name="Глибина">16,8 см</param>
-</offer>
 <offer id="HT35118" available="true">
 <stock_quantity>2</stock_quantity>
 <price>9707.00</price>
@@ -100021,24 +99868,6 @@
 <param name="Тип">Кришка універсальна</param>
 <param name="Колір">Прозорий</param>
 <param name="Діаметр">18, 20, 22 см</param>
-</offer>
-<offer id="HT35138" available="true">
-<stock_quantity>2</stock_quantity>
-<price>616.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4626772</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169381.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169382.jpg</picture>
-<vendor>FLORINA</vendor>
-<article>3P0202</article>
-<name>Крышка универсальная FLORINA 3P0202 (3P0202)</name>
-<name_ua>Кришка універсальна FLORINA 3P0202 (3P0202)</name_ua>
-<description><![CDATA[<p>Крышка универсальная Florina 3P0202 (24, 26, 28 см) – удобное и многофункциональное решение для вашей кухни. Эта крышка подходит для кастрюль и сковород трех стандартных диаметров – 24, 26 и 28 см, что делает ее универсальным аксессуаром для разной посуды. Изготовленная из термостойкого стекла высокого качества, крышка позволяет контролировать процесс приготовления без снятия.</p><ul><li>Металлическая окантовка повышает прочность и устойчивость к повреждениям, а эргономичная ручка не нагревается, обеспечивая безопасное использование.</li><li>Универсальный размер для посуды 24, 26, 28 смСтекло высокого качества для наблюдения за процессом приготовленияПрочная металлическая окантовка предотвращает сколыТеплостойкая эргономичная ручка для безопасного пользованияСовместима с газовыми, электрическими и индукционными плитамиИдеальная для ежедневного использования, универсальная крышка Florina 3P0202 упрощает готовку, экономит место и обеспечивает комфорт на кухне.</li></ul>]]></description>
-<description_ua><![CDATA[<p>Кришка універсальна Florina 3P0202 (24, 26, 28 см) – зручне та багатофункціональне рішення для вашої кухні. Ця кришка підходить для каструль і сковорідок трьох стандартних діаметрів – 24, 26 та 28 см, що робить її універсальним аксесуаром для різного посуду. Виготовлена з термостійкого скла високої якості, кришка дозволяє контролювати процес приготування без зняття.</p><ul><li>Металева окантовка підвищує міцність та стійкість до пошкоджень, а ергономічна ручка не нагрівається, забезпечуючи безпечне використання.</li><li>Універсальний розмір для посуду 24, 26, 28 смСкло високої якості для нагляду за процесом приготуванняМіцна металева окантовка запобігає сколамТеплостійка ергономічна ручка для безпечного користуванняСумісна з газовими, електричними та індукційними плитамиІдеальна для щоденного використання, універсальна кришка Florina 3P0202 спрощує готування, економить місце та забезпечує комфорт на кухні.</li></ul>]]></description_ua>
-<param name="Тип">Кришка універсальна</param>
-<param name="Колір">Прозорий</param>
-<param name="Матеріал корпусу">Скло</param>
-<param name="Діаметр">24.26,28 см</param>
 </offer>
 <offer id="HT35139" available="true">
 <stock_quantity>3</stock_quantity>
@@ -100729,7 +100558,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35223" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>3527.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80176</categoryId>
@@ -101088,32 +100917,6 @@
 <param name="Керування">Механічне</param>
 <param name="Матеріал корпусу">Пластик + метал</param>
 <param name="Вага">0.79 кг</param>
-<param name="Гарантія">24 місяці</param>
-</offer>
-<offer id="HT35272" available="true">
-<stock_quantity>1</stock_quantity>
-<price>9188.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>81089</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171551.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171552.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171553.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171554.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171555.jpg</picture>
-<vendor>Zelmer</vendor>
-<article>ZAF 6555</article>
-<name>Мультипечь-фритюрница Zelmer ZAF 6555 (ZAF 6555)</name>
-<name_ua>Мультипіч-фритюрниця Zelmer ZAF 6555 (ZAF 6555)</name_ua>
-<description><![CDATA[<p>ФРИТЮРНИЦА БЕЗ ЖИРА ZAF6555 DIGITAL PRO56 РЕЦЕПТОВ – ГОТОВЫЕ ИДЕИ ДЛЯ ВКУСНЫХ БЛЮД В АЭРОФРИТЮРНИЦЕАэрофритюрница ZAF6555 предлагает 56 проверенных рецептов на польском и английском языках, демонстрируя, как пользоваться всеми программами и функциями устройства.</p><ul><li>Вам не нужно придумывать собственные рецепты или искать в интернете – мы предлагаем готовые решения, которые упростят приготовление вкусных блюд, даже если вы новичок.</li><li>Панель включает 5 категорий рецептов: закуски, завтрак, десерт, основные блюда и гарниры.</li><li>Функция ИЗБРАННОЕ – отмечайте и легко находите любимые рецепты.15 АВТОМАТИЧЕСКИХ ПРОГРАММ ДЛЯ МАКСИМАЛЬНОГО УДОБСТВАФритюрница выбирает идеальное время и температуру для типа еды, а также напоминает вам перевернуть блюдо, обеспечивая идеальные результаты каждый раз.</li></ul><p>Вы можете выбрать одну из 15 программ: «Сделай сам», «Выпекание», «Запекание», «Гриль», «Поддержание тепла», «Разогрев», «Замороженное блюдо», «Овощи», «Картофель фри», «Морепродукты», «Стейк», «Курица», «Яичный тарт», «Пицца» и «Разогрев». Программа «Сделай сам» предлагает настройки по умолчанию, которые вы можете свободно настроить в соответствии с собственным рецептом.</p><ul><li>Интересной функцией является программа «Поддержание тепла», которую можно активировать после завершения приготовления, чтобы еда оставалась теплой, пока вы не вынете ее из фритюрницы.</li><li>ИНТУИТИВНЫЙ ИНТЕРФЕЙС, ПОЛНАЯ ТОЧНОСТЬЦветной сенсорный TFT-экран диагональю 4,3 дюйма делает управление фритюрницей быстрым и простым.</li></ul><p>Вы можете легко переходить между программами или выбирать и просматривать готовые рецепты шаг за шагом. Цифровые регуляторы времени и температуры позволяют точно настроить параметры вашего блюда, обеспечивая идеальные результаты каждый раз.</p><ul><li>Во время работы устройства на экране отображается таймер, который показывает оставшееся время приготовления.</li><li>ТРОЙНАЯ СИЛА ИДЕАЛЬНОГО ВЫПЕКАНИЯМощность 1800 Вт сокращает время предварительного разогрева и выпекания, так что вы можете быстрее подавать блюдо.</li></ul><p>Технология двойного нагрева равномерно распределяет тепло сверху и снизу, устраняя недожаривание и необходимость переворачивать блюдо.</p><ul><li>Циркуляция воздуха на 360° обеспечивает идеальный конечный результат, обеспечивая хрустящую корочку снаружи и сочность внутри.</li><li>ОБНОВЛЕНИЯ WI-FIАэрофритюрница ZAF6555 с Wi-Fi автоматически сообщает вам о последних обновлениях, так что вы можете сразу воспользоваться новыми функциями и улучшенной производительностью, не ища программное обеспечение вручную.</li></ul>]]></description>
-<description_ua><![CDATA[<p>ФРИТЮРНИЦЯ БЕЗ ЖИРУ ZAF6555 DIGITAL PRO56 РЕЦЕПТІВ – ГОТОВІ ІДЕЇ ДЛЯ СМАЧНИХ СТРАВ У АЕРОФРИТЮРНИЦІАерофритюрниця ZAF6555 пропонує 56 перевірених рецептів польською та англійською мовами , демонструючи, як користуватися всіма програмами та функціями пристрою.</p><ul><li>Вам не потрібно вигадувати власні рецепти чи шукати в інтернеті – ми пропонуємо готові рішення, які спростять приготування смачних страв, навіть якщо ви новачок.</li><li>Панель включає 5 категорій рецептів: закуски, сніданок, десерт, основні страви та гарніри.</li><li>Функція УЛЮБЛЕНЕ – позначайте та легко знаходьте улюблені рецепти.15 АВТОМАТИЧНИХ ПРОГРАМ ДЛЯ МАКСИМАЛЬНОЇ ЗРУЧНОСТІФритюрниця вибирає ідеальний час і температуру для типу їжі, а також нагадує вам перевернути страву, забезпечуючи ідеальні результати щоразу.</li></ul><p>Ви можете вибрати одну з 15 програм: «Зроби сам», «Випікання», «Запікання», «Гриль», «Підтримка тепла», «Розігрівання», «Заморожена страва», «Овочі», «Картопля фрі», «Морепродукти», «Стейк», «Курка», «Яєчний тарт», «Піца» та «Розігрівання» . Програма «Зроби сам» пропонує налаштування за замовчуванням, які ви можете вільно налаштувати відповідно до власного рецепту.</p><ul><li>Цікавою функцією є програма «Підтримка тепла» , яку можна активувати після завершення приготування, щоб їжа залишалася теплою, доки ви не виймете її з фритюрниці.</li><li>ІНТУЇТИВНИЙ ІНТЕРФЕЙС, ПОВНА ТОЧНІСТЬКольоровий сенсорний TFT-екран діагоналлю 4,3 дюйма робить керування фритюрницею швидким і простим.</li></ul><p>Ви можете легко переходити між програмами або вибирати та переглядати готові рецепти крок за кроком. Цифрові регулятори часу та температури дозволяють точно налаштувати параметри вашої страви, забезпечуючи ідеальні результати щоразу.</p><ul><li>Під час роботи пристрою на екрані відображається таймер, що показує час приготування, що залишився.</li><li>ПОТРІЙНА СИЛА ІДЕАЛЬНОЇ ВИПІКАННЯПотужність 1800 Вт скорочує час попереднього розігріву та випікання, тож ви можете швидше подавати страву.</li></ul><p>Технологія подвійного нагріву рівномірно розподіляє тепло зверху та знизу, усуваючи недосмажування та необхідність перевертати страву.</p><ul><li>Циркуляція повітря на 360° забезпечує ідеальний кінцевий результат , забезпечуючи хрустку скоринку зовні та соковитість всередині.</li><li>ОНОВЛЕННЯ WI-FIАерофритюрниця ZAF6555 з Wi-Fi автоматично повідомляє вас про останні оновлення, тож ви можете одразу скористатися новими функціями та покращеною продуктивністю, не шукаючи програмне забезпечення вручну.</li></ul>]]></description_ua>
-<param name="Тип">Мультипіч-фритюрниця</param>
-<param name="Колір">Нержавіюча сталь з чорним</param>
-<param name="Об`єм">6,5 л</param>
-<param name="Покриття чаші">Антипригарне</param>
-<param name="Керування">Сенсорне</param>
-<param name="Матеріал корпусу">Пластик + метал</param>
-<param name="Кількість програм приготування">15</param>
-<param name="Температура нагріву">100 - 210 °С</param>
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35273" available="true">
@@ -102152,7 +101955,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35364" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>1880.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81235</categoryId>
@@ -102391,7 +102194,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35380" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>543.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80156</categoryId>
@@ -102585,7 +102388,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35394" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>993.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80163</categoryId>
@@ -102806,7 +102609,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35406" available="true">
-<stock_quantity>19</stock_quantity>
+<stock_quantity>18</stock_quantity>
 <price>576.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80161</categoryId>
@@ -103426,7 +103229,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35453" available="true">
-<stock_quantity>104</stock_quantity>
+<stock_quantity>103</stock_quantity>
 <price>285.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4672913</categoryId>
@@ -103494,35 +103297,6 @@
 <param name="Вага">37 кг</param>
 <param name="Висота">59,7 см</param>
 <param name="Глибина">56,4 см</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
-<offer id="HT35458" available="true">
-<stock_quantity>1</stock_quantity>
-<price>26963.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80162</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000174771.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000174773.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000174774.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000174775.jpg</picture>
-<vendor>Whirlpool</vendor>
-<article>WMD54MB</article>
-<name>Микроволновая печь Whirlpool WMD54MB (WMD54MB)</name>
-<name_ua>Мікрохвильова піч Whirlpool WMD54MB (WMD54MB)</name_ua>
-<description><![CDATA[<p>Объем 31 литр Больше места для приготовления кулинарных творений.</p><ul><li>Эта микроволновая печь Whirlpool имеет объем 31 л, предоставляя вам достаточно места для воплощения в жизнь новых рецептов.</li><li>Функция Crisp Непревзойденно хрустящая корочка.</li></ul><ul><li>Микроволновая печь Whirlpool с функцией Crisp дополнена специальной тарелкой и гарантирует вам приготовление самой хрустящей пиццы, пирога или киша.</li><li>Гриль Быстрое приготовление на гриле, быстрая очистка.</li></ul><p>Мощный гриль обеспечит такие же результаты, как традиционный духовой шкаф.</p><ul><li>Поскольку гриль откидной, очистка станет чрезвычайно простой.</li><li>Функция JetDefrost Турбо разморозка.</li></ul><ul><li>Используйте уникальную систему JetDefrost 3D для эффективной и быстрой разморозки.</li><li>Функция "Разогрев" Быстрый разогрев.</li></ul><p>Эта функция обеспечит разогрев за считанные минуты.3D-Технология Приготовлено до совершенства.</p><ul><li>Революционная система 3D обеспечивает циркуляцию и трехмерное распределение тепла, так что вы всегда можете наслаждаться равномерно приготовленными блюдами одним нажатием кнопки.</li><li>Технология 6th Sense Уверенное приготовление пищи.</li></ul><p>С технологией 6th Sense ваша микроволновая печь автоматически устанавливает время, температуру и уровень энергопотребления.6th Sense меню Готовые рецепты.</p><ul><li>Выберите один из 62 запрограммированных рецептов, и ваша печь автоматически подберет лучшую функцию и отрегулирует температуру, уровень мощности и настройки времени, контролируя приготовление, чтобы вы могли наслаждаться идеальными блюдами.</li><li>Auto Clean Все, что вам необходимо сделать для простой и быстрой очистки микроволновой печи, - поставить в нее емкость с водой и активировать функцию очистки.</li></ul><ul><li>Сила природного пара за считанные минуты смягчит застарелые загрязнения, и вы сможете просто вытереть их чистой влажной тряпкой.</li><li>Блокировка от детейБезопасность в первую очередь.</li></ul><ul><li>Эта модель микроволновой печи Whirlpool имеет систему блокировки от детей, чтобы предотвратить использование прибора без присмотра взрослых.</li><li>Jet MenuГотовые настройки.</li></ul><p>Jet Menu предлагает вам ряд предварительно запрограммированных настроек для быстрого приготовления замороженной готовой еды.</p><ul><li>Просто выберите тип продукта, введите вес, и микроволновая печь сделает все остальное.</li><li>Функция Jet Start Чрезвычайно быстрый нагрев.</li></ul><ul><li>Функция Jet Start ускоряет нагрев до максимума за 30 секунд, обеспечивая идеальный температурный режим для разогрева еды с высоким содержанием воды, такой как бульоны или напитки.</li><li>Кварцевый гриль Многогранный опыт приготовления.</li></ul><p>Кварцевый гриль подогревает и готовит еду быстрее, чем традиционные инфракрасные грили. Он имеет высокую эффективность, уменьшает расходы энергии и очищается автоматически..</p>]]></description>
-<description_ua><![CDATA[<p>Об'єм 31 літр Більше місця для приготування кулінарних творінь.</p><ul><li>Ця мікрохвильова піч Whirlpool має об'єм 31 л, надаючи вам достатньо місця для втілення в життя нових рецептів.</li><li>Функція Crisp Неперевершено хрустка скоринка.</li></ul><ul><li>Мікрохвильова піч Whirlpool із функцією Crisp доповнена спеціальною тарілкою та гарантує вам приготування найхрусткішої піци, пирога або кіша.</li><li>Гриль Швидке приготування на грилі, швидке очищення.</li></ul><p>Потужний гриль забезпечить такі ж результати, як традиційна духова шафа.</p><ul><li>Оскільки гриль відкидний, очищення стане надзвичайно простим.</li><li>Функція JetDefrost Турбо розморозка.</li></ul><ul><li>Використовуйте унікальну систему JetDefrost 3D для ефективної і швидкої розморозки.</li><li>Функція "Розігрів" Швидкий розігрів.</li></ul><p>Ця функція забезпечить розігрів у лічені хвилини.3D-Технологія Приготовано до досконалості.</p><ul><li>Революційна система 3D забезпечує циркуляцію та трьохмірний розподіл тепла, тож ви завжди можете насолоджуватися рівномірно приготовленими стравами одним натисканням кнопки.</li><li>Технологія 6th Sense Впевнене приготування їжі.</li></ul><p>З технологією 6th Sense ваша мікрохвильова піч автоматично встановлює час, температуру і рівень енергоспоживання.6th Sense меню Готові рецепти.</p><ul><li>Виберіть один із 62 запрограмованих рецептів і ваша піч автоматично підбере найкращу функцію та відрегулює температуру, рівень потужності та налаштування часу, контролюючи приготування, щоб ви могли насолоджуватися ідеальними стравами.</li><li>Auto Clean Все, що вам необхідно зробити для простого та швидкого очищення мікрохвильової печі - поставити у неї ємність з водою та активувати функцію очищення.</li></ul><ul><li>Сила природньої пари у лічені хвилини пом'якшить застарілі забруднення і ви зможете просто витерти їх чистою вологою ганчіркою.</li><li>Блокування від дітейБезпека в першу чергу.</li></ul><ul><li>Ця модель мікрохвильової печі Whirlpool має систему блокування від дітей, щоб запобігти використанню приладу без нагляду дорослих.</li><li>Jet MenuГотові налаштування.</li></ul><p>Jet Menu пропонує вам ряд попередньо запрограмованих налаштувань для швидкого приготування замороженої готової їжі.</p><ul><li>Просто виберіть тип продукту, введіть вагу і мікрохвильова піч зробить все інше.</li><li>Функція Jet Start Надзвичайно швидкий нагрів.</li></ul><ul><li>Функція Jet Start прискорює нагрів до максимуму за 30 секунд, забезпечуючи ідеальний температурний режим для розігірву їжі з високим вмістом води, таку як бульйони або напої.</li><li>Кварцовий гриль Багатогранний досвід приготування.</li></ul><p>Кварцовий гриль підігріває і готує їжу швидше, ніж традиційні інфрачервоні грилі. Він має високу ефективність, зменшує витрати енергії і очищується автоматично..</p>]]></description_ua>
-<param name="Тип">Мікрохвильова піч</param>
-<param name="Колір">Чорний</param>
-<param name="Об`єм">31 л</param>
-<param name="Ширина">59,5 см</param>
-<param name="Керування">Електронне</param>
-<param name="Гриль">Так</param>
-<param name="Кількість рівнів">7</param>
-<param name="Тип НВЧ">Вбудована</param>
-<param name="Внутрішнє покриття">Емаль</param>
-<param name="Вага">27 кг</param>
-<param name="Висота">38,5 см</param>
-<param name="Глибина">46,8 см</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35461" available="true">
@@ -105657,7 +105431,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35745" available="true">
-<stock_quantity>12</stock_quantity>
+<stock_quantity>11</stock_quantity>
 <price>8150.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4631242</categoryId>
@@ -106121,7 +105895,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35781" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>636.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -106282,37 +106056,6 @@
 <param name="Загальний об&apos;єм">375 л</param>
 <param name="Висота">203 cм</param>
 <param name="Глибина">67,5 см</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
-<offer id="HT35810" available="true">
-<stock_quantity>2</stock_quantity>
-<price>34750.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80125</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178812.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178814.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178815.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178817.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178818.jpg</picture>
-<vendor>LG</vendor>
-<article>GC-B509EMLM</article>
-<name>Холодильник LG GC-B509EMLM (GC-B509EMLM)</name>
-<name_ua>Холодильник LG GC-B509EMLM (GC-B509EMLM)</name_ua>
-<description><![CDATA[<ul><li>Идеально дополнит вашу кухню и обеспечит максимальную свежесть.</li><li>Нулевой зазор*Создан, чтобы подходить к любой кухне.</li><li>Стильное и современное сочетаниеНовый холодильник с нижней морозильной камерой - это воплощение функциональности и стиля в элегантном корпусе.</li></ul><ul><li>Минималистичный дизайн подчеркивает элегантность и удобство.</li><li>Умные функцииУмное охлаждение для оптимизации потребления электроэнергии с LG ThinQРежим энергосбереженияСистема в течение трех недель изучает, как вы пользуетесь холодильником, определяет периоды с наименьшим количеством открываний дверцы и в эти часы уменьшает потребление электроэнергии, обеспечивая при этом надлежащее сохранение свежести продуктов.</li><li>Оптимальное охлаждение при частом открывании дверцыСистема уменьшает колебания температуры во время частого открывания холодильника, анализируя данные об использовании.</li></ul><ul><li>На основе собранной статистики она заранее - примерно за два часа - активирует более интенсивное охлаждение, чтобы поддерживать стабильную температуру внутри.</li><li>Оповещение об открытой дверцеФункция оповещения об открытой дверце¹ обеспечивает длительную свежесть ваших продуктов и минимизирует расходы электроэнергии, оповещая вас о неполном закрытии дверцы.</li><li>Максимальная свежестьТехнология LinearCooling сохраняет продукты свежими дольше, уменьшая колебания температуры и сохраняя их вкус и внешний вид.</li><li>Быстрое и равномерное охлаждение с DoorCooling+*Технология DoorCooling+ обеспечивает более быстрое и равномерное охлаждение по всему холодильнику и сохраняет ваши продукты свежими намного дольше.</li><li>Multi Air Flow*Total No Frost** помогает сохранять свежесть ваших продуктов благодаря технологии Multi Air Flow, которая распределяет холодный воздух равномерно по всему холодильнику.</li></ul><ul><li>Это освобождает вас от необходимости размораживания холодильной и морозильной камер.</li><li>Тихая работаНаслаждайтесь меньшим уровнем шума благодаря усовершенствованной работе инверторного компрессора Smart Inverter*.</li></ul><ul><li>Тихая и надежная работа, чтобы ничто не нарушало Вашего спокойствия дома.</li><li>Высокая энергоэффективностьКомпрессор LG Smart Inverter* регулирует мощность охлаждения в соответствии с потребностями, уменьшая потребление электроэнергии и работая тихо и надежно.</li></ul><p>Компания LG создает сверхнадежную технику и помимо полной гарантии на продукт сроком 12 месяцев обязуется бесплатно предоставлять определенный перечень деталей для дальнейшей замены. Для холодильников LG эти обязательства распространяются на отдельные детали инверторного и линейного компрессоровКонтроль перепада напряженияКомпания LG заботится о комфорте и безопасности своих потребителей. Специально разработанная система защиты от перепадов напряжения позволяет всей технике LG работать без перебоев. С ней можно не волноваться, что техника сгорит от очередного отключения света или очевидных перепадов напряжения в диапазоне от 196 до 285 Вольт.</p>]]></description>
-<description_ua><![CDATA[<ul><li>Ідеально доповнить вашу кухню та забезпечить максимальну свіжість.</li><li>Нульовий зазор*Створений, щоб пасувати до будь-якої кухні.</li><li>Стильне та сучасне поєднанняНовий холодильник з нижньою морозильною камерою - це втілення функціональності і стилю в елегантному корпусі.</li></ul><ul><li>Мінімалістичний дизайн підкреслює елегантність і зручність.</li><li>Розумні функціїРозумне охолодження для оптимізації споживання електроенергії з LG ThinQРежим енергозбереженняСистема упродовж трьох тижнів вивчає, як ви користуєтеся холодильником, визначає періоди з найменшою кількістю відкривань дверцят і в ці години зменшує споживання електроенергії, забезпечуючи водночас належне зберігання свіжості продуктів.</li><li>Оптимальне охолодження при частому відкриванні дверцятСистема зменшує коливання температури під час частого відкривання холодильника, аналізуючи дані про користування.</li></ul><ul><li>На основі зібраної статистики вона заздалегідь - приблизно за дві години - активує інтенсивніше охолодження, щоб підтримувати стабільну температуру всередині.</li><li>Оповіщення відчинених дверцятФункція сповіщення про відчинені дверцята¹ забезпечує довготривалу свіжість ваших продуктів і мінімізує витрати електроенергії, сповіщаючи вас про неповне закриття дверцят.</li><li>Максимальна свіжістьТехнологія LinearCooling зберігає продукти свіжими довше, зменшуючи коливання температури та зберігаючи їхній смак і зовнішній вигляд.</li><li>Швидке та рівномірне охолодження з DoorCooling+*Технологія DoorCooling+ забезпечує більш швидке та рівномірне охолодження по всьому холодильнику і зберігає ваші продукти свіжими набагато довше.</li><li>Multi Air Flow*Total No Frost** допомагає зберігати свіжість ваших продуктів завдяки технології Multi Air Flow, яка розподіляє холодне повітря рівномірно по всьому холодильнику.</li></ul><ul><li>Це звільняє вас від необхідності розморожування холодильної і морозильної камер.</li><li>Тиха роботаНасолоджуйтесь меншим рівнем шуму завдяки вдосконаленій роботі інверторного компресора Smart Inverter*.</li></ul><ul><li>Тиха і надійна робота, щоб нічого не порушувало Вашого спокою вдома.</li><li>Висока енергоефективністьКомпресор LG Smart Inverter* регулює потужність охолодження відповідно до потреб, зменшуючи споживання електроенергії та працюючи тихо й надійно.</li></ul><p>Компанія LG створює наднадійну техніку та окрім повної гарантії на продукт терміном 12 місяців зобов’язується безкоштовно надавати певний перелік деталей для подальшої заміни. Для холодильників LG ці зобов’язання поширюються на окремі деталі інверторного та лінійного компресорівКонтроль перепаду напругиКомпанія LG дбає про комфорт та безпеку своїх споживачів. Спеціально розроблена система захисту від перепадів напруги дозволяє всій техніці LG працювати без перебоїв. З нею можна не хвилюватися, що техніка згорить від чергового відключення світла чи очевидних перепадів напруги у діапазоні від 196 до 285 Вольт.</p>]]></description_ua>
-<param name="Тип">Холодильник</param>
-<param name="Колір">Сріблястий</param>
-<param name="Ширина">59,7 см</param>
-<param name="Керування">Електронне</param>
-<param name="Клас енергоспоживання">А+</param>
-<param name="Об&apos;єм морозильної камери">113 л</param>
-<param name="Система охолодження">NoFrost</param>
-<param name="Тип компресора">Інверторний</param>
-<param name="Об&apos;єм холодильної камери">261 л</param>
-<param name="Автономне збереження холоду">11 год</param>
-<param name="Загальний об&apos;єм">375 л</param>
-<param name="Висота">203 cм</param>
-<param name="Глибина">67.2 см</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35812" available="true">
@@ -107275,7 +107018,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35913" available="true">
-<stock_quantity>13</stock_quantity>
+<stock_quantity>11</stock_quantity>
 <price>7538.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -108392,7 +108135,7 @@
 <param name="Розмір">120 х 42 см</param>
 </offer>
 <offer id="HT36024" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>2596.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>185692</categoryId>
@@ -109326,7 +109069,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT36089" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>38975.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -109353,7 +109096,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT36090" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>46438.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -109835,7 +109578,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT36133" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>609.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80145</categoryId>
