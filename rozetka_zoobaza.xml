@@ -72949,8 +72949,8 @@
 <param name="Клас корму">Суперпреміум</param>
 <param name="EAN">3182550702423</param>
 </offer>
-<offer id="RC25220400" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC25220400" available="false">
+<stock_quantity>0</stock_quantity>
 <price>2050.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -75448,8 +75448,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550939324</param>
 </offer>
-<offer id="RC39020251" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="RC39020251" available="true">
+<stock_quantity>2</stock_quantity>
 <price>2080.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -75888,8 +75888,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550771719</param>
 </offer>
-<offer id="RC39271201" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RC39271201" available="false">
+<stock_quantity>0</stock_quantity>
 <price>5400.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -76596,8 +76596,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">3182550771344</param>
 </offer>
-<offer id="RC40080041" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="RC40080041" available="true">
+<stock_quantity>2</stock_quantity>
 <price>330.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -77966,8 +77966,8 @@
 <param name="Призначення">Ветеринарна дієта</param>
 <param name="EAN">9003579027820</param>
 </offer>
-<offer id="RCR373385" available="false">
-<stock_quantity>0</stock_quantity>
+<offer id="RCR373385" available="true">
+<stock_quantity>2</stock_quantity>
 <price>3847.50</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
@@ -78426,8 +78426,8 @@
 <param name="Вік собаки">Цуценята</param>
 <param name="EAN">3182550768641</param>
 </offer>
-<offer id="RCR448048" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="RCR448048" available="false">
+<stock_quantity>0</stock_quantity>
 <price>3735.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
