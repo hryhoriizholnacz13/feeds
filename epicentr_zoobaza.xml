@@ -103211,9 +103211,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT34106" available="true">
+<offer id="HT34106" available="false">
 <price>16267.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="81">Кухонні плити</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155592.jpg</picture>
 <name lang="ua">Плита газова CASTLE CG-60X</name>
@@ -109888,9 +109888,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35982" available="true">
+<offer id="HT35982" available="false">
 <price>19134.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="80">Посудомийні машини</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/c3f3903b810c30fe.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/afa8f485af565086.jpg</picture>
