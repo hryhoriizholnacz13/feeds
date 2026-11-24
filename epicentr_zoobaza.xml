@@ -13335,9 +13335,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4233" available="false">
+<offer id="ZB4233" available="true">
 <price>1126.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="4844">Корм для котів</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4233-1.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/34/1024x768l80mc0/56502945771797.jpg</picture>
@@ -13531,9 +13531,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4243" available="true">
+<offer id="ZB4243" available="false">
 <price>1126.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4844">Корм для котів</category>
 <picture>https://www.zoobaza.com.ua/content/images/44/1024x768l80mc0/54188166790049.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/44/1024x768l80mc0/73966791626929.jpg</picture>
@@ -13975,9 +13975,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4261" available="true">
+<offer id="ZB4261" available="false">
 <price>67.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4844">Корм для котів</category>
 <picture>https://www.zoobaza.com.ua/content/images/12/1024x768l80mc0/45557860794577.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/12/1024x768l80mc0/84966218930147.jpg</picture>
@@ -98638,7 +98638,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT31188" available="true">
-<price>1540.00</price>
+<price>1341.00</price>
 <availability>in_stock</availability>
 <category code="2788">Фени</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012623_19865404.jpg</picture>
@@ -100836,7 +100836,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT32067" available="true">
-<price>5060.00</price>
+<price>4978.00</price>
 <availability>in_stock</availability>
 <category code="87">Пилососи</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013504_459776939.jpg</picture>
@@ -100867,7 +100867,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT32069" available="true">
-<price>3885.00</price>
+<price>3912.00</price>
 <availability>in_stock</availability>
 <category code="87">Пилососи</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013506_459776984.jpg</picture>
@@ -107710,7 +107710,7 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
 <offer id="HT34646" available="true">
-<price>4889.00</price>
+<price>5012.00</price>
 <availability>in_stock</availability>
 <category code="87">Пилососи</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000161381.jpg</picture>
@@ -118968,9 +118968,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[5407007852628]]></param>
 </offer>
-<offer id="DB00009646" available="true">
+<offer id="DB00009646" available="false">
 <price>642.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4844">Корм для котів</category>
 <picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/XnwLKHhyyzaJAw.webp</picture>
 <name lang="ua">Сухий корм для котів Grandorf Fresh Adult Cat Lamb &amp; Sweet Potato 0.4 кг</name>
@@ -118991,9 +118991,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[5407007852536]]></param>
 </offer>
-<offer id="DB00009647" available="true">
+<offer id="DB00009647" available="false">
 <price>2347.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4844">Корм для котів</category>
 <picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/xLuNXTBE46zStA.webp</picture>
 <name lang="ua">Сухий корм для котів Grandorf Fresh Adult Cat Lamb &amp; Sweet Potato 2 кг</name>
@@ -119126,9 +119126,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[5000200000010]]></param>
 </offer>
-<offer id="DB00010120" available="true">
+<offer id="DB00010120" available="false">
 <price>473.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7334">Шампуні для тварин</category>
 <picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/40-6a4feb8d1f1a9270641014.webp</picture>
 <name lang="ua">Шампунь для собак і котів Hydra Pet Spa Senses Shampoo Bliss 200 мл</name>
@@ -119464,9 +119464,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4851" available="false">
+<offer id="ZB4851" available="true">
 <price>825.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="492">Будинки та лежаки для тварин</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/zoobaza/cf5d0406ce5d60f5.jpg</picture>
 <name lang="ua">Будка ЗооБаза Геросс 36х32х32 см</name>
@@ -119775,9 +119775,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35256" available="false">
-<price>1925.00</price>
-<availability>out_of_stock</availability>
+<offer id="HT35256" available="true">
+<price>2008.00</price>
+<availability>in_stock</availability>
 <category code="9760">Випрямлячі для волосся</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171124.jpg</picture>
 <name lang="ua">Стайлер/вирівнювач Adler AD-2327P</name>
@@ -120714,9 +120714,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT30209" available="false">
+<offer id="HT30209" available="true">
 <price>15359.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="81">Кухонні плити</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011644_356787107.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011644_417852146.jpg</picture>
@@ -121070,9 +121070,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT32068" available="false">
-<price>4944.00</price>
-<availability>out_of_stock</availability>
+<offer id="HT32068" available="true">
+<price>5012.00</price>
+<availability>in_stock</availability>
 <category code="87">Пилососи</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000013505_459776963.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013505_459776942.jpg</picture>
@@ -121468,9 +121468,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT30466" available="false">
+<offer id="HT30466" available="true">
 <price>255.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="93">Аксесуари до техніки для догляду за домом</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011902_20338_.jpg</picture>
 <name lang="ua">Мішок д/пилососа б/р СЛОН P-03 C-I c до Philips</name>
