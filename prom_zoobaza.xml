@@ -6706,6 +6706,7 @@
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/12/51044520856170_+a9dccfe9e8.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/12/1208x800l80mc0/62842377401256.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/12/1208x800l80mc0/16547370756291.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/12/1208x800l80mc0/83245939473065.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/12/1208x800l80mc0/27827741648042.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/12/1208x800l80mc0/23629727367841.jpeg</picture>
@@ -6727,6 +6728,7 @@
 <picture>https://www.zoobaza.com.ua/content/images/13/1208x800l80mc0/47619880549042.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/13/1208x800l80mc0/27488389255505.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/13/1208x800l80mc0/23731435255975.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/13/1208x800l80mc0/97151730244079.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3812</vendorCode>
 <param name="Розмір">23х43х31 см</param>
@@ -6761,7 +6763,7 @@
 <price>1305.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
-<picture>https://www.zoobaza.com.ua/content/images/15/1208x800l80mc0/26542234380854.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/15/80605203030131_+1c84b6812a.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3814</vendorCode>
 <param name="Розмір">22х32х27 см</param>
@@ -12293,12 +12295,12 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/23/1208x800l80mc0/97010108059931.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/23/1208x800l80mc0/15988490316597.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/23/1208x800l80mc0/74489608498156.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/23/1208x800l80mc0/39003342171645.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/23/1024x994l80mc0/95505528721280.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/23/35811509224601_+9fedfd1d05.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/23/1208x800l80mc0/87191616818856.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/23/1208x800l80mc0/15988490316597.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3472</vendorCode>
 <param name="Колір">Синій</param>
@@ -12501,7 +12503,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/12/22401024925854_+d3253ca309.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/12/330x167l80mc0/11582358021868.png</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB5011</vendorCode>
 <param name="Розмір">32х43х10 см</param>
@@ -12543,7 +12544,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/15/78408945413961_+849739a0c4.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/15/330x167l80mc0/70175545613109.png</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB5014</vendorCode>
 <param name="Розмір">46х62х12 см</param>
@@ -18032,7 +18032,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/14/91352607494902_+00d257052a.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/14/300x220l80mc0/15031262593656.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB4863</vendorCode>
 <param name="Колір">Сірий</param>
@@ -20325,7 +20324,6 @@
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/26/94523145556692_+7976a8b261.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/26/1208x800l80mc0/79094152824445.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/26/1208x800l80mc0/89436738321081.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3425</vendorCode>
 <param name="Розмір">40х50х20 см</param>
@@ -20377,7 +20375,7 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/30/48936737570814_+fcce188ab4.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/61559058437378.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/94174891622852.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3429</vendorCode>
 <param name="Розмір">78х98 см</param>
@@ -20825,8 +20823,8 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/24/19813312521574_+c1653e87c1.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/24/1208x800l80mc0/48373441112170.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/24/1208x800l80mc0/93606731539361.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/24/1208x800l80mc0/54251691083215.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3523</vendorCode>
 <param name="Розмір">43х54х32 см</param>
@@ -20914,8 +20912,6 @@
 <picture>https://www.zoobaza.com.ua/content/images/29/15447023068081_+b5a9081aaf.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/24879996938273.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/65167333893566.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/42408865955563.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/36955557426804.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/22193860606484.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3528</vendorCode>
@@ -20935,6 +20931,7 @@
 <picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/63727335395798.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/45138202101623.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/22882021740428.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/80921719316956.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3529</vendorCode>
 <param name="Розмір">48х61х32 см</param>
@@ -21050,7 +21047,6 @@
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/36/70795106065879_+ba355a4cd0.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/36/1208x800l80mc0/19154233448597.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/36/1208x800l80mc0/42886485495131.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/36/1208x800l80mc0/29783466159218.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/36/1208x800l80mc0/90953857737119.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/36/1208x800l80mc0/64633101942745.jpeg</picture>
@@ -21102,6 +21098,7 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/39/1208x800l80mc0/85877466945373.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/39/1208x800l80mc0/44631413337828.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3538</vendorCode>
 <param name="Розмір">d90</param>
@@ -21192,7 +21189,8 @@
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/44/88084966194266_+245c92f891.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/44/1208x800l80mc0/69007090353114.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/44/1208x800l80mc0/57283219846328.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/44/1208x800l80mc0/18842232827659.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/44/1208x800l80mc0/86120275655269.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3543</vendorCode>
 <param name="Розмір">d50</param>
@@ -21208,8 +21206,8 @@
 <price>1683.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
-<picture>https://www.zoobaza.com.ua/content/images/45/70493129165689_+f3a3c835ba.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/45/1208x800l80mc0/37326102806320.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/45/70493129165689_+f3a3c835ba.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/45/1208x800l80mc0/47298529866381.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3544</vendorCode>
@@ -21225,6 +21223,7 @@
 <price>675.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
+<picture>https://www.zoobaza.com.ua/content/images/46/1208x800l80mc0/64694841281974.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/46/1208x800l80mc0/29496697700440.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/46/35339360024606_+41c360a7b2.jpeg</picture>
 <vendor>ЗооБаза</vendor>
@@ -21243,6 +21242,7 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/47/1208x800l80mc0/25990855058941.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/47/1208x800l80mc0/54073709581870.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/47/18235802165508_+212a6ed9ee.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3546</vendorCode>
@@ -21260,6 +21260,8 @@
 <price>1139.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
+<picture>https://www.zoobaza.com.ua/content/images/48/1208x800l80mc0/94335723617437.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/48/1208x800l80mc0/56772996282061.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/48/68508460101808_+73f94db424.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3547</vendorCode>
@@ -21278,6 +21280,7 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/49/1208x800l80mc0/48538287027894.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/49/1208x800l80mc0/98254378821493.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/49/37797833832946_+40a3530d42.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3548</vendorCode>
@@ -21370,6 +21373,7 @@
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/4/69461689911121_+c9aba37a12.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/4/1208x800l80mc0/79477666637053.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/4/1208x800l80mc0/46621738992366.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3553</vendorCode>
 <param name="Розмір">55х70 см</param>
@@ -21423,8 +21427,8 @@
 <price>675.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
-<picture>https://www.zoobaza.com.ua/content/images/7/66065629126955_+ab6d3fe5d2.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/7/1208x800l80mc0/21848468259736.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/7/66065629126955_+ab6d3fe5d2.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3556</vendorCode>
 <param name="Розмір">45х60 см</param>
@@ -21844,7 +21848,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/5/43205242782011_+f30d7d95e7.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/5/1208x800l80mc0/39087928389051.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/5/1208x800l80mc0/61402048250965.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/5/1208x800l80mc0/18226600286590.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/5/1208x800l80mc0/51455335174618.jpeg</picture>
@@ -21885,7 +21888,6 @@
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/7/1208x800l80mc0/31021499969801.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/7/1208x800l80mc0/83643646170920.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/7/1208x800l80mc0/36021026343433.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3606</vendorCode>
 <param name="Колір">коричневий</param>
@@ -21905,7 +21907,6 @@
 <picture>https://www.zoobaza.com.ua/content/images/8/1208x800l80mc0/70264652176522.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/8/1208x800l80mc0/60696170115776.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/8/1208x800l80mc0/68387812183199.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/8/1208x800l80mc0/17759022745254.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3607</vendorCode>
 <param name="Колір">коричневий</param>
@@ -22032,7 +22033,9 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/29/37538207861789_+9e93c3a8c1.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/65206242880518.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/75434014937130.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/88086428248304.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/62541797029408.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/90911813229526.jpeg</picture>
 <vendor>ЗооБаза</vendor>
@@ -22054,6 +22057,7 @@
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/30/96546538522995_+6120b3e1f5.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/33787763123889.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/70517372922475.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/31993784548785.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/99956119844208.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/33007390633456.jpeg</picture>
@@ -22075,7 +22079,7 @@
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/31/13649021844843_+a7d8b9ee70.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/13690169430141.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/83039358517092.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/42235294167406.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/29056808191262.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/45372593525425.jpeg</picture>
 <vendor>ЗооБаза</vendor>
@@ -22693,6 +22697,7 @@
 <picture>https://www.zoobaza.com.ua/content/images/33/1208x800l80mc0/47394088605401.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/33/1208x800l80mc0/66344310867189.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/33/1208x800l80mc0/29576273950909.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/33/1208x800l80mc0/54300214241454.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3782</vendorCode>
 <param name="Розмір">23х40х34 см</param>
@@ -22710,6 +22715,7 @@
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/34/69056309064810_+08b0652e89.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/34/1208x800l80mc0/43082503630140.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/34/1208x800l80mc0/84200468054836.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/34/1208x800l80mc0/24320359012216.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3783</vendorCode>
@@ -26194,7 +26200,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/29/68783975868561_+c0905224fb.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/29/335x176l80mc0/49097849238598.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB4728</vendorCode>
 <param name="Колір">Коричневий</param>
@@ -26706,7 +26711,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/31/87927101341223_+a63d6f08b0.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/31/314x210l80mc0/34996419778989.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB4780</vendorCode>
 <param name="Колір">Сірий</param>
@@ -27152,7 +27156,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/20/12230546043345_+495b5c88f4.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/20/275x232l80mc0/59716619769373.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB4819</vendorCode>
 <param name="Колір">Коричневий</param>
@@ -27253,7 +27256,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/26/82172588357162_+e0d6ac2e82.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/26/275x232l80mc0/17479826259566.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB4825</vendorCode>
 <param name="Колір">фиолетовый</param>
@@ -27562,7 +27564,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/49/22867322496337_+7abf2dd4b8.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/49/335x252l80mc0/28921580237665.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB4848</vendorCode>
 <param name="Колір">Коричневий</param>
@@ -27611,7 +27612,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/2/86947334563307_+733bfb2616.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/2/335x252l80mc0/89523068728939.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB4851</vendorCode>
 <param name="Розмір">36х32х32 см</param>
@@ -28300,7 +28300,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/21/15625860974401_+3cbdc4302c.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/21/278x209l80mc0/93044936544297.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB4920</vendorCode>
 <param name="Колір">бежевый+коричневый</param>
@@ -28317,7 +28316,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/22/74527106864321_+a374ef0ebb.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/22/278x209l80mc0/90441052434632.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB4921</vendorCode>
 <param name="Колір">бежевый+коричневый</param>
@@ -39591,7 +39589,7 @@
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000004090_ROT452-CB-2.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000004090_ROT452-CB-3.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000004090_ROT452-CB-4.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000004090_ROT452-CB-5.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000004090_ROT452-CB-0.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000004090_478312667.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000004090_478312668.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/8_000004090_478312669.jpg</picture>
@@ -41241,7 +41239,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Професійне керування Вбудована посудомийна машина Hotpoint-Ariston HSIO 3O23 WFE подбає, щоб ваша посуд мала сяючий зовнішній вигляд. Для цього вона має 9 спеціальних програм, які користувач може вибрати за допомогою зручного електронного керування та невеликого дисплея. Крім того, посудомийна машина відрізняється практично непомітним рівнем шуму (43 дБ) і неймовірно низьким енергоспоживанням. Хороша місткість Посудомийна машина обладнана продуманим кошиком, який легко вміщує в собі до 10 комплектів посуду. При цьому в кошик можна помістити навіть великий посуд нестандартної форми, наприклад сковорідку або сотейник. Для цього достатньо просто відрегулювати її висоту. Неможливо обійти стороною і спеціальний висувний лоток, що забезпечує додатковий простір для митися ножів, вилок і ложок. Ефективна подача води Розробники обладнали посудомийну машину сучасною технологією подачі води 3D ZONE WASH, яка концентрує всю потужність миття на певному кошику. Це гарантує на 40% більшу ефективність очищення при меншому споживанні води та електроенергії. Всього 9 літрів води і ваша посуд знову сяє. Бездоганна гігієнічність Hotpoint-Ariston HSIO 3O23 WFE не вимагає особливого догляду, адже вона обладнана функцією самоочищення, яка ефективно видаляє всі мікроби, залишки їжі та підтримує гігієнічну середу. На окрему увагу заслуговує функція дезінфекції, що дозволяє очистити посуд не тільки від складних забруднень, але і від мікроорганізмів, шляхом тривалої мийки. Сучасна технологія сушіння Тепер ви зможете назавжди забути про розводи та залишковий наліт, адже посудомийна машина автоматично розкриває дверцята в кінці сушіння для природної циркуляції повітря. Така система сушки дозволяє ще й збільшити енергоефективність моделі. При цьому ви можете не переживати про свої нові меблі, адже дверцята розкривається тільки при зниженні температури до 40 градусів. Високі експлуатаційні якості Hotpoint-Ariston HSIO 3O23 WFE відрізняється лаконічним дизайном, який відмінно доповнить інтер'єр будь-якої кухні. Модель надійно захищена від протікання, автоматично контролює чистоту води та обладнана вбудованим таймером. На ряду з цим розробники обладнали посудомийну машину автоматичною програмою, яка сама підбере необхідну потужність і тривалість очищення.]]></description>
 </offer>
-<offer id="HT26360" available="false" selling_type="r">
+<offer id="HT26360" available="true" selling_type="r">
 <name>Посудомийна машина Whirlpool WIC 3C34 PFE S (вбудована, 60см)</name>
 <categoryId>226</categoryId>
 <portal_category_id>615</portal_category_id>
@@ -51494,7 +51492,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Газова варильна поверхня Whirlpool TGML661IX з нержавіючої сталі буде виглядати стильно на Вашій кухні. Автоматичне електрозапалювання варильної поверхні Whirlpool, це можливість підпалювати конфорку однією рукою без використання сірників. Варильна поверхня Whirlpool TGML661IX оснащена ручками з 9 точками зупинки - функція MultiLevel Flame дозволяє інтуїтивно вибирати ідеальне полум'я для різних способів приготування їжі, таких як варіння, смаження та гриль, просто вибравши один із 9 заданих параметрів. Наявність системи газ контроль варильної поверхні захистить Вас у разі витоку газу або випадковому погашенні полум'я, (через витікання рідини, раптового протягу і т.д.).]]></description>
 </offer>
-<offer id="HT32198" available="false" selling_type="r">
+<offer id="HT32198" available="true" selling_type="r">
 <name>Посудомийна машина Indesit DSIE 2B10 (вбудована, 45см)</name>
 <categoryId>226</categoryId>
 <portal_category_id>615</portal_category_id>
