@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-17 12:00">
+<yml_catalog date="2026-11-24 12:00">
 <shop>
 <categories>
 <category id="105501">Одяг для тварин</category>
@@ -23598,13 +23598,13 @@
 <param name="Вік тварини">дорослі</param>
 <description><![CDATA[Fitmin Cat Purity Castrate   сухий беззерновий холістик-корм для дорослих стерилізованих і кастрованих котів. Містить свіже курине м'ясо, трав'яний комплекс, фрукти та овочі.80% протеїнів тваринного походженняБеззернова рецептура: без глютену, знижує ризик алергічних реакцій на пшеничний глютен і кукурудзуHerbs Vitality комплекс із трав для підтримки організмуFresh meat technology   свіже м'ясо без кістокL-карнітин підтримує розщеплення жиру та серцевий м'язКомплекс дентального догляду та олія норвезького лососяСклад: м'ясо (27,5% свіже куряче, 30,5% сушене куряче, 6% сушена індичка, 4% свиняча печінка), фермерська картопля, горох, бурякова клітковина, жир птиці, люцерна 2,5%, яблука, курячі яйця, пивні дріжджі, інактивовані дріжджі Saccharomyces cerevisiae, насіння льону, чорна смородина 1%, трав'яний комплекс (листя кропиви дводомної, листя кульбаби лікарської 0,25%, квіти ромашки, листя меліси, квіти липи), холодно пресована олія норвезького лосося, мінеральні речовини, корінь цикорію, розторопша 0,1%, прісноводна водорость хлорела, юка шидигера, комплекс натуральних антиоксидантів.Аналітичні складові: білок 35%, жир 12%, клітковина 3,5%, зола 7,4%, кальцій 1,1%, фосфор 0,83%, натрій 0,33%, енергія 15,83 МДж/кг.Норму годування див. на упаковці: для дорослого кота вагою 3 5 кг   60 85 г на добу.]]></description>
 </offer>
-<offer id="ZB4233" available="false" selling_type="r">
+<offer id="ZB4233" available="true" selling_type="r">
 <name>Fitmin cat Purity Delicious (Для вибагливих з дичиною), 1,5 кг</name>
 <categoryId>1087</categoryId>
 <portal_category_id>270262</portal_category_id>
 <price>972.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>0</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/34/22531632127511_+437ddcb18f.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/34/1024x768l80mc0/17371242191513.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/34/1024x768l80mc0/56502945771797.jpg</picture>
@@ -23736,13 +23736,13 @@
 <param name="Вік тварини">літні</param>
 <description><![CDATA[Fitmin Cat Purity Senior   холістичний беззерновий сухий корм для котів літнього віку (від 7 років) з низькою активністю. Рецептура на свіжому м'ясі кролика та ягняти, підходить котам із чутливим травленням.Переваги:понад 50 % свіжого м'яса; 71 % білків тваринного походження;беззернова рецептура (grain free), без пшениці;комплекс Herbs Vitality з трав для підтримки життєвих сил організму;кролик   висока поживна цінність, добре засвоювані білки, низький вміст жиру та холестеролу;розторопша   для підтримки печінки, чорниця   для зору, люцерна   для травної системи;мідія зеленогуба   природне джерело таурину.Склад: м'ясо (20 % курячого сушеного, 15 % кролика свіжого, 15 % ягняти свіжого, 9 % ягняти сушеного, 4 % свинячої печінки), фермерська картопля, горох, пташиний жир, яблука, буряковий жом, насіння льону, куряче яйце, пивні дріжджі, холодного віджиму олія норвезького лосося, інактивовані дріжджі Saccharomyces cerevisiae, люцерна 1 %, чорна смородина 1 %, трав'яний комплекс (листя кропиви дводомної, листя кульбаби лікарської, квіти ромашки лікарської, листя меліси лікарської, квіти липи серцелистої), чорниця 1 %, мінеральні речовини, корінь цикорію, перна (мідія) 0,2 %, розторопша плямиста 0,1 %, юка шидигера, комплекс природних антиоксидантів.Аналітичні складові: сирий білок 34 %, сирі олії та жири 14 %, сира клітковина 3,4 %, сира зола 7,6 %, кальцій 1,3 %, фосфор 0,95 %, натрій 0,35 %. Енергетична цінність 16,10 МДж/кг.Добова норма для дорослого кота: вага 2 3 кг   40 60 г, 3 5 кг   55 85 г, 5 7 кг   80 100 г, 7 10 кг   95 125 г.]]></description>
 </offer>
-<offer id="ZB4243" available="true" selling_type="r">
+<offer id="ZB4243" available="false" selling_type="r">
 <name>Fitmin cat Purity Urinary (профілактика хвороб сечовивідної системи з індичкою), 1,5 кг</name>
 <categoryId>1087</categoryId>
 <portal_category_id>270262</portal_category_id>
 <price>972.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/44/fitmin-cat-purity-urinary-1-5kg-84455541085051_+00b3206161.png</picture>
 <picture>https://www.zoobaza.com.ua/content/images/44/1000x1000l80mc0/33048840003838.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/44/1024x768l80mc0/54188166790049.jpg</picture>
@@ -24044,13 +24044,13 @@
 <param name="Вік тварини">дорослі</param>
 <description><![CDATA[Fitmin For Life Adult Chicken   вологий корм у пауче для дорослих котів зі шматочками філе та смаком курки. Пауч розрахований на одне годування.Переваги:до 80% м'яса та продуктів тваринного походження у філе;таурин для гарного зору;цинк для краси та здоров'я шерсті й шкіри;вітамін A для підтримки імунної системи;необхідні мінерали для здорових кісток;підтримка сильних і здорових м'язів.Склад: м'ясо та продукти тваринного походження (80% у філе, з них 11,6% курка), білкові екстракти рослинного походження, побічні продукти рослинного походження (0,4% інулін), мінеральні речовини, цукри.Аналітичні складові: вологість 82%, білок 8,5%, жир 4,5%, зола 2%, клітковина 0,4%.Годування: добова норма залежить від ваги, активності та віку кота; орієнтовно 200 400 г корму на 3 5 кг ваги, 1 2 прийоми на день, корм підігрівають до кімнатної температури. Відкритий пауч зберігайте в холодильнику та використайте протягом 2 днів.]]></description>
 </offer>
-<offer id="ZB4261" available="true" selling_type="r">
+<offer id="ZB4261" available="false" selling_type="r">
 <name>FFL cat pouch Adult Duck 85г</name>
 <categoryId>1087</categoryId>
 <portal_category_id>270262</portal_category_id>
 <price>66.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/12/22868467403531_+5a39bc5eb6.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/12/1024x768l80mc0/45557860794577.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/12/1024x768l80mc0/84966218930147.jpg</picture>
@@ -36223,7 +36223,7 @@
 <portal_category_id>606</portal_category_id>
 <price>1817.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_66c42803-acfb-11e8-a85c-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000001295_rotex_rmc508-w_3.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000001295_rotex_rmc508-w_1_1.jpg</picture>
@@ -36918,7 +36918,7 @@
 <portal_category_id>28290204</portal_category_id>
 <price>571.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>29</quantity_in_stock>
+<quantity_in_stock>28</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_7b40373c-3a64-11ed-89f0-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_7b40373c-3a64-11ed-89f0-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_7b40373c-3a64-11ed-89f0-dc4a3e701323.jpg</picture>
@@ -37385,7 +37385,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Спеціальний матеріал – анодований алюмінієвий сплав, що робить ліхтарик надзвичайно стійким до ударів. Металева кліпса дозволить користуватися ліхтарем без залучення рук. Потужний CREE-світлодіод XML T6 1P 10Вт дуже ефективний та довговічний. П'ять режимів висвітлення: максимальний, середній, низький, стробоскопічний, аварійний (режим SOS). Порт Micro USB дозволяє заряджати акумулятор і бути ліхтареві завжди готовим до використання. Ліхтар має регульований фокус та бризкозахищений корпус. Також є індикація заряджання акумулятора. Модель перемикача: увк./вимк., перемикання функцій – легким дотиком або повним натисканням. Завдяки міцній тактичній конструкції ви можете розраховувати на ліхтар у екстремальних умовах – це ідеальний вибір для кемпінгу, рибальства, мисливства та інших видів активного відпочинку. Ліхтар упакований у картонну коробку. У цій упаковці акумулятор живлення не комплектується.]]></description>
 </offer>
-<offer id="HT19198" available="true" selling_type="r">
+<offer id="HT19198" available="false" selling_type="r">
 <name>Ліхтар LED Westinghouse WF393-TB 20W з USB</name>
 <categoryId>268</categoryId>
 <portal_category_id>150410</portal_category_id>
@@ -38043,7 +38043,7 @@
 <portal_category_id>64301</portal_category_id>
 <price>2195.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_3c539be4-5478-11e8-b5a4-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000000768_303726472.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000000768_303726473.jpg</picture>
@@ -38227,7 +38227,7 @@
 <portal_category_id>6300413</portal_category_id>
 <price>1558.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000007103_237232945.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000007103_237232943.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000007103_237232946.jpg</picture>
@@ -39907,7 +39907,7 @@
 <portal_category_id>621</portal_category_id>
 <price>902.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>61</quantity_in_stock>
+<quantity_in_stock>51</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000008636_4661056082.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000008636_B5_1000_TXmkI0v.jpg</picture>
 <vendor>AQUAPHOR</vendor>
@@ -40792,13 +40792,13 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[AquaClean Автоматичне очищення без мийних засобів. Внутрішню поверхню печі можна очистити наповнивши керамічну чашку чи чашку з теплотривкого скла водою з-під крана і активізувавши програму AquaClean. Бруд на стінках розм'якшиться парою, що утвориться. Після закінчення програми витріть внутрішню поверхню пічки вологою ганчіркою. EasyClean Чищення одним рухом. Очищення гладкої рівної поверхні робочої камери не потребує особливих зусиль. Усе, що знадобиться - це волога ганчірка. SafetySwitch Безпека перед усім. Запобіжник гарантує безпечну роботу мікрохвильової печі. Він автоматично перериває будь-яку програму у разі відкриття дверцят. SmartStart Необхідне швидке нагрівання. Завдяки швидкому нагріванню їжі, що активується одним дотиком, функція швидкого старту виявиться особливо зручною, коли ви просто не можете дочекатися своєї гарячої їжі.]]></description>
 </offer>
-<offer id="HT25414" available="false" selling_type="r">
+<offer id="HT25414" available="true" selling_type="r">
 <name>Мікрохвильова піч Gorenje MO 20E1W2</name>
 <categoryId>220</categoryId>
 <portal_category_id>605</portal_category_id>
 <price>3607.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000009077_276380262.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000009077_276380275.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000009077_276380290.jpg</picture>
@@ -41239,7 +41239,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Професійне керування Вбудована посудомийна машина Hotpoint-Ariston HSIO 3O23 WFE подбає, щоб ваша посуд мала сяючий зовнішній вигляд. Для цього вона має 9 спеціальних програм, які користувач може вибрати за допомогою зручного електронного керування та невеликого дисплея. Крім того, посудомийна машина відрізняється практично непомітним рівнем шуму (43 дБ) і неймовірно низьким енергоспоживанням. Хороша місткість Посудомийна машина обладнана продуманим кошиком, який легко вміщує в собі до 10 комплектів посуду. При цьому в кошик можна помістити навіть великий посуд нестандартної форми, наприклад сковорідку або сотейник. Для цього достатньо просто відрегулювати її висоту. Неможливо обійти стороною і спеціальний висувний лоток, що забезпечує додатковий простір для митися ножів, вилок і ложок. Ефективна подача води Розробники обладнали посудомийну машину сучасною технологією подачі води 3D ZONE WASH, яка концентрує всю потужність миття на певному кошику. Це гарантує на 40% більшу ефективність очищення при меншому споживанні води та електроенергії. Всього 9 літрів води і ваша посуд знову сяє. Бездоганна гігієнічність Hotpoint-Ariston HSIO 3O23 WFE не вимагає особливого догляду, адже вона обладнана функцією самоочищення, яка ефективно видаляє всі мікроби, залишки їжі та підтримує гігієнічну середу. На окрему увагу заслуговує функція дезінфекції, що дозволяє очистити посуд не тільки від складних забруднень, але і від мікроорганізмів, шляхом тривалої мийки. Сучасна технологія сушіння Тепер ви зможете назавжди забути про розводи та залишковий наліт, адже посудомийна машина автоматично розкриває дверцята в кінці сушіння для природної циркуляції повітря. Така система сушки дозволяє ще й збільшити енергоефективність моделі. При цьому ви можете не переживати про свої нові меблі, адже дверцята розкривається тільки при зниженні температури до 40 градусів. Високі експлуатаційні якості Hotpoint-Ariston HSIO 3O23 WFE відрізняється лаконічним дизайном, який відмінно доповнить інтер'єр будь-якої кухні. Модель надійно захищена від протікання, автоматично контролює чистоту води та обладнана вбудованим таймером. На ряду з цим розробники обладнали посудомийну машину автоматичною програмою, яка сама підбере необхідну потужність і тривалість очищення.]]></description>
 </offer>
-<offer id="HT26360" available="true" selling_type="r">
+<offer id="HT26360" available="false" selling_type="r">
 <name>Посудомийна машина Whirlpool WIC 3C34 PFE S (вбудована, 60см)</name>
 <categoryId>226</categoryId>
 <portal_category_id>615</portal_category_id>
@@ -41541,7 +41541,7 @@
 <portal_category_id>603</portal_category_id>
 <price>14119.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>16</quantity_in_stock>
+<quantity_in_stock>15</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000009235_U0448501_big.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000009235_267746961.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000009235_267746963.jpg</picture>
@@ -41574,7 +41574,7 @@
 <portal_category_id>603</portal_category_id>
 <price>14969.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>27</quantity_in_stock>
+<quantity_in_stock>26</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_dd68bc84-0cd7-11ec-89e4-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000006663_7542253-1638446692.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000006663_7542265-1638446692.jpg</picture>
@@ -41641,7 +41641,7 @@
 <portal_category_id>603</portal_category_id>
 <price>7463.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000010691.jpg</picture>
 <vendor>Saturn</vendor>
 <vendorCode>HT26858</vendorCode>
@@ -41661,7 +41661,7 @@
 <portal_category_id>603</portal_category_id>
 <price>7182.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000012301.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000012302.jpg</picture>
 <vendor>Saturn</vendor>
@@ -41971,7 +41971,7 @@
 <portal_category_id>609</portal_category_id>
 <price>1499.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000010367_6884bc01be4c4a77a3cc68c4f791c4fb.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000010367_12_3_2.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000010367_51324f318b4e4f0f8ea3ffdd5fdea59d.jpg</picture>
@@ -42561,7 +42561,7 @@
 <portal_category_id>6300423</portal_category_id>
 <price>1728.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000007744_256221322.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000007744_256221317.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000007744_256221330.jpg</picture>
@@ -42706,7 +42706,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[WPRO магнітний пом'якшувач води: ефективність та надійність Магнітний пом'якшувач води WPRO (484000008413) – це інноваційне рішення для продовження терміну служби вашої пральної машини та покращення якості прання. Цей пристрій не тільки перешкоджає утворенню накипу на нагрівальних елементах, але й забезпечує економію прального порошку. Завдяки компактним розмірам і легкій вазі, WPRO легко встановлюється та не займає багато місця. Основні характеристики Основною функцією цього пристрою є пом'якшення води шляхом магнітного впливу на неї, що перешкоджає утворенню накипу і забезпечує довговічність пральної машини. Вага: 0,4 кг. Компактні розміри (10 х 10 х 5 см) дозволяють легко розмістити пристрій у будь-якому зручному місці. Переваги використання WPRO Магнітний пом'якшувач води WPRO має ряд переваг, які роблять його незамінним у побуті. По-перше, він продовжує термін служби пральної машини, захищаючи її від накипу, який може пошкодити нагрівальні елементи. По-друге, пристрій забезпечує економію прального порошку, оскільки м'яка вода потребує менше миючих засобів для досягнення оптимального результату. По-третє, якість прання значно покращується, адже відсутність накипу сприяє більш ефективній роботі пральної машини. Завдяки своїм характеристикам та перевагам, магнітний пом'якшувач води WPRO стане ідеальним вибором для будь-якої родини, яка прагне забезпечити довговічність своєї техніки та покращити якість прання.]]></description>
 </offer>
-<offer id="HT28351" available="true" selling_type="r">
+<offer id="HT28351" available="false" selling_type="r">
 <name>Форма для зберігання LUMINARC ARC 140 мм з кришкою Уцінка</name>
 <categoryId>308</categoryId>
 <portal_category_id>15230302</portal_category_id>
@@ -43018,7 +43018,7 @@
 <portal_category_id>640</portal_category_id>
 <price>714.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_200c9cb1-b1e6-11e9-ba49-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_200c9cb1-b1e6-11e9-ba49-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_200c9cb1-b1e6-11e9-ba49-8c89a59571bd.jpg</picture>
@@ -43503,6 +43503,73 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Плита комбінована Castle CPG-50B - це багатофункціональна плита з поворотними перемикачами, яка пропонує зручність та ефективність при готуванні. Вона має 4 газові конфорки з автопідпалом, що дозволяє легко і швидко розпалити вогонь. У комплекті до плити входить металева емальована решітка, яка забезпечує надійну підтримку посуду під час готування.Ця плита оснащена електричною духовкою з подвійним склом, що забезпечує кращу ізоляцію і збереження тепла. Додатковою перевагою є конвекційна функція, яка розподіляє тепло рівномірно всередині духовки, забезпечуючи рівномірне приготування їжі.Плита також має підсвітку, що дозволяє зручно спостерігати за процесом готування. Два тени дозволяють контролювати і налаштовувати температуру в духовці залежно від ваших потреб.Металева кришка плити служить як захисний елемент, додаючи стиль і функціональність. Розміри плити становлять 50x60x86.5 см, що робить її зручною і компактною для встановлення в кухні.Castle CPG-50B - це надійна та функціональна плита, яка допоможе вам насолодитися приготуванням їжі з комфортом та задоволенням.]]></description>
 </offer>
+<offer id="HT29537" available="true" selling_type="r">
+<name>Плита комбінована CASTLE CPG-50H (чорний графіт)</name>
+<categoryId>219</categoryId>
+<portal_category_id>641</portal_category_id>
+<price>13469.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>4</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000010971_main-1-800x600.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000010971_7251263_3.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000010971_7251263_4.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000010971_7251263.jpeg</picture>
+<vendor>CASTLE</vendor>
+<vendorCode>HT29537</vendorCode>
+<country>Туреччина</country>
+<param name="Колір">Сірий</param>
+<param name="Об`єм">58 л</param>
+<param name="Споживана потужність">1850 Вт</param>
+<param name="Тип управління">Механічне</param>
+<param name="Ширина">50 см</param>
+<param name="Тип духової шафи">Електрична</param>
+<param name="Клас енергоспоживання">А</param>
+<param name="Тип варильної панелі">Газова</param>
+<param name="Газ-контроль конфорок">Так</param>
+<param name="Електропідпал">Так</param>
+<param name="Кількість конфорок">4</param>
+<param name="Матеріал решіток">Емальована сталь</param>
+<param name="Технологія чищення">Традиційна</param>
+<param name="Вага">30,9 кг</param>
+<param name="Висота">86.5 см</param>
+<param name="Глибина">60 см</param>
+<param name="Гарантія">12 міс</param>
+<description><![CDATA[Castle CPG-50H - це комбінована плита, яка відзначається своїм функціоналом, стильним дизайном і високою продуктивністю. Плита Castle CPG-50H має сучасний і елегантний зовнішній вигляд, який додає шарму будь-якій кухні. Вона має металеву конструкцію з елементами чорного кольору та нержавіючою сталі, яка додає їй довговічності і стійкості. Плита оснащена системою з 4 газовими пальниками, які забезпечують швидке і рівномірне нагрівання. Кожен пальник може бути налаштований на різні рівні потужності, що дозволяє контролювати інтенсивність нагрівання залежно від потреб. Плита має простору варильну поверхню, що дозволяє готувати одночасно в кількох посудинках. Вона виготовлена з високоякісної емальованої сталі, яка легко чиститься і має високу стійкість до подряпин і пошкоджень. Castle CPG-50H обладнана різноманітними функціями безпеки для захисту вас і вашого будинку. До таких функцій входять автоматичне відключення газу у випадку, якщо полум'я пальників погасне внаслідок витоку газу. Плита має просту установку і легке управління, що робить її зручною в експлуатації. Вона також легко чиститься завдяки гладкій поверхні і відсутності складних деталей.Castle CPG-50H економить енергію завдяки своїй високій ефективності. Газова технологія дозволяє швидко нагрівати плиту і пічку, забезпечуючи швидке приготування їжі та економію часу. Духовка має додаткові функції, такі як таймер для точного вимірювання часу готування, освітлення внутрішньої частини пічки для зручного спостереження за їжею та подвійне скло у дверцях, що знімається для зручнішого чищення. Castle CPG-50H - це надійна, функціональна та стильна комбінована плита, яка забезпечує вам зручність, безпеку та задоволення в процесі готування їжі.]]></description>
+</offer>
+<offer id="HT29540" available="true" selling_type="r">
+<name>Плита газова CASTLE CG-60B (сіра)</name>
+<categoryId>219</categoryId>
+<portal_category_id>641</portal_category_id>
+<price>12925.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>7</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000010973_325881794.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000010973_325881795.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000010973_P264114_0001-700x700.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000010973_P264114_0002-700x700.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000010973_P264114_0003-700x700.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000010973_P264114_0004-700x700.jpg</picture>
+<vendor>CASTLE</vendor>
+<vendorCode>HT29540</vendorCode>
+<country>Туреччина</country>
+<param name="Колір">Сірий</param>
+<param name="Об`єм">70 л</param>
+<param name="Тип управління">Механічне</param>
+<param name="Ширина">60 см</param>
+<param name="Тип духової шафи">Газова</param>
+<param name="Клас енергоспоживання">А</param>
+<param name="Кількість конфорок / зон нагріву">4</param>
+<param name="Тип варильної панелі">Газова</param>
+<param name="Газ-контроль конфорок">Так</param>
+<param name="Електропідпал">В ручці</param>
+<param name="Гриль">Ні</param>
+<param name="Матеріал решіток">Емальована сталь</param>
+<param name="Вага">35,5 кг</param>
+<param name="Висота">85 см</param>
+<param name="Глибина">60 см</param>
+<param name="Гарантія">12 міс</param>
+<description><![CDATA[CASTLE CG-60B - це газова плита з газовою духовкою, яка поєднує в собі функціональність та надійність для приготування їжі. CASTLE CG-60B має сучасний та стильний дизайн, що доповнить будь-який кухонний інтер'єр. Вона може бути встановлена в невеликих кухнях або квартирах з обмеженим простором. Плита оснащена чотирма газовими конфорками, що дозволяють готувати декілька страв одночасно. Конфорки мають регулятори потужності, які дозволяють зручно налаштовувати тепловий режим для кожної конфорки окремо. CASTLE CG-60B має газову духовку, яка забезпечує можливість приготування різних страв, включаючи печеню, пироги, піци та інші. Газова духовка пропонує ефективне та рівномірне поширення тепла для оптимального приготування. CASTLE CG-60B оснащена системою захисту від витоку газу, що забезпечує безпеку під час використання плити. Поверхня плити зроблена з високоякісних матеріалів, які легко чистити. Вона має гладку поверхню, яка запобігає залишкам їжі або бруду затримуватися. Це полегшує процес прибирання плити після приготування. Газова духовка CASTLE CG-60B оснащена регулятором температури, що дозволяє точно контролювати тепловий режим під час приготування. Це дозволяє досягати оптимальних результатів готування різних страв. Духовка має вбудовану підсвітку, яка дозволяє зручно спостерігати за процесом готування. Ви зможете чітко бачити страви всередині духовки, що допоможе уникнути підгоряння або недоготування їжі. CASTLE відома своєю якістю та надійністю виробів. Плита CG-60B виготовлена з високоякісних матеріалів, що забезпечує довговічність та стійкість під час щоденного використання.]]></description>
+</offer>
 <offer id="HT29542" available="true" selling_type="r">
 <name>Чайник MPM MCZ-91M (термос)</name>
 <categoryId>264</categoryId>
@@ -43560,7 +43627,7 @@
 <portal_category_id>63020</portal_category_id>
 <price>693.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000010978_lr-027-84_1.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000010978_225957974.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000010978_225957979.jpg</picture>
@@ -43628,7 +43695,7 @@
 <portal_category_id>6300407</portal_category_id>
 <price>5050.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000010989_296764998.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000010989_6a1821ef-24d2-4f87-9467-7e96d74c0562.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000010989_df72bde0-700a-4ea3-a592-65adf37e6a19.jpg</picture>
@@ -43748,7 +43815,7 @@
 <portal_category_id>63023</portal_category_id>
 <price>5619.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011067_342311643.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011067_342311644.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011067_342311645.jpg</picture>
@@ -43839,13 +43906,13 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Звукова технологія Звукова зубна щітка Zelmer ZTB1010B— це пристрій, в якому використовуються широкі та пульсуючі рухи. Вона здійснює 18 000 коливань на хвилину. Крім того, випромінювані ультразвуки змушують частинки пасти вібрувати, що створює мікропухирці, які видаляють зубний наліт. Бульбашки також потрапляють у простір між зубами, ще ретельніше піклуючись про гігієну порожнини рота. Зручні режими чищення Модель має цілих 5 режимів роботи, які зручно змінювати натисканням однієї кнопки. У кожному з цих режимів змінюється швидкість і частота вібрацій, щоб максимально відповідати вашим поточним потребам. Тривала робота без підзарядки Зубною щіткою можна користуватися без підзарядки до 24 днів (за умови щоденного чищення двічі на день по дві хвилини). Ви можете легко взяти його в поїздку, не згадуючи про зарядний пристрій. У пристрої також є вбудований таймер (кожні 30 секунд), який допоможе вам контролювати час, а після чищення (дві хвилини) він автоматично відключиться. Змінні насадки У комплекті з пристроєм входить дві змінні насадки. Вам потрібно всього лише один простий рух, щоб змінити їх, і ви можете бути впевнені, що звукова зубна щітка повністю подбає про ваші зуби.]]></description>
 </offer>
-<offer id="HT29699" available="false" selling_type="r">
+<offer id="HT29699" available="true" selling_type="r">
 <name>Плита газова CASTLE CG-50B (сіра)</name>
 <categoryId>219</categoryId>
 <portal_category_id>641</portal_category_id>
-<price>11819.00</price>
+<price>11694.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011132_7116285_1.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011132_7116285_2.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011132_7116285_5.jpg</picture>
@@ -43968,6 +44035,39 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Дивовижна потужність Праска виробляє на 25% більше пари, порівнюючи з аналогічними прасками Tefal попереднього покоління, гарантуючи високу продуктивність день у день. Висока потужність Праска обладнана потужністю 2800 Вт для швидкого нагрівання й ефективної роботи. Ефективне прасування Постійна пара до 50 г/хв робить кожне прасування легким і ефективним, а паровий удар до 260 г/хв допомагає розпрасувати найстійкіші складки та щільні тканини. Зручність і безпека Інтелектуальна функція автоматичного вимкнення пропонує підвищену безпеку під час прасування. Максимальний розподіл пари Повністю активні парові отвори розташовані на всій поверхні підошви праски та забезпечують максимальний розподіл пари. Ця підошва має на 30% більше активних парових отворів, ніж попереднє покоління підошов Ultragliss. Високоякісна підошва Нова підошва Durilium Airglide гарантує краще ковзання від Tefal, захищена від подряпин і слугуватиме досить довго. Економічний режим Режим Eco знижує споживання електроенергії на 20%, зберігаючи оптимальну ефективність праски Ідеальна точність Вузький носик підошви полегшує розпрасовування складок на комірах і між ґудзиками. Універсальність Праску можна використовувати для вертикального відпарювання делікатних і великих тканин, наприклад, костюмів або штор. Високі стандарти якості Праска виготовлена у Франції за найвищими стандартами якості та виробництва.]]></description>
 </offer>
+<offer id="HT29752" available="true" selling_type="r">
+<name>Плита комбінована CASTLE CPG-60B (сіра)</name>
+<categoryId>219</categoryId>
+<portal_category_id>641</portal_category_id>
+<price>13344.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>8</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011185_326470543.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011185.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011185_Screenshot.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000011185_Screenshot.jpg</picture>
+<vendor>CASTLE</vendor>
+<vendorCode>HT29752</vendorCode>
+<country>Туреччина</country>
+<param name="Колір">Сірий</param>
+<param name="Об`єм">70 л</param>
+<param name="Призначення">Побутове</param>
+<param name="Тип управління">Механічне</param>
+<param name="Ширина">60 см</param>
+<param name="Тип духової шафи">Електрична</param>
+<param name="Клас енергоспоживання">А</param>
+<param name="Тип варильної панелі">Газова</param>
+<param name="Газ-контроль конфорок">Так</param>
+<param name="Електропідпал">В ручці</param>
+<param name="Гриль">Ні</param>
+<param name="Кількість конфорок">4</param>
+<param name="Матеріал решіток">Емальована сталь</param>
+<param name="Вага">35,5 кг</param>
+<param name="Висота">86.5 см</param>
+<param name="Глибина">60 см</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Плита комбінована Castle CPG-60B - це функціональний і стильний кухонний прилад, який пропонує широкий спектр зручних функцій для готування. Завдяки своїй компактній конструкції розміром 60x60x86.5 см, вона ідеально підходить для будь-якої кухні. Ця плита оснащена поворотними перемикачами, які забезпечують легку і точну настройку параметрів готування. За допомогою цих перемикачів можна контролювати час і температуру приготування різних страв. Плита має чотири газові конфорки, що дозволяють одночасно готувати на кількох джерелах. Кожна конфорка має інтегрований автопідпал, що спрощує процес запалювання. Решітка плити виготовлена з металу, покритого емаллю, що робить її стійкою до впливу високих температур і легкою у догляді. Ця решітка надійно утримує посуд, запобігаючи його зсуву під час готування. Електрична духовка з подвійним склом є одним із ключових елементів цієї плити. Вона пропонує конвекційне випікання, що дозволяє рівномірно розподілити тепло всередині духовки і отримати ідеально приготовлені страви. Додатково, вона має підсвітку, яка дозволяє спостерігати за процесом готування. Плита також оснащена двома тенами, які забезпечують швидке нагрівання і оптимальну температуру приготування. Це дозволяє ефективно готувати різноманітні страви з різними вимогами до температури. Нарешті, плита має металеву кришку, яка може використовуватись як робоча поверхня під час не використання конфорок. Ця кришка додає стильного вигляду до плити і дозволяє заощадити місце на кухні. Загалом, плита комбінована Castle CPG-60B є надійним і зручним кухонним приладом, який пропонує різноманітні функції для ефективного готування. Вона поєднує в собі якість, стиль і функціональність, що робить її відмінним вибором для будь-якої сучасної кухні.]]></description>
+</offer>
 <offer id="HT29753" available="false" selling_type="r">
 <name>Плита комбінована CASTLE CPG-60H (чорний графіт)</name>
 <categoryId>219</categoryId>
@@ -44003,7 +44103,7 @@
 <portal_category_id>641</portal_category_id>
 <price>13607.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011187_326516081.jpg</picture>
 <vendor>CASTLE</vendor>
 <vendorCode>HT29754</vendorCode>
@@ -44027,13 +44127,13 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Плита комбінована Castle CPG-60W - це функціональний і стильний кухонний прилад, який пропонує широкий спектр зручних функцій для готування. Завдяки своїй компактній конструкції розміром 60x60x86.5 см, вона ідеально підходить для будь-якої кухні. Ця плита оснащена поворотними перемикачами, які забезпечують легку і точну настройку параметрів готування. За допомогою цих перемикачів можна контролювати час і температуру приготування різних страв. Плита має чотири газові конфорки, що дозволяють одночасно готувати на кількох джерелах. Кожна конфорка має інтегрований автопідпал, що спрощує процес запалювання. Решітка плити виготовлена з металу, покритого емаллю, що робить її стійкою до впливу високих температур і легкою у догляді. Ця решітка надійно утримує посуд, запобігаючи його зсуву під час готування. Електрична духовка з подвійним склом є одним із ключових елементів цієї плити. Вона пропонує конвекційне випікання, що дозволяє рівномірно розподілити тепло всередині духовки і отримати ідеально приготовлені страви. Додатково, вона має підсвітку, яка дозволяє спостерігати за процесом готування. Плита також оснащена двома тенами, які забезпечують швидке нагрівання і оптимальну температуру приготування. Це дозволяє ефективно готувати різноманітні страви з різними вимогами до температури. Нарешті, плита має металеву кришку, яка може використовуватись як робоча поверхня під час не використання конфорок. Ця кришка додає стильного вигляду до плити і дозволяє заощадити місце на кухні. Загалом, плита комбінована Castle CPG-60W є надійним і зручним кухонним приладом, який пропонує різноманітні функції для ефективного готування. Вона поєднує в собі якість, стиль і функціональність, що робить її відмінним вибором для будь-якої сучасної кухні.]]></description>
 </offer>
-<offer id="HT29755" available="false" selling_type="r">
+<offer id="HT29755" available="true" selling_type="r">
 <name>Плита комбінована CASTLE CPG-60X (нерж.)</name>
 <categoryId>219</categoryId>
 <portal_category_id>641</portal_category_id>
 <price>15444.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011188_326523108.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011188_7251269_4.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011188_7251269_3.jpg</picture>
@@ -44058,6 +44158,33 @@
 <param name="Глибина">60 см</param>
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Плита комбінована Castle CPG-60X - це функціональний і стильний кухонний прилад, який пропонує широкий спектр зручних функцій для готування. Завдяки своїй компактній конструкції розміром 60x60x86.5 см, вона ідеально підходить для будь-якої кухні. Ця плита оснащена поворотними перемикачами, які забезпечують легку і точну настройку параметрів готування. За допомогою цих перемикачів можна контролювати час і температуру приготування різних страв. Плита має чотири газові конфорки, що дозволяють одночасно готувати на кількох джерелах. Кожна конфорка має інтегрований автопідпал, що спрощує процес запалювання. Решітка плити виготовлена з металу, покритого емаллю, що робить її стійкою до впливу високих температур і легкою у догляді. Ця решітка надійно утримує посуд, запобігаючи його зсуву під час готування. Електрична духовка з подвійним склом є одним із ключових елементів цієї плити. Вона пропонує конвекційне печення, що дозволяє рівномірно розподілити тепло всередині духовки і отримати ідеально приготовлені страви. Додатково, вона має підсвітку, яка дозволяє спостерігати за процесом готування. Плита також оснащена двома тенами, які забезпечують швидке нагрівання і оптимальну температуру приготування. Це дозволяє ефективно готувати різноманітні страви з різними вимогами до температури. Нарешті, плита має металеву кришку, яка може використовуватись як робоча поверхня під час не використання конфорок. Ця кришка додає стильного вигляду до плити і дозволяє заощадити місце на кухні. Загалом, плита комбінована Castle CPG-60X є надійним і зручним кухонним приладом, який пропонує різноманітні функції для ефективного готування. Вона поєднує в собі якість, стиль і функціональність, що робить її відмінним вибором для будь-якої сучасної кухні.]]></description>
+</offer>
+<offer id="HT29756" available="true" selling_type="r">
+<name>Вафельниця MPM MGO-25</name>
+<categoryId>276</categoryId>
+<portal_category_id>6300413</portal_category_id>
+<price>1602.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>4</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_6d69b191-20cc-11ee-8a54-dc4a3e701323.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_6d69b191-20cc-11ee-8a54-dc4a3e701323.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_6d69b191-20cc-11ee-8a54-dc4a3e701323.jpg</picture>
+<vendor>MPM</vendor>
+<vendorCode>HT29756</vendorCode>
+<country>Китай</country>
+<param name="Колір">Білий</param>
+<param name="Призначення">Побутове</param>
+<param name="Споживана потужність">1000 Вт</param>
+<param name="Номінальна напруга">220-230 В</param>
+<param name="Пластини для приготування">Товстих вафель</param>
+<param name="Покриття пластин">Антипригарне</param>
+<param name="Тип пристрою">Вафельниця</param>
+<param name="Кількість відділень">2</param>
+<param name="Матеріал корпусу">Пластик + метал</param>
+<param name="Вага">1,54 кг</param>
+<param name="Розмір">285 x 120 x 265 мм</param>
+<param name="Гарантія">12 міс</param>
+<description><![CDATA[MPM MGO-25 - нова сучасна модель вафельниць для приготування товстих вафель в домашніх умовах від польського виробника MPM. Домашня вафельниця - чудовий прилад для приготування швидких десертів або закусок. У західних країнах вафельниці давно використовують для приготування сніданків - солоних, солодких. Товсті вафлі у вафельниці для віденських вафель MPM MGO-25 виходять прямокутної форми, такі ж як можна купити на прилавках та супермаркетах. Вафельниця MPM MGO-25 зроблена в білому кремовому кольорі, що суттєво різнить її з усіма іншими вафельницями в Україні. Така модель приладу для випікання льєжських (віденських, товстих, бельгійських) вафель точно буде оригінальною. Термостат у MPM MGO-25 автоматичний, Вам не потрібно смикати регулятор для вибудовування температурного режиму. Потужність апарату в 1000 Вт дозволяє отримувати хрумку скоринку в домашніх умовах і для цього не потрібен професійний прилад. Корпус вафельниці виготовлений з нержавіючої сталі, що дозволить апарату служити довго. Плитки для випікання вафель оброблені антипригарним покриттям, так що жодна вафля не прилипне до форми і легко дістанеться з приладу. Виробник визначив невелику вартість такої потужної оригінальної вафельниці для випікання товстих бельгійських вафель прямокутної форми, що дозволяє купити її кожному, хто хоче мати вдома в арсеналі справжній оригінальний апарат для приготування смачних закусок та десертів. Крім того, що вафельницю можна використовувати для розігріву або смаження оладок, сирників та ін.]]></description>
 </offer>
 <offer id="HT29759" available="false" selling_type="r">
 <name>Набір посуду MPM SMILE MGK-10 (10 предметів)</name>
@@ -44255,7 +44382,7 @@
 <portal_category_id>609</portal_category_id>
 <price>4134.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_6ea1bc32-3385-11ee-8a54-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/10_6ea1bc32-3385-11ee-8a54-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/11_6ea1bc32-3385-11ee-8a54-dc4a3e701323.jpg</picture>
@@ -44289,7 +44416,7 @@
 <portal_category_id>141725</portal_category_id>
 <price>1600.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>18</quantity_in_stock>
+<quantity_in_stock>17</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011353_images_1000x700.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011353_images_1000x700_1.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011353_res_71d04c791a6318b8a74eb88af1091216.jpg</picture>
@@ -44927,13 +45054,13 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Технологія No Frost Функція Samsung True No Frost запобігає утворенню льоду та морозу на стінках морозильної камери. Тепер ви можете зберігати свої продукти за найбільш оптимальної температури. Слід зазначити, що технологія True No Frost економить електроенергію і, тим самим, збільшує робочий ресурс системи охолодження.]]></description>
 </offer>
-<offer id="HT30209" available="false" selling_type="r">
+<offer id="HT30209" available="true" selling_type="r">
 <name>Плита газова CASTLE CG-60H (чорний графіт)</name>
 <categoryId>219</categoryId>
 <portal_category_id>641</portal_category_id>
 <price>13963.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011644_356787107.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011644_417852146.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011644_9147873.jpg</picture>
@@ -45191,13 +45318,13 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Підтримує постійну температуруAdaptTechІнтелектуальна система розроблена для підтримки стабільної температури у холодильнику з морозильною камерою, незалежно від частоти відкриття дверцят. Система постійно відстежує звички використання приладу та керує температурою, щоб запобігти можливому підвищенню та забезпечити довгострокову свіжість продуктів.Шухляда з нижчою температуроюFreshZoneШухляда з температурою нижчою, ніж у всій камері холодильника (близько 2°C), ідеально підходить для зберігання м’яса, риби, овочів та фруктів. Завдяки цьому продукти довше зберігають свіжість, аромат і смак.Інтелектуальне підключенняConnectLifeПовний контроль над вашим холодильником з ConnectLife. Ви зможете дистанційно керувати температурою і отримувати сповіщення про роботу пристрою незалежно від того, вдома ви, у поїздці або на роботі. Встановіть дистанційно режим швидкого охолодження після великих покупок та мінімізуйте стрибок температури у холодильнику перед розміщенням продуктів. Інтуїтивне управління та розумні функції дозволять вам швидко та зручно подбати про ідеальні умови зберігання продуктів.Ідеальний мікроклімат на кожній полиціMultiFlow 360°Розподіляє прохолодне повітря рівномірно по всьому об’єму холодильника, підтримуючи стабільну температуру. Завдяки цьому продукти довше зберігають свою свіжість.Швидке охолодженняSuperCoolФункція інтенсивного охолодження значно знижує температуру в холодильному відділенні, забезпечуючи швидке охолодження продуктів після великих покупок. Через шість годин функція автоматично вимикається, а температура в холодильнику повертається до попереднього рівня.Зона Crisp Zone з регулюванням вологостіCrispZone with HumidityControlПростора шухляда CrispZone з можливістю регулювання рівня вологості забезпечує ідеальні умови для зберігання фруктів і овочів. Завдяки цьому продукти зберігають поживні речовини та залишаються свіжими довше.Хромована полиця для пляшокГнучка полиця зі спеціальними фіксаторами для пляшок, яку можна легко адаптувати до власних потреб. Вона може слугувати як полиця для продуктів у будь якому відділенні холодильника або як спеціальна підставка для пляшок з фіксаторами до 9 штук.Режим EcoEcoModeУ разі тривалої відсутності холодильник можна перевести в енергоощадний режим. У цей час дверцята залишаються зачиненими, що дозволяє підтримувати трохи вищу температуру і заощаджувати електроенергію без ризику втрати свіжості продуктів.Перенавішувані дверіЗавдяки дверцятам з можливістю перенавішування ви самі обираєте, в який бік відкриватиметься холодильник праворуч чи ліворуч, залежно від ваших потреб та планування кухні.Дверні петліСпеціальна конструкція завіс дозволяє відчиняти дверцята без зіткнень із сусідніми меблями, що дає змогу оптимально використовувати простір на кухні. Вбудований механізм забезпечує плавне та тихе закривання дверцят і запобігає їхньому грюкоту.Перетворіть морозильну камеру на камеру з нульовою температуроюConvertActiveЗавдяки можливості перетворити морозильну камеру на зону нульової температури або холодильне відділення ви самі обираєте, як зберігати продукти. Це чудове рішення, яке дозволяє адаптувати функціональність пристрою до ваших потреб – охолоджуйте або заморожуйте великі об’єми продуктів.Подвійна система, оптимальна продуктивністьNoFrost DualДва незалежні потоки повітря в холодильнику та морозильній камері запобігають змішуванню запахів і створюють оптимальні умови для різних видів продуктів. Система також запобігає утворенню льоду та інею забудьте про злиплі продукти та необхідність розморожування.Швидке заморожуванняFastFreezeШвидке заморожування при температурі -24°C у верхньому ящику морозильної камери дозволяє зберегти більше вітамінів, мінералів і поживних речовин. Функція використовує інтенсивний потік холодного повітря. Приблизно через 2 дні вона автоматично вимикається, а температура повертається до початкового значення.Електронне керування всерединіВеликий і чіткий світлодіодний дисплей забезпечує миттєвий контроль температурних налаштувань. Такі функції, як "швидке заморожування" та "режим відпустки", можна активувати одним дотиком. А при раптовому підвищенні температури вбудована сигналізація негайно вас попередить.Сигналізація відкриття дверцят і підвищення температуриЯкщо дверцята холодильника залишаться відчиненими або температура всередині буде занадто високою, пролунає переривчастий звуковий сигнал, а на дисплеї почне блимати температура. Сигнал тривоги вимкнеться автоматично, щойно дверцята буде зачинено або температура повернеться до безпечного рівня.Світлодіодне освітленняLED освітлення у вигляді вузьких панелей це надзвичайно енергоефективне рішення, що вирізняється довговічністю і низьким споживанням енергії.Полиці XXLВикористовуй більше простору завдяки глибоким полицям на дверцятах. Тепер ви можете зберігати напої у справді великих пляшках або картонних упаковках.Інверторний компресорНадійний та тихий інверторний компресор, що швидко реагує на зміну температури з мінімальним споживанням енергії. Ви оціните не лише низькі рахунки за електроенергію, а й тиху роботу пристрою.Тиха робота 35 дБХолодильник Gorenje працює на стабільному низькому рівні шуму. Завдяки тихій роботі лише 35 дБ ви можете насолоджуватися домашнім спокоєм без жодних перешкод.]]></description>
 </offer>
-<offer id="HT30358" available="false" selling_type="r">
+<offer id="HT30358" available="true" selling_type="r">
 <name>Стайлер/плойка ADLER AD-2116</name>
 <categoryId>286</categoryId>
 <portal_category_id>63303</portal_category_id>
-<price>781.00</price>
+<price>794.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011793_325811736.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011793_325811744.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011793_325811753.jpg</picture>
@@ -45504,7 +45631,7 @@
 <param name="Гарантія">14 днів</param>
 <description><![CDATA[Зручна кришка-ковпак Eco Fabric для холодильника та мікрохвильової печі. Кришка виготовлена з харчового поліпропілену, що проходить багаторівневий контроль якості.Пластикова кришка призначена для використання в холодильнику та мікрохвильовій печі. З кришкою їжа швидше розігрівається, не висихає, внутрішня поверхня мікрохвильовки захищена від забруднень.Кришка зручна у використанні, легко миється проточною водою.Кришку можна використовувати за температури від -40 до +110 ºС. Діаметр: 25 см Висота: 10.5 см]]></description>
 </offer>
-<offer id="HT30443" available="true" selling_type="r">
+<offer id="HT30443" available="false" selling_type="r">
 <name>Мішок для прання на блискавці 35х50см, 3кг Арт5508</name>
 <categoryId>312</categoryId>
 <portal_category_id>151609</portal_category_id>
@@ -46253,7 +46380,7 @@
 <portal_category_id>6300407</portal_category_id>
 <price>4719.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_9457c332-7941-11ee-8a57-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012054_elektropech-astor-cz-2146-1200x1200.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012054_elektropech-astor-cz-2146-1-1200x1200.jpg</picture>
@@ -46810,7 +46937,7 @@
 <portal_category_id>605</portal_category_id>
 <price>16132.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012148_350886554.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012148_350886555.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012148_350886556.jpg</picture>
@@ -47183,7 +47310,7 @@
 <portal_category_id>61903</portal_category_id>
 <price>15150.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012246_omk58hu1b-n-a-1.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012246_omk58hu1b-n-a-3.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012246_omk58hu1b-n-a-2.jpg</picture>
@@ -47914,9 +48041,9 @@
 <name>Фен-щітка ADLER AD-2022 набір</name>
 <categoryId>289</categoryId>
 <portal_category_id>617</portal_category_id>
-<price>1476.00</price>
+<price>1294.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012623_19865530.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012623_19865404.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012623_19865459.jpg</picture>
@@ -48352,13 +48479,13 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Представляємо вашій увазі електричну піч CASTLE CPE-45B - надійний помічник у кожній кухні. Ця піч має об'єм 45 літрів, що ідеально підходить для приготування різних страв для вашої родини або гостей. Діапазон температур від 70°C до 250°C та чотири режими приготування дозволять вам варіювати способи готування відповідно до вашого бажання. Особлива функція конвекції забезпечить рівномірне розподілення тепла для ідеального результату. Не хвилюйтеся про час - з вбудованим таймером на 60 хвилин і функцією автовимкнення ваші страви завжди будуть готові вчасно і без ризику перегорання. Електрична піч CASTLE CPE-45B оснащена внутрішньою підсвіткою для зручності спостереження за процесом приготування. Крім того, в комплекті йдуть лист, решітка, ручка для листа, лоток для крихт, інструкція та гарантійний талон. Чорний металевий корпус підкреслює сучасний дизайн пристрою. Механічне керування забезпечує простоту використання, а потужність 1.7 кВт гарантує швидке та ефективне приготування. З двома склами у дверцятах тепло ефективно утримується всередині, а ви можете спостерігати за процесом без втрати тепла.]]></description>
 </offer>
-<offer id="HT31388" available="false" selling_type="r">
+<offer id="HT31388" available="true" selling_type="r">
 <name>Порохотяг Castle CW-101B (2000Вт, мішок)</name>
 <categoryId>272</categoryId>
 <portal_category_id>608</portal_category_id>
 <price>3148.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012825_421048758.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012825_421048760.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012825_421048762.jpg</picture>
@@ -48377,13 +48504,13 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Пилосос CASTLE CW-101B забезпечує можливість здійснити прибирання з високою продуктивністю. А все завдяки тому, що ця техніка має потужність 2000 Вт та всмоктує забруднення з великою силою. Так ви зможете прибрати будь-які ділянки, особливо не обтяжуючи себе.]]></description>
 </offer>
-<offer id="HT31389" available="false" selling_type="r">
+<offer id="HT31389" available="true" selling_type="r">
 <name>Порохотяг Castle CW-101R (2000Вт, мішок)</name>
 <categoryId>272</categoryId>
 <portal_category_id>608</portal_category_id>
-<price>3203.00</price>
+<price>3148.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012826_421051608.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012826_421051609.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012826_421051610.jpg</picture>
@@ -49382,7 +49509,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Електрочайник Rotex RKT79-B Smart пропонує сучасний дизайн та високу функціональність. Забезпечений живленням 220-240В при частоті 50Гц і потужністю 2200Вт, він здатний швидко нагрівати воду до необхідної температури. Вміщає до 1,7 літра рідини, ідеально для приготування великих обсягів напоїв. Електрочайник оснащений електронним управлінням та багатофункціональним джойстиком, що забезпечує зручний і точний вибір параметрів. LCD дисплей надає інформацію про обрані налаштування. Регулювання температури доступне на рівнях: 40, 50, 60, 70, 80, 90 і 100 градусів Цельсія, що робить чайник універсальним для різних типів напоїв. Кольорові індикатори температури води дозволяють вам швидко оцінити стан нагрівання. Функція підтримки температури води забезпечує тривале зберігання готової води без втрати температури. Чайник обладнаний закритим нагрівальним елементом з нержавіючої сталі, що забезпечує довговічність та безпеку використання. Автовідключення відбувається при закипанні води або відсутності води, що мінімізує ризик перегріву. Поворотна база на 360° дозволяє зручно розміщувати чайник на підставці. Знімний фільтр від накипу полегшує очищення внутрішнього простору чайника. Корпус виготовлений з високоякісної нержавіючої сталі 304, що забезпечує стійкість до корозії і зберігає естетичний вигляд протягом тривалого часу. Цей чайник ідеально підходить для дому чи офісу, забезпечуючи надійну роботу і комфорт при щоденному використанні.]]></description>
 </offer>
-<offer id="HT31927" available="true" selling_type="r">
+<offer id="HT31927" available="false" selling_type="r">
 <name>Чайник Rotex RKT85-GS Smart (скло, підсвітка)</name>
 <categoryId>264</categoryId>
 <portal_category_id>640</portal_category_id>
@@ -49441,13 +49568,13 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Електрочайник Rotex RKT86-GB Smart — це сучасний пристрій, який поєднує в собі елегантний дизайн і високу функціональність. Він працює при напрузі 220-240 В та має потужність 2200 Вт, що забезпечує швидке і ефективне кип’ятіння води. З ємністю 1,7 л, цей електрочайник підходить для приготування чаю або кави для кількох осіб одночасно. Однією з ключових особливостей Rotex RKT86-GB є сенсорне управління, що забезпечує зручність у використанні. LCD дисплей надає візуальну інформацію про обрану температуру та стан роботи пристрою. Чайник пропонує 13 рівнів регулювання температури води від 40 до 100 градусів, що дозволяє точно підібрати необхідний температурний режим для різних напоїв. Пристрій підтримує функцію підтримування температури води, що дозволяє зберігати воду теплою протягом певного часу. Крім того, закритий нагрівальний елемент з нержавіючої сталі забезпечує надійність і довговічність експлуатації, а також легкість у догляді. Rotex RKT86-GB оснащений рядом систем безпеки, включаючи автоматичне відключення при закипанні та при відсутності води, а також захист від перегріву. Це робить його надійним помічником на кухні. Поворотна база на 360° дозволяє з легкістю встановлювати чайник в будь-якому положенні, а знімний фільтр від накипу забезпечує чистоту води. Корпус чайника виконаний з термостійкого скла, покритого харчовим пластиком (Cool-Touch), що не лише виглядає стильно, але й гарантує безпеку під час використання. Чорний колір додає елегантності та сучасного вигляду. Завдяки своїм функціональним можливостям, елегантному дизайну та високій безпеці, електрочайник Rotex RKT86-GB Smart стане незамінним помічником на вашій кухні.]]></description>
 </offer>
-<offer id="HT31929" available="false" selling_type="r">
+<offer id="HT31929" available="true" selling_type="r">
 <name>Порохотяг Castle CW-102Y (2000Вт, колба)</name>
 <categoryId>272</categoryId>
 <portal_category_id>608</portal_category_id>
 <price>3932.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013366_446292258.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013366_446292271.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013366_446292280.jpg</picture>
@@ -50438,9 +50565,9 @@
 <name>Порохотяг Castle CW-104R (колба)</name>
 <categoryId>272</categoryId>
 <portal_category_id>608</portal_category_id>
-<price>4604.00</price>
+<price>4530.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013504_459776939.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013504_459776948.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013504_459776943.jpg</picture>
@@ -50460,13 +50587,13 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Пилосос для сухого прибирання CASTLE — це потужний і надійний помічник, створений для ефективного очищення різноманітних поверхонь у вашому домі. Завдяки потужності 2400 Вт, він легко справляється з будь-якими забрудненнями, а його тип прибирання — сухе — робить його ідеальним для повсякденного використання. Основна насадка підлога-килим забезпечує ретельне очищення як твердих підлог, так і килимових покриттів, гарантуючи бездоганний результат. У комплекті ви знайдете додаткові насадки, включаючи насадку для меблів та щілинну насадку, які дозволяють без зусиль прибирати пил і бруд у важкодоступних місцях і на поверхнях меблів. Об'єм пилозбірника становить 4 літри, що забезпечує тривалу роботу без необхідності частого очищення. Пилосос оснащений сталевою телескопічною трубкою, яку можна легко регулювати по довжині, забезпечуючи максимальний комфорт під час прибирання. Завдяки довгому шнуру завдовжки 5 метрів, ви отримаєте достатньо свободи пересування, не вдаючись до постійного перепідключення приладу. CASTLE — це ідеальне поєднання високої продуктивності та зручності в експлуатації, що робить процес прибирання більш ефективним та приємним. З цим пилососом ваше житло завжди буде чистим і затишним!]]></description>
 </offer>
-<offer id="HT32068" available="false" selling_type="r">
+<offer id="HT32068" available="true" selling_type="r">
 <name>Порохотяг Castle CW-105B (2400Вт, колба)</name>
 <categoryId>272</categoryId>
 <portal_category_id>608</portal_category_id>
-<price>4499.00</price>
+<price>4561.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013505_459776942.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013505_459776946.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013505_459776952.jpg</picture>
@@ -50491,9 +50618,9 @@
 <name>Порохотяг Castle CW-106B (2000Вт, мішок)</name>
 <categoryId>272</categoryId>
 <portal_category_id>608</portal_category_id>
-<price>3549.00</price>
+<price>3574.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013506_459776978.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013506_459776984.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013506_Merged_document.jpg</picture>
@@ -51849,7 +51976,7 @@
 <portal_category_id>721</portal_category_id>
 <price>2457.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000138101.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000138102.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000138103.jpg</picture>
@@ -52110,13 +52237,13 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Блендер стаціонарний MPM MBL-15M випускається у сучасному дизайні у кольорі нержавіючої сталі з чорними пластиковими деталями. Він обладнаний двигуном потужністю 450 Вт, швидкість якого регулюється зручним поворотним перемикачем. Двигун функціонує на двох швидкостях, а для особливих випадків передбачений імпульсний режим. Продукти обробляються у скляній чаші з ручкою та шкалою об'ємом 1 літр, оснащеною кришкою із люком, щоб була можливість додавати інгредієнти під час роботи. Крім склянної чаші – блендера в комплекті є насадки–подрібнювачі: дві змінні пластикові пляшки по 600 мл. Вони дозволяють в них же приготувати смачні фізи і фруктово-ягідні нектари (безпосередньо в пляшках), і закривши їх спеціальними кришечками, взяти їх з собою! При цьому не треба мити велику чашу – блендер, що економить як Ваш час, так і щойно приготовлений продукт!Подрібнення продуктів виконується ножем із нержавіючої сталі, який здатний, у тому числі, дробити лід. Стаціонарний блендер MPM MBL-15M встановлений на ковзані ніжки, що забезпечують безпеку його використання.]]></description>
 </offer>
-<offer id="HT32470" available="false" selling_type="r">
+<offer id="HT32470" available="true" selling_type="r">
 <name>Бритва ADLER AD-2945</name>
 <categoryId>275</categoryId>
 <portal_category_id>3314</portal_category_id>
-<price>1129.00</price>
+<price>1116.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013912_424625359.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013912_424625361.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013912_424625362.jpg</picture>
@@ -54972,7 +55099,7 @@
 <portal_category_id>6300424</portal_category_id>
 <price>2956.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014642_ROM680-XL-MultiFry.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000014642_ROM680-XL-MultiFry-2.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000014642_ROM680-XL-MultiFry-5.jpg</picture>
@@ -56280,6 +56407,35 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Сковорідка MAXMARK MK-NQ45528 Dark Nano Quartz Stewpan діаметром 28 см — це чудовий вибір для кожної кухні, яка прагне досягти ідеальних результатів приготування страв. Виготовлена з легкого та міцного алюмінію, вона має антипригарне внутрішнє покриття, яке забезпечує зручність при готуванні та легкість у догляді. Така сковорідка дозволяє рівномірно прогрівати їжу та запобігає пригоранню навіть без додавання великої кількості олії. Завдяки оптимальній товщині дна (4 мм), вона чудово підходить для всіх видів плит, включаючи індукційні, що робить її універсальним помічником на кухні. Висота бортика складає 6,1 см, що дозволяє зручно готувати різноманітні страви, такі як підсмажені овочі, м'ясо або навіть омлети. Ручка сковорідки виконана з бакеліту, що не нагрівається під час приготування, забезпечуючи безпеку та комфорт при використанні. Крім того, на ручці є спеціальний отвір для підвішування, що дозволяє зручно зберігати сковорідку на кухні. Колір чорний та стильний дизайн сковорідки добре впишуться в будь-який інтер'єр. Її вага 760 грамів робить її досить легкою для щоденного використання, а кругла форма гарантує максимальну ефективність при приготуванні страв. MAXMARK MK-NQ45528 — це надійний кухонний інструмент, який задовольнить навіть найвищі вимоги до якості та зручності.]]></description>
 </offer>
+<offer id="HT33504" available="true" selling_type="r">
+<name>Міксер CASTLE CM-02B тістоміс планетарний (2000Вт)</name>
+<categoryId>281</categoryId>
+<portal_category_id>612</portal_category_id>
+<price>5198.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>2</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014944_424717872.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000014944_424717873.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000014944_424717875.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000014944_424717876.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000014944_424717874.jpg</picture>
+<vendor>CASTLE</vendor>
+<vendorCode>HT33504</vendorCode>
+<country>Китай</country>
+<param name="Колір">Чорний</param>
+<param name="Призначення">Побутове</param>
+<param name="Споживана потужність">2000 Вт</param>
+<param name="Кількість швидкостей">6 + імпульсний режим</param>
+<param name="Насадка вінчик">Так</param>
+<param name="Насадка для тіста">Так</param>
+<param name="Матеріал корпусу">Пластик</param>
+<param name="Об&apos;єм чаші">5,5 л</param>
+<param name="Кількість насадок">3</param>
+<param name="Тип міксера">Стаціонарний</param>
+<param name="Вага">4,8 кг</param>
+<param name="Гарантія">12 міс</param>
+<description><![CDATA[Міксер-тістоміс CASTLE CM-02B – це потужний і багатофункціональний кухонний прилад, який дозволяє швидко та ефективно виконувати широкий спектр кулінарних завдань. Він ідеально підходить для приготування тортів, макаронів, морозива, яєчних білків, тіста для хліба, густого тіста, безе та чистих вершків, допомагаючи значно заощадити час на кухні. Міксер оснащений потужним двигуном на 2000 Вт з металевими шестернями, що забезпечує високу ефективність роботи та довговічність. Міцний пластиковий корпус гарантує надійність і стійкість навіть при інтенсивному використанні. Чаша об'ємом 5.5 літра, виготовлена з нержавіючої сталі, відповідає всім вимогам для приготування великої кількості різних страв. Міксер має 6 ступенів швидкості та імпульсний режим для максимального контролю над процесом приготування. Для зручності управління всі налаштування розміщені на бічній панелі, яка оснащена світлодіодним підсвічуванням. Захисна кришка від бризок не тільки запобігає забрудненню робочих поверхонь, але й дозволяє додавати інгредієнти під час роботи приладу. Основа міксера оснащена ніжками з присосками, що гарантують його стійкість на будь-якій поверхні. Конструкція з похилою головою полегшує встановлення та зняття чаші, а також чистку пристрою. Всі аксесуари можна мити в посудомийній машині, що спрощує догляд за міксером. До комплекту входять міксер, чаша, три насадки (вінчики, гаки для тіста), кришка для чаші, інструкція користувача та гарантійний талон. Цей міксер стане незамінним помічником на вашій кухні, забезпечуючи швидкість і ефективність приготування.]]></description>
+</offer>
 <offer id="HT33507" available="true" selling_type="r">
 <name>Форма д/випікання коржів MPM SMILE SAK-10</name>
 <categoryId>308</categoryId>
@@ -56668,13 +56824,13 @@
 <param name="Гарантія">36 місяців</param>
 <description><![CDATA[Більше опцій для ваших кулінарних фантазій Dual Cook Виберіть спосіб приготування страв різних видів і заощаджуйте час і сили. У системи Dual Cook є верхнє і нижнє відділення, які працюють як окремо, так і разом. Natural Steam Насолоджуйтесь смачними та соковитими стравами зі скоринкою. Колір панелі BESPOKE Додайте дизайну своєї кухні сучасності та унікальності, яка впишеться у ваш інтер'єр та буде відповідати вашому смаку. Три способи приготування в одній духовій шафі Dual Cook Вибирайте спосіб приготування різних страв, щоб досягти оптимального результату. Верхнє та нижнє відділення Dual Cook можуть працювати окремо або разом. Використовуйте верхнє відділення для невеликих страв, обидві разом — щоб готувати різноманітні страви, експериментувати з різними режимами й досягати смачних результатів, а для більших страв використовуйте духову шафу на всю потужність. Зберігає соковитість продуктів всередині й рум'яну скоринку зовні Natural Steam Насолоджуйтесь неймовірно соковитими, але хрусткими стравами. Для використання функції Natural Steam, просто встановіть спеціальний піддон на дно духовки та налийте на нього воду. Під час приготування їжі утворюється пара. Це допомагає зберегти природну вологість у продуктах, тому вони мають соковитий та ніжний смак, а також рум'яну та хрустку скоринку. Неповторно стильна Колір панелі BESPOKE Додайте своїй кухні сучасності та унікального стилю, який впишеться у ваш інтер'єр та буде відповідати вашому смаку. Духова шафа доступна в різних сучасних кольорах та оздобленні. Комбінуючи та поєднуючи техніку BESPOKE, ви зможете освіжити дизайн вашої оселі. Ідеально рівномірне приготування їжі Air Sous Vide Готуйте їжу більш рівномірно, не пересмажуючи та не пересушуючи її. Технологія Air Sous Vide точно визначає температуру в кожній зоні та підтримує її рівномірність протягом тривалого часу. Таким чином, всі страви ретельно просмажуються та мають ніжний та соковитий смак. Готуйте із задоволенням SmartThings Cooking Створювати кулінарні шедеври стає ще приємніше. SmartThings Cooking економить час і полегшує процес приготування їжі. Розуміючи ваші потреби, додаток рекомендує індивідуальні рецепти та створює тижневий план харчування. Він також пропонує можливість керувати процесом приготування їжі та дозволяє без зусиль купувати продукти. Легке самоочищення Каталітичне очищення Досить витрачати час і сили на миття духовки. Система каталітичного очищення дозволяє легко підтримувати чистоту духовки. Каталітична поверхня абсорбує жир від бризок і крапель під час приготування страв. Завдяки цьому духовка очищається сама, без жодного клопоту і дорогих мийних засобів. Закривається плавно, м'яко і безшумно Дверцята з плавним механізмом зачинення Насолоджуйтеся комфортнішим процесом приготування їжі завдяки дверцятам з плавним механізмом зачинення. Завдяки цьому духовка закривається надійно, м'яко і безшумно. Шарнір забезпечує плавний рух дверцят на останніх сантиметрах, тому вони повільно і безшумно зачиняються, без вібрації й стуку. Готуйте набагато більше Великий об'єм (76 л) Готуйте більше страв великими порціями завдяки масивній вмісткій духовій шафі обсягом 76 літрів. Отримуйте безліч можливостей у розвитку кулінарних здібностей у себе вдома. Тепер можна готувати багато різних страв одночасно, наприклад, для вечірки. І, звісно, духовка легко вміщує об'ємні страви, такі як величезна індичка для сімейних свят. Енергоефективність A+ без компромісів Енергоефективність A+ Зробіть дім енергоефективнішим. Ви можете використовувати весь обсяг духової шафи й насолоджуватися винятковою енергоефективністю класу А+ в ECO-режимі. У такий спосіб ви використовуєте меншу потужність, зберігаючи при цьому великий і гнучкий простір духової шафи для власних потреб. Щобільше, цей режим зменшує шкідливі викиди CO2. Висувне деко Телескопічні напрямні Тепер діставати страви з духовки набагато легше. Телескопічні напрямні дозволяють легко діставати великі або важкі сковорідки. Телескопічні напрямні створюють набагато менше тертя, тому духовку набагато легше завантажувати та вивантажувати. І ви зможете легко змащувати, перевертати та приправляти страви. Volt Control Спокій за будь-якої напруги Технологія Volt Control забезпечує стабільну роботу побутової техніки при коливаннях напруги у діапазоні від 187 до 253 В. При значних стрибках напруги до 400 В технологія Volt Control автоматично вимикає прилади, захищаючи їх від можливих пошкоджень. Після стабілізації напруги техніка автоматично відновлює роботу із тієї стадії, на якій вона вимкнулася. Volt Control надійно захищає вашу пральну машину, холодильник або духову шафу, забезпечуючи їхню довговічність і безперебійну роботу.]]></description>
 </offer>
-<offer id="HT33599" available="false" selling_type="r">
+<offer id="HT33599" available="true" selling_type="r">
 <name>Духовка Castle CPE-60X (скло, нержавійка корпус)</name>
 <categoryId>224</categoryId>
 <portal_category_id>6300407</portal_category_id>
 <price>5169.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000150372.jpg</picture>
 <vendor>CASTLE</vendor>
 <vendorCode>HT33599</vendorCode>
@@ -57177,13 +57333,13 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Пилосос CASTLE CW-110R— це зручний та ефективний інструмент для прибирання, який забезпечує якісне очищення різних типів поверхонь у вашому домі чи офісі. Оснащений потужним мотором, він здатний швидко та ефективно справлятися з пилом та дрібним сміттям. Основні характеристики: Потужність: Забезпечує достатню силу всмоктування для ефективного прибирання, дозволяючи якісно очищати підлогу та килими.Дизайн: Компактний та ергономічний дизайн дозволяє з легкістю маневрувати по різних приміщеннях, а також зручно зберігати прилад, коли він не використовується.Фільтрація: Сучасна система фільтрації забезпечує більш чисте повітря після прибирання, утримуючи частинки пилу і алергенів.Насадки: Може бути оснащений різними насадками для різних поверхонь, включаючи щілинну насадку та насадки для меблів.Контейнер/мішок для пилу: Зручно спорожняти та чистити, що полегшує обслуговування пилососа.Цей пилосос стане чудовим вибором для тих, хто шукає надійний та простий у використанні прилад для ефективного прибирання повсякденного бруду та пилу. Якщо вам потрібна додаткова інформація про специфічні функції або характеристики, таких як рівень шуму або об'єм контейнера для пилу, будь ласка, зверніть увагу на додаткові джерела або специфікації від виробника.]]></description>
 </offer>
-<offer id="HT33721" available="false" selling_type="r">
+<offer id="HT33721" available="true" selling_type="r">
 <name>Порохотяг Castle CW-111H (колба)</name>
 <categoryId>272</categoryId>
 <portal_category_id>608</portal_category_id>
-<price>5863.00</price>
+<price>5794.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/000015158.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/100015158.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/200015158.jpg</picture>
@@ -57205,9 +57361,9 @@
 <name>Порохотяг Castle CW-111S (колба)</name>
 <categoryId>272</categoryId>
 <portal_category_id>608</portal_category_id>
-<price>5294.00</price>
+<price>5313.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/000015159.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/100015159.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/200015159.jpg</picture>
@@ -57226,13 +57382,13 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Пилосос CASTLE CW-111S — це зручний і ефективний помічник для щоденного прибирання в будинку, офісі або майстерні. Модель поєднує в собі високу потужність всмоктування, універсальність у використанні та простоту в обслуговуванні. Завдяки міцному корпусу та функціональній конструкції, пилосос підходить як для сухого, так і вологого прибирання. Збірник для пилу й рідин виготовлений із надійного матеріалу, стійкого до зношування, що гарантує довговічність експлуатації. Фільтраційна система забезпечує затримку дрібнодисперсного пилу, зберігаючи повітря в приміщенні чистим. CASTLE CW-111S має зручні колеса для легкого переміщення, ергономічну ручку та насадки, що входять до комплекту, завдяки чому можна прибирати різні типи поверхонь — від підлоги до меблів чи важкодоступних щілин.]]></description>
 </offer>
-<offer id="HT33723" available="false" selling_type="r">
+<offer id="HT33723" available="true" selling_type="r">
 <name>Порохотяг Castle CW-112B (мішок)</name>
 <categoryId>272</categoryId>
 <portal_category_id>608</portal_category_id>
-<price>2401.00</price>
+<price>2562.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/000015160.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/100015160.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/200015160.jpg</picture>
@@ -57376,7 +57532,7 @@
 <portal_category_id>640</portal_category_id>
 <price>426.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000151751.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000151752.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000151753.jpg</picture>
@@ -59780,7 +59936,7 @@
 <portal_category_id>615</portal_category_id>
 <price>23500.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156081.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156082.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156083.jpg</picture>
@@ -59979,7 +60135,7 @@
 <portal_category_id>603</portal_category_id>
 <price>27250.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156511.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156512.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156513.jpg</picture>
@@ -60148,7 +60304,7 @@
 <portal_category_id>15230411</portal_category_id>
 <price>618.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156911.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156912.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156913.jpg</picture>
@@ -60503,7 +60659,7 @@
 <portal_category_id>606</portal_category_id>
 <price>2331.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157471.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157472.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157473.jpg</picture>
@@ -62098,6 +62254,31 @@
 <param name="Вага">2,3 кг</param>
 <description><![CDATA[Виробник: Sogo. Колір: білий. Тип кави: мелена. Керування: сенсорне. Тип кави: чалди (фільтр, в якому запресована кава). Стан товару: Новий. Матеріал корпусу: пластик. Тип: капсульна кавоварка. Тип кави: капсули. Особливості: автовідключення. Особливості: протикрапельна система. Розміри, мм: 107 x 303 x 236. Особливості: індикація готовності до роботи. Сфера використання: побутова. Тиск помпи, бар: 20. Спосіб встановлення: настільна. Об'єм резервуара для води, л: 0.85. Автоматичне приготування напоїв: еспресо. Потужність, Вт: 1400. Вага, кг: 2.3. Живлення: мережа. Особливості: захист від перегріву. Вид: напівавтоматична.]]></description>
 </offer>
+<offer id="HT34624" available="true" selling_type="r">
+<name>Ваги кухонні ADLER AD 3178 (мірна чашка)</name>
+<categoryId>277</categoryId>
+<portal_category_id>15230411</portal_category_id>
+<price>649.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>2</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000161161.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000161162.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000161163.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000161164.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000161165.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000161166.jpg</picture>
+<vendor>Adler</vendor>
+<vendorCode>HT34624</vendorCode>
+<param name="Об`єм">1,2 л</param>
+<param name="Живлення">2 х AАA</param>
+<param name="Матеріал платформи">Пластик</param>
+<param name="Тип ваг">З чашею</param>
+<param name="Матеріал корпусу">Пластик</param>
+<param name="Максимальне навантаження, кг">5 кг</param>
+<param name="Розмір">22 x 14,5 x 13,5 см</param>
+<param name="Гарантія">12 міс</param>
+<description><![CDATA[Електронні кухонні ваги з максимальною місткістю 5 кг і точністю до 1 г. Надзвичайно корисні при приготуванні страв, що вимагають точно визначених пропорцій продуктів. Це дозволяє точно зважувати навіть невелику кількість продуктів. Він також відповідає потребам людей, які піклуються про розмір їжі з міркувань здоров’я. Завдяки невеликим розмірам ваги зручно зберігати та легко транспортувати. Він має знімну чашку та великий висувний дисплей. Естетичну та прозору чашку ємністю 1200 мл легко підтримувати в чистоті. Крім того, ваги мають функцію тарування і оснащені нековзкими ніжками.]]></description>
+</offer>
 <offer id="HT34625" available="true" selling_type="r">
 <name>Відпарювач ручний/праска Adler AD 5044</name>
 <categoryId>271</categoryId>
@@ -62198,9 +62379,9 @@
 <name>Порохотяг Castle CW-105R (2400Вт, колба)</name>
 <categoryId>272</categoryId>
 <portal_category_id>608</portal_category_id>
-<price>4450.00</price>
+<price>4561.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000161381.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000161382.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000161383.jpg</picture>
@@ -62697,7 +62878,7 @@
 <portal_category_id>612</portal_category_id>
 <price>3819.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000162561.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000162562.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000162563.jpg</picture>
@@ -63297,7 +63478,7 @@
 <portal_category_id>603</portal_category_id>
 <price>16163.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>41</quantity_in_stock>
+<quantity_in_stock>40</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000163891.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000163892.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000163893.jpg</picture>
@@ -64033,7 +64214,7 @@
 <portal_category_id>603</portal_category_id>
 <price>19625.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>40</quantity_in_stock>
+<quantity_in_stock>39</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165551.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165552.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165553.jpg</picture>
@@ -64266,7 +64447,7 @@
 <portal_category_id>6300401</portal_category_id>
 <price>851.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167011.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167012.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167013.jpg</picture>
@@ -64289,7 +64470,7 @@
 <portal_category_id>6300401</portal_category_id>
 <price>1101.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167021.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167022.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167023.jpg</picture>
@@ -64433,7 +64614,7 @@
 <portal_category_id>64422</portal_category_id>
 <price>202.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>32</quantity_in_stock>
+<quantity_in_stock>30</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166961.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166962.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166963.jpg</picture>
@@ -65154,7 +65335,7 @@
 <portal_category_id>621</portal_category_id>
 <price>739.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000168531.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000168532.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000168533.jpg</picture>
@@ -65174,7 +65355,7 @@
 <portal_category_id>621</portal_category_id>
 <price>739.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>19</quantity_in_stock>
+<quantity_in_stock>17</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000168540.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000168542.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000168543.jpg</picture>
@@ -65197,7 +65378,7 @@
 <portal_category_id>621</portal_category_id>
 <price>739.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>18</quantity_in_stock>
+<quantity_in_stock>16</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000168552.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000168553.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000168554.jpg</picture>
@@ -65220,7 +65401,7 @@
 <portal_category_id>621</portal_category_id>
 <price>739.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000168562.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000168563.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000168564.jpg</picture>
@@ -66627,6 +66808,30 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Adler AD 4131 - це інноваційна та багатофункціональна соковижималка повільної дії, яка дає три різні можливості на вашій кухні в одному пристрої. Завдяки своїй універсальності він дає змогу готувати різноманітні страви та забезпечує зручність використання. Завдяки передовій технології ця соковижималка забезпечує вражаючий ступінь екстракції соку - до 75 %, що означає, що ви можете насолоджуватися більш насиченим і поживним напоєм. Незважаючи на свою виняткову продуктивність, соковижималка Adler AD 4131 має компактний корпус двигуна, що займає всього 15 сантиметрів ширини на вашій кухні. Це означає, що ви можете насолоджуватися всіма перевагами приготування соку, не займаючи багато місця на стійці. Ця соковижималка оснащена функцією втягування шнека, що робить її надзвичайно простою у використанні. У разі будь-якого блокування просто використовуйте цю функцію, щоб усунути будь-які перешкоди і продовжити процес приготування соку. Ба більше, завдяки тихій роботі, рівень шуму якої становить близько 64 децибел, ви можете насолоджуватися свіжим соком без шуму. Соковижималка Adler AD 4130 оснащена ефективним двигуном постійного струму, що гарантує ефективність і надійність під час приготування соку. Додатково протиковзкі ніжки забезпечують стійкість пристрою під час роботи, що підвищує безпеку і комфорт використання.Однією з основних функцій Adler AD 4131 є м'ясорубка, яка оснащена ситом №8. Це сито випускається з трьома розмірами отворів: 3 мм, 5 мм і 7 мм. Завдяки цьому ви маєте повний контроль над розміром фаршу, що дає змогу приготувати страву саме за вашими вподобаннями. Adler AD 4131 також має функцію овочерізки, яка дає змогу швидко та зручно нарізати, шаткувати або натирати різні овочі. Це ідеальний інструмент для приготування салатів, запіканок та інших страв, які потребують точної підготовки інгредієнтів.AD 4131 Соковижималка повільної дії 3 в 1М'ясорубка, соковижималка, терка для овочівКомпактний корпус завширшки всього 15 см.Функція реверсу шнекаТиха робота (м'ясорубка ~59 дБ, повільна соковижималка 64 дБ)Швидкість обертання: 90-105 об/хв (залежно від навантаження)Ефективний двигун постійного струмуПротиковзкі ніжкиМ'ясорубка з ситечком №8:3 сітчастих фільтри з нержавіючої сталі з отворами:3 мм, 5 мм, 7 ммНасадка для ковбасиКіббе додатокОдносторонній ніж із нержавіючої сталі.Овочерізка:3 голови:Слайсер - нарізаємо тонкими скибочками огірки, моркву, кабачки, перець, цибулю, ріпу, червонокачанну, білокачанну капусту, яблука.Терка з великими отворами - можна натерти кабачки, редис, моркву, капусту, твердий сир і шоколад.Терка-пюре - подрібнити сухі панірувальні сухарі, фундук, волоські горіхи, мигдаль, пармезан.Повільна соковижималка з високим виходом соку (витяг до 75% за вагою) для більш повноцінного харчування.Ємність контейнера для соку: 650 мл.Ємність контейнера для м'якоті: 950 мл.Потужність: 150 ВтНапруга: 220-240 В 50/60 Гц]]></description>
 </offer>
+<offer id="HT35251" available="true" selling_type="r">
+<name>Машинка для видалення катишків ADLER AD-9617B</name>
+<categoryId>292</categoryId>
+<portal_category_id>63020</portal_category_id>
+<price>1171.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>2</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171101.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171102.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171103.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171104.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171105.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171106.jpg</picture>
+<vendor>Adler</vendor>
+<vendorCode>HT35251</vendorCode>
+<country>Польща</country>
+<param name="Колір">Чорний</param>
+<param name="Керування">Електронне</param>
+<param name="Матеріал корпусу">Пластик</param>
+<param name="Джерело живлення">Акумулятор</param>
+<param name="Вага">0,29 кг</param>
+<param name="Гарантія">12 міс</param>
+<description><![CDATA[Машинка для стриження ковтунців Adler AD‑9617 — це компактний побутовий пристрій, призначений для швидкого та безпечного видалення ковтунців (катишків) з одягу та різних видів тканин. Вона допомагає повернути речам охайний вигляд і продовжує термін їх використання. Прилад оснащений металевою захисною сіткою та гострими лезами з нержавіючої сталі, які ефективно зрізають ковтунці, не пошкоджуючи тканину. Машинка має зручний ергономічний корпус і працює від вбудованого акумулятора, який заряджається через USB, тому її можна підключати до адаптера, комп’ютера або павербанка. Пристрій підтримує кілька швидкостей роботи, що дозволяє підбирати оптимальний режим для різних типів тканини. Велика ріжуча головка пришвидшує очищення поверхні, а знімний контейнер для ворсу легко очищується після використання. Додатковою перевагою є дисплей, який показує рівень заряду акумулятора та режим роботи. Машинка підходить для догляду за светрами, пальтами, пледами, ковдрами, оббивкою меблів та іншими текстильними виробами. У комплекті зазвичай є кабель для заряджання та щітка для очищення лез.]]></description>
+</offer>
 <offer id="HT35252" available="true" selling_type="r">
 <name>Міксер MPM MMR-26Z/B (600Вт з чашою)</name>
 <categoryId>281</categoryId>
@@ -66708,13 +66913,13 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[MPM SMILE-KN-02/1KB; Характеристика плити: Настільна Газова; Характеристика варильної поверхні: 2 Квадрат Газова Механічний Виробник виробу MPM Модель SMILE-KN-02/1KB Код від виробника SMILE-KN-02/1KB Характеристика плити [1] Потужність Звичайного пальника 1.6 кВт Потужність Великого пальника 2.3 кВт Розташування Настільна Тип плити управління плити Механічний Кришка Метал Характеристика варильної поверхні [1] Кількість конфорок 2 Матеріал робочої поверхні Нержавіюча сталь Матеріал ґрат варильної поверхні Чавун Розташування конфорок Квадрат Розташування елементів управління Фронтальне Тип варильної поверхні Газова Тип керування варильною поверхнею Механічний Колір виробу Колір виробу Чорний Колір ручок]]></description>
 </offer>
-<offer id="HT35256" available="false" selling_type="r">
+<offer id="HT35256" available="true" selling_type="r">
 <name>Стайлер/вирівнювач ADLER AD-2327P</name>
 <categoryId>286</categoryId>
 <portal_category_id>63303</portal_category_id>
-<price>1812.00</price>
+<price>1887.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171121.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171122.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171123.jpg</picture>
@@ -66736,6 +66941,34 @@
 <param name="Вага">0,5 кг</param>
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Випрямляч для волосся ADLER AD-2327P — це зручний і функціональний прилад, створений для комфортного стайлінгу вдома та в подорожах. Оснащений механічним терморегулятором з трьома режимами температури: 160°C, 190°C і 220°C, він дозволяє підібрати оптимальний нагрів для різних типів волосся. Завдяки плаваючим пластинам прилад дбайливо вирівнює пасма, зберігаючи їхню структуру, а також підходить для створення гладкої зачіски або природних хвиль.Пристрій працює від вбудованого акумулятора та забезпечує до 50 хвилин автономної роботи за мінімальної температури. У комплект входять чохол та кабель. Також передбачені індикатори заряду (100%, 75%, 25%) і автоматичне вимкнення через 20 хвилин, що гарантує безпеку та енергоефективність. Потужність пристрою — 60–70 Вт, а шнур, що обертається на 360°, робить процес укладки ще зручнішим.]]></description>
+</offer>
+<offer id="HT35266" available="true" selling_type="r">
+<name>Стайлер/вирівнювач Camry CR-2320</name>
+<categoryId>286</categoryId>
+<portal_category_id>63303</portal_category_id>
+<price>1987.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>4</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171131.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171132.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171133.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171134.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171135.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171136.jpg</picture>
+<vendor>CAMRY</vendor>
+<vendorCode>HT35266</vendorCode>
+<country>Польща</country>
+<param name="Колір">Сріблястий</param>
+<param name="Покриття пластин">Титан</param>
+<param name="Керування">Електронно-механічне</param>
+<param name="Матеріал корпусу">Пластик + метал</param>
+<param name="Час нагріву">40 сек</param>
+<param name="Матеріал покриття">Титан</param>
+<param name="Температура нагріву">130 - 230 °С</param>
+<param name="Іонізація">Так</param>
+<param name="Вага">0,39 кг</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Утюг для волосся - Professional - з іонізацією CR 2320 CamryЗдорове та блискуче волосся – мрія шкірного. Вони є ознакою здоров'я та додають елегантності будь-якій укладці. Час від часу ми також хочемо змінити свою зовнішність, не надто втручаючись у довжину чи густоту волосся. Тому варто оснастити собі професійним випрямлячем для волосся CAMRY CR 2320, який дозволить швидко та безпечно створити оригінальну та приємну зачіску.Технічні даніФункція іонізації - зменшує схильність до електризації волосся.PTC – швидкий нагрів за 40 секунд6 режимів температури: 130°C, 150°C, 170°C, 190°C, 210°C, 230°CLCD дисплейКорпус із нержавіючої сталіРухомі титанові пластини: 28x110 ммФіксатор плечей випрямлячаАвтоматичне відключення через 60 хвилинНаконечники, які не нагріваютьсяПоворотний кабель на 360 °Довжина кабелю: 171 смПідвісна ручкаУ комплекті: захисна рукавичкаНомінальна потужність: 50 ВтМаксимальна потужність: 500 ВтТип вилки: CВипрямляч для всіх типів волоссяЗавдяки можливості встановлення 6 різних температурних рівнів від 130 до 220C цим пристроєм може користуватися кожен. Незалежно від того, чи ваше волосся тонке та нижнє, чи густе та його важко приборкати, вибравши правильну температуру, ви зможете швидко укласти його та водночас потурбуватися про його здоров'я. Великим перевагою випрямляча є функція іонізації, яка зменшує схильність до електризації волосся. Іонізація також допомагає зменшити висихання волосся під час високотемпературної укладки. Випрямляч виробляє негативні іоні, які позитивно впливають на кутикулу волосся та роблять ефект прямого волосся на багато годин. Рухомі титанові пластини розміром 28 х 110 мм дозволяють приборкати будь-які неслухняні пряди. Швидке нагрівання за 40 секунд полегшує,Випрямляч безпечний для волоссяВін не тільки виготовлений з високоякісних матеріалів, але й цікаві технічні рішення роблять його безпечним та зручним у використанні пристроєм. РК-дисплей в зручному місці дозволяє стежити за роботою пристрою. Корпус із нержавіючої сталі забезпечити тривале використання обладнання. Блокування плечей випрямляча та ручки для підвішування означає, що його транспортування чи зберігання не потребують спеціальних процедур. Автоматичне відключення через 60 хвилин стане в нагоді забудькуватим людям, які бояться залишати пристрої підключеними до джерела живлення. Наконечники, що не нагріваються, шнур, що обертається на 360, і захисна рукавичка, що входять до комплекту, гарантують безпечне використання випрямляча навіть для людей, які тільки починають свою пригоду з цим видом укладання.]]></description>
 </offer>
 <offer id="HT35267" available="true" selling_type="r">
 <name>Стайлер/вирівнювач Camry CR-2322</name>
@@ -66901,7 +67134,7 @@
 <portal_category_id>6300424</portal_category_id>
 <price>3718.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>21</quantity_in_stock>
+<quantity_in_stock>20</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171881.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171882.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171883.jpg</picture>
@@ -67069,7 +67302,7 @@
 <portal_category_id>61903</portal_category_id>
 <price>21063.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>13</quantity_in_stock>
+<quantity_in_stock>12</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171951.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171952.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171953.jpg</picture>
@@ -67439,13 +67672,13 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Відкрийте для себе найздоровіший та найефективніший спосіб приготування їжі за допомогою нашої високотехнологічної фритюрниці.Розроблений для використання на 80% менше жиру, ніж звичайна фритюрниця, він дозволяє насолоджуватися улюбленими стравами без шкоди для смаку чи текстури. Інновації в кожній деталі:Циркуляція гарячого повітря на 360°: удосконалена технологія високошвидкісного гарячого повітря забезпечує рівномірне та швидке приготування, огортаючи їжу смачним хрустким шаром без необхідності використання зайвої олії.Кошик з керамічним покриттям і нержавіючою сталлю: Завдяки внутрішній порожнині з нержавіючої сталі ця фритюрниця поєднує в собі довговічність і елегантний дизайн, який легко чистити.Вікно дисплея: контролює процес приготування без необхідності відкривати фритюрницю, забезпечуючи повний контроль і ідеальні результати.Автоматичне нагадування про струшування: підтримує консистенцію вашої їжі, нагадуючи вам струсити кошик під час приготування.10 функцій приготування: Універсальність у вас під рукою з кількома попередньо встановленими програмами для різних типів їжі та способів приготування.Світлодіодний цифровий дисплей і сенсорна панель: проста у використанні, інтуїтивно зрозуміла панель керування дозволяє регулювати параметри з точністю та чіткістю.Регульований контроль температури: діапазон від 80°C до 200°C, щоб адаптуватися до всіх ваших рецептів, від легкого смаження до інтенсивного випічки.Таймер і автоматичне вимкнення: встановіть час приготування від 1 до 60 хвилин за допомогою дзвінка, який сповіщає вас, коли ваша їжа готова, і функції автоматичного вимкнення для додаткової безпеки.Цифрова книга рецептів у комплекті: колекція надихаючих рецептів, які допоможуть максимально ефективно використовувати свою фритюрницю.Захист від перегріву: Розроблена з урахуванням вашої безпеки, фритюрниця має функції захисту, які запобігають перегріву.Холодна сенсорна ручка: Для безпечного та зручного керування кошиком навіть під час використання.Нековзні ніжки: вони гарантують стабільність і безпеку під час роботи.Аксесуари, безпечні для миття в посудомийній машині: вони полегшують прибирання, економлячи ваш час і зусилля.Знімний кошик для смаження та решітка для смаження 10 л із силіконовим щипцем: ідеально підходить для приготування великої кількості та різноманітності їжі.Перетворіть свою кухню та прийміть здоровіший спосіб життя за допомогою високотехнологічної фритюрниці.Готуйте смачні та хрусткі страви швидко, якісно та з набагато меншою кількістю жиру.Ваш ідеальний союзник для збалансованого та практичного харчування!]]></description>
 </offer>
-<offer id="HT35314" available="false" selling_type="r">
+<offer id="HT35314" available="true" selling_type="r">
 <name>Порохотяг Castle CW-104V (колба)</name>
 <categoryId>272</categoryId>
 <portal_category_id>608</portal_category_id>
-<price>4604.00</price>
+<price>4530.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000172271.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000172272.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000172273.jpg</picture>
@@ -67709,7 +67942,7 @@
 <portal_category_id>6300424</portal_category_id>
 <price>4121.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171871.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171872.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171873.jpg</picture>
@@ -68191,7 +68424,7 @@
 <portal_category_id>6300413</portal_category_id>
 <price>942.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000173211.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000173212.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000173213.jpg</picture>
@@ -68344,7 +68577,7 @@
 <portal_category_id>63005</portal_category_id>
 <price>2438.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000173281.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000173282.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000173283.jpg</picture>
@@ -69772,7 +70005,7 @@
 <portal_category_id>612</portal_category_id>
 <price>3819.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000174721.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000174722.jpg</picture>
 <vendor>CASTLE</vendor>
@@ -69828,7 +70061,7 @@
 <portal_category_id>64422</portal_category_id>
 <price>271.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>103</quantity_in_stock>
+<quantity_in_stock>101</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166971.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166972.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000166973.jpg</picture>
@@ -70077,7 +70310,7 @@
 <portal_category_id>617</portal_category_id>
 <price>1786.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175211.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175212.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175213.jpg</picture>
@@ -70298,7 +70531,7 @@
 <portal_category_id>6300424</portal_category_id>
 <price>6440.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175071.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175072.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175073.jpg</picture>
@@ -70515,13 +70748,13 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Електробритва Rotex RHC240-5D HeadPlus — це сучасний пристрій для ефективного та комфортного гоління, створений з урахуванням потреб активного користувача. Модель має потужність 3 Вт і працює від акумулятора, що забезпечує повну автономність і зручність використання без обмежень дротами. Це ідеальний варіант як для домашнього догляду, так і для поїздок.Бритва оснащена п’ятьма плаваючими головками, які точно повторюють контури обличчя та голови, забезпечуючи максимально чисте та рівномірне гоління навіть у важкодоступних зонах. Подвійна система гоління підвищує ефективність роботи пристрою, дозволяючи швидко досягати бажаного результату без подразнення шкіри. Завдяки ергономічному дизайну корпусу бритву зручно тримати в руці, що забезпечує комфорт під час кожного використання.Модель відзначається простотою в догляді — легка чистка дозволяє швидко привести пристрій до належного стану після використання. У комплект входять щітка для чищення та шнур для зарядки, що робить експлуатацію максимально зручною. Стриманий сірий колір підкреслює сучасний вигляд бритви та її універсальність.]]></description>
 </offer>
-<offer id="HT35497" available="false" selling_type="r">
+<offer id="HT35497" available="true" selling_type="r">
 <name>Бутербродниця Adler AD-3040 (5 в 1)</name>
 <categoryId>293</categoryId>
 <portal_category_id>6300413</portal_category_id>
-<price>2104.00</price>
+<price>2154.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175541.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175542.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175543.jpg</picture>
@@ -71413,7 +71646,7 @@
 <portal_category_id>603</portal_category_id>
 <price>16375.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000176841.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000176842.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000176843.jpg</picture>
@@ -71854,7 +72087,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Термопот із нержавіючої сталі CR 1267 дає змогу як нагрівати воду, так і підтримувати її температуру. Незамінний під час конференцій для організації кава-брейків, а також на різних видах ділових, наукових і світських зустрічей. Завдяки своїй мобільності ідеально підходить як обладнання для компаній, що готують заходи. Котел Camry простий і зручний у використанні, а також додатково забезпечує безпеку використання (ручки і кран, що не нагріваються).Характеристики:Максимальна ємність: 8,8 лМінімальна ємність: 1,0 лФункція збереження теплаФункція контролю температури від 30°C до 100°CЗнімна кришкаВбудований зливний кранЗручні та міцні ручки для перенесенняПлоский нагрівач із нержавіючої сталіІндикатор рівня води зі шкалоюДовжина шнура живлення: 122 см.Колір шнура живлення: чорнийКорпус із нержавіючої сталіРозміри виробу: 30,0 х 31,0 х 45,0 см.Колір: нержавіюча стальТип штекера: Е/ФНомінальна потужність: 950 ВтЕлектроживлення: 220-240В ~ 50Гц]]></description>
 </offer>
-<offer id="HT35645" available="true" selling_type="r">
+<offer id="HT35645" available="false" selling_type="r">
 <name>Варильна поверхня Electrolux KDI641723K (2+2 газ+ індукція)</name>
 <categoryId>223</categoryId>
 <portal_category_id>61911</portal_category_id>
@@ -72072,6 +72305,33 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Фен з іонізацією та дифузором Adler AD 2248 grey champane, 2200 ВтФен для волосся AD 2248 з іонізацією – це вибір винятково вимогливих людей, які доглядають за своїм волоссям і хочуть надати йому гарного вигляду. Фен оснащений концентратором та дифузором, які покращують можливості сушіння та укладання. Крім того, фен може похвалитися сучасним дизайном.Технічні характеристики:Максимальна потужність: 2400 ВтФункція іонізації з вимикачем/вимикачем та індикатором2 налаштування потоку повітря3 налаштування температуриХолодний потік повітряФорсунка для фокусування потоку повітряДифузорСучасний дизайнПетля для підвішуванняШнур живлення 1,8 мТип вилки: CКолір: сірий]]></description>
 </offer>
+<offer id="HT35658" available="true" selling_type="r">
+<name>Фен ADLER AD-2248 white champagne (дифузор)</name>
+<categoryId>289</categoryId>
+<portal_category_id>617</portal_category_id>
+<price>1048.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>8</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177941.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177942.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177943.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177944.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177945.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177946.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177947.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177948.jpg</picture>
+<vendor>Adler</vendor>
+<vendorCode>HT35658</vendorCode>
+<country>Китай</country>
+<param name="Колір">Білий</param>
+<param name="Кількість швидкостей">2</param>
+<param name="Матеріал корпусу">Пластик</param>
+<param name="Кількість температурних режимів">3</param>
+<param name="Іонізація">Так</param>
+<param name="Потужність">2500 Вт</param>
+<param name="Гарантія">12 міс</param>
+<description><![CDATA[Фен ADLER AD 2248 - це елегантний і професійний фен, який допоможе вам стилізувати ваше коротке, середнє або довге волосся. Ефективний і довговічний, завдяки якісним матеріалам прослужить багато років. Більш того, сучасні рішення допоможуть подбати і про здоров'я вашого волосся! Вам більше не потрібно турбуватися про щоденне сушіння волосся! Крім того, сучасний дизайн робить його ідеальним подарунком! Елегантність і функціональність в одному Сучасний фен потужністю 2400 Вт оснащений незалежними регуляторами швидкості повітря та температури, що дозволить вам швидко та комфортно регулювати потік повітря відповідно до довжини та вологості вашого волосся. Три налаштування температури та два налаштування швидкості повітря стануть у пригоді, якщо у вас тонке волосся, яке не слід піддавати сушці при найвищій температурі. Також великою перевагою фена є низький рівень шуму, який дозволяє сушити волосся феном, не боячись розбудити домочадців. Невеликий розмір фену і спеціальний гачок дозволяють зручно зберігати пристрій. Стильний дизайн означає, що ви також можете тримати фен на видному місці у ванній кімнаті, що особливо важливо, якщо ви використовуєте його щодня! Шнур живлення довжиною 1,8 м і зручна ергономічна ручка - додаткова зручність у використанні нашого продукту! Здорове волосся Сушка феном вважається заняттям, яке шкодить нашому волоссю. Не можна приховувати, що висока температура може висушити його і вплинути на ламкість нашого волосся, але використовуючи сучасні засоби та прилади, ми можемо швидко усунути цю проблему. Наш фен оснащений функцією Ionic з окремою контрольною лампою, яка запобігає розпушенню волосся. Більше ніяких статичних пасм! Cool Shoot - функція прохолодного повітряного потоку закриває кутикули волосся і фіксує нашу зачіску. Ви зменшите кількість засобів для укладання, волосся буде вам вдячне! Крім того, в набір входить дифузор, який допоможе вам висушити кучеряве волосся і концентратор, який прискорить весь процес сушіння. Знімний вхідний повітряний фільтр дозволяє безпечно використовувати фен.]]></description>
+</offer>
 <offer id="HT35663" available="true" selling_type="r">
 <name>Морозильна камера Gorenje FN619EABK6</name>
 <categoryId>225</categoryId>
@@ -72113,7 +72373,7 @@
 <portal_category_id>6300420</portal_category_id>
 <price>347.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178081.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178082.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178083.jpg</picture>
@@ -72130,7 +72390,7 @@
 <portal_category_id>602</portal_category_id>
 <price>27038.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>21</quantity_in_stock>
+<quantity_in_stock>22</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175501.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175502.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175503.jpg</picture>
@@ -72843,7 +73103,7 @@
 <portal_category_id>6370714</portal_category_id>
 <price>6063.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>32</quantity_in_stock>
+<quantity_in_stock>42</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178741.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178742.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178743.jpg</picture>
@@ -74064,7 +74324,7 @@
 <portal_category_id>602</portal_category_id>
 <price>4957.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000179541.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000179542.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000179543.jpg</picture>
@@ -74083,13 +74343,13 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Однокамерний холодильник CASTLE CR-50BХолодильник CASTLE CR-50B – компактна однокамерна модель об'ємом 46 літрів, призначена для зберігання продуктів та напоїв в умовах обмеженого простору. Завдяки лаконічному дизайну та чорному кольору корпус гармонійно вписується в інтер'єр квартири, офісу, готельного номера, дачі чи робочого кабінету. Пристрій відрізняється економічним енергоспоживанням та простим механічним управлінням.Продукт має такі особливості:Компактні розміри для зручного розміщення у невеликих приміщеннях.Економічний клас енергоспоживання A+.Двері, що перенавішуються, для вибору зручної сторони відкривання.Прихована ручка для сучасного вигляду.Регульовані ніжки для стійкого встановлення.Низький рівень шуму для комфортної експлуатації.Скляна полиця всередині камери.Дверні полиці для зберігання пляшок та упаковок різного розміру.Застосування:Холодильник призначений для охолодження та зберігання продуктів харчування, напоїв, фруктів та інших продуктів. Підходить для використання в квартирах, офісах, готелях, гуртожитках, на дачах та інших приміщеннях, де потрібне компактне холодильне обладнання.Характеристики:Тип: однокамерний холодильник.Загальний об'єм: 46 л.Кліматичний клас: N, ST.Клас енергоспоживання: A+.Споживання електроенергії: 0,29 кВт·год/24 год.Споживання електроенергії: 106 кВт·год/рік.Рівень шуму: 39 дБ.Тип керування: механічне.Розморожування: ручне.Холодоагент: R600a (13 г).Внутрішнє висвітлення: відсутнє.Кількість основних полиць: 1 скляна.Кількість дверних полиць: 2 пластикові.Контейнер для овочів та фруктів: відсутній.Двері, що перенавішують: є.Регульовані ніжки: є.Тип ручки: прихована.Вага нетто: 14 кг.Вага брутто: 16 кг.Габарити (Ш×Г×В): 453×455×503 мм.Колір: чорний.]]></description>
 </offer>
-<offer id="HT35790" available="false" selling_type="r">
+<offer id="HT35790" available="true" selling_type="r">
 <name>Холодильник Castle CR-50W (51 см) білий</name>
 <categoryId>218</categoryId>
 <portal_category_id>602</portal_category_id>
-<price>4569.00</price>
+<price>4657.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000179551.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000179552.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000179553.jpg</picture>
@@ -74468,7 +74728,7 @@
 <portal_category_id>6370714</portal_category_id>
 <price>13500.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180131.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180132.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180133.jpg</picture>
@@ -74500,7 +74760,7 @@
 <portal_category_id>6370714</portal_category_id>
 <price>12750.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180141.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180142.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180143.jpg</picture>
@@ -76345,7 +76605,7 @@
 <portal_category_id>62701</portal_category_id>
 <price>10994.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182621.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182622.jpg</picture>
 <vendor>Saturn</vendor>
@@ -76397,7 +76657,7 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Морозильна скриня SATURN ST-C300W: інноваційне рішення для зберіганняМорозильна скриня SATURN ST-C300W є ідеальним вибором для тих, хто шукає надійний та місткий пристрій для зберігання продуктів. Ця окремостояча модель вирізняється загальним об’ємом у 291 літрів, що дозволяє зберігати значну кількість продуктів, забезпечуючи їхню свіжість на довгий час.Завдяки своїм компактним розмірам — висота 83.5 см, ширина 112.5 см, та глибина 60.8 см — морозильна скриня легко впишеться в будь-який інтер’єр кухні або підсобного приміщення. Білий колір корпусу додає елегантності та універсальності, гармонійно поєднуючись з іншими елементами побутової техніки.Ефективність та зручність SATURN ST-C300WЕнергоспоживання SATURN ST-C300W відповідає класу E, що свідчить про економічність у використанні електроенергії. Пристрій розрахований на споживання 0.611 кВт/добу та 223 кВт/рік, що робить його економічно вигідним варіантом для кожного господарства.Морозильна скриня оснащена ручним способом розморожування, що забезпечує легкість у догляді та обслуговуванні. Електромеханічне керування дозволяє зручно налаштовувати роботу пристрою відповідно до ваших потреб. Використання холодоагенту R600a робить SATURN ST-C300W екологічно безпечним вибором.Звичайний компресор гарантує стабільну роботу морозильної скрині, а рівень шуму всього 40 дБ забезпечує комфортне використання без зайвих звукових перешкод. Пристрій вдосконалено металевим кошиком, що дозволяє організувати зберігання продуктів максимально зручно.Особливості та переваги SATURN ST-C300WМорозильна скриня SATURN ST-C300W має ряд особливостей, які підвищують її функціональність. Вона оснащена колесами для транспортування, що полегшує її переміщення у разі потреби. Дві регульовані ніжки разом з двома колесами забезпечують стабільну установку на будь-якій поверхні.З рівнем заморозки у 4 зірки, пристрій здатний заморожувати до 22 кг продуктів на добу, що є вражаючим показником для домашнього використання. За відсутності живлення морозильна скриня здатна зберігати продукти до 25 годин, забезпечуючи їхню безпеку та якість.Приховані ручки додають естетичності та зручності у використанні, а кліматичний клас N, SN, T, ST робить SATURN ST-C300W придатною для роботи в різних кліматичних умовах. Габарити в упаковці становлять 115.5 x 63 x 86 см, а вага — 34 кг, що свідчить про легкість у транспортуванні та встановленні.Морозильна скриня SATURN ST-C300W — це поєднання функціональності, економічності та естетичності, що робить її незамінним помічником у будь-якому домі. З гарантією на 24 місяці, ви можете бути впевнені у надійності та довговічності цього пристрою.]]></description>
 </offer>
-<offer id="HT35956" available="true" selling_type="r">
+<offer id="HT35956" available="false" selling_type="r">
 <name>Мультипіч-фритюрниця Gorenje AF2700BP</name>
 <categoryId>267</categoryId>
 <portal_category_id>6300424</portal_category_id>
@@ -77460,7 +77720,7 @@
 <portal_category_id>602</portal_category_id>
 <price>11413.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>27</quantity_in_stock>
+<quantity_in_stock>38</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184331.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184332.jpg</picture>
 <vendor>Midea</vendor>
@@ -77760,13 +78020,44 @@
 <param name="Гарантія">25 міс</param>
 <description><![CDATA[витяжка ПовновбудованаMinola HBI 6473 BL GLASS 800 LED LineMinola HBI 6473 BL GLASS 800 LED Line - ідеальне поєднання сучасного мінімалізму й практичностіПовновбудована витяжка стане функціональним доповненням вашої кухні, а за рахунок своєї будови вона повністю сховається у шафу та не порушить загальний дизайнНадійність, якість та інтуїтивно зрозумілий функціонал роблять її зручною у користуванніКорпус витяжки виготовлений із загартованого скла, стійкого до високих температур і механічних пошкодженьП'ятишаровим жироуловлювальний алюмінієвий фільтр чорного кольору, розташований під захисною кришкою, забезпечує ефективну очистку повітряВисока продуктивність i три швидкості роботиПотужність витяжки – 800 м3/год. Вона ефективно освіжає повітря в приміщенні, уникаючи випари, дим та зайві запахиЗалежно від інтенсивності процесу готування роботу витяжки можна регулювати, вибираючи необхідну швидкістьДодаткове освітлення робочої зониМодель оснащена сучасною LED лампою потужністю 5 ВтЦього достатньо, щоб використовувати її як додаткове освітлення варильної поверхніСвітлодіоди комфортні для очей, витривалі та економніКерування легким дотикомСучасна панель керування дозволяє без зусиль управляти витяжкоюП'ять сенсорних кнопок розташовані посередині на скляній панеліСенсори мають підсвічування приємного білого кольоруп'ятишаровий захист моторуМодель оснащена надійним жировим алюмінієвим фільтром чорного кольору, що складається з п'яти шарівВін запобігає потраплянню жиру та випарів у середину витяжки. Завдяки цьому мотор захищений, а тому прослужить вам значно довшеТаймер на 15 хвилинДля переходу в режим таймера увімкніть витяжкуВиберіть оптимальну швидкість, з якою витяжка продовжить працювати до вимкненняОдним дотиком кнопки ввімкнення/вимкнення витяжка переходить у режим таймераІндикатор клавіші блимає, витяжка автоматично вимкнеться через 15 хвилин.]]></description>
 </offer>
-<offer id="HT36039" available="false" selling_type="r">
+<offer id="HT36038" available="true" selling_type="r">
+<name>Витяжка Minola HPL 622 BL (плоска)</name>
+<categoryId>222</categoryId>
+<portal_category_id>642</portal_category_id>
+<price>2782.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>2</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184641.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184642.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184643.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184644.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184645.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184646.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184647.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184648.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184649.jpg</picture>
+<vendor>Minola</vendor>
+<vendorCode>HT36038</vendorCode>
+<country>Польща</country>
+<param name="Колір">Чорний</param>
+<param name="Кількість швидкостей">3</param>
+<param name="Ширина">59.5 см</param>
+<param name="Керування">Механічне</param>
+<param name="Продуктивність">450 куб.м/г</param>
+<param name="Тип конструкції">Плоска</param>
+<param name="Кількість моторів">1</param>
+<param name="Матеріал корпусу">Метал</param>
+<param name="Висота">8 см</param>
+<param name="Гарантія">25 міс</param>
+<description><![CDATA[Плоска витяжка Minola HPL 622 BL — елегантне рішення для вашої кухніMinola HPL 622 BL — стильна плоска витяжка в чорному кольорі з елегантним скляним козирком. З продуктивністю 450 м³/год вона швидко очищує повітря навіть на великих кухнях. LED-підсвітка над плитою економна і комфортна для приготування в темну пору доби. Надійне кнопкове управління дозволяє легко перемикатися між режимами без зайвого клопоту.ПродуктивністьМодель витримує очищення повітря кухні площею до 20 м² — достатньо для середньої квартири чи невеликого будинку. Продуктивність, необхідну для вашої кухні, легко обчислити так: помножте площу приміщення на висоту стелі (наприклад, 4×2,5 м = 10 м³). 450 м³/год — це продуктивність, комфортна для щоденного приготування, оскільки повітря оновлюється кожні 6–9 хвилин.ПотужністьАсинхронний двигун забезпечує безперервну роботу витяжки на трьох швидкостях без перевантаження. Потужність мотору 80 Вт сприяє ефективності та надійності роботи. Енергоефективність класу С дозволяє витримувати щоденне використання без величезних рахунків за електроенергію.КеруванняКнопки механічного управління витяжкою забезпечують інтуїтивно зрозумілу роботу. Просте керування одним дотиком робить зміну режимів миттєвою. Також на панелі, крім кнопок вмикання/вимикання витяжки і перемикання трьох швидкостей знаходиться кнопка, що керує освітленням.Режими роботиВідведення повітря — відводить пару, кіптяву та запахи через зовнішній вентиляційний канал.Рециркуляція — очищає повітря за допомогою вугільного фільтра (купується окремо і тільки для режиму рециркуляції) і повертає його назад до приміщення.Обидва режими передбачають необхідність алюмінієвих фільтрів для попередження забруднення двигуна жиром. Вугільні фільтри встановлюються для усунення запахів в режимі рециркуляції, який обирають, коли архітектура кухні не передбачає доступу до вентиляційної шахти.Дизайн і догляд за витяжкоюЧорне металеве покриття корпусу додає стилю витяжці і легко миється. Протирайте його засобами без абразиву для збереження довготривалого естетично привабливого вигляду поверхні.Скляний козирок виглядає витончено та призначений для захисту корпусу від крапель жиру. Кнопки зручні для натискання й тактильно приємні. Очищайте його м’якою вологою тканиною або мікрофіброю без абразиву для підтримання блискучого вигляду на довгі роки.Алюмінієві панелі фільтрів гармонійно доповнюють загальний мінімалістичний дизайн. Вони ефективно затримують жир на шляху до двигуна і легко знімаються. Слід мити їх кожні 2–3 місяці (залежить від інтенсивності вашої експлуатації витяжки) вручну або в посудомийній машині.Рівень шумуНа найнижчій швидкості витяжка шумить на рівні комфортних 56 дБ. Максимальні 63 дБ не обтяжують слух і забезпечують акустичний спокій. Швидке і ефективне перемикання швидкостей забезпечує оптимальний баланс між комфортом і продуктивністю.ОсвітленняЯскрава LED-лампа на 1,5 Вт надає чітке освітлення робочої зони. Це енергоощадне рішення для вашої кухні — лампа довго служить і не потребує заміни довгі місяці. Може бути за лічені хвилини замінена завдяки тому, що до неї є легкий доступ. ФільтриАлюмінієві фільтри утримують жирні частинки, легко знімаються і очищаються. Вони забезпечують стабільну продуктивність і подовжують термін експлуатації двигуна. Вугільний фільтр (продається окремо) очищає повітря від запахів, необхідний для режиму рециркуляції. Його потрібно регулярно замінювати для ефективної роботи.У комплекті:Витяжка Minola HPL 622 BL, чорні алюмінієві фільтри (2 шт.), клапан зворотний, монтажний комплект, шнур (90 см) + вилка, інструкція, енергокарта, мікрофіша, гарантійний талон.ГарантіяMinola надає повну 25-місячну гарантію на HPL 622 BL. Сервісний центр готовий надати консультацію та підтримку: наші фахівці допоможуть вибрати правильну модель та забезпечити професійне обслуговування.Обираючи Minola HPL 622 BL, ви отримуєте стильну, ефективну і надійну витяжку.]]></description>
+</offer>
+<offer id="HT36039" available="true" selling_type="r">
 <name>Витяжка Minola HPL 622 I (плоска)</name>
 <categoryId>222</categoryId>
 <portal_category_id>642</portal_category_id>
 <price>2782.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184651.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184652.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184653.jpg</picture>
@@ -78620,13 +78911,13 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Блендер TEFAL HB67G830: інноваційний кухонний помічникБлендер TEFAL HB67G830 є втіленням передових технологій та елегантного дизайну, що робить його незамінним помічником на кухні. Цей занурювальний блендер поєднує в собі потужність та функціональність, що дозволяє користувачам насолоджуватися процесом приготування їжі. Завдяки своїй ергономічній ручці з покриттям Soft Touch із пластику, TEFAL HB67G830 забезпечує комфортне використання навіть під час тривалих сесій змішування.Переваги та функціональністьБлендер оснащений ексклюзивною технологією Powelix, яка гарантує бездоганне змішування, збиття та подрібнення інгредієнтів. Ножі із нержавіючої сталі забезпечують тривалий термін служби та високу ефективність роботи, а тихий режим дозволяє використовувати пристрій без зайвого шуму, що особливо важливо в сімейному середовищі.З потужністю 1000 Вт та 20 швидкостями, TEFAL HB67G830 адаптується до будь-яких кулінарних завдань, від збивання легких кремів до подрібнення твердих овочів. Крім того, турборежим дозволяє досягти максимальної продуктивності за лічені секунди. Об'єм чаші становить 0,5 літра, а мірний стакан об'ємом 0,8 літра забезпечує зручне дозування інгредієнтів.Комплектація та додаткові можливостіКомплектація блендера включає віночок, мірну склянку, інструкцію, міні-подрібнювач, п'ять насадок та насадку-комбайн. Такий набір аксесуарів робить TEFAL HB67G830 універсальним інструментом для приготування різноманітних страв. Занурювальна частина виготовлена з металу, що підвищує її стійкість до зношування, а пластикова чаша є легкою та зручною у використанні.Захист від перегріву додає впевненості у безпеці використання пристрою, а гарантія на 24 місяці підкреслює надійність та якість продукту. Вироблений у Китаї, блендер TEFAL HB67G830 відповідає всім сучасним стандартам якості та безпеки.Обираючи блендер TEFAL HB67G830, ви отримуєте високоякісний продукт, який спростить ваші кулінарні процеси та додасть натхнення для створення нових кулінарних шедеврів.]]></description>
 </offer>
-<offer id="HT36082" available="false" selling_type="r">
+<offer id="HT36082" available="true" selling_type="r">
 <name>Електропростирадло CAMRY CR-7418</name>
 <categoryId>269</categoryId>
 <portal_category_id>16252401</portal_category_id>
 <price>2838.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185531.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185532.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185533.jpg</picture>
@@ -78921,9 +79212,9 @@
 <name>Холодильник CASTLE CR145S (1,45 м, сірий)</name>
 <categoryId>218</categoryId>
 <portal_category_id>602</portal_category_id>
-<price>11475.00</price>
+<price>11369.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185551.jpg</picture>
 <vendor>CASTLE</vendor>
 <vendorCode>HT36094</vendorCode>
@@ -78968,9 +79259,9 @@
 <name>Машинка для стрижки ADLER AD-2850</name>
 <categoryId>280</categoryId>
 <portal_category_id>28290204</portal_category_id>
-<price>977.00</price>
+<price>989.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185491.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185492.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185493.jpg</picture>
@@ -79123,7 +79414,7 @@
 <portal_category_id>6300420</portal_category_id>
 <price>794.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185521.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185522.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185523.jpg</picture>
@@ -80400,7 +80691,7 @@
 <portal_category_id>6300424</portal_category_id>
 <price>8129.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185251.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185252.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185253.jpg</picture>
@@ -82106,13 +82397,13 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Приготування напоївПриготування 6 напоїв (в тому числі молочну піну та гарячу воду)Різноманітність кавових напоїв натисканням однієї кнопки: Еспресо, Кава, Капучино, Лате-Мак'ято. Швидко та зручноОкрім напоїв можна готувати окремо: молочна пінаСистема заварювання подвійної кави aromaDouble Shot для приготування міцної кави без гіркого присмакуМожна використовувати фільтр для води Brita Intenza: Зменшує вміст вапна у воді та фільтрує речовини, що впливають на запах і смакМожливість налаштування температури кави та гарячої води: 3 температурні режимиЗручність та комфортКольоровий та інтуїтивно зрозумілий дисплей вибору напою coffeeSelect DisplayМожливість регулювання сопла подачі кави та капучинатора за висотою (до 14 см)Знімний резервуар для води місткістю 1.9 лЗручна система забору молока: можливість використання як окремого контейнера для молока (що можна придбати окремо), так і, наприклад, картонної упаковкиХарактеристикиВисокоякісний керамічний млинок ceramDriveУсі кавові та молочні напої готуються одним натисканням кнопки за допомогою функції OneTouchВодяний насос з тиском 15 барОкремий жолоб для меленої кавиЧищення та доглядКомфорт у очищенні та догляді за приладом завдяки фронтальному відкриттю сервісних дверцятЗнімний заварювальний блок: легке та гігієнічне очищення заварювального блоку під проточною водоюАвтоматична програма промивання приладу одразу після увімкнення та перед вимкненнямautoMilk Clean: автоматична очистка системи подачі молока парою після кожного приготування напоїв для неповторного смаку та гігієниЗнімний капучинатор, придатний для миття у посудомийній машиніПіддон для крапель та контейнер для кавової гущі придатні для миття у посудомийній машиніcalc'nClean: автоматична програма очищення та видалення накипуНагадування про необхідність очищення від накипу та кавових масел]]></description>
 </offer>
-<offer id="HT36233" available="false" selling_type="r">
+<offer id="HT36233" available="true" selling_type="r">
 <name>Кавомолка MPM MMK-10 (жорнова)</name>
 <categoryId>279</categoryId>
 <portal_category_id>6300401</portal_category_id>
 <price>3703.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184151.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184152.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184153.jpg</picture>
@@ -82567,7 +82858,7 @@
 <portal_category_id>641</portal_category_id>
 <price>14082.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000189961.jpg</picture>
 <vendor>CASTLE</vendor>
 <vendorCode>HT36248</vendorCode>
@@ -83715,7 +84006,7 @@
 <portal_category_id>641</portal_category_id>
 <price>12057.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>12</quantity_in_stock>
+<quantity_in_stock>11</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188741.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188742.jpg</picture>
 <vendor>MEDISON</vendor>
@@ -85477,7 +85768,7 @@
 <portal_category_id>606</portal_category_id>
 <price>1786.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_e578171d-6968-11e8-a892-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000001000_4409662.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000001000_4409973.jpg</picture>
