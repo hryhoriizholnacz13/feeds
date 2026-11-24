@@ -44787,9 +44787,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4019008705608]]></param>
 </offer>
-<offer id="TX28354" available="false">
+<offer id="TX28354" available="true">
 <price>1974.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="7366">Одяг для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX28354-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX28354-2.jpg</picture>
@@ -46569,9 +46569,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4019008624817]]></param>
 </offer>
-<offer id="TX29772" available="true">
+<offer id="TX29772" available="false">
 <price>2647.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7376">Шлейки для тварин</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX29772-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX29772-2.jpg</picture>
@@ -66705,9 +66705,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[7071652016223]]></param>
 </offer>
-<offer id="TX40814" available="true">
+<offer id="TX40814" available="false">
 <price>3745.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7366">Одяг для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX40814-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX40814-2.jpg</picture>
@@ -75121,9 +75121,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4250990442717]]></param>
 </offer>
-<offer id="TX45911" available="true">
+<offer id="TX45911" available="false">
 <price>7941.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7366">Одяг для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45911-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45911-2.jpg</picture>
@@ -76411,9 +76411,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[9345719114596]]></param>
 </offer>
-<offer id="TX46368" available="true">
+<offer id="TX46368" available="false">
 <price>670.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="9410">Іграшки для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46368-1.jpg</picture>
 <name lang="ua">М&apos;яка іграшка для собак FuzzYard Санта-Клішні</name>
@@ -81947,9 +81947,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[6410329350283]]></param>
 </offer>
-<offer id="TX49165" available="true">
+<offer id="TX49165" available="false">
 <price>1589.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7366">Одяг для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX49165-2.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX49165-3.jpg</picture>
