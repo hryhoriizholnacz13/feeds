@@ -44787,9 +44787,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4019008705608]]></param>
 </offer>
-<offer id="TX28354" available="true">
+<offer id="TX28354" available="false">
 <price>1974.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7366">Одяг для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX28354-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX28354-2.jpg</picture>
@@ -96733,9 +96733,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT29535" available="true">
+<offer id="HT29535" available="false">
 <price>13854.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="81">Кухонні плити</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000010969_P258735_0001-700x700.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000010969_7251265_3.jpg</picture>
@@ -103531,9 +103531,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT32800" available="true">
+<offer id="HT32800" available="false">
 <price>612.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="2788">Фени</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014236_SEC-SS-3710_3000x3000-scaled.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000014236_SEC-SS-3710_02_3000x3000-scaled.jpg</picture>
@@ -107286,9 +107286,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT34282" available="true">
+<offer id="HT34282" available="false">
 <price>23300.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="5169">Сушильні машини</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157541.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157542.jpg</picture>
@@ -107672,9 +107672,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT34632" available="true">
+<offer id="HT34632" available="false">
 <price>757.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="2788">Фени</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/dbb2a49b914041a3.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/2bd809db731d916f.jpg</picture>
@@ -114407,9 +114407,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35984" available="true">
+<offer id="HT35984" available="false">
 <price>14644.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="81">Кухонні плити</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/eab74ff93ab79c40.jpg</picture>
 <name lang="ua">Плита електрична KUMTEL EKO LF663S-04 White</name>
