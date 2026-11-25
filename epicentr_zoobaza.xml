@@ -109571,9 +109571,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT34106" available="true">
+<offer id="HT34106" available="false">
 <price>16267.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="81">Кухонні плити</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155592.jpg</picture>
 <name lang="ua">Плита газова CASTLE CG-60X</name>
@@ -113334,9 +113334,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35253" available="true">
+<offer id="HT35253" available="false">
 <price>14046.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="81">Кухонні плити</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/5b468f1bd602959a.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/66e505ed01572dc2.jpg</picture>
@@ -116513,9 +116513,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35816" available="true">
+<offer id="HT35816" available="false">
 <price>14025.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="161">Телевізори</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000180142.jpg</picture>
 <name lang="ua">Телевізор Hisense 40A4S Smart TV</name>
@@ -120868,9 +120868,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[5407007850860]]></param>
 </offer>
-<offer id="DB00006835" available="true">
+<offer id="DB00006835" available="false">
 <price>642.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4844">Корм для котів</category>
 <picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/xoyyq5I5bC8xNQ.webp</picture>
 <name lang="ua">Сухий корм для котів Grandorf Fresh Adult Cat Duck &amp; Sweet Potato 0.4 кг</name>
@@ -122322,9 +122322,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="DB00010123" available="true">
+<offer id="DB00010123" available="false">
 <price>536.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7334">Шампуні для тварин</category>
 <picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/11-6a4fe241b4aa7989677864.webp</picture>
 <name lang="ua">Шампунь для собак і котів Hydra Collection William Galharde Shampoo 200 мл</name>
@@ -122540,9 +122540,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4660" available="false">
+<offer id="ZB4660" available="true">
 <price>1238.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="493">Сумки, клітки та переноски для тварин</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/zoobaza/4e8f33499a5a0b72.jpg</picture>
 <name lang="ua">Сумка-слінг ЗооБаза Гросс 16х35х21 см</name>
@@ -123133,9 +123133,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4851" available="false">
+<offer id="ZB4851" available="true">
 <price>825.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="492">Будинки та лежаки для тварин</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/zoobaza/cf5d0406ce5d60f5.jpg</picture>
 <name lang="ua">Будка ЗооБаза Геросс 36х32х32 см</name>
@@ -124984,9 +124984,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT30466" available="false">
+<offer id="HT30466" available="true">
 <price>255.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="93">Аксесуари до техніки для догляду за домом</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011902_20338_.jpg</picture>
 <name lang="ua">Мішок д/пилососа б/р СЛОН P-03 C-I c до Philips</name>
