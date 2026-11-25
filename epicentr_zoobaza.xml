@@ -53970,9 +53970,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[5060189754762]]></param>
 </offer>
-<offer id="TX31316" available="true">
+<offer id="TX31316" available="false">
 <price>739.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4850">Засоби для прибирання за тваринами</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX31316-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX31316-2.jpg</picture>
@@ -66347,9 +66347,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[7071652041027]]></param>
 </offer>
-<offer id="TX40347" available="true">
+<offer id="TX40347" available="false">
 <price>1248.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7366">Одяг для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX40347-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX40347-2.jpg</picture>
@@ -95221,9 +95221,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT14152" available="true">
+<offer id="HT14152" available="false">
 <price>1925.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="101">Мультиварки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_66c42803-acfb-11e8-a85c-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000001295_rotex_rmc508-w_3.jpg</picture>
@@ -95293,9 +95293,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT15648" available="true">
+<offer id="HT15648" available="false">
 <price>784.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="89">Праски</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000002162_13116-1-800x800.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000002162_13116-5-800x800.jpg</picture>
@@ -95413,9 +95413,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT17125" available="true">
+<offer id="HT17125" available="false">
 <price>715.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/2efdd8bc497e4a12.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/3b5f3f5844d51ad6.jpg</picture>
@@ -95987,9 +95987,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT19177" available="true">
+<offer id="HT19177" available="false">
 <price>1004.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="89">Праски</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000009956_RIC41-C-Ultra-Glide-1.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000009956_RIC41-C-Ultra-Glide-2.jpg</picture>
@@ -96019,9 +96019,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT19178" available="true">
+<offer id="HT19178" available="false">
 <price>1369.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="89">Праски</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000009955_index.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000009955_RIC63-C-Ultra-Glide-Plus-3.jpg</picture>
@@ -96115,9 +96115,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT19714" available="true">
+<offer id="HT19714" available="false">
 <price>3981.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="84">Витяжки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000010492.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000010492.jpg</picture>
@@ -96472,9 +96472,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT22568" available="true">
+<offer id="HT22568" available="false">
 <price>681.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="2559">Бутербродниці</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000007100_236772440.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000007100_236772457.jpg</picture>
@@ -96556,9 +96556,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT22571" available="true">
+<offer id="HT22571" available="false">
 <price>1637.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="2559">Бутербродниці</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000007103_237232945.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000007103_237232943.jpg</picture>
@@ -97558,9 +97558,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT23890" available="true">
+<offer id="HT23890" available="false">
 <price>5198.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="111">Електричні печі</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000004090_478312667.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/9_000004090_478312670.jpg</picture>
@@ -98716,9 +98716,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT27106" available="true">
+<offer id="HT27106" available="false">
 <price>935.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="89">Праски</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000002158_RIC40-C-Ultra-Glide-1.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000002158_RIC40-C-Ultra-Glide-2.jpg</picture>
@@ -99593,9 +99593,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT29075" available="true">
+<offer id="HT29075" available="false">
 <price>571.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/ea2d9ab1a8450c65.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/cccd8bc99aece053.jpg</picture>
@@ -99625,9 +99625,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT29092" available="true">
+<offer id="HT29092" available="false">
 <price>715.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_200c9cb1-b1e6-11e9-ba49-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_200c9cb1-b1e6-11e9-ba49-8c89a59571bd.jpg</picture>
@@ -100732,9 +100732,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT30211" available="true">
+<offer id="HT30211" available="false">
 <price>14520.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="81">Кухонні плити</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/4d9a6b4a43020db9.jpg</picture>
 <name lang="ua">Плита газова CASTLE CG-60W</name>
@@ -101028,9 +101028,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT30427" available="true">
+<offer id="HT30427" available="false">
 <price>729.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011862_5008816995_w640_h640_5008816995.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011862_RKT84-GS-3.jpg</picture>
@@ -115201,9 +115201,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35483" available="true">
+<offer id="HT35483" available="false">
 <price>24750.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="77">Пральні машини</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175432.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175435.jpg</picture>
@@ -120436,9 +120436,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT6934" available="true">
+<offer id="HT6934" available="false">
 <price>3699.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="101">Мультиварки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000001358_4660694.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000001358_4660668.jpg</picture>
@@ -123736,9 +123736,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4660" available="false">
+<offer id="ZB4660" available="true">
 <price>1238.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="493">Сумки, клітки та переноски для тварин</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/zoobaza/4e8f33499a5a0b72.jpg</picture>
 <name lang="ua">Сумка-слінг ЗооБаза Гросс 16х35х21 см</name>
@@ -124329,9 +124329,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4851" available="false">
+<offer id="ZB4851" available="true">
 <price>825.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="492">Будинки та лежаки для тварин</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/zoobaza/cf5d0406ce5d60f5.jpg</picture>
 <name lang="ua">Будка ЗооБаза Геросс 36х32х32 см</name>
@@ -126155,9 +126155,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT30466" available="false">
+<offer id="HT30466" available="true">
 <price>255.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="93">Аксесуари до техніки для догляду за домом</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011902_20338_.jpg</picture>
 <name lang="ua">Мішок д/пилососа б/р СЛОН P-03 C-I c до Philips</name>
