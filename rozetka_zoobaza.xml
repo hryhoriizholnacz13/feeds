@@ -100,7 +100,7 @@
 <category id="80071" rz_id="80071">Аксесуари ТВ</category>
 <category id="80122" rz_id="80122">Плити</category>
 <category id="80123" rz_id="80123">Посудомийні машини</category>
-<category id="80124" rz_id="80124">Пральні машини напівавтоматичні</category>
+<category id="80124" rz_id="80124">Пральні машини горизонтальні</category>
 <category id="80125" rz_id="80125">Холодильники</category>
 <category id="80130" rz_id="80130">Кліматична техніка</category>
 <category id="80131" rz_id="80131">Водонагрівачі</category>
@@ -43897,33 +43897,6 @@
 <param name="Призначення">Уход за шерстью ; Для гигиены складок ; Уход за лапами</param>
 <param name="EAN">5060189756070</param>
 </offer>
-<offer id="TX31366" available="true">
-<stock_quantity>2</stock_quantity>
-<price>277.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4675022</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX31366-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX31366-2.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX31366-3.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX31366-4.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX31366-5.jpg</picture>
-<vendor>Beco Pets</vendor>
-<article>31366</article>
-<name>Печенье для собак Beco Pets Кешью с тыквенными семечками и морковью 70 г (31366)</name>
-<name_ua>Печиво для собак Beco Pets Кеш&apos;ю з гарбузовим насінням і морквою 70 г (31366)</name_ua>
-<description><![CDATA[<p>Печенье для собак Beco Pets Кешью с тыквенными семенами и морковью – это вкусное, полезное и экологически чистое лакомство, которое ваша собака будет любить. Изготовленное из натуральных ингредиентов, оно сочетает полезные свойства растительного белка и витаминов, поддерживающих здоровье и энергию вашего любимца. Это печенье станет отличным дополнением к его рациону, обеспечивая не только вкусное, но и полезное подкрепление.</p><p>Что делает это печенье особенным?</p><p>Растительный белок: Основными источниками белка являются кешью и семена тыквы, которые являются вкусными и питательными, а также содержат полезные жиры и микроэлементы, поддерживающие здоровье собаки.</p><p>Морковь: Этот ингредиент богат витаминами и антиоксидантами, которые способствуют здоровью глаз и кожи, а также поддерживают иммунную систему.</p><p>Натуральные ингредиенты: Изготовленное без добавления искусственных красителей и консервантов, это печенье не только вкусно, но и безопасно для вашего питомца.</p><p>Почему это печенье станет любимым у вашей собаки?</p><p>Полезные ингредиенты: Витамины и антиоксиданты, содержащиеся в моркови и тыквенных семенах, поддерживают общее состояние здоровья собаки, включая здоровье кожи, волос и глаз.</p><p>Легко переваривается: Благодаря натуральным составляющим это печенье легко усваивается и подходит для собак с чувствительным желудком.</p><p>Вкусное и питательное: Собаки обожают вкус кешью, тыквенных семян и моркови, что делает это печенье не только полезным, но и вкусным.</p><p>Почему стоит выбрать это печенье для вашей собаки?</p><p>Экологически чистое: Печенье изготовлено из органических ингредиентов и упаковано в биоразлагаемую упаковку, что делает его экологически чистым выбором.</p><p>Поддерживает здоровье: Благодаря тщательно отобранным ингредиентам, печенье способствует поддержанию здоровья вашей собаки на разных уровнях, от кожи до пищеварения.</p><p>Безопасное для чувствительных собак: Печенье не содержит вредных добавок и подходит даже для собак с чувствительным пищеварением.</p>]]></description>
-<description_ua><![CDATA[<p>Печиво для собак Beco Pets Кеш'ю з гарбузовим насінням і морквою – це смачне, корисне і екологічно чисте ласощі, які ваш собака буде любити. Виготовлене з натуральних інгредієнтів, воно поєднує в собі корисні властивості рослинного білка та вітамінів, що підтримують здоров'я та енергію вашого улюбленця. Це печиво стане чудовим доповненням до його раціону, забезпечуючи не тільки смачне, але й корисне підкріплення.</p><p>Що робить це печиво особливим?</p><p>Рослинний білок: Основними джерелами білка є кеш'ю та гарбузове насіння, які є смачними і поживними, а також містять корисні жири та мікроелементи, що підтримують здоров'я собаки.</p><p>Морква: Цей інгредієнт багатий на вітаміни та антиоксиданти, що сприяють здоров'ю очей і шкіри, а також підтримують імунну систему.</p><p>Натуральні інгредієнти: Виготовлене без додавання штучних барвників і консервантів, це печиво є не тільки смачним, але й безпечним для вашого вихованця.</p><p>Чому це печиво стане улюбленим у вашого собаки?</p><p>Корисні інгредієнти: Вітаміни та антиоксиданти, що містяться в моркві та гарбузовому насінні, підтримують загальний стан здоров'я собаки, включаючи здоров'я шкіри, волосся та очей.</p><p>Легко перетравлюється: Завдяки натуральним складникам, це печиво легко засвоюється і підходить для собак з чутливим шлунком.</p><p>Смачне та поживне: Собаки обожнюють смак кеш'ю, гарбузового насіння і моркви, що робить це печиво не лише корисним, але й смачним.</p><p>Чому варто вибрати це печиво для вашого собаки?</p><p>Екологічно чисте: Печиво виготовлене з органічних інгредієнтів і упаковане в біорозкладну упаковку, що робить його екологічно чистим вибором.</p><p>Підтримує здоров'я: Завдяки ретельно відібраним інгредієнтам, печиво сприяє підтримці здоров'я вашого собаки на різних рівнях, від шкіри до травлення.</p><p>Безпечне для чутливих собак: Печиво не містить шкідливих добавок і підходить навіть для собак з чутливим травленням.</p>]]></description_ua>
-<param name="Вага">70 г</param>
-<param name="Розмір породи">Средние ; Крупные ; Миниатюрные ; Гигантские</param>
-<param name="Особливості">Натуральные ; Гипоаллергенные ; Веганские</param>
-<param name="Інгредієнти">Кешью ; Гарбузове насіння ; Морква</param>
-<param name="Вид">Печиво</param>
-<param name="Призначення">Для тренировок</param>
-<param name="Фасовка">70 г</param>
-<param name="Тварина">Собаки</param>
-<param name="Вік">Цуценята, Дорослі, Літні</param>
-<param name="EAN">5060189755813</param>
-</offer>
 <offer id="TX31368" available="true">
 <stock_quantity>2</stock_quantity>
 <price>277.00</price>
@@ -57081,31 +57054,6 @@
 <param name="Розмір">65</param>
 <param name="EAN">7071652325776</param>
 </offer>
-<offer id="TX41300" available="true">
-<stock_quantity>2</stock_quantity>
-<price>6290.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>3935762</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41300-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41300-2.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41300-3.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41300-4.jpg</picture>
-<vendor>Non-stop dogwear</vendor>
-<article>41300</article>
-<name>Теплая зимняя куртка для собак Non-stop dogwear Glacier jacket 3.0 Фиолетовый 70 (41300)</name>
-<name_ua>Тепла зимова куртка для собак Non-stop dogwear Glacier jacket 3.0 Фіолетовий 70 (41300)</name_ua>
-<description><![CDATA[<p>Glacier Jacket 3.0 — тёплая зимняя куртка для собак, созданная покорять холод.</p><p>Обновлённая Glacier Jacket 3.0 обеспечивает исключительное тепло и комфорт даже в сильные морозы, не ограничивая движений. Благодаря утеплителю PrimaLoft Black Insulation Eco, куртка сочетает лёгкость, воздухопроницаемость и надёжную защиту от холода. Волокна сохраняют тепло даже во влажном состоянии, а сама куртка легко сжимается и помещается в компактный чехол — отличный вариант для походов и путешествий в холодное время года.</p><p>Прочная внешняя ткань теперь вдвое более устойчива к ветру и влаге, защищая собаку при снегопаде или дожде. Эргономичный крой и гибкие панели обеспечивают полную свободу движений даже при активном беге.</p><p>14 размеров и четыре регулируемые зоны гарантируют индивидуальную посадку, а эластичные ремешки на задних лапах удерживают куртку на месте даже при сильном ветре.</p><p>Практичные детали делают её ещё удобнее: дренажные отверстия предотвращают скопление влаги, двойные прорези для поводка обеспечивают универсальность, светоотражающие элементы повышают видимость со всех сторон, а усиленные панели защищают от контакта с ветками и камнями.</p><p>Glacier Jacket 3.0 — лёгкая, прочная и по-настоящему тёплая куртка для зимних приключений вашего питомца.</p>]]></description>
-<description_ua><![CDATA[<p>Glacier Jacket 3.0 — найтепліша куртка для собак, створена, щоб підкорювати зиму.</p><p>Оновлена Glacier Jacket 3.0 забезпечує максимальний комфорт і тепло навіть у найхолодніші дні, не обмежуючи рухів. Завдяки інноваційному утеплювачу PrimaLoft Black Insulation Eco куртка поєднує надлегку вагу з винятковими теплоізоляційними властивостями. Матеріал зберігає тепло навіть у вологому стані, а також дихає, стискається й легко пакується в зручну сумку — ідеально для подорожей, походів і зимових пригод.</p><p>Міцна вітро- та водовідштовхувальна зовнішня тканина тепер удвічі ефективніша, захищаючи від снігу й дощу. Ергономічний крій і еластичні панелі забезпечують повну свободу рухів навіть під час активного бігу.</p><p>14 розмірів і чотири регульовані зони гарантують індивідуальну посадку для більшості порід. Еластичні ремінці на задніх лапах утримують куртку на місці навіть при сильному вітрі.</p><p>Продумані деталі підсилюють функціональність: дренажні отвори запобігають накопиченню води, подвійні отвори для повідця додають універсальності, а світловідбивні елементи забезпечують помітність з усіх боків. Посилені вставки захищають від контакту з гілками чи камінням.</p><p>Glacier Jacket 3.0 — це тепло, легкість і надійний захист для кожної зимової пригоди вашого собаки.</p>]]></description_ua>
-<param name="Особливості">Со светоотражающими элементами</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Вид">Куртки</param>
-<param name="Колір">Фіолетовий</param>
-<param name="Тварина">Собака</param>
-<param name="Сезон">Зима</param>
-<param name="Тип">Куртки</param>
-<param name="Розмір">70</param>
-<param name="EAN">7071652325783</param>
-</offer>
 <offer id="TX41305" available="true">
 <stock_quantity>2</stock_quantity>
 <price>5690.00</price>
@@ -57878,31 +57826,6 @@
 <param name="Інгредієнти">Водоросли ; Тунец</param>
 <param name="Фасовка">70 г</param>
 <param name="EAN">5060084829671</param>
-</offer>
-<offer id="TX41733" available="true">
-<stock_quantity>2</stock_quantity>
-<price>197.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>1461212</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41733-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41733-3.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41733-4.jpg</picture>
-<vendor>Fish4Cats</vendor>
-<article>41733</article>
-<name>Натуральный влажный корм для котов Fish4Cats Finest Сардина со скумбрией 70 г (41733)</name>
-<name_ua>Натуральний вологий корм для котів Fish4Cats Finest Сардина зі скумбрією 70 г (41733)</name_ua>
-<description><![CDATA[<p>Подарите своему любимцу настоящее гастрономическое удовольствие с Fish4Cats Sardine &amp; Mackerel – нежное сочетание сардины и скумбрии, которое кошки просто обожают! Этот изысканный рыбный дуэт не только дарит непревзойденный вкус, но наполняет организм кота важными питательными веществами для здоровья и долголетия.</p><p>Почему это идеальный выбор?</p><p>100% натуральные ингредиенты – без искусственных красителей, ароматизаторов и консервантов.</p><p>Высокое содержание влаги – поддерживает здоровье мочевыводящих путей.</p><p>Без зерна – идеально подходит для кошек с чувствительным пищеварением.</p><p>Омега-3 – для блестящей шерсти и здоровой кожи.</p><p>Что делает этот корм особенным?</p><p>Сардина – отличный источник Омега-3, поддерживающий здоровье мозга, кожи и шерсти.</p><p>Скумбрия (макрель) – наполнена полезными жирами и белками, укрепляющими сердечно-сосудистую и иммунную систему.</p><p>Ароматный рыбный бульон – не только придает замечательный вкус, но и поддерживает надлежащую гидратацию вашего кота.</p><p>Капелька риса – легкоусвояемый ингредиент, обеспечивающий сбалансированное питание.</p><p>С Fish4Cats Sardine &amp; Mackerel каждая трапеза вашего кота будет полна пользы и подлинного морского вкуса. Побалуйте его тем, что он действительно любит!</p>]]></description>
-<description_ua><![CDATA[<p>Подаруйте своєму улюбленцю справжнє гастрономічне задоволення з Fish4Cats Sardine &amp; Mackerel – ніжне поєднання сардини та скумбрії, яке коти просто обожнюють! Цей вишуканий рибний дует не лише дарує неперевершений смак, а й наповнює організм кота важливими поживними речовинами для здоров'я та довголіття.</p><p>Чому це ідеальний вибір?</p><p>100% натуральні інгредієнти – без штучних барвників, ароматизаторів і консервантів.</p><p>Високий вміст вологи – підтримує здоров’я сечовивідних шляхів.</p><p>Без зерна – ідеально підходить для котів із чутливим травленням.</p><p>Багатство Омега-3 – для блискучої шерсті та здорової шкіри.</p><p>Що робить цей корм особливим?</p><p>Сардина – чудове джерело Омега-3, що підтримує здоров’я мозку, шкіри та шерсті.</p><p>Скумбрія (макрель) – наповнена корисними жирами та білками, що зміцнюють серцево-судинну та імунну систему.</p><p>Ароматний рибний бульйон – не лише додає чудового смаку, а й підтримує належну гідратацію вашого кота.</p><p>Крапелька рису – легкозасвоюваний інгредієнт, що забезпечує збалансоване харчування.</p><p>З Fish4Cats Sardine &amp; Mackerel кожна трапеза вашого кота буде сповнена користі та справжнього морського смаку. Побалуйте його тим, що він справді любить!</p>]]></description_ua>
-<param name="Тип">Натуральний вологий корм для котів</param>
-<param name="Тип">Вологий корм</param>
-<param name="Вага">70 г</param>
-<param name="Тип упаковки">Банка</param>
-<param name="Клас">Холистик</param>
-<param name="Вік">Взрослые</param>
-<param name="Тварина">Кішка</param>
-<param name="Інгредієнти">Скумбрия ; Сардины</param>
-<param name="Фасовка">70 г</param>
-<param name="EAN">5060084829695</param>
 </offer>
 <offer id="TX41810" available="true">
 <stock_quantity>2</stock_quantity>
@@ -79381,7 +79304,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT13680" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>23938.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80133</categoryId>
@@ -79589,37 +79512,6 @@
 <param name="Вага">3,8 кг</param>
 <param name="Розмір">28 x 29,5 x 28 см</param>
 <param name="Гарантія">24 місяці</param>
-</offer>
-<offer id="HT15068" available="true">
-<stock_quantity>1</stock_quantity>
-<price>7619.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80124</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_90ac5365-55b4-11e8-b68c-8c89a59571bd.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000000835_12_4000.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000000835_64064h-1000x1000.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000000835_64064i.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000000835_64064j.jpg</picture>
-<vendor>Artel</vendor>
-<article>TE 60 L GREY</article>
-<name>Стиральная машина Artel TE 60 L GREY (TE 60 L GREY)</name>
-<name_ua>Пральна машина Artel TE 60 L GREY (TE 60 L GREY)</name_ua>
-<description><![CDATA[<p>Стиральная машина полуавтомат с вертикальной загрузкой Artel ART-TE-60L рассчитана на загрузку 6 килограммов белья, имеет два бака и функцию отжима. Вертикальная загрузка белья, предусмотренная в этой модели машины полуавтомата, считается более безопасной в плане возможных протечек. Выбор режима и времени стирки полуавтоматической машины осуществляется поворотом ручки на панели управления. Машинка имеет небольшой вес, что позволит вам ее легко переносить и перевозить. Стиральная машина Artel ART-TE-60L благодаря своей оригинальной конструкции позволяет полностью контролировать процесс стирки. Минимальные требования к стирке в этой стиральной машине позволяют сократить расходы воды и электричества. Стиральная машина оснащена таймером, что позволит легко отследить время для отжима и стирки. Помпа поможет слить воду после стирки. Максимальное время стирки белья - 15 минут. Максимальное время отжима белья - 5 минут.</p>]]></description>
-<description_ua><![CDATA[<p>Пральна машина напівавтомат з вертикальним завантаженням Artel ART-TE-60L розрахована на завантаження 6 кілограмів білизни, має два бака і функцію віджиму. Вертикальне завантаження білизни, передбачена у цій моделі машини напіватомату, вважається більш безпечною в плані можливих протікань. Вибір режиму і часу прання напівавтоматичної машини здійснюється поворотом ручки на панелі управління. Машинка має невелику вагу, що дозволить вам її легко переносити і перевозити. Пральна машина Artel ART-TE-60L завдяки своїй оригінальній конструкції дозволяє повністю контролювати процес прання. Мінімальні вимоги до прання у цій пральній машині дозволяють скоротити витрати води і електрики. Пральна машина оснащена таймером, що дозволить легко відстежити час для віджиму і прання. Помпа допоможе злити воду після прання. Максимальний час прання білизни - 15 хвилин. Максимальний час віджиму білизни - 5 хвилин.</p>]]></description_ua>
-<param name="Тип">Пральна машина</param>
-<param name="Колір">Білий з сірим</param>
-<param name="Об`єм">56 л</param>
-<param name="Тип управління">Механічне</param>
-<param name="Ширина">74 см</param>
-<param name="Клас енергоспоживання">А</param>
-<param name="Макс. швидкість віджиму">1350 об/хв</param>
-<param name="Максимальне завантаження">6 кг</param>
-<param name="Тип двигуна">Колекторний</param>
-<param name="Тип пральної машини">Напівавтомат</param>
-<param name="Вага">19 кг</param>
-<param name="Висота">85 см</param>
-<param name="Глибина">44 см</param>
-<param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT16369" available="true">
 <stock_quantity>4</stock_quantity>
@@ -80712,7 +80604,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT19894" available="true">
-<stock_quantity>66</stock_quantity>
+<stock_quantity>65</stock_quantity>
 <price>1198.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81227</categoryId>
@@ -80822,7 +80714,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT22394" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>1741.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80155</categoryId>
@@ -81048,7 +80940,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT22729" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>841.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80180</categoryId>
@@ -81785,6 +81677,40 @@
 <param name="Розмір">84 х 45 х 47 см</param>
 <param name="Гарантія">36 місяців</param>
 </offer>
+<offer id="HT23690" available="true">
+<stock_quantity>5</stock_quantity>
+<price>4500.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>80131</categoryId>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_dbb1028f-286a-11e9-b847-8c89a59571bd.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000001755_Standar.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000001755_Standar.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000001755_411663510.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000001755_411663512.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000001755_411663514.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000001755_411663518.jpg</picture>
+<vendor>Novatec</vendor>
+<article>NT-S 50</article>
+<name>Водонагреватель Novatec Standart NT-S 50 (NT-S 50)</name>
+<name_ua>Водонагрівач Novatec Standart NT-S 50 (NT-S 50)</name_ua>
+<description><![CDATA[<p>Компактные размеры STANDARD 50 подходят для кухни, душа, гостиничного номера с душевой кабиной, дачного домика или небольшой торговой точки. STANDARD 50 просто незаменим, если горячая вода подается с незначительными перерывами. Бойлер NOVA TEC Standard 50 используется, когда нужны сравнительно небольшие объемы горячей воды (до 150 литров единоразово). 50-литрового водонагревателя NOVA TEC хватит для того, чтобы принять душ семье из двух-трех человек, искупать ребенка. Основные характеристики:- Регулируемый термостат выполняет сразу 3 функции: управление температурой, обеспечение работы в автоматическом режиме и безопасность. Регулировка позволяет контролировать расход электроэнергии, а следовательно, и финансовые затраты. Автоматика обеспечивает работу водонагревателя NOVA TEC по принципу «включил и забыл» (полный автомат).- Классический медный ТЭН оптимальной мощности не склонен к коррозии. Он обеспечивает быстрый нагрев, бережно расходует электроэнергию и прекрасно работает даже при пониженном напряжении в сети. ТЭН адаптирован для работы в наших условиях и устойчив к перепадам напряжения.- Для дополнительной защиты от коррозии в водонагревателях NOVA TEC используется магниевый протектор. Это проверенный и надежный способ защиты от воздействия агрессивных веществ, содержащихся в водопроводной воде.- Весь электрический блок, включая ТЭН, термостат и магниевый анод, собран на массивном стальном фланце, который крепится к баку с помощью пяти мощных болтов.</p>]]></description>
+<description_ua><![CDATA[<p>Компактні розміри STANDARD 50 підходять для кухні, душа, готельного номера з душовою кабіною, дачного будиночка або невеликої торгової точки. STANDARD 50 просто незамінний, якщо гаряча вода подається з незначними перервами. Бойлер NOVA TEC Standard 50 використовується, коли потрібні порівняно невеликі обсяги гарячої води (до 150 літрів одноразово). 50-літрового водонагрівача NOVA TEC вистачить для того, щоб прийняти душ сім'ї з двох-трьох чоловік, викупати дитину. Основні характеристики:- Регульований термостат виконує відразу 3 функції: управління температурою, забезпечення роботи в автоматичному режимі і безпека. Регулювання дозволяє контролювати витрату електроенергії, а, отже, і фінансові витрати. Автоматика забезпечує роботу водонагрівача NOVA TEC за принципом «включив і забув» (повний автомат).- Класичний мідний ТЕН оптимальної потужності не схильний до корозії. Він забезпечує швидкий нагрів, дбайливо витрачає електроенергію і прекрасно працює навіть при зниженій напрузі в мережі. ТЕН адаптований для роботи в наших умовах і стійкий до перепадів напруги.- Для додаткового захисту від корозії в водонагрівачах NOVA TEC використовується магнієвий протектор. Це перевірений і надійний спосіб захисту від впливу агресивних речовин, що містяться у водопровідній воді.- Весь електричний блок, включаючи ТЕН, термостат і магнієвий анод, зібраний на масивному сталевому фланці, який кріпиться до бака за допомогою п'яти потужних болтів.</p>]]></description_ua>
+<param name="Тип">Водонагрівач</param>
+<param name="Колір">Білий</param>
+<param name="Призначення">Побутове</param>
+<param name="Споживана потужність">1200 Вт</param>
+<param name="Тип управління">Механічне</param>
+<param name="Максимальна температура нагріву">до 77°C</param>
+<param name="Встановлення">Вертикальне</param>
+<param name="Час нагріву">2.40 г</param>
+<param name="Кількість ТЕНів">1</param>
+<param name="Нагрівальний елемент">Відкритий</param>
+<param name="Об&apos;єм баку">50 л</param>
+<param name="Тип нагрівального елемента">Мокрий ТЕН</param>
+<param name="Вага">17 кг</param>
+<param name="Розмір">55.3 х 46 х 46 см</param>
+<param name="Гарантія">12 місяців</param>
+</offer>
 <offer id="HT23779" available="true">
 <stock_quantity>3</stock_quantity>
 <price>4408.00</price>
@@ -81867,7 +81793,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT23890" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>5069.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80142</categoryId>
@@ -82825,7 +82751,7 @@
 <param name="Кількість циклів прання">46</param>
 </offer>
 <offer id="HT26694" available="true">
-<stock_quantity>15</stock_quantity>
+<stock_quantity>13</stock_quantity>
 <price>14119.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -84104,7 +84030,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT29542" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>1728.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -84224,7 +84150,7 @@
 <param name="Вага">1,37 кг</param>
 </offer>
 <offer id="HT29555" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>5413.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80142</categoryId>
@@ -84412,7 +84338,7 @@
 <param name="Гарантія">25 місяців</param>
 </offer>
 <offer id="HT29737" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>3488.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>112986</categoryId>
@@ -84446,7 +84372,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT29755" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>15444.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
@@ -84864,7 +84790,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30056" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>12169.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80225</categoryId>
@@ -85332,7 +85258,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30427" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>768.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -86725,7 +86651,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30822" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>3640.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4626766</categoryId>
@@ -88220,7 +88146,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31928" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>1145.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -90146,7 +90072,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT32289" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>1337.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81227</categoryId>
@@ -90298,7 +90224,7 @@
 <param name="Підтримка відеовикликів">Так</param>
 </offer>
 <offer id="HT32385" available="true">
-<stock_quantity>14</stock_quantity>
+<stock_quantity>13</stock_quantity>
 <price>857.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80071</categoryId>
@@ -92118,6 +92044,35 @@
 <param name="Розмір">32 х 52 х 42.5 см</param>
 <param name="Гарантія">24 місяці</param>
 </offer>
+<offer id="HT33012" available="true">
+<stock_quantity>4</stock_quantity>
+<price>8307.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>80131</categoryId>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000014449_417459895.jpg</picture>
+<vendor>WHP</vendor>
+<article>Jack 100 сухий тен</article>
+<name>Водонагреватель WHP Jack 100 сухой тэн (Jack 100 сухий тен)</name>
+<name_ua>Водонагрівач WHP Jack 100 сухий тен (Jack 100 сухий тен)</name_ua>
+<description><![CDATA[<p>Водонагреватель WHP Jack 100 с сухим ТЭНом — это надежное и эффективное устройство для нагрева воды, которое отличается высокой мощностью и продуманной конструкцией. Модульный накопительный водонагреватель имеет объем 100 литров, что позволяет обеспечить горячей водой небольшие и средние по размерам семьи. Благодаря цилиндрической форме бака он удобен в размещении и занимает минимум пространства. Водонагреватель оснащен двумя мощными ТЭНами общей мощностью 2000 Вт, что позволяет быстро нагревать воду даже в холодное время года. Сухой ТЭН обеспечивает высокий уровень эффективности, ведь он не контактирует непосредственно с водой, что увеличивает его срок службы и снижает вероятность образования накипи. Это также упрощает обслуживание устройства. Управление термостатом в водонагревателе WHP Jack 100 осуществляется механическим способом, что позволяет пользователю просто и интуитивно регулировать температуру нагрева воды до максимальной отметки 75°C. Для удобства подключения труб водонагреватель имеет стандартное подключение снизу. Бак водонагревателя изготовлен из высококачественной стали, что обеспечивает долговечность и надежность. Внутреннее покрытие бака — эмаль, которая гарантирует дополнительную защиту от коррозии и увеличивает срок службы прибора. Для дополнительной защиты от накипи и коррозии в устройстве предусмотрен магниевый анод. Время первичного нагрева воды до максимальной температуры составляет 3 часа 40 минут, что делает этот водонагреватель идеальным для повседневного использования в домашних условиях. Белый цвет корпуса позволяет без проблем интегрировать водонагреватель в любой интерьер. WHP Jack 100 — это идеальный выбор для тех, кто ценит эффективность, надежность и долговечность в бытовых приборах.</p>]]></description>
+<description_ua><![CDATA[<p>Водонагрівач WHP Jack 100 з сухим ТЕНом — це надійний і ефективний пристрій для нагріву води, що відрізняється високою потужністю та продуманою конструкцією. Модульний накопичувальний водонагрівач має об'єм 100 літрів, що дозволяє забезпечити гарячою водою невеликі та середні за розмірами сім'ї. Завдяки циліндричній формі бака, він зручний у розміщенні та займає мінімум простору. Водонагрівач оснащений двома потужними ТЕНами загальною потужністю 2000 Вт, що дозволяє швидко нагрівати воду навіть у холодну пору року. Сухий ТЕН забезпечує високий рівень ефективності, адже він не контактує безпосередньо з водою, що збільшує його термін служби та знижує ймовірність утворення накипу. Це також спрощує обслуговування пристрою. Керування термостатом у водонагрівачі WHP Jack 100 здійснюється механічним способом, що дозволяє користувачеві просто та інтуїтивно регулювати температуру нагріву води до максимальної позначки 75°C. Для зручності підключення труб водонагрівач має стандартне підключення знизу. Бак водонагрівача виготовлений із високоякісної сталі, що забезпечує довговічність та надійність. Внутрішнє покриття бака — емаль, яка гарантує додатковий захист від корозії і збільшує термін служби приладу. Для додаткового захисту від накипу та корозії в пристрої передбачений магнієвий анод. Час первинного нагріву води до максимальної температури складає 3 години 40 хвилин, що робить цей водонагрівач ідеальним для повсякденного використання в домашніх умовах. Білий колір корпусу дозволяє без проблем інтегрувати водонагрівач у будь-який інтер'єр. WHP Jack 100 — це ідеальний вибір для тих, хто цінує ефективність, надійність та довговічність в побутових приладах.</p>]]></description_ua>
+<param name="Тип">Водонагрівач</param>
+<param name="Колір">Білий</param>
+<param name="Споживана потужність">2000 Вт</param>
+<param name="Тип управління">Механічне</param>
+<param name="Ширина">461 мм</param>
+<param name="Максимальна температура нагріву">до 75°C</param>
+<param name="Встановлення">Вертикальне</param>
+<param name="Матеріал корпусу">Сталь</param>
+<param name="Час нагріву">3 год 40 хв</param>
+<param name="Кількість ТЕНів">2</param>
+<param name="Об&apos;єм баку">100 л</param>
+<param name="Тип нагрівального елемента">Сухий ТЕН</param>
+<param name="Вага">22,3 кг</param>
+<param name="Висота">929 мм</param>
+<param name="Глибина">461 мм</param>
+<param name="Гарантія">12 місяців</param>
+</offer>
 <offer id="HT33013" available="true">
 <stock_quantity>2</stock_quantity>
 <price>7657.00</price>
@@ -93063,11 +93018,10 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT33282" available="true">
-<stock_quantity>1</stock_quantity>
-<price>6932.00</price>
+<stock_quantity>6</stock_quantity>
+<price>6844.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80131</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014719_417456905.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000014719_417456916.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000014719_417456924.jpg</picture>
 <vendor>WHP</vendor>
@@ -94990,7 +94944,10 @@
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153132.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153133.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153134.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153135.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153136.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153137.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153139.jpg</picture>
 <vendor>Whirlpool</vendor>
 <article>MBNA920X</article>
 <name>Микроволновая печь Whirlpool MBNA920X (MBNA920X)</name>
@@ -95012,7 +94969,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT33877" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>22119.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80123</categoryId>
@@ -95783,7 +95740,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT34107" available="true">
-<stock_quantity>49</stock_quantity>
+<stock_quantity>48</stock_quantity>
 <price>16600.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -96203,7 +96160,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT34239" available="true">
-<stock_quantity>14</stock_quantity>
+<stock_quantity>13</stock_quantity>
 <price>3481.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81089</categoryId>
@@ -96324,34 +96281,8 @@
 <param name="Розмір">192 х 70 х 74,5 см</param>
 <param name="Гарантія">10 років</param>
 </offer>
-<offer id="HT34243" available="true">
-<stock_quantity>1</stock_quantity>
-<price>15300.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4674672</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157110.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157111.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157112.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157113.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157114.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157116.jpg</picture>
-<vendor>Whirlpool</vendor>
-<article>WSQ4860NE</article>
-<name>Варочная поверхность Whirlpool WSQ4860NE (WSQ4860NE)</name>
-<name_ua>Варильна поверхня Whirlpool WSQ4860NE (WSQ4860NE)</name_ua>
-<description><![CDATA[<p>ОписаниеВарочная поверхность индукционная Whirlpool WSQ4860NEИндукционная варочная поверхность Whirlpool WSQ4860NE - экономно и быстро. Индукционная технология нагревает исключительно посуду, что снижает потерю энергии и обеспечивает идеальный результат. Чтобы избежать риска перегрузки блока питания в вашем доме, Whirlpool изобрёл функцию управления питанием, Вы сами можете установить уровень мощности плиты. Варочная поверхность оснащена конфоркой быстрого нагрева, для достижения незабываемых результатов ещё быстрее и эффективнее. Варочная панель Whirlpool WSQ4860NE вскипятит воду очень быстро и будет поддерживать её кипящей, одновременно снижая уровень потребления электроэнергии.</p>]]></description>
-<description_ua><![CDATA[<p>ОписВарильна поверхня індукційна Whirlpool WSQ4860NEІндукційна варильна поверхня Whirlpool WSQ4860NE - економно і швидко. Індукційна технологія нагріває виключно посуд, що знижує втрату енергії та забезпечує ідеальний результат. Щоб уникнути ризику перевантаження блоку живлення у вашому домі, Whirlpool винайшов функцію керування живленням, Ви самі можете встановити рівень потужності плити. Варильна поверхня оснащена конфоркою швидкого нагріву, для досягнення незабутніх результатів ще швидше і ефективніше. Варильна панель Whirlpool WSQ4860NE закип'ятить воду дуже швидко і буде підтримувати її киплячою, одночасно знижуючи рівень споживання електроенергії.</p>]]></description_ua>
-<param name="Тип">Варильна поверхня</param>
-<param name="Колір">Чорний</param>
-<param name="Керування">Сенсорне</param>
-<param name="Кількість конфорок / зон нагріву">4</param>
-<param name="Матеріал основи панелі">Склокераміка</param>
-<param name="Тип варильної панелі">Індукційна</param>
-<param name="Розмір">5.4 х 59 х 51 см</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
 <offer id="HT34255" available="true">
-<stock_quantity>13</stock_quantity>
+<stock_quantity>12</stock_quantity>
 <price>2177.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80071</categoryId>
@@ -96535,7 +96466,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT34294" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>1827.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80180</categoryId>
@@ -96822,7 +96753,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT34341" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>775.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -98329,7 +98260,7 @@
 <param name="Об`єм">4.5 л</param>
 </offer>
 <offer id="HT34828" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>947.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4632103</categoryId>
@@ -98427,7 +98358,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT34857" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>2237.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81667</categoryId>
@@ -98453,7 +98384,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT34866" available="true">
-<stock_quantity>40</stock_quantity>
+<stock_quantity>38</stock_quantity>
 <price>16163.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -99392,7 +99323,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35048" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>457.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80036</categoryId>
@@ -101030,7 +100961,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35275" available="true">
-<stock_quantity>19</stock_quantity>
+<stock_quantity>17</stock_quantity>
 <price>3905.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81089</categoryId>
@@ -101977,7 +101908,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35358" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>993.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80180</categoryId>
@@ -102240,7 +102171,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35380" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>543.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80156</categoryId>
@@ -103908,7 +103839,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35540" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>21625.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
@@ -104794,7 +104725,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35678" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>11700.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -105091,7 +105022,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35712" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>10875.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80037</categoryId>
@@ -105538,7 +105469,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35745" available="true">
-<stock_quantity>11</stock_quantity>
+<stock_quantity>10</stock_quantity>
 <price>8150.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4631242</categoryId>
@@ -106757,7 +106688,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35862" available="true">
-<stock_quantity>15</stock_quantity>
+<stock_quantity>14</stock_quantity>
 <price>3832.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80162</categoryId>
@@ -106839,7 +106770,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35868" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>12932.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80203</categoryId>
@@ -107879,7 +107810,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT36000" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>2978.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81229</categoryId>
@@ -108621,7 +108552,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT36050" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>609.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80145</categoryId>
@@ -108670,7 +108601,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT36053" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>2819.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80180</categoryId>
@@ -109010,7 +108941,7 @@
 <param name="Глибина">59 см</param>
 </offer>
 <offer id="HT36082" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>3005.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81234</categoryId>
@@ -109310,7 +109241,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT36104" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>834.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4672888</categoryId>
@@ -109724,7 +109655,7 @@
 <param name="Призначення">Для посудомийних машин</param>
 </offer>
 <offer id="HT36140" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>24875.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80037</categoryId>
@@ -109822,34 +109753,6 @@
 <param name="Висота">85 см</param>
 <param name="Глибина">50 см</param>
 <param name="Гарантія">12 місяців</param>
-</offer>
-<offer id="HT36147" available="true">
-<stock_quantity>1</stock_quantity>
-<price>5825.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80225</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187242.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187243.jpg</picture>
-<vendor>INTERLINE</vendor>
-<article>HGG 734 FGT BA</article>
-<name>Варочная поверхность INTERLINE HGG 734 FGT BA Domino (HGG 734 FGT BA)</name>
-<name_ua>Варильна поверхня INTERLINE HGG 734 FGT BA Domino (HGG 734 FGT BA)</name_ua>
-<description><![CDATA[<p>Interline — развивающаяся компания. Приоритеты в работе — экология, экономия, энергосбережение. Работают с предприятиями, которые зарекомендовали себя как надежные производители конкретной разновидности бытовой техники.</p><ul><li>А это означает, что, покупая их продукцию, вы гарантированно получаете качественный товар с лучшей ценой в своем сегменте.</li><li>Одним из факторов комфортного быта является качественная варочная поверхность — помощница, работа с которой будет не просто ежедневной будничной обязанностью, а настоящим удовольствием.</li></ul><ul><li>Компактность и приятный дизайн позволяют этой варочной панели гармонично выглядеть в интерьере любой кухни — как классического стиля, так и современного.</li><li>Варочная поверхность INTERLINE HGG 734 FGT BA — это газовая панель, которая хорошо подходит для приготовления еды и экономна в эксплуатации.</li></ul><p>Поверхность Interline HGG 734 FGT BA оборудована 2 конфорками, а встроенный в ручки электроподжиг позволяет быстро и легко их зажечь.</p>]]></description>
-<description_ua><![CDATA[<p>Interline — компанія, що розвивається. Пріоритети в роботі — екологія, економія, енергоощадливість. Працюють із підприємствами, які зарекомендували себе як надійні виробники конкретного різновиду побутової техніки.</p><ul><li>А це означає, що, купуючи їхню продукцію, ви гарантовано отримуєте якісний товар із найкращою ціною у своєму сегменті.</li><li>Одним із чинників комфортного побуту є якісна варильна поверхня — помічниця, робота з якою буде не просто щоденним буденним обов'язком, а справжнім задоволенням.</li></ul><ul><li>Компактність і приємний дизайн дають змогу цій варильній панелі мати гармонійний вигляд в інтер'єрі будь-якої кухні — як класичного стилю, так і сучасного.</li><li>Варильна поверхня INTERLINE HGG 734 FGT BA — це газова панель, яка добре підходить для приготування їжі й економна в експлуатації.</li></ul><p>Поверхня Interline HGG 734 FGT BA обладнана 2 конфорками, а вбудований у ручки електропідпал дає змогу швидко та легко їх підпалити.</p>]]></description_ua>
-<param name="Тип">Варильна поверхня</param>
-<param name="Колір">Чорний</param>
-<param name="Ширина">27 см</param>
-<param name="Керування">Механічне</param>
-<param name="Кількість конфорок / зон нагріву">2</param>
-<param name="Матеріал основи панелі">Загартоване скло</param>
-<param name="Тип варильної панелі">Газова</param>
-<param name="Газ-контроль конфорок">Так</param>
-<param name="Електропідпал">Так</param>
-<param name="Матеріал решіток">Чавун</param>
-<param name="Вага">8,2 кг</param>
-<param name="Висота">4.6 см</param>
-<param name="Глибина">48 см</param>
-<param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT36148" available="true">
 <stock_quantity>3</stock_quantity>
@@ -110430,7 +110333,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT36193" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>50625.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4674585</categoryId>
@@ -111670,8 +111573,8 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT5792" available="true">
-<stock_quantity>3</stock_quantity>
-<price>6169.00</price>
+<stock_quantity>5</stock_quantity>
+<price>6050.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80131</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000000710_236013450.jpg</picture>
@@ -111698,8 +111601,8 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT5793" available="true">
-<stock_quantity>2</stock_quantity>
-<price>5413.00</price>
+<stock_quantity>6</stock_quantity>
+<price>5313.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80131</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000001754_221889117.jpg</picture>
@@ -111916,7 +111819,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT6464" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>2224.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80176</categoryId>
@@ -111979,7 +111882,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT6466" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>3018.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80176</categoryId>
@@ -112138,6 +112041,36 @@
 <param name="Об&apos;єм чаші">5 л</param>
 <param name="Вага">3,8 кг</param>
 <param name="Розмір">29,5 х 28 х 28 см</param>
+<param name="Гарантія">24 місяці</param>
+</offer>
+<offer id="HT6930" available="true">
+<stock_quantity>12</stock_quantity>
+<price>3296.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>112986</categoryId>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_70c4a625-5c0f-11e8-a892-8c89a59571bd.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000000900_4655640.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000000900_4655646.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000000900_4655648.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000000900_REPC58-G-5.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000000900_REPC58-G-6.jpg</picture>
+<vendor>Rotex</vendor>
+<article>REPC58-G</article>
+<name>Мультиварка-скороварка Rotex REPC58-G (REPC58-G)</name>
+<name_ua>Мультиварка-скороварка Rotex REPC58-G (REPC58-G)</name_ua>
+<description><![CDATA[<p>Одна мультиварка - множество возможностей: Rotex REPC58-G Знакомьтесь с первоклассным ассортиментом блюд благодаря мультиварке-скороварке Rotex REPC58-G. Это универсальное устройство сочетает в себе элегантный дизайн и передовые функциональные возможности, чтобы помочь вам легко и быстро готовить. Особенности Широкий выбор программС 15 автоматическими программами вы сможете без усилий приготовить все ваши любимые блюда, включая супы, каши, выпечку, жарку, йогурт и многое другое. Быстрое приготовлениеБлагодаря мощности нагревательного элемента 900 Вт и 3D ТЭН-нагреву еда готовится быстро и равномерно. Керамическое покрытие чашиОбеспечивает простоту в очистке и равномерное распределение тепла для идеального результата приготовления. КомплектацияКроме мультиварки, в комплект входят алюминиевая пароварка, мерный стакан, ложка, половник, а также книга со 100 рецептами для вдохновения. Удобство и безопасностьКнопочное управление и LED дисплей обеспечивают легкость в управлении, а функции Stand-By, защита от перегрева и возможность регулировки температуры и времени приготовления гарантируют безопасность и комфорт. Мультиварка-скороварка Rotex REPC58-G - ваш незаменимый помощник на кухне, который позволяет вам эффективно готовить вкусные блюда быстро и безопасно. Выбирайте надежность и инновации вместе с Rotex!</p>]]></description>
+<description_ua><![CDATA[<p>Одна мультиварка - безліч можливостей: Rotex REPC58-G Знайомтеся з першокласним асортиментом страв завдяки мультиварці-скороварці Rotex REPC58-G. Цей універсальний пристрій поєднує в собі елегантний дизайн і передові функціональні можливості, щоб допомогти вам легко і швидко готувати. Особливості Широкий вибір програмЗ 15 автоматичними програмами ви зможете без зусиль приготувати всі ваші улюблені страви, включаючи супи, каші, випічку, смаження, йогурт і багато іншого. Швидке приготуванняЗавдяки потужності нагрівального елемента 900 Вт і 3D ТЕН-нагріву, їжа готується швидко і рівномірно. Керамічне покриття чашіЗабезпечує простоту в очищенні і рівномірне розподілення тепла для ідеального результату приготування. КомплектаціяОкрім мультиварки, в комплект входять алюмінієва пароварка, мірний стакан, ложка, ополоник, а також книга зі 100 рецептами для натхнення. Зручність і безпекаКнопкове керування і LED дисплей забезпечують легкість в управлінні, а функції Stand-By, захист від перегріву і можливість регулювання температури і часу приготування гарантують безпеку і комфорт. Мультиварка-скороварка Rotex REPC58-G - ваш незамінний помічник на кухні, який дозволяє вам ефективно готувати смачні страви швидко і безпечно. Обирайте надійність і інновації разом з Rotex!</p>]]></description_ua>
+<param name="Тип">Мультиварка-скороварка</param>
+<param name="Колір">Білий із золотистим</param>
+<param name="Призначення">Побутове</param>
+<param name="Споживана потужність">900 Вт</param>
+<param name="Тип управління">Електронне</param>
+<param name="Покриття чаші">Подвійне керамічне</param>
+<param name="Матеріал корпусу">Нержавіюча сталь + пластик</param>
+<param name="Кількість програм приготування">15</param>
+<param name="Відстрочка старту">Так</param>
+<param name="Об&apos;єм чаші">5 л</param>
+<param name="Вага">5,7 кг</param>
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT6934" available="true">
