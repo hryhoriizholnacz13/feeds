@@ -1503,10 +1503,6 @@
 <picture>https://www.zoobaza.com.ua/content/images/26/1208x800l80mc0/56502515988193.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/26/1208x800l80mc0/52998374363512.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/26/1208x800l80mc0/94105695053911.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/26/1208x800l80mc0/96575949910079.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/26/1208x800l80mc0/20168476766283.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/26/1208x800l80mc0/92890699187005.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/26/1208x800l80mc0/82180246749893.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>8459</article>
 <name>Лежак ЗооБаза прямоугольный Магнус 53х70х33 см фуксия и серый (8459)</name>
@@ -1564,8 +1560,8 @@
 <price>2462.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
-<picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/22193860606484.jpeg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3528-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/22193860606484.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303733</article>
 <name>Лежак ЗооБаза прямоугольный Магнус 48х61х32 см коричневый и бежевый (303733)</name>
@@ -1604,8 +1600,8 @@
 <price>2160.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
-<picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/34326864059187.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/90495755908183.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/34326864059187.jpeg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3530-1.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303735</article>
@@ -2986,11 +2982,8 @@
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3606-1.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/7/1208x800l80mc0/67947494138612.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/7/1208x800l80mc0/31021499969801.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/7/1208x800l80mc0/83487432551785.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/7/1208x800l80mc0/83643646170920.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/7/1208x800l80mc0/36021026343433.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/7/1208x800l80mc0/85633433367638.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/7/1208x800l80mc0/41844520726586.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>8380</article>
 <name>Матрас ЗооБаза Фокс 56х79 см коричневый (8380)</name>
@@ -5601,11 +5594,6 @@
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3781-1.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/32/500x500l80mc0/89523099233984.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/32/700x700l80mc0/86687758641077.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/32/1208x800l80mc0/70707022368643.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/32/1208x800l80mc0/33509205314312.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/32/1208x800l80mc0/33412584179132.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/32/1208x800l80mc0/83273257029518.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/32/1208x800l80mc0/16488860118457.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>304243</article>
 <name>Сумка-переноска ЗооБаза Баллу 23х40х34 см серый (304243)</name>
@@ -16899,25 +16887,6 @@
 <param name="Тип">Сумка-переноска</param>
 <param name="Призначення">Для собак, Для котів</param>
 <param name="Особливості">З відділенням для аксесуарів</param>
-</offer>
-<offer id="ZB4660" available="true">
-<stock_quantity>2</stock_quantity>
-<price>1350.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4675996</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/4e8f33499a5a0b72.jpg</picture>
-<vendor>ЗооБаза</vendor>
-<name>Сумка-слинг ЗооБаза Гросс 16х35х21 см</name>
-<name_ua>Сумка-слінг ЗооБаза Гросс 16х35х21 см</name_ua>
-<description><![CDATA[<ul><li>Сумка-слинг для переноски небольших животных: носится через плечо на широком регулируемом ремне, поэтому руки остаются свободными.</li><li>Размер у всех вариантов одинаковый, поэтому ориентируйтесь на длину животного и вес, который вам удобно носить на одном плече.</li></ul>]]></description>
-<description_ua><![CDATA[<ul><li>Сумка-слінг для перенесення невеликих тварин: носиться через плече на широкому регульованому ремені, тому руки лишаються вільними.</li><li>Розмір у всіх варіантів однаковий, тож орієнтуйтеся на довжину тварини й вагу, яку вам зручно носити на одному плечі.</li></ul>]]></description_ua>
-<param name="Розмір">16х35х21 см</param>
-<param name="Вага, кг">0.4</param>
-<param name="Габарити, см">16х35х21</param>
-<param name="Тип">Сумка-переноска</param>
-<param name="Особливості">З відділенням для аксесуарів</param>
-<param name="Матеріал">Оксфорд</param>
-<param name="EAN">4823118711325</param>
 </offer>
 <offer id="ZB4661" available="false">
 <stock_quantity>0</stock_quantity>
@@ -80493,7 +80462,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT19524" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>980.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80161</categoryId>
@@ -82701,7 +82670,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT26001" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>6175.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4631249</categoryId>
@@ -82728,7 +82697,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT26002" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>6175.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4631249</categoryId>
@@ -84376,7 +84345,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT29699" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>11694.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
@@ -85954,7 +85923,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30597" available="true">
-<stock_quantity>17</stock_quantity>
+<stock_quantity>16</stock_quantity>
 <price>1258.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81667</categoryId>
@@ -86625,7 +86594,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT30786" available="true">
-<stock_quantity>43</stock_quantity>
+<stock_quantity>41</stock_quantity>
 <price>346.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4674121</categoryId>
@@ -86646,7 +86615,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30787" available="true">
-<stock_quantity>33</stock_quantity>
+<stock_quantity>31</stock_quantity>
 <price>346.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4674121</categoryId>
@@ -87140,7 +87109,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31035" available="true">
-<stock_quantity>8</stock_quantity>
+<stock_quantity>7</stock_quantity>
 <price>444.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81232</categoryId>
@@ -87927,7 +87896,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31712" available="true">
-<stock_quantity>21</stock_quantity>
+<stock_quantity>20</stock_quantity>
 <price>1601.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80071</categoryId>
@@ -91318,7 +91287,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT32713" available="true">
-<stock_quantity>28</stock_quantity>
+<stock_quantity>29</stock_quantity>
 <price>9807.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80162</categoryId>
@@ -94193,7 +94162,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT33650" available="true">
-<stock_quantity>8</stock_quantity>
+<stock_quantity>7</stock_quantity>
 <price>3746.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81089</categoryId>
@@ -95252,7 +95221,7 @@
 <param name="Тип фреону">R32</param>
 </offer>
 <offer id="HT33954" available="true">
-<stock_quantity>13</stock_quantity>
+<stock_quantity>12</stock_quantity>
 <price>27657.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80141</categoryId>
@@ -95811,32 +95780,6 @@
 <description_ua><![CDATA[<p>Вакуумний пакувальник Mesko MS 4492 легко захистить вашу їжу та подовже термін її зберігання. Вакуумний пакувальник Mesko MS 4492 має дві функції - забезпечує вакуумне пакування, завдяки видаленню повітря з поліетиленового пакета і дозволяє зварювати краї пакета і герметично закривати його. Ви можете використовувати обидві ці функції одну за одною або просто щільно закрити пакет. Рекомендовано використовувати пакети шириною не більше 28 см.</p>]]></description_ua>
 <param name="Тип">Вакууматор</param>
 <param name="Потужність">100 Вт</param>
-<param name="Гарантія">24 місяці</param>
-</offer>
-<offer id="HT34106" available="true">
-<stock_quantity>1</stock_quantity>
-<price>14788.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80122</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155591.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155592.jpg</picture>
-<vendor>CASTLE</vendor>
-<article>CG-60X</article>
-<name>Плита газовая CASTLE CG-60X (CG-60X)</name>
-<name_ua>Плита газова CASTLE CG-60X (CG-60X)</name_ua>
-<description><![CDATA[<p>Съемное стеклоСъемное стекло может быть полностью снято, что делает очистку легче щелчка пальцем.</p>]]></description>
-<description_ua><![CDATA[<p>Знімне склоЗнімне скло може бути повністю знято, що робить очищення легшим клацання пальцем.</p>]]></description_ua>
-<param name="Тип">Плита газова</param>
-<param name="Колір">Сірий з чорним</param>
-<param name="Ширина">60 см</param>
-<param name="Керування">Механічне</param>
-<param name="Тип духової шафи">Газова</param>
-<param name="Тип варильної панелі">Газова</param>
-<param name="Електропідпал">Так</param>
-<param name="Кількість конфорок">4</param>
-<param name="Вага">35,5 кг</param>
-<param name="Висота">86.5 см</param>
-<param name="Глибина">60 см</param>
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT34107" available="true">
@@ -100904,36 +100847,6 @@
 <param name="Вага">2,28 кг</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
-<offer id="HT35253" available="true">
-<stock_quantity>1</stock_quantity>
-<price>12769.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80122</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171151.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171152.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171153.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171154.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171155.jpg</picture>
-<vendor>CASTLE</vendor>
-<article>CG-50X</article>
-<name>Плита газовая CASTLE CG-50X (CG-50X)</name>
-<name_ua>Плита газова CASTLE CG-50X (CG-50X)</name_ua>
-<description><![CDATA[<p>Газовая плита Castle CG-50X — это компактная кухонная модель шириной 50 см, выполненная в корпусе из нержавеющей стали.</p><ul><li>Она сочетает классическое газовое приготовление на варочной поверхности и в духовке, что делает ее практичным выбором для небольших кухоньОсновные характеристики:Варочная поверхность: Имеет 4 газовые конфорки разной мощности.</li><li>Духовой шкаф: Полностью газовый, объемом около 54–58 литров (в зависимости от модификации).</li><li>Материалы: Корпус и рабочая поверхность изготовлены из нержавеющей стали, что обеспечивает долговечность и современный вид.</li></ul><ul><li>Решетки обычно эмалированные.</li><li>Безопасность: Оснащена системой газ-контроля, которая автоматически перекрывает подачу газа, если пламя случайно погаснет.</li><li>Управление: Механические поворотные переключатели.</li></ul><ul><li>Большинство моделей этой серии имеют встроенный в ручки электроподжиг.</li><li>Габариты: Стандартные размеры для узких плит — 85-86.5 см в высоту, 50 см в ширину и 60 см в глубину.</li></ul>]]></description>
-<description_ua><![CDATA[<p>Газова плита Castle CG-50X — це компактна кухонна модель шириною 50 см, виконана в корпусі з нержавіючої сталі.</p><ul><li>Вона поєднує класичне газове приготування на варильній поверхні та в духовці, що робить її практичним вибором для невеликих кухоньОсновні характеристики:Варильна поверхня: Має 4 газові конфорки різної потужності.</li><li>Духова шафа: Повністю газова, об'ємом близько 54–58 літрів (залежно від модифікації).</li><li>Матеріали: Корпус та робоча поверхня виготовлені з нержавіючої сталі, що забезпечує довговічність та сучасний вигляд.</li></ul><ul><li>Решітки зазвичай емальовані.</li><li>Безпека: Оснащена системою газ-контролю, яка автоматично перекриває подачу газу, якщо полум'я випадково згасне.</li><li>Керування: Механічні поворотні перемикачі.</li></ul><ul><li>Більшість моделей цієї серії мають вбудований у ручки електропідпал.</li><li>Габарити: Стандартні розміри для вузьких плит — 85-86.5 см у висоту, 50 см у ширину та 60 см у глибину.</li></ul>]]></description_ua>
-<param name="Тип">Плита газова</param>
-<param name="Колір">Сріблястий</param>
-<param name="Ширина">50 см</param>
-<param name="Керування">Механічне</param>
-<param name="Об&apos;єм духовки">54 л</param>
-<param name="Тип духової шафи">Газова</param>
-<param name="Тип варильної панелі">Газова</param>
-<param name="Кількість конфорок">4</param>
-<param name="Матеріал решіток">Емальована сталь</param>
-<param name="Вага">30,9 кг</param>
-<param name="Висота">86.5 см</param>
-<param name="Глибина">50 см</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
 <offer id="HT35254" available="true">
 <stock_quantity>4</stock_quantity>
 <price>2310.00</price>
@@ -100963,7 +100876,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35256" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>1999.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675058</categoryId>
@@ -101089,7 +101002,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35274" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>3567.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80155</categoryId>
@@ -101988,7 +101901,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35353" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>437.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80148</categoryId>
@@ -103995,7 +103908,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35540" available="true">
-<stock_quantity>1</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>21625.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
@@ -105182,6 +105095,8 @@
 <price>10875.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80037</categoryId>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178211.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178212.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178213.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178216.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178217.jpg</picture>
@@ -105280,7 +105195,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35719" available="true">
-<stock_quantity>36</stock_quantity>
+<stock_quantity>35</stock_quantity>
 <price>6063.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80037</categoryId>
@@ -108293,7 +108208,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT36028" available="true">
-<stock_quantity>22</stock_quantity>
+<stock_quantity>21</stock_quantity>
 <price>843.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80071</categoryId>
@@ -110380,6 +110295,34 @@
 <param name="Вага">1,5 кг</param>
 <param name="Гарантія">24 місяці</param>
 </offer>
+<offer id="HT36180" available="true">
+<stock_quantity>1</stock_quantity>
+<price>11850.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>80123</categoryId>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188081.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188082.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188083.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188084.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188085.jpg</picture>
+<vendor>Candy</vendor>
+<article>CP 6E51LW</article>
+<name>Посудомоечная машина Candy CP 6E51LW (CP 6E51LW)</name>
+<name_ua>Посудомийна машина Candy CP 6E51LW (CP 6E51LW)</name_ua>
+<description><![CDATA[<p>БыстраяНебольшая настольная посудомоечная машина, которая станет идеальным решением, если вам сложно использовать большую посудомоечную машину. Ее небольшие размеры идеально впишутся в самое маленькое кухонное пространство.</p><ul><li>Она была усовершенствована, чтобы стать более эффективной и умной, и оснащена рядом быстрых циклов и функций, призванных упростить вашу повседневную жизнь.</li><li>Мытье и сушка за 35 минутПосудомойка может вымыть и высушить ежедневную загрузку посуды всего за 35 минут: самый быстрый цикл мытья и сушки на рынке.</li><li>Детальный дизайнНовый держатель Maxi-Ladle разработан для идеальной фиксации ножей для хлеба, половников и других длинных предметов.</li><li>Экспресс-режимСделайте вашу жизнь быстрее и проще.</li></ul><ul><li>Выберите опцию Express и сократите время выбранной программы на 10%.</li><li>Сокращение потребления энергии и водыВам больше не придется беспокоиться о том, что вы не можете полностью загрузить стиральную машину.</li></ul><ul><li>Выбрав опцию "Половинная загрузка", вы сократите потребление энергии и воды на 10% без ущерба для производительности.</li><li>Возможность переноса заданий на 24 часаПозволяет отложить время начала цикла мытья.</li></ul><ul><li>Таким образом, вы можете установить программу на запуск через 1-24 часа.</li><li>Впишется даже в самую маленькую кухнюНовая посудомоечная машина Candy - идеальное решение для самых маленьких кухонных помещений: она вмещает до 30 бокалов, 28 десертных тарелок, всегда обеспечивая отличные результаты очистки.</li></ul>]]></description>
+<description_ua><![CDATA[<p>ШвидкаНевелика настільна посудомийна машина, яка стане ідеальним рішенням, якщо вам складно використовувати велику посудомийну машину. Її невеликі розміри ідеально впишуться в найменший кухонний простір.</p><ul><li>Вона була вдосконалена, щоб стати більш ефективною і розумною, і оснащена низкою швидких циклів і функцій, покликаних спростити ваше повсякденне життя.</li><li>Миття та сушіння за 35 хвилинПосудомийка може вимити та висушити щоденне завантаження посуду всього за 35 хвилин: найшвидший цикл миття та сушіння на ринку.</li><li>Детальний дизайнНовий тримач Maxi-Ladle розроблено для ідеальної фіксації ножів для хліба, ополоників та інших довгих предметів.</li><li>Експрес-режимЗробіть ваше життя швидшим і простішим.</li></ul><ul><li>Виберіть опцію Express і скоротіть час обраної програми на 10%.</li><li>Скорочення споживання енергії та водиВам більше не доведеться турбуватися про те, що ви не можете повністю завантажити пральну машину.</li></ul><ul><li>Вибравши опцію "Половинне завантаження", ви скоротите споживання енергії та води на 10% без шкоди для продуктивності.</li><li>Можливість перенесення завдань на 24 годиниДозволяє відкласти час початку циклу миття.</li></ul><ul><li>Таким чином, ви можете встановити програму на запуск через 1-24 години.</li><li>Впишеться навіть у найменшу кухнюНова посудомийна машина Candy - ідеальне рішення для найменших кухонних приміщень: вона вміщує до 30 келихів, 28 десертних тарілок, завжди забезпечуючи чудові результати очищення.</li></ul>]]></description_ua>
+<param name="Тип">Посудомийна машина</param>
+<param name="Колір">Білий</param>
+<param name="Ширина">55 см</param>
+<param name="Керування">Сенсорне</param>
+<param name="Кількість програм мийки">5</param>
+<param name="Місткість комплектів посуду">6</param>
+<param name="Тип посудомийки">Окремостояча</param>
+<param name="Вага">24 кг</param>
+<param name="Висота">58 см</param>
+<param name="Глибина">50 см</param>
+<param name="Гарантія">12 місяців</param>
+</offer>
 <offer id="HT36185" available="true">
 <stock_quantity>2</stock_quantity>
 <price>8069.00</price>
@@ -110624,7 +110567,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT36199" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>6000.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81089</categoryId>
@@ -112578,7 +112521,7 @@
 <param name="EAN">4894512025011</param>
 </offer>
 <offer id="DB00004946" available="true">
-<stock_quantity>35</stock_quantity>
+<stock_quantity>31</stock_quantity>
 <price>785.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -113618,7 +113561,7 @@
 <param name="EAN">4894512051645</param>
 </offer>
 <offer id="DB00005287" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>655.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3970650</categoryId>
@@ -115062,7 +115005,7 @@
 <param name="EAN">4255636802160</param>
 </offer>
 <offer id="DB00006257" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>1514.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4626659</categoryId>
@@ -115077,7 +115020,7 @@
 <param name="EAN">4255636802115</param>
 </offer>
 <offer id="DB00006428" available="true">
-<stock_quantity>12</stock_quantity>
+<stock_quantity>11</stock_quantity>
 <price>2657.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -115206,7 +115149,7 @@
 <param name="EAN">690100044402</param>
 </offer>
 <offer id="DB00006436" available="true">
-<stock_quantity>54</stock_quantity>
+<stock_quantity>53</stock_quantity>
 <price>1672.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -115222,7 +115165,7 @@
 <param name="EAN">691000512022</param>
 </offer>
 <offer id="DB00006437" available="true">
-<stock_quantity>43</stock_quantity>
+<stock_quantity>42</stock_quantity>
 <price>1672.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -116157,7 +116100,7 @@
 <param name="EAN">7898574024095</param>
 </offer>
 <offer id="DB00007176" available="true">
-<stock_quantity>44</stock_quantity>
+<stock_quantity>43</stock_quantity>
 <price>2310.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -116189,7 +116132,7 @@
 <param name="EAN">7898574024071</param>
 </offer>
 <offer id="DB00007178" available="true">
-<stock_quantity>32</stock_quantity>
+<stock_quantity>30</stock_quantity>
 <price>1418.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -116222,7 +116165,7 @@
 <param name="EAN">7898574024378</param>
 </offer>
 <offer id="DB00007180" available="true">
-<stock_quantity>73</stock_quantity>
+<stock_quantity>71</stock_quantity>
 <price>5040.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -116391,7 +116334,7 @@
 <param name="EAN">7898574024330</param>
 </offer>
 <offer id="DB00007190" available="true">
-<stock_quantity>61</stock_quantity>
+<stock_quantity>60</stock_quantity>
 <price>5860.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -116777,7 +116720,7 @@
 <param name="EAN">7898574026044</param>
 </offer>
 <offer id="DB00007221" available="true">
-<stock_quantity>20</stock_quantity>
+<stock_quantity>19</stock_quantity>
 <price>1921.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -117165,7 +117108,7 @@
 <param name="Фасовка">S</param>
 <param name="EAN">8031398125367</param>
 </offer>
-<offer id="DB00007275" available="true">
+<offer id="DB00007275" available="false">
 <stock_quantity>4</stock_quantity>
 <price>341.00</price>
 <currencyId>UAH</currencyId>
@@ -117182,7 +117125,7 @@
 <param name="EAN">8031398000886</param>
 </offer>
 <offer id="DB00007276" available="true">
-<stock_quantity>17</stock_quantity>
+<stock_quantity>16</stock_quantity>
 <price>617.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -117232,7 +117175,7 @@
 <param name="EAN">8031398128078</param>
 </offer>
 <offer id="DB00007282" available="true">
-<stock_quantity>100</stock_quantity>
+<stock_quantity>95</stock_quantity>
 <price>617.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -117317,7 +117260,7 @@
 <param name="EAN">8031398067469</param>
 </offer>
 <offer id="DB00007289" available="true">
-<stock_quantity>22</stock_quantity>
+<stock_quantity>21</stock_quantity>
 <price>649.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -117367,7 +117310,7 @@
 <param name="EAN">8031398125404</param>
 </offer>
 <offer id="DB00007293" available="true">
-<stock_quantity>12</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>333.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -117415,7 +117358,7 @@
 <param name="EAN">8031398123134</param>
 </offer>
 <offer id="DB00007296" available="true">
-<stock_quantity>76</stock_quantity>
+<stock_quantity>72</stock_quantity>
 <price>311.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -117430,7 +117373,7 @@
 <param name="Вид тварин">Собаки</param>
 <param name="EAN">8031398123585</param>
 </offer>
-<offer id="DB00007297" available="true">
+<offer id="DB00007297" available="false">
 <stock_quantity>2</stock_quantity>
 <price>311.00</price>
 <currencyId>UAH</currencyId>
@@ -117575,7 +117518,7 @@
 <param name="EAN">8031398252742</param>
 </offer>
 <offer id="DB00007313" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>358.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -117639,7 +117582,7 @@
 <param name="EAN">8031398252131</param>
 </offer>
 <offer id="DB00007320" available="true">
-<stock_quantity>8</stock_quantity>
+<stock_quantity>7</stock_quantity>
 <price>573.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4632096</categoryId>
@@ -117655,7 +117598,7 @@
 <param name="EAN">8031398252087</param>
 </offer>
 <offer id="DB00007321" available="true">
-<stock_quantity>67</stock_quantity>
+<stock_quantity>66</stock_quantity>
 <price>573.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4632096</categoryId>
@@ -118839,7 +118782,7 @@
 <param name="EAN">4820266800239</param>
 </offer>
 <offer id="DB00007669" available="true">
-<stock_quantity>100</stock_quantity>
+<stock_quantity>78</stock_quantity>
 <price>146.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675022</categoryId>
@@ -118884,7 +118827,7 @@
 <param name="EAN">4820266800246</param>
 </offer>
 <offer id="DB00007674" available="true">
-<stock_quantity>100</stock_quantity>
+<stock_quantity>72</stock_quantity>
 <price>146.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675022</categoryId>
@@ -120148,7 +120091,7 @@
 <param name="EAN">4820266800031</param>
 </offer>
 <offer id="DB00008282" available="true">
-<stock_quantity>19</stock_quantity>
+<stock_quantity>15</stock_quantity>
 <price>341.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>301871</categoryId>
@@ -121354,7 +121297,7 @@
 <param name="EAN">4894512017566</param>
 </offer>
 <offer id="DB00009494" available="true">
-<stock_quantity>35</stock_quantity>
+<stock_quantity>34</stock_quantity>
 <price>6353.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -121631,7 +121574,7 @@
 <param name="Вид тварин">Собаки/Коти</param>
 <param name="Фасовка">200 мл</param>
 </offer>
-<offer id="DB00010123" available="true">
+<offer id="DB00010123" available="false">
 <stock_quantity>1</stock_quantity>
 <price>582.00</price>
 <currencyId>UAH</currencyId>
@@ -121812,7 +121755,7 @@
 <param name="EAN">8031398253794</param>
 </offer>
 <offer id="DB00010337" available="true">
-<stock_quantity>62</stock_quantity>
+<stock_quantity>50</stock_quantity>
 <price>816.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -121828,7 +121771,7 @@
 <param name="EAN">5055037406542</param>
 </offer>
 <offer id="DB00010338" available="true">
-<stock_quantity>25</stock_quantity>
+<stock_quantity>15</stock_quantity>
 <price>785.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
