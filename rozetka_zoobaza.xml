@@ -30,7 +30,7 @@
 <category id="3935762" rz_id="3935762">Одяг для тварин</category>
 <category id="3970650" rz_id="3970650">Амуніція</category>
 <category id="3985679" rz_id="3985679">Амуніція</category>
-<category id="437994" rz_id="437994">Краса та догляд</category>
+<category id="437994" rz_id="437994">МПТ Xiaomi</category>
 <category id="4625067" rz_id="4625067">Аксесуари</category>
 <category id="4626138" rz_id="4626138">Аксесуари МПТ</category>
 <category id="4626409" rz_id="4626409">Інструменти грумінгу</category>
@@ -79,7 +79,7 @@
 <category id="4674088" rz_id="4674088">Аксесуари МПТ</category>
 <category id="4674121" rz_id="4674121">Аксесуари ВПТ</category>
 <category id="4674561" rz_id="4674561">Фільтра для води</category>
-<category id="4674585" rz_id="4674585">Електротовари</category>
+<category id="4674585" rz_id="4674585">Стабілізатори та ДБЖ</category>
 <category id="4674672" rz_id="4674672">Вбудована техніка</category>
 <category id="4674720" rz_id="4674720">Кавоварки</category>
 <category id="4675022" rz_id="4675022">Ласощі</category>
@@ -79003,7 +79003,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT10007" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>1079.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -80152,7 +80152,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT19077" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>28782.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -80857,7 +80857,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT22729" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>841.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80180</categoryId>
@@ -81012,7 +81012,7 @@
 <param name="Гарантія">25 місяців</param>
 </offer>
 <offer id="HT23114" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>11675.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80225</categoryId>
@@ -81285,7 +81285,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT23348" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>2675.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80140</categoryId>
@@ -81742,8 +81742,36 @@
 <param name="Розмір">34 х 59 х 47 см</param>
 <param name="Гарантія">36 місяців</param>
 </offer>
+<offer id="HT23889" available="true">
+<stock_quantity>12</stock_quantity>
+<price>4712.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>80142</categoryId>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000002294_ROT450-B-2.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000002294_ROT450-B-3.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000002294_ROT450-B-4.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000002294_ROT450-B-5.jpg</picture>
+<vendor>Rotex</vendor>
+<article>ROT450-B</article>
+<name>Духовка Rotex ROT450-B (ROT450-B)</name>
+<name_ua>Духовка Rotex ROT450-B (ROT450-B)</name_ua>
+<description><![CDATA[<p>Экономия пространства и денег С настольной электрической печью Rotex ROT450-B ситуация, когда хочется что-то испечь, а духового шкафа нет, перестанет казаться такой ужасной. Все, что нужно, — купить недорогую духовку, которая не требует специальной ниши для встраивания, занимает минимум места и ничем не уступает полноразмерным моделям. Максимальный набор Внутренний объём настольного духового шкафа Rotex ROT450-B 45 л позволит печь торты и другую выпечку любой сложности. Также эти параметры достаточны для запекания птицы, даже в рамках подготовки к большим семейным праздникам. Разные режимы работы позволяют выбирать между верхним и нижним нагревом или использовать их комбинацию. Режим конвекции, включаемый по желанию, гарантирует аппетитную золотистую корочку на любых видах блюд. Таймер позволит задать необходимое время приготовления и подаст сигнал, когда процесс будет завершен. Если фантазия исчерпалась, книга с рецептами, которая также входит в комплект, позволит разнообразить семейное меню.</p>]]></description>
+<description_ua><![CDATA[<p>Економія простору та грошей З настільною електричною піччю Rotex ROT450-B ситуація, коли хочеться щось спекти, а духової шафи немає, перестане здаватися такою жахливою. Все, що потрібно купити недорогу духовку, яка не вимагає спеціальної ніші для вбудовування, займає мінімум місця і нічим не поступається повнорозмірним моделям. Максимальний набір Внутрішній об'єм настільної духової шафи Rotex ROT450-B 45 л дозволять пекти торти та іншу випічку будь-якої складності. Також ці параметри достатні для запікання птиці, навіть у рамках підготовки до великих сімейних свят. Різні режими роботи дозволяють вибирати між верхнім і нижнім нагріванням або використовувати їх комбінацію. Режим конвекції, що включається за бажанням, гарантує апетитну золотисту скоринку на будь-яких видах страв. Таймер дозволить задати необхідний час приготування та подасть сигнал, коли процес буде завершено. Якщо фантазія вичерпалася, книга з рецептами, яка також входить у комплект, дозволить урізноманітнити сімейне меню.</p>]]></description_ua>
+<param name="Тип">Духовка</param>
+<param name="Колір">Чорний</param>
+<param name="Споживана потужність">2000 Вт</param>
+<param name="Тип управління">Механічне</param>
+<param name="Номінальна напруга">220 В</param>
+<param name="Об&apos;єм духовки">45 л</param>
+<param name="Тип духової шафи">Електрична</param>
+<param name="Максимальна температура нагріву">до 250 °С</param>
+<param name="Матеріал корпусу">Метал</param>
+<param name="Конвекція">Так</param>
+<param name="Вага">8.8 кг</param>
+<param name="Гарантія">12 місяців</param>
+</offer>
 <offer id="HT23892" available="true">
-<stock_quantity>16</stock_quantity>
+<stock_quantity>12</stock_quantity>
 <price>6000.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80142</categoryId>
@@ -81910,7 +81938,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT24151" available="true">
-<stock_quantity>51</stock_quantity>
+<stock_quantity>50</stock_quantity>
 <price>981.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4674561</categoryId>
@@ -81960,7 +81988,7 @@
 <param name="Діаметр">27 см</param>
 </offer>
 <offer id="HT24438" available="true">
-<stock_quantity>16</stock_quantity>
+<stock_quantity>15</stock_quantity>
 <price>309.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80071</categoryId>
@@ -82291,7 +82319,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT25295" available="true">
-<stock_quantity>10</stock_quantity>
+<stock_quantity>9</stock_quantity>
 <price>3256.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>112986</categoryId>
@@ -83326,7 +83354,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT28043" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>1827.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -84264,7 +84292,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT29755" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>15444.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
@@ -84360,7 +84388,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT29826" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>12282.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
@@ -84851,7 +84879,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30209" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>13963.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
@@ -85126,7 +85154,7 @@
 <param name="Гарантія">14 днів</param>
 </offer>
 <offer id="HT30424" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>788.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -85180,22 +85208,6 @@
 <param name="Нагрівальний елемент">Дисковий</param>
 <param name="Об&apos;єм чайника">1,7 л</param>
 <param name="Гарантія">12 місяців</param>
-</offer>
-<offer id="HT30465" available="true">
-<stock_quantity>15</stock_quantity>
-<price>113.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4626138</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011901_img_0_1622_78_0.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011901_img_0_1622_78_1.jpg</picture>
-<vendor>СЛОН</vendor>
-<name>Микрофильтр СЛОН Универсальный</name>
-<name_ua>Мікрофільтр СЛОН Універсальний</name_ua>
-<description><![CDATA[<p>Универсальный микрофильтр для пылесоса СЛОН UNI.</p>]]></description>
-<description_ua><![CDATA[<p>Універсальний мікрофільтр для пилососу СЛОН UNI.</p>]]></description_ua>
-<param name="Тип">Мікрофільтр</param>
-<param name="Призначення">Для пилососа</param>
-<param name="Гарантія">6 місяців</param>
 </offer>
 <offer id="HT30466" available="true">
 <stock_quantity>7</stock_quantity>
@@ -85273,42 +85285,6 @@
 <param name="Призначення">Для пилососа</param>
 <param name="Матеріал корпусу">Тканина</param>
 </offer>
-<offer id="HT30472" available="true">
-<stock_quantity>8</stock_quantity>
-<price>312.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4626138</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011908_406050105.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011908_406050092.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011908_406050099.jpg</picture>
-<vendor>СЛОН</vendor>
-<article>S-01 C-III c</article>
-<name>Мешок д/пылесоса о/р м/в СЛОН S-01 C-III c к Samsung (S-01 C-III c)</name>
-<name_ua>Мішок д/пилососа о/р м/в СЛОН S-01 C-III c до Samsung (S-01 C-III c)</name_ua>
-<description><![CDATA[<p>Мешок для пылесоса одноразовый + фильтрСовместимость с моделями: SamsungКомплектация: 5 мешков из микроволокна.</p>]]></description>
-<description_ua><![CDATA[<p>Мішок для пилососа одноразовий + фільтрСумісність з моделями: SamsungКомплектація: 5 мішків з мікроволокна.</p>]]></description_ua>
-<param name="Тип">Мішок д/пилососа о/р м/в</param>
-<param name="Колір">Білий</param>
-<param name="Призначення">Для пилососа</param>
-</offer>
-<offer id="HT30473" available="true">
-<stock_quantity>11</stock_quantity>
-<price>312.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4626138</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011909_img_0_1622_66_0.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011909_img_0_1622_66_1.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011909_img_0_1622_66_2.jpg</picture>
-<vendor>СЛОН</vendor>
-<article>S-02 C-III c</article>
-<name>Мешок д/пылесоса о/р м/в СЛОН S-02 C-III c к Samsung (S-02 C-III c)</name>
-<name_ua>Мішок д/пилососа о/р м/в СЛОН S-02 C-III c до Samsung (S-02 C-III c)</name_ua>
-<description><![CDATA[<p>Комплектация: 5 мешков Подходит для пылесосов Samsung Материал: микроволокно.</p>]]></description>
-<description_ua><![CDATA[<p>Комплектація: 5 мішків Підходить для пилососів Samsung Матеріал: мікроволокно.</p>]]></description_ua>
-<param name="Тип">Мішок д/пилососа о/р м/в</param>
-<param name="Колір">Білий</param>
-<param name="Призначення">Для пилососа</param>
-</offer>
 <offer id="HT30476" available="true">
 <stock_quantity>9</stock_quantity>
 <price>312.00</price>
@@ -85331,7 +85307,7 @@
 <param name="Матеріал корпусу">Папір</param>
 </offer>
 <offer id="HT30477" available="true">
-<stock_quantity>9</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>312.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4626138</categoryId>
@@ -85452,7 +85428,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30525" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>1953.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4626676</categoryId>
@@ -85536,7 +85512,7 @@
 <param name="Кількість циклів прання">83</param>
 </offer>
 <offer id="HT30580" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>30313.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80123</categoryId>
@@ -85825,7 +85801,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30621" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>1575.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80142</categoryId>
@@ -85854,7 +85830,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT30623" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>1853.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81667</categoryId>
@@ -86728,35 +86704,6 @@
 <param name="Об&apos;єм чайника">1,8 л</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
-<offer id="HT30913" available="true">
-<stock_quantity>1</stock_quantity>
-<price>669.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80145</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012349__toster-rotex-rtm121-b.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012349_RTM121-B-2.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012349_RTM121-B-3.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000012349_RTM121-B-4.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000012349_RTM121-B-5.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000012349_RTM121-B-6.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000012349_RTM121-B-7.jpg</picture>
-<vendor>Rotex</vendor>
-<article>RTM121-B</article>
-<name>Тостер Rotex RTM121-B (RTM121-B)</name>
-<name_ua>Тостер Rotex RTM121-B (RTM121-B)</name_ua>
-<description><![CDATA[<p>Благодаря тостеру Rotex RTM121-B приготовление вкусных тостов становится чистым удовольствием. С его двумя отделениями вы можете быстро и легко подготовить два тоста и выбрать один из семи уровней обжаривания. С мощностью 750 Вт тостер становится вашим надежным помощником в приготовлении завтраков. Семиступенчатая регулировка обжаривания позволяет вам выбрать желаемую степень золотистости ваших тостов, от слегка поджаренных до глубоко обжаренных. При необходимости вы можете прервать процесс приготовления, а съемный поддон для сбора крошек обеспечит легкую очистку тостера. Элегантный черный дизайн тостера, изготовленного из качественного пластика, добавит стиля вашей кухне. Удобное и практичное решение для тех, кто ценит вкусный и быстрый завтрак.</p>]]></description>
-<description_ua><![CDATA[<p>Завдяки тостеру Rotex RTM121-B приготування смачних тостів стає чистим задоволенням. З його двома відділеннями ви можете швидко та легко підготувати два тости та вибрати один із семи рівнів обсмажування. З потужністю 750 Вт тостер стає вашим надійним помічником у приготуванні сніданків. Семиступінчасте регулювання обсмажування дозволяє вам вибрати бажаний ступінь золотистості ваших тостів, від легко засмажених до глибоко обсмажених. При необхідності ви можете перервати процес приготування, а знімний піддон для збору крихт забезпечить легке очищення тостера. Елегантний чорний дизайн тостера, виготовленого з якісного пластику, додасть стилю вашій кухні. Зручне та практичне рішення для тих, хто цінує смачний та швидкий сніданок.</p>]]></description_ua>
-<param name="Тип">Тостер</param>
-<param name="Колір">Чорний</param>
-<param name="Призначення">Побутове</param>
-<param name="Споживана потужність">750 Вт</param>
-<param name="Тип управління">Механічне</param>
-<param name="Номінальна напруга">220-240 В</param>
-<param name="Матеріал корпусу">Пластик</param>
-<param name="Кількість порцій за одне завантаження">2</param>
-<param name="Кількість температурних режимів">7</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
 <offer id="HT30914" available="true">
 <stock_quantity>4</stock_quantity>
 <price>656.00</price>
@@ -86956,7 +86903,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31044" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>18738.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80141</categoryId>
@@ -87311,7 +87258,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31388" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>3375.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4631249</categoryId>
@@ -87333,7 +87280,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31389" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>3375.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4631249</categoryId>
@@ -87417,7 +87364,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31402" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>1972.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4626676</categoryId>
@@ -87575,7 +87522,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31547" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>1536.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80161</categoryId>
@@ -87684,7 +87631,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT31688" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>53100.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -87833,7 +87780,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT31803" available="true">
-<stock_quantity>18</stock_quantity>
+<stock_quantity>12</stock_quantity>
 <price>424.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -88071,7 +88018,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT31928" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>1145.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -88730,38 +88677,6 @@
 <param name="Розмір">67,5 × 46,5 × 40,2 см</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
-<offer id="HT32016" available="true">
-<stock_quantity>1</stock_quantity>
-<price>9607.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80140</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013456_438947396.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013456_438947412.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000013456_438947414.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000013456_438947418.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000013456_438947419.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000013456_438947434.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/8_000013456_438947438.jpg</picture>
-<vendor>Minola</vendor>
-<article>HBI 6873 WH</article>
-<name>Вытяжка Minola HBI 6873 WH GLASS 1200 LED Line (HBI 6873 WH)</name>
-<name_ua>Витяжка Minola HBI 6873 WH GLASS 1200 LED Line (HBI 6873 WH)</name_ua>
-<description><![CDATA[<p>Полновстраиваемая кухонная вытяжка Minola HBI 6873 WH GLASS 1200 LED Line оборудована одним мотором высокой мощности 230 Вт. Максимальная производительность устройства в режиме отвода воздуха составляет 1200 м3/час. Это позволяет эффективно удалять испарения, нежелательные запахи и копоть, которые образуются в процессе приготовления еды. Оформление и дизайн Благодаря отличным эргономическим качествам, которыми наделена модель Minola HBI 6873 WH GLASS 1200 LED Line, она подойдет как к маленькой, так и к стандартной кухне. Часть конструкции устройства, которая должна быть скрыта от глаз, полностью прячется в шкафу, а рабочая часть остается на виду и органично дополняет общий дизайн. Фасадная часть вытяжки изготовлена из закаленного стекла, которое отличается высокой жаростойкостью, устойчивостью к механическим повреждениям и своим эстетичным видом, который придется по душе любому кулинару. Жироулавливающий алюминиевый фильтр спрятан за крышкой, которая не только играет декоративную роль, но и защищает фильтр от загрязнений, тем самым упрощая уход за вытяжкой. Алюминиевый фильтр Кухонная вытяжка оборудована трехслойным жироулавливающим алюминиевым фильтром. Он обеспечивает надежную и эффективную защиту двигателя и других деталей вытяжки от попадания жира и грязи. Режимы работы Вытяжка может работать в двух режимах: Режим отвода – воздух выводится наружу через вентиляционное отверстие; Режим рециркуляции – воздух циркулирует внутри помещения и очищается, проходя через угольный фильтр. Использование режима рециркуляции вытяжки возможно только после установки угольного фильтра, который продается отдельно. Сенсорное управление Сенсорная панель управления расположена посередине на передней части устройства. Она проста в управлении и интуитивно понятна. Для включения/выключения двигателя, освещения и переключения скоростей достаточно легкого касания. Современное освещение Кухонная вытяжка оборудована LED-лампой мощностью 5 Вт. Именно светодиодные лампы являются лучшим выбором для дополнительного освещения кухонной поверхности, поскольку они позволяют существенно снизить расходы на электроэнергию, а также имеют высокую светоотдачу. Скорости работы Вытяжка имеет 3 скорости работы. Необходимая скорость выбирается исходя из интенсивности загрязнения воздуха на кухне. Каждой скорости характерна разная производительность: На первой скорости работы вытяжка обеспечивает минимальную производительность и шум и используется при малой интенсивности испарений; Вторая скорость со средней производительностью используется чаще всего и подходит для очистки воздуха при приготовлении еды на двух конфорках одновременно; Третья скорость работы с максимальной производительностью и уровнем шума используется при высокой концентрации испарений, гари и дыма, которые образуются в процессе интенсивного приготовления еды. Уровень шума устройства не превышает 67 дБ, что считается комфортным значением.</p>]]></description>
-<description_ua><![CDATA[<p>Повновбудована кухонна витяжка Minola HBI 6873 WH GLASS 1200 LED Line обладнана одним мотором високої потужності 230 Вт. Максимальна продуктивність пристрою в режимі відведення повітря становить 1200 м3/годину. Це дозволяє ефективно видаляти випари, небажані запахи та кіптяву, які утворюються в процесі приготування їжі. Оформлення та дизайн Завдяки чудовим ергономічним якостям, якими наділена модель Minola HBI 6873 WH GLASS 1200 LED Line, вона підійде як до маленької, так і до стандартної кухні. Частина конструкції пристрою, яка повинна бути прихована від очей, повністю ховається у шафі, а робоча частина залишається на виду та органічно доповнює загальний дизайн. Фасадна частина витяжки виготовлена із загартованого скла, яке відрізняється високою жаростійкістю, стійкістю до механічних пошкоджень та своїм естетичним виглядом, що припаде до душі будь-якому кулінару. Жировловлюючий алюмінієвий фільтр схований за кришкою, яка не тільки відіграє декоративну роль, а й захищає фільтр від забруднень, тим самим спрощуючи догляд за витяжкою. Алюмінієвий фільтр Кухонна витяжка обладнана тришаровим жироуловлюючим алюмінієвим фільтром. Він забезпечує надійний та ефективний захист двигуна та інших деталей витяжки від потрапляння жиру та бруду. Режими роботи Витяжка може працювати у двох режимах: Режим відведення – повітря виводиться назовні через вентиляційний отвір; Режим рециркуляції – повітря циркулює всередині приміщення та очищується, проходячи через вугільний фільтр. Використання режиму рециркуляції витяжки можливе лише після встановлення вугільного фільтра, який продається окремо. Сенсорне управління Сенсорна панель керування розташована посередині на передній частині пристрою. Вона проста в управлінні та інтуїтивно зрозуміла. Для увімкнення/вимкнення двигуна, освітлення та перемикання швидкостей досить легкого дотику. Сучасне освітлення Кухонна витяжка обладнана LED-лампою потужністю 5 Вт. Саме світлодіодні лампи є найкращим вибором для додаткового освітлення кухонної поверхні, оскільки вони дозволяють суттєво знизити витрати на електроенергію, а також мають високу світловіддачу. Швидкості роботи Витяжка має 3 швидкості роботи. Необхідна швидкість обирається виходячи з інтенсивності забруднення повітря на кухні. Кожній швидкості характерна різна продуктивність: На першій швидкості роботи витяжка забезпечує мінімальну продуктивність та шум і використовується при малій інтенсивності випарів; Друга швидкість із середньою продуктивністю використовується найчастіше і підходить для очищення повітря при готуванні їжі на двох конфорках одночасно; Третя швидкість роботи з максимальною продуктивністю та рівнем шуму використовується при високій концентрації випарів, гару та диму, які утворюються в процесі інтенсивного приготування їжі. Рівень шуму пристрою не перевищує 67 дБ, що вважається комфортним значенням.</p>]]></description_ua>
-<param name="Тип">Витяжка</param>
-<param name="Колір">Білий</param>
-<param name="Споживана потужність">230 Вт</param>
-<param name="Тип управління">Сенсорне</param>
-<param name="Кількість швидкостей">3</param>
-<param name="Ширина">59.8 см</param>
-<param name="Продуктивність">1200 куб. м/г</param>
-<param name="Тип конструкції">Повновбудована</param>
-<param name="Кількість моторів">1</param>
-<param name="Матеріал корпусу">Скло</param>
-<param name="Вага">9,5 кг</param>
-<param name="Розмір">28.8 х 59.8 х 29 см</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
 <offer id="HT32056" available="true">
 <stock_quantity>3</stock_quantity>
 <price>934.00</price>
@@ -88852,7 +88767,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT32069" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>3832.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4631249</categoryId>
@@ -89272,7 +89187,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT32132" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>530.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81232</categoryId>
@@ -89469,7 +89384,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT32144" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>781.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -89797,42 +89712,6 @@
 <param name="Глибина">51 см</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
-<offer id="HT32198" available="true">
-<stock_quantity>1</stock_quantity>
-<price>14875.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80123</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013635_13670644.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013635_180099248.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000013635_13670707.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000013635_13670723.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000013635_13670759.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/7_000013635_13670769.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/8_000013635_13670778.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/9_000013635_13670789.jpg</picture>
-<vendor>Indesit</vendor>
-<article>DSIE 2B10</article>
-<name>Посудомоечная машина Indesit DSIE 2B10 (DSIE 2B10)</name>
-<name_ua>Посудомийна машина Indesit DSIE 2B10 (DSIE 2B10)</name_ua>
-<description><![CDATA[<p>Встраиваемая посудомоечная машина Indesit DSIE 2B10 - это идеальная бытовая техника для мытья посуды Она продумана функционально, а также с позиций дизайна. Эргономика в конструкции занимает далеко не последнее место, поэтому встраивание машины происходит максимально просто и легко. Нейтральная цветовая окраска и отсутствие деталей сделали дизайн лаконичным, что позволит легко внедрить технику в интерьер минималистичной кухни. Половинная загрузка Больше не нужно ждать, пока грязной посуды наберется на полную загрузку Расположите посуду в обеих корзинах, и машина будет тратить соответственно меньше воды, чем при полной загрузке. Устройство регулирует расход воды и продолжительность цикла в соответствии с количеством загруженной посуды. Внутренняя камера - 100% нержавеющая сталь Оптимальное качество и гигиена Камера посудомоечной машины изготовлена из нержавеющей стали, — это делает процесс мытья посуды максимально безопасным. Таким образом создаются идеальные условия для тщательного мытья всех кухонных предметов.</p>]]></description>
-<description_ua><![CDATA[<p>Вбудована посудомийна машина Indesit DSIE 2B10 - це ідеальна побутова техніка для миття посуду Вона продумана функціонально, а також з позицій дизайну. Ергономіка в конструкції займає далеко не останнє місце, тому вбудовування машини відбувається максимально просто і легко. Нейтральне колірне забарвлення і відсутність деталей зробили дизайн лаконічним, що дасть змогу легко впровадити техніку в інтер'єр мінімалістичної кухні. Половинне завантаження Більше не треба чекати, поки брудного посуду назбирається на повне завантаження Розташуйте посуд в обох кошиках, і машина витрачатиме відповідно менше води, ніж при повному завантаженні. Пристрій регулює витрату води й тривалість циклу відповідно до кількості завантаженого посуду. Внутрішня камера - 100% нержавіюча сталь Оптимальна якість і гігієна Камера посудомийної машини виготовлена з нержавіючої сталі, — це робить процес миття посуду максимально безпечним. Таким чином створюються ідеальні умови для ретельного миття всіх кухонних предметів.</p>]]></description_ua>
-<param name="Тип">Посудомийна машина</param>
-<param name="Колір">Білий</param>
-<param name="Споживана потужність">1900 Вт</param>
-<param name="Тип управління">Електронне</param>
-<param name="Ширина">44,8 см</param>
-<param name="Клас енергоспоживання">А+</param>
-<param name="Кількість програм мийки">5</param>
-<param name="Місткість комплектів посуду">10</param>
-<param name="Тип посудомийки">Вбудована</param>
-<param name="Режим половинного завантаження">Так</param>
-<param name="Споживання води">11,5 л</param>
-<param name="Тип сушіння">Конденсаційний</param>
-<param name="Вага">27,2 кг</param>
-<param name="Висота">82 см</param>
-<param name="Глибина">55,5 см</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
 <offer id="HT32235" available="true">
 <stock_quantity>2</stock_quantity>
 <price>38375.00</price>
@@ -90091,7 +89970,6 @@
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000138115.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000138118.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000138119.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/00001381199.jpg</picture>
 <vendor>Gelius</vendor>
 <article>GP-PK008 Black</article>
 <name>Смарт-часы детские Gelius GP-PK008 Black (GP-PK008 Black)</name>
@@ -90101,6 +89979,40 @@
 <param name="Тип">Смарт-годинник дитячий</param>
 <param name="Колір">Різнокольоровий</param>
 <param name="Тип управління">Сенсорний дисплей</param>
+<param name="Wi-Fi">Так</param>
+<param name="Об&apos;єм оперативної пам&apos;яті">16 МБ</param>
+<param name="Роздільна здатність дисплея">240x320</param>
+<param name="Ємність акумулятора">700 мАг</param>
+<param name="Вбудована пам&apos;ять">24 МБ</param>
+<param name="Тип сімкарти">Nano-SIM</param>
+<param name="Модель процесора">ARM Cortex-R5</param>
+<param name="GPS">Так</param>
+<param name="Тип матриці">IPS</param>
+<param name="Діагональ екрана">1,85&apos;&apos;</param>
+<param name="Час роботи на одному заряді">до 24 год</param>
+<param name="Особливості">SOS. Відстеження геолокації. Підтримка відеовикликів. Прослушка¶</param>
+<param name="Підтримка відеовикликів">Так</param>
+</offer>
+<offer id="HT32374" available="true">
+<stock_quantity>1</stock_quantity>
+<price>2890.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>651392</categoryId>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000138101.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000138102.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000138103.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000138105.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000138108.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000138109.jpg</picture>
+<vendor>Gelius</vendor>
+<article>GP-PK008 White</article>
+<name>Смарт-часы детские Gelius GP-PK008 White (GP-PK008 White)</name>
+<name_ua>Смарт-годинник дитячий Gelius GP-PK008 White (GP-PK008 White)</name_ua>
+<description><![CDATA[<p>Созданы для детей - одобрены родителями Детские часы Gelius Rainbow созданы для детей - одобрены любящими родителями. Наслаждайтесь быстрым процессором, четким и ярким экраном и многими другими особенностями часов. Позвольте детям свободно наслаждаться и исследовать реальный мир - обо всем остальном позаботится Gelius! Все под контролем в бесплатном приложении Setracker. Комбинация цветов Дети могут персонализировать свои часы Rainbow Kids с помощью сменных цветных резинок на корпус устройства, что позволит менять внешний вид гаджета. Функция видеозвонка и фронтальной камеры Ребенок всегда сможет связаться с вами и друзьями через видеосвязь или сделать фото и поделиться всеми своими приключениями! Местоположение по последним стандартам и технологиям Родители всегда могут отслеживать местоположение своего ребенка в реальном времени, независимо от того, где он находится - дома или на улице, благодаря быстрой и надежной системе глобального позиционирования GPS, AGPS, LBS, WIFI. Много возможностей в одних часах. Gelius Rainbow Kids - это настоящее сочетание практичности и стиля. Детские часы не только впечатляют функциональностью, но и имеют возможность персонализации главного экрана благодаря сменным вотч фейсам. P67 защита от влаги Стандарт защиты от влаги IP67 означает, что смарт-часы полностью защищены от пыли и воды. Поэтому дети могут безопасно играть под дождем или у бассейна, и вам не нужно волноваться за их безопасность. С Gelius Rainbow Kids - все под контролем. Особенности: Точность GPS: 5-30 мТочность Wi-Fi: 30-50 мТочность LBS: 100 м и вышеФункция видеозвонкаМестоположение: GPS, AGPS, LBS, Wi-FiСеть 2G / Сеть 3G / Сеть 4GСменные цветные резинки на корпус устройстваЗвонок на номер телефона 3 номера SOS + 15 в телефонной книгеПоддержка SOS в приложенииПоддержка G-сенсора (три оси)Приложение: Setracker.</p>]]></description>
+<description_ua><![CDATA[<p>Створений для дітей - погоджений батьками Дитячий годинник Gelius Rainbow створений для дітей - погоджений люблячими батьками. Насолоджуйтесь швидким процесором, чітким і яскравим екраном та багатьма іншими особливостями годинника. Дозвольте дітям вільно насолоджуватись та досліджувати реальний світ - про все інше подбає Gelius! Все під контролем у безкоштовному додатку Setracker. Комбінація кольорів Діти можуть персоналізувати свій годинник Rainbow Kids за допомогою змінних кольорових резинок на корпус пристрою, що дозволить змінювати зовнішній вигляд гаджету. Функція відеодзвінка та фронтальної камери Дитина завжди зможе зв'язатися з вами та друзями через відеозв'язок, або зробити фото та поділитися усіма своїми пригодами! Місцезнаходження за останніми стандартами та технологіями Батьки завжди можуть відстежувати розташування своєї дитини у реальному часі, незалежно від того, де вона знаходиться - вдома чи на вулиці, завдяки швидкій та надійній системі глобального позиціонування GPS, AGPS, LBS, WIFI. Багато можливостей в одному годиннику. Gelius Rainbow Kids - це справжнє поєднання практичності та стилю. Дитячі годинники не лише вражають функціональністю, але й мають можливість персоналізації головного екрану завдяки змінним вотч фейсам. P67 захист від вологи Стандарт захисту від вологи IP67 означає, що смарт-годинник повністю захищений від пилу і води. Тому діти можуть безпечно грати під дощем або біля басейну, і вам не треба хвилюватись за їхню безпеку. З Gelius Rainbow Kids - все під контролем. Особливості: Точність GPS: 5-30 мТочність Wi-Fi: 30-50 мТочність LBS: 100 м і вищеФункція відеодзвінкаРозташування: GPS, AGPS, LBS, Wi-FiМережа 2G / Мережа 3G / Мережа 4GЗмінні кольорові резинки на корпус пристроюДзвінок на номер телефону 3 номери SOS + 15 у телефонній книзіПідтримка SOS у додаткуПідтримка G-сенсора (три осі)Додаток: Setracker.</p>]]></description_ua>
+<param name="Тип">Смарт-годинник дитячий</param>
+<param name="Колір">Білий</param>
+<param name="Bluetooth">Так</param>
 <param name="Wi-Fi">Так</param>
 <param name="Об&apos;єм оперативної пам&apos;яті">16 МБ</param>
 <param name="Роздільна здатність дисплея">240x320</param>
@@ -90254,7 +90166,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT32437" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>947.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -91186,32 +91098,6 @@
 <param name="Розмір">19 х 9.5 см</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
-<offer id="HT32746" available="true">
-<stock_quantity>1</stock_quantity>
-<price>960.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>4627129</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014184_490188993.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000014184_490189013.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000014184_490189042.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000014184_490189071.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000014184_490189087.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000014184_490189112.jpg</picture>
-<vendor>Maxmark</vendor>
-<article>MK-SV5109</article>
-<name>Кофеварка гейзерная Maxmark MK-SV5109 д/индукции (MK-SV5109)</name>
-<name_ua>Кавоварка гейзерна Maxmark MK-SV5109 д/індукції (MK-SV5109)</name_ua>
-<description><![CDATA[<p>Гейзерная кофеварка MAXMARK MK-SV5109 — это идеальный выбор для тех, кто ценит вкус и аромат свежесваренного кофе. Изготовленная из высококачественной нержавеющей стали, эта модель имеет стильный современный вид и прослужит вам долго. Кофеварка подходит для всех видов плит, в том числе индукционных, что делает ее универсальным выбором для любой кухни. Объем кофеварки составляет 450 мл, что позволяет приготовить до 9 чашек кофе одновременно, что является идеальным вариантом для семейных завтраков или встреч с друзьями. Ее конструкция обеспечивает равномерный прогрев и эффективную экстракцию кофейных масел, что способствует насыщенному и богатому вкусу напитка. Ручка кофеварки изготовлена из бакелита, что обеспечивает удобство использования и предотвращает перегрев во время приготовления. Кроме того, материал ручки имеет хорошие теплоизоляционные свойства, что добавляет комфорта при пользовании. MAXMARK MK-SV5109 сочетает в себе надежность, практичность и стиль, что делает ее отличным выбором для любителей настоящего кофе.</p>]]></description>
-<description_ua><![CDATA[<p>Гейзерна кавоварка MAXMARK MK-SV5109 — це ідеальний вибір для тих, хто цінує смак та аромат свіжозвареної кави. Виготовлена з високоякісної нержавіючої сталі, ця модель має стильний сучасний вигляд і прослужить вам довго. Кавоварка підходить для всіх видів плит, у тому числі індукційних, що робить її універсальним вибором для будь-якої кухні. Об'єм кавоварки становить 450 мл, що дозволяє приготувати до 9 чашок кави одночасно, що є ідеальним варіантом для сімейних сніданків або зустрічей з друзями. Її конструкція забезпечує рівномірний прогрів і ефективну екстракцію кавових олій, що сприяє насиченому та багатому смаку напою. Ручка кавоварки виготовлена з бакеліту, що забезпечує зручність використання і запобігає перегріву під час приготування. Крім того, матеріал ручки має хороші теплоізоляційні властивості, що додає комфорту при користуванні. MAXMARK MK-SV5109 поєднує в собі надійність, практичність та стиль, що робить її відмінним вибором для любителів справжньої кави.</p>]]></description_ua>
-<param name="Тип">Кавоварка гейзерна</param>
-<param name="Колір">Нержавіюча сталь</param>
-<param name="Об`єм">0.45 л</param>
-<param name="Призначення">Побутове</param>
-<param name="Матеріал корпусу">Нержавіюча сталь</param>
-<param name="Вага">0,71 кг</param>
-<param name="Розмір">20 х 12 см</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
 <offer id="HT32747" available="true">
 <stock_quantity>4</stock_quantity>
 <price>1933.00</price>
@@ -91638,7 +91524,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT32803" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>742.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -91725,6 +91611,35 @@
 <param name="Вага">2.75 кг</param>
 <param name="Розмір">25.5 х 35.5 х 42.5 см</param>
 <param name="Гарантія">12 місяців</param>
+</offer>
+<offer id="HT32861" available="true">
+<stock_quantity>1</stock_quantity>
+<price>56238.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>4674585</categoryId>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014298_464621886.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000014298_464621884.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000014298_464621889.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000014298_464621893.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/5_000014298_464621897.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000014298_464621902.jpg</picture>
+<vendor>OUKITEL</vendor>
+<article>P2001E Plus</article>
+<name>Зарядная станция OUKITEL P2001E Plus 2400Вт 2048Вт/ч (P2001E Plus)</name>
+<name_ua>Зарядна станція OUKITEL P2001E Plus 2400Вт 2048Вт/год (P2001E Plus)</name_ua>
+<description><![CDATA[<p>Полностью модернизированная мощность и эффективность в новой модели зарядной станции от Oukitel P2001E Plus. Внимание Подключать выход переменного тока портативной зарядной станции к розетке бытовой электросети запрещено. Такая эксплуатация устройства опасна для вашей жизни, может нанести вред вашему здоровью, нарушает пожарную безопасность, а также может привести к поломке зарядной станции. Гарантийная политика не распространяется на устройство, ставшее непригодным из-за ненадлежащего использования. Легко контролируйте скорость зарядки Сверхбыстрая зарядка 1800 Вт может гарантировать, что вы сможете зарядить устройство до 80% за 1 час. В то же время ручка регулировки зарядки позволяет вам регулировать скорость зарядки на ваше усмотрение. Выходная мощность 2400 Вт для нескольких устройств С высокой выходной мощностью 2400 Вт станция может обеспечить первоклассную производительность и бесперебойную поддержку питания, независимо от того, находитесь вы дома или на улице. В то же время емкость аккумулятора 2048 Вт·ч обеспечивает долговременное питание. Плавный ИБП 2000 Вт.</p>]]></description>
+<description_ua><![CDATA[<p>Повністю модернізована потужність та ефективність у новій моделі зарядної станції від Oukitel P2001E Plus. Увага Підключати вихід змінного струму портативної зарядної станції до розетки побутової електромережі заборонено. Така експлуатація пристрою є небезпечною для вашого життя, може завдати шкоди вашому здоров'ю, порушує пожежну безпеку, а також може призвести до поломки зарядної станції. Гарантійна політика не поширюється на пристрій, що став непридатним через неналежне використання. Легко контролюйте швидкість заряджання Надшвидке заряджання 1800 Вт може гарантувати, що ви зможете зарядити пристрій до 80% за 1 годину. Водночас ручка регулювання заряджання дозволяє вам регулювати швидкість заряджання на ваш розсуд. Вихідна потужність 2400 Вт для декількох пристроїв З високою вихідною потужністю 2400 Вт станція може забезпечити першокласну продуктивність та безперебійну підтримку живлення, незалежно від того, чи знаходитесь ви вдома, чи на вулиці. Водночас, місткість акумулятора 2048 Вт·год забезпечує довгострокове живлення. Плавний ДБЖ 2000 Вт.</p>]]></description_ua>
+<param name="Тип">Зарядна станція</param>
+<param name="Колір">Сірий</param>
+<param name="Живлення">Від розетки AC 230В, Від автомобільної розетки (прикурювача), Від сонячної панелі</param>
+<param name="Час зарядки">1 год</param>
+<param name="Матеріал корпусу">Пластик</param>
+<param name="Роз&apos;єми">2 x DC-роз&apos;єм, USB Type A, USB Type C, Гніздо прикурювача, Розетка 220 В</param>
+<param name="Батарея">Літій-залізо-фосфатні (LiFePO4)</param>
+<param name="Ємність акумулятора">2048 Вт/год</param>
+<param name="Вага">22 кг</param>
+<param name="Розмір">39.9 x 28.6 x 32 см</param>
+<param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT32894" available="true">
 <stock_quantity>2</stock_quantity>
@@ -92093,7 +92008,7 @@
 <param name="Гарантія">6 місяців</param>
 </offer>
 <offer id="HT33169" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>695.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4626772</categoryId>
@@ -93090,32 +93005,6 @@
 <param name="Розмір">16 х 8 х 19 см</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
-<offer id="HT33307" available="true">
-<stock_quantity>1</stock_quantity>
-<price>2257.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>437994</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000014744_SS-12355.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000014744_SS-12355.jpg</picture>
-<vendor>SOGO</vendor>
-<article>SS-12355</article>
-<name>Ирригатор SOGO SS-12355 (SS-12355)</name>
-<name_ua>Іригатор SOGO SS-12355 (SS-12355)</name_ua>
-<description><![CDATA[<p>Ирригатор SOGO SS-12355 – это портативное устройство для эффективного и удобного ухода за полостью рта. Благодаря аккумуляторному питанию он обеспечивает до 7 дней непрерывной работы, что делает его идеальным для использования в путешествиях или в ежедневном уходе дома. Время зарядки ирригатора составляет всего 4 часа, что позволяет быстро восстановить его работоспособность. Этот ирригатор имеет три режима чистки: ежедневный, мягкий и импульсный, что позволяет подобрать оптимальный режим для каждого типа чистки. Насадка вращается на 360°, что обеспечивает легкий доступ к труднодоступным местам рта. Съемный резервуар для воды имеет объем 300 мл, что является достаточным для комфортного использования без частых дозаправок. Ирригатор оснащен двумя насадками Jet, которые обеспечивают эффективную очистку зубов и десен. Благодаря трем ступеням давления воды (от 25 до 115 PSI) вы можете настроить силу потока в зависимости от ваших предпочтений или потребностей. Мощность устройства составляет 5 Вт, а скорость потока воды достигает 200 мл/мин, что позволяет осуществлять быструю и глубокую очистку. Уровень шума при работе ирригатора составляет 75 дБ, что является достаточно комфортным для использования в домашних условиях. Устройство имеет водозащитный корпус с уровнем защиты IPX7, что позволяет использовать его без опасности повреждения водой. SOGO SS-12355 – это удобный, мощный и практичный ирригатор, который станет надежным помощником в поддержании гигиены полости рта.</p>]]></description>
-<description_ua><![CDATA[<p>Іригатор SOGO SS-12355 – це портативний пристрій для ефективного та зручного догляду за порожниною рота. Завдяки акумуляторному живленню, він забезпечує до 7 днів безперервної роботи, що робить його ідеальним для використання в подорожах чи в щоденному догляді вдома. Час зарядки іригатора становить всього 4 години, що дозволяє швидко відновити його працездатність. Цей іригатор має три режими чищення: щоденний, м'який та імпульсний, що дозволяє підібрати оптимальний режим для кожного типу чищення. Насадка обертається на 360°, що забезпечує легкий доступ до важкодоступних місць рота. Знімний резервуар для води має об’єм 300 мл, що є достатнім для комфортного використання без частих дозаправок. Іригатор оснащений двома насадками Jet, які забезпечують ефективне очищення зубів та ясен. Завдяки трьом ступеням тиску води (від 25 до 115 PSI), ви можете налаштувати силу потоку в залежності від ваших уподобань або потреб. Потужність пристрою становить 5 Вт, а швидкість потоку води досягає 200 мл/хв, що дозволяє здійснювати швидке та глибоке очищення. Рівень шуму при роботі іригатора складає 75 дБ, що є досить комфортним для використання в домашніх умовах. Пристрій має водозахисний корпус з рівнем захисту IPX7, що дозволяє використовувати його без небезпеки пошкодження водою. SOGO SS-12355 – це зручний, потужний і практичний іригатор, який стане надійним помічником у підтримці гігієни порожнини рота.</p>]]></description_ua>
-<param name="Тип">Іригатор</param>
-<param name="Колір">Білий з блакитним</param>
-<param name="Об`єм">300 мл</param>
-<param name="Призначення">Побутове</param>
-<param name="Кількість швидкостей">3</param>
-<param name="Час зарядки">4 год</param>
-<param name="Джерело живлення">Акумулятор</param>
-<param name="Кількість насадок">2</param>
-<param name="Час роботи на одному заряді">до 7 днів</param>
-<param name="Вага">0,25 кг</param>
-<param name="Розмір">21,8 х 7,2 х 8,5 см</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
 <offer id="HT33381" available="true">
 <stock_quantity>1</stock_quantity>
 <price>1708.00</price>
@@ -93538,7 +93427,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT33544" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>3111.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81089</categoryId>
@@ -94080,7 +93969,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT33722" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>5691.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4631249</categoryId>
@@ -94257,7 +94146,7 @@
 <param name="Гарантія">5 років</param>
 </offer>
 <offer id="HT33736" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>450.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -94750,7 +94639,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT33854" available="true">
-<stock_quantity>12</stock_quantity>
+<stock_quantity>11</stock_quantity>
 <price>5438.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80131</categoryId>
@@ -95044,7 +94933,7 @@
 <param name="Тип фреону">R32</param>
 </offer>
 <offer id="HT33954" available="true">
-<stock_quantity>10</stock_quantity>
+<stock_quantity>11</stock_quantity>
 <price>27657.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80141</categoryId>
@@ -95536,30 +95425,6 @@
 <param name="Розмір">26 х 26 х 2 см</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
-<offer id="HT34086" available="true">
-<stock_quantity>4</stock_quantity>
-<price>523.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>81232</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155392.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155393.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155394.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155395.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155396.jpg</picture>
-<vendor>Rotex</vendor>
-<article>RSB18-G Vector</article>
-<name>Весы напольные Rotex RSB18-G Vector (RSB18-G Vector)</name>
-<name_ua>Ваги напольні Rotex RSB18-G Vector (RSB18-G Vector)</name_ua>
-<description><![CDATA[<p>Весы напольные электронные, до 180 кг, точность 100 г, LCD дисплей, автоотключение, автообнуление, индикатор перегрузки, индикатор заряда батареи, батарея 1 x CR2032 ( в комплекте), размер платформы 300*300мм: закаленное стекло. Гарантия - 1 год.</p>]]></description>
-<description_ua><![CDATA[<p>Ваги підлогові електронні, до 180 кг, точність 100 г, LCD дисплей, автовідключення, автообнулення, індикатор перевантаження, індикатор заряду батареї, батарея 1 x CR2032 ( в комплекті), розмір платформи 300*300мм: загартоване скло. Гарантія - 1 рік.</p>]]></description_ua>
-<param name="Тип">Ваги напольні</param>
-<param name="Тип ваг">Підлогові</param>
-<param name="Матеріал корпусу">Скло</param>
-<param name="Елементи живлення в комплекті">Так</param>
-<param name="Тип і кількість елементів живлення">1 x CR2032</param>
-<param name="Розмір">30 x 30 x 2 см</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
 <offer id="HT34103" available="true">
 <stock_quantity>6</stock_quantity>
 <price>2568.00</price>
@@ -95584,6 +95449,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155606.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155607.jpg</picture>
 <vendor>Indesit</vendor>
 <article>I55T1 612S UA</article>
 <name>Холодильник Indesit I55T1 612S UA (I55T1 612S UA)</name>
@@ -95704,39 +95570,11 @@
 <param name="Підсвітка">Так</param>
 <param name="Гарантія">24 місяці</param>
 </offer>
-<offer id="HT34138" available="true">
-<stock_quantity>1</stock_quantity>
-<price>4262.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>81089</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155941.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155943.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155944.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155945.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155946.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155947.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000155948.jpg</picture>
-<vendor>Zelmer</vendor>
-<article>ZAF 6000</article>
-<name>Мультипечь-фритюрница Zelmer ZAF 6000 (ZAF 6000)</name>
-<name_ua>Мультипіч-фритюрниця Zelmer ZAF 6000 (ZAF 6000)</name_ua>
-<description><![CDATA[<p>- Мощность 1500 Вт - Вместимость 6 л - Отделка корпуса и корзины из нержавеющей стали - Цифровое сенсорное управление - 6 автоматических программ (картофель фри, мясо, курица, торт, рыба, овощи) - Корпус и ручка с термостойким покрытием - Контроль температуры до 200°C - Напоминание о перемешивании.</p>]]></description>
-<description_ua><![CDATA[<p>- Потужність 1500 Вт - Місткість 6 л - Обудова корпуса і кошика з нержавіючої сталі - Цифрове сенсорне керування - 6 автоматичних програм (картопля фрі, м'ясо, курка, торт, риба, овочі) - Корпус і ручка з термостійким покриттям - Контроль температури до 200°C - Нагадування про перемішування.</p>]]></description_ua>
-<param name="Тип">Мультипіч-фритюрниця</param>
-<param name="Колір">Нержавіюча сталь</param>
-<param name="Об`єм">6 л</param>
-<param name="Покриття чаші">Антипригарне</param>
-<param name="Керування">Сенсорне</param>
-<param name="Кількість програм приготування">6</param>
-<param name="Потужність">1500 Вт</param>
-<param name="Гарантія">24 місяці</param>
-</offer>
 <offer id="HT34146" available="true">
 <stock_quantity>8</stock_quantity>
 <price>23500.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80123</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156081.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156082.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156083.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156084.jpg</picture>
@@ -96059,7 +95897,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT34241" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>4249.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81089</categoryId>
@@ -96151,6 +95989,7 @@
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157283.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157284.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157285.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157286.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157287.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157288.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157289.jpg</picture>
@@ -96259,7 +96098,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT34281" available="true">
-<stock_quantity>8</stock_quantity>
+<stock_quantity>7</stock_quantity>
 <price>17488.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -96289,7 +96128,7 @@
 <param name="Гарантія">36 місяців</param>
 </offer>
 <offer id="HT34292" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>1542.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80143</categoryId>
@@ -98120,31 +97959,28 @@
 <param name="Об`єм">4.5 л</param>
 <param name="Призначення">Для пральних машин</param>
 </offer>
-<offer id="HT34841" available="true">
+<offer id="HT34839" available="true">
 <stock_quantity>3</stock_quantity>
-<price>6869.00</price>
+<price>4586.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80142</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000163641.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000163623.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000163622.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000163624.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000163625.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000163627.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000163628.jpg</picture>
 <vendor>Rotex</vendor>
-<article>ROT855-B2G</article>
-<name>Духовка Rotex ROT855-B2G EUROSTANDART (ROT855-B2G)</name>
-<name_ua>Духовка Rotex ROT855-B2G EUROSTANDART (ROT855-B2G)</name_ua>
-<description><![CDATA[<ul><li>Rotex ROT855-B2G EUROSTANDART — настольная электрическая духовка / печи для кухни.</li><li>Основные характеристикиОбъём: 80 литров — достаточно пространства, чтобы готовить большие порции или несколько блюд одновременно.</li></ul><p>Мощность: 2400 Вт — достаточно для эффективного нагрева и поддержания стабильной температуры. Тип управления: Механическое — простое в использовании, без сложных электронных панелей. Режимы нагрева / функции:Верхний + нижний нагрев Конвекция для равномерного прогрева блюд Гриль — для запекания с хрустящей корочкой. Вертел — для жарки, в частности мяса или птицы. Термостат / максимальная температура: до 250 °C — достаточно для выпечки, запекания, гриля. Таймер: до 120 минут — удобен, если вы готовите блюда с длительным временем приготовления. Дополнительные удобства:Внутренняя подсветка — удобно контролировать процесс приготовления. Звуковой сигнал — сообщает о завершении таймера. Два стекла в дверце + двойная теплоизоляция — уменьшают потери тепла и повышают безопасность.</p>]]></description>
-<description_ua><![CDATA[<ul><li>Rotex ROT855-B2G EUROSTANDART — настільна електрична духовка / печі для кухні.</li><li>Основні характеристикиОб’єм: 80 літрів — достатньо простору, щоб готувати великі порції або декілька страв одночасно.</li></ul><p>Потужність: 2400 Вт — достатньо для ефективного нагрівання та підтримки стабільної температури. Тип управління: Механічне — просте у використанні, без складних електронних панелей. Нагрівальні режими / функції:Верхнє + нижнє нагрівання Конвекція для рівномірного прогрівання страв Гриль — для запікання з хрусткою скоринкою. Вертел — для смаження, зокрема м’яса чи птиці. Термостат / максимальна температура: до 250 °C — достатньо для випічки, запікання, грилю. Таймер: до 120 хвилин — зручний, якщо ви готуєте страви з тривалістю приготування. Додаткові зручності:Внутрішнє підсвічування — зручно контролювати процес приготування. Звуковий сигнал — повідомляє про завершення таймера. Двоє скла в дверцятах + подвійна теплоізоляція — зменшують втрати тепла і підвищують безпеку.</p>]]></description_ua>
+<article>ROT455-B2G</article>
+<name>Духовка Rotex ROT455-B2G EUROSTANDART (ROT455-B2G)</name>
+<name_ua>Духовка Rotex ROT455-B2G EUROSTANDART (ROT455-B2G)</name_ua>
+<description><![CDATA[<p>Устройство оснащено просторной камерой, что позволяет легко готовить как повседневные, так и праздничные блюда. Множественные режимы нагрева обеспечивают равномерное пропекание, запекание и подрумянивание. Удобные поворотные переключатели, а также встроенный таймер помогают полностью контролировать процесс приготовления.45 литровая печка мощностью 2200Вт. Механическое управление с 4 режимами работы. Встроенная функция конвекции. Таймер на 120 мин. Добавлена книга с 50 рецептами. Цвет: черный.</p>]]></description>
+<description_ua><![CDATA[<p>Пристрій оснащений просторою камерою, що дозволяє легко готувати як повсякденні, так і святкові страви. Множинні режими нагріву забезпечують рівномірне пропікання, запікання та підрум’янення. Зручні поворотні перемикачі, а також вбудований таймер допомагають повністю контролювати процес приготування.45 літрова пічка потужністю 2200Вт. Механічне управління з 4 режимами роботи. Вбудована функція конвекції. Таймер на 120 хв. Додано книгу з 50 рецептами. Колір: чорний.</p>]]></description_ua>
 <param name="Тип">Духовка</param>
 <param name="Колір">Чорний</param>
-<param name="Ширина">433 мм</param>
+<param name="Об`єм">45 л</param>
 <param name="Керування">Механічне</param>
-<param name="Об&apos;єм духовки">80 л</param>
-<param name="Тип духової шафи">Електрична</param>
-<param name="Тип гриля">Електричний</param>
-<param name="Матеріал корпусу">Метал</param>
-<param name="Гриль">Так</param>
-<param name="Кількість програм приготування">6</param>
-<param name="Потужність">2400 Вт</param>
-<param name="Вага">16 кг</param>
-<param name="Висота">44 см</param>
+<param name="Потужність">2200 Вт</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT34848" available="true">
@@ -98284,28 +98120,8 @@
 <param name="Потужність">500 Вт</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
-<offer id="HT34889" available="true">
-<stock_quantity>2</stock_quantity>
-<price>437.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80160</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000164231.jpg</picture>
-<vendor>Rotex</vendor>
-<article>RKT12-S</article>
-<name>Чайник Rotex RKT12-S (RKT12-S)</name>
-<name_ua>Чайник Rotex RKT12-S (RKT12-S)</name_ua>
-<description><![CDATA[<p>Мощность 1800Вт, Вместимость 2 л.</p><ul><li>закрытый нагревательный элемент из нержавеющей стали, защита от перегрева, автоотключение при отсутствии воды, автоотключение при закипании, индикатор включения, поворотная база 360°, корпус из нержавеющей стали, гарантия - 1 год.</li><li>Характеристики:Тип: ЭлектрочайникМощность, Вт :1800Цвет: серебристый.</li><li>Подсветка: НетБезопасность: Автоматическое отключение при закипании; Защита от перегрева при включении без водыМатериал корпуса: Нержавеющая стальОбъем, л :2Гарантия, г:1</li></ul>]]></description>
-<description_ua><![CDATA[<p>Потужність 1800Вт, Місткість 2 л.</p><ul><li>закритий нагрівальний елемент з нержавіючої сталі, захист від перегріву, автовідключення за відсутності води, автовідключення при закипанні, індикатор включення, поворотна база 360°, корпус з нержавіючої сталі, гарантія - 1 рік.</li><li>Характеристики:Тип: ЕлектрочайникПотужність, Вт :1800Колір: сріблястий.</li><li>Підсвічування: НіБезпека: Автоматичне відключення при закипанні; Захист від перегріву при включенні без водиМатеріал корпусу: Нержавіюча стальОб'єм, л :2Гарантія, г:1</li></ul>]]></description_ua>
-<param name="Тип">Чайник</param>
-<param name="Колір">Сріблястий</param>
-<param name="Керування">Механічне</param>
-<param name="Матеріал корпусу">Метал</param>
-<param name="Об&apos;єм чайника">2 л</param>
-<param name="Потужність">1800 Вт</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
 <offer id="HT34890" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>484.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -99276,7 +99092,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35058" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>22888.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -100095,7 +99911,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35198" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>37688.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -100120,33 +99936,6 @@
 <param name="Двигун">Інверторний</param>
 <param name="Вага">61 кг</param>
 <param name="Глибина">47,5 см</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
-<offer id="HT35199" available="true">
-<stock_quantity>4</stock_quantity>
-<price>34875.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80222</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169544.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169545.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169547.jpg</picture>
-<vendor>Whirlpool</vendor>
-<article>WP B8X WBS UA</article>
-<name>Сушильная машина Whirlpool WP B8X WBS UA (WP B8X WBS UA)</name>
-<name_ua>Сушильна машина Whirlpool WP B8X WBS UA (WP B8X WBS UA)</name_ua>
-<description><![CDATA[<p>Сушильная машина Whirlpool WP B8X WBS UA — это современная барабанная сушильная машина с тепловым насосом, рассчитанная на загрузку до 8 кг белья.</p><ul><li>Благодаря вместительному барабану объемом 127 л она обеспечивает эффективную и равномерную сушку как повседневной одежды, так и крупных вещей — одеял или пуховиков.</li><li>Модель имеет высокий класс энергоэффективности C (A+++), что позволяет существенно снизить потребление электроэнергии.</li></ul><p>Инверторный двигатель гарантирует тихую работу, надежность и долгий срок службы.</p><ul><li>Слив конденсата осуществляется непосредственно в канализацию, что упрощает ежедневное использование.</li><li>Сенсорное управление с информативным дисплеем обеспечивает удобный выбор настроек.</li></ul><ul><li>Среди полезных функций — отложенный старт, экспресс-сушка, обработка паром и блокировка от детей.</li><li>Машина оснащена 15 программами сушки, включая режимы для хлопка и эко-хлопка, синтетики, шерсти, смешанных тканей, джинсов, рубашек («готово к носке»), одеял и пуховой одежды.</li></ul><ul><li>Также доступны тихая (ночная) программа, программы по времени, гигиеническая сушка и освежение, паровое освежение и сверхкороткий экспресс-цикл.</li><li>Габариты устройства составляют 84,6 × 59,8 см, вес — 47,5 кг, габариты упаковки — 88,5 × 65 × 69 см, вес в упаковке — 48,5 кг.</li></ul><ul><li>Корпус выполнен в белом цвете, страна производства — Турция.</li><li>Благодаря фирменной технологии 6th Sense сушильная машина автоматически определяет уровень влажности белья и подбирает оптимальные параметры, обеспечивая бережный уход за тканями, комфорт в использовании и максимальную эффективность сушки.</li></ul>]]></description>
-<description_ua><![CDATA[<p>Сушильна машина Whirlpool WP B8X WBS UA — це сучасна барабанна сушильна машина з тепловим насосом, розрахована на завантаження до 8 кг білизни.</p><ul><li>Завдяки місткому барабану об’ємом 127 л вона забезпечує ефективне та рівномірне сушіння як повсякденного одягу, так і великих речей — ковдр чи пуховиків.</li><li>Модель має високий клас енергоефективності C (A+++), що дозволяє суттєво знизити споживання електроенергії.</li></ul><p>Інверторний двигун гарантує тиху роботу, надійність і довгий строк служби.</p><ul><li>Злив конденсату здійснюється безпосередньо в каналізацію, що спрощує щоденне використання.</li><li>Сенсорне керування з інформативним дисплеєм забезпечує зручний вибір налаштувань.</li></ul><ul><li>Серед корисних функцій — відкладений старт, експрес-сушіння, обробка парою та блокування від дітей.</li><li>Машина оснащена 15 програмами сушіння, включно з режимами для бавовни та еко-бавовни, синтетики, вовни, змішаних тканин, джинсів, сорочок («готове до носіння»), ковдр і пухового одягу.</li></ul><ul><li>Також доступні тиха (нічна) програма, програми за часом, гігієнічне сушіння та освіження, парове освіження і суперкороткий експрес-цикл.</li><li>Габарити пристрою становлять 84,6 × 59,8 см, вага — 47,5 кг, габарити упаковки — 88,5 × 65 × 69 см, вага в упаковці — 48,5 кг.</li></ul><ul><li>Корпус виконаний у білому кольорі, країна виробництва — Туреччина.</li><li>Завдяки фірмовій технології 6th Sense, сушильна машина автоматично визначає рівень вологості білизни та підбирає оптимальні параметри, забезпечуючи дбайливий догляд за тканинами, комфорт у користуванні та максимальну ефективність сушіння.</li></ul>]]></description_ua>
-<param name="Тип">Сушильна машина</param>
-<param name="Колір">Білий</param>
-<param name="Ширина">60 см</param>
-<param name="Керування">Електронне</param>
-<param name="Клас енергоспоживання">А+++</param>
-<param name="Тип сушіння">Тепловий насос</param>
-<param name="Тип двигуна">Інверторний</param>
-<param name="Програми сушки">15</param>
-<param name="Вага">48.5 кг</param>
-<param name="Висота">84.6 см</param>
-<param name="Глибина">67,5 см</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35200" available="true">
@@ -100520,7 +100309,7 @@
 <param name="Тип">Фільтр для кавоварки</param>
 </offer>
 <offer id="HT35247" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>1767.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80161</categoryId>
@@ -100780,7 +100569,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35275" available="true">
-<stock_quantity>14</stock_quantity>
+<stock_quantity>12</stock_quantity>
 <price>3905.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81089</categoryId>
@@ -100810,6 +100599,9 @@
 <price>38800.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80222</categoryId>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171791.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171792.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171793.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171794.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171796.jpg</picture>
 <vendor>Whirlpool</vendor>
@@ -100863,7 +100655,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35284" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>450.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -100888,7 +100680,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35285" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>450.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -100974,7 +100766,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35295" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>4097.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80142</categoryId>
@@ -101078,7 +100870,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35307" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>1483.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81235</categoryId>
@@ -102385,7 +102177,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35407" available="true">
-<stock_quantity>15</stock_quantity>
+<stock_quantity>14</stock_quantity>
 <price>881.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80161</categoryId>
@@ -103356,7 +103148,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35493" available="true">
-<stock_quantity>8</stock_quantity>
+<stock_quantity>7</stock_quantity>
 <price>1476.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80155</categoryId>
@@ -103552,7 +103344,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35524" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>4368.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81089</categoryId>
@@ -103604,37 +103396,6 @@
 <param name="Автономне збереження холоду">10 год</param>
 <param name="Загальний об&apos;єм">240 л</param>
 <param name="Висота">172 см</param>
-<param name="Гарантія">24 місяці</param>
-</offer>
-<offer id="HT35540" available="true">
-<stock_quantity>1</stock_quantity>
-<price>21625.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80122</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000176021.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000176022.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000176025.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000176027.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000176028.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000176029.jpg</picture>
-<vendor>Gorenje</vendor>
-<article>GG 6A10 WFFM</article>
-<name>Плита газовая Gorenje GG 6A10 WFFM (GG 6A10 WFFM)</name>
-<name_ua>Плита газова Gorenje GG 6A10 WFFM (GG 6A10 WFFM)</name_ua>
-<description><![CDATA[<p>Бренд - Gorenje; Управление - Поворотные переключатели; Функции поверхности - Автоподжиг, Газ-контроль; дверцы - 2;Мощность маленькой конфорки - До 1 кВт;Тип духовки - Газовая;Мощность большой конфорки, кВт - 3 кВт;Открывание дверцы - Откидная;Мощность большой конфорки - Более 2 кВт; варочной поверхности - Газовая; Тип плиты - Газовая; Оформление - Классическое; Глубина - 56 - 61 см; Количество конфорок - 4; Ширина, см - 60; конфорок - Эмалированные;Материал рабочей поверхности - Эмаль;Направляющие противня - Решетчатые;Ширина - 55 - 64 см;Газ-контроль - Плита/духовка.</p>]]></description>
-<description_ua><![CDATA[<p>Бренд - Gorenje; Управління - Поворотні перемикачі; Функції поверхні - Автозапалювання, Газ-контроль; дверцят - 2;Потужність маленької конфорки - До 1 кВт;Тип духовки - Газова;Потужність великої конфорки, кВт - 3 кВт;Відкриття дверцят - Відкидна;Потужність великої конфорки - Більше 2 кВт; варильної поверхні - Газова; Тип плити - Газова; Оформлення - Класичне; Глібіна - 56 - 61 см; Кількість конфорок - 4; Ширина, см - 60; конфорок - Емальовані;Матеріал робочої поверхні - Емаль;Направляючі деко - Решітчасті;Ширина - 55 - 64 см;Газ-контроль - Плита/духовка.</p>]]></description_ua>
-<param name="Тип">Плита газова</param>
-<param name="Колір">Білий</param>
-<param name="Ширина">60 см</param>
-<param name="Керування">Механічне</param>
-<param name="Об&apos;єм духовки">72 л</param>
-<param name="Тип духової шафи">Газова</param>
-<param name="Тип варильної панелі">Газова</param>
-<param name="Електропідпал">Так</param>
-<param name="Кількість конфорок">4</param>
-<param name="Матеріал решіток">Чавун</param>
-<param name="Висота">85 см</param>
-<param name="Глибина">60 см</param>
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35546" available="true">
@@ -104279,7 +104040,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35646" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>17300.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80123</categoryId>
@@ -104550,7 +104311,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35678" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>11700.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -104664,34 +104425,6 @@
 <param name="Кількість моторів">1</param>
 <param name="Матеріал корпусу">Нержавіюча сталь</param>
 <param name="Вага">5,5 кг</param>
-<param name="Висота">8 см</param>
-<param name="Гарантія">25 місяців</param>
-</offer>
-<offer id="HT35687" available="true">
-<stock_quantity>1</stock_quantity>
-<price>2625.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80140</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178553.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178554.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178557.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178558.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178559.jpg</picture>
-<vendor>Minola</vendor>
-<article>HPL 522 WH</article>
-<name>Вытяжка Minola HPL 522 WH (HPL 522 WH)</name>
-<name_ua>Витяжка Minola HPL 522 WH (HPL 522 WH)</name_ua>
-<description><![CDATA[<p>Вытяжка плоская Minola HPL 522 WH - визуальное совершенство, легкость дыхания Minola HPL 522 WH - это компактная и эффективная кухонная вытяжка с элегантным стеклянным козырьком. Производительность 450 м3/год позволяет обеспечить качественную очистку воздуха на кухнях до 15 м2. Благодаря ширине 495 мм модель легко интегрируется в любой интерьер и не занимает много места. LED-подсветка, надежное механическое управление и удобная система фильтрации обеспечивают комфортное использование каждый день.</p>]]></description>
-<description_ua><![CDATA[<p>Витяжка плоска Minola HPL 522 WH - візуальна довершеність, легкість дихання Minola HPL 522 WH - це компактна та ефективна кухонная витяжка з елегантним скляним козирком. Продуктивність 450 м3/рік дозволяє забезпечити якісне очищення повітря на кухнях до 15 м2. Завдяки ширині 495 мм модель легко інтегрується у будь-який інтер'єр і не займає багато місця. LED-підсвітка, надійне механічне керування та зручна система фільтрації забезпечують комфортне використання щодня.</p>]]></description_ua>
-<param name="Тип">Витяжка</param>
-<param name="Колір">Білий</param>
-<param name="Кількість швидкостей">3</param>
-<param name="Ширина">49.5 см</param>
-<param name="Керування">Механічне</param>
-<param name="Продуктивність">450 куб.м/г</param>
-<param name="Тип конструкції">Плоска</param>
-<param name="Кількість моторів">1</param>
-<param name="Матеріал корпусу">Метал</param>
 <param name="Висота">8 см</param>
 <param name="Гарантія">25 місяців</param>
 </offer>
@@ -104906,7 +104639,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35715" available="true">
-<stock_quantity>8</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>232.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4660433</categoryId>
@@ -104955,6 +104688,7 @@
 <price>6063.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80037</categoryId>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178740.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178741.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178742.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178744.jpg</picture>
@@ -105218,7 +104952,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35739" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>6400.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80163</categoryId>
@@ -105586,38 +105320,6 @@
 <param name="Потужність">350 Вт</param>
 <param name="Гарантія">24 місяці</param>
 </offer>
-<offer id="HT35765" available="true">
-<stock_quantity>1</stock_quantity>
-<price>68750.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80037</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178791.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178792.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178793.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178794.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178795.jpg</picture>
-<vendor>LG</vendor>
-<article>75QNED80A6A</article>
-<name>Телевизор LG 75QNED80A6A SmartTV (75QNED80A6A)</name>
-<name_ua>Телевізор LG 75QNED80A6A SmartTV (75QNED80A6A)</name_ua>
-<description><![CDATA[<ul><li>MiniLED с технологией точечного затемненияMiniLED на базе нового процессора alpha с технологией искусственного интеллекта обеспечивает чрезвычайно четкий контраст и реалистичную детализацию на LG QNED evo.</li><li>Более умный и быстрый новый процессор alpha с технологией искусственного интеллекта — результат десятилетия инновацийИскусственный интеллект нашего процессора распознает жанр контента и на основе этого автоматически подбирает оптимальные настройки изображения для лучшей глубины и детализации.</li><li>AI Picture Pro оживляет каждый кадрAI Super Upscaling и Dynamic Tone Mapping Pro анализируют элементы каждого кадра, чтобы повысить разрешение, яркость, глубину и четкость.</li><li>Следующее поколение телевизоров LG с технологией искусственного интеллектаПульт AI Magic Remote дополняет опыт использования искусственным интеллектомЛегко управляйте телевизором с помощью пульта AI Magic Remote — никаких дополнительных устройств не нужно!</li></ul><ul><li>Благодаря датчику движения и колесику прокрутки вы можете наводить и кликать, как воздушной мышью, или просто использовать голосовые команды.</li><li>AI Voice IDТехнология LG Идентификации голоса ИИ распознает уникальный голос каждого пользователя и мгновенно предлагает персонализированные рекомендации.</li><li>Умный поиск с ИИСпросите свой телевизор о чем угодно.</li></ul><p>Встроенный искусственный интеллект распознает ваш голос и быстро дает персонализированные рекомендации на ваши запросы.</p><ul><li>Вы также можете получить дополнительные результаты и решения с помощью Microsoft Copilot.</li><li>Чат-бот с ИИОбщайтесь с чат-ботом на базе искусственного интеллекта с помощью пульта AI Magic Remote — решайте любые вопросы: от настроек до устранения неполадок.</li></ul><ul><li>Искусственный интеллект распознает намерения пользователя и мгновенно предлагает решения.</li><li>Консьерж с ИИОдно короткое нажатие кнопки ИИ на пульте открывает Консьержа с искусственным интеллектом, который предлагает персонализированные подсказки и рекомендации на основе вашей истории поиска и просмотров.</li><li>AI Picture WizardРасширенные алгоритмы анализируют 1,6 миллиарда возможных вариантов изображения, чтобы изучить ваши предпочтения.</li></ul><ul><li>В соответствии с вашим выбором телевизор формирует персонализированное изображение именно для вас.</li><li>AI Sound WizardВыберите аудио, которое вам нравится, из подборки звуковых клипов.</li></ul><ul><li>На основе 40 миллионов параметров искусственный интеллект создает индивидуальный звуковой профиль, настроенный в соответствии с вашими предпочтениями.</li><li>Обновления в течение 5 лет с отмеченной наградами программой webOS Re:NewПолучайте полные обновления и пользуйтесь преимуществами новейших функций и программного обеспечения.</li></ul><p>Лауреат награды CES Innovation Awards в категории кибербезопасности.</p><ul><li>Чувствуйте себя в безопасности, зная, что webOS защищает вашу конфиденциальность и данные.</li><li>Ультрабольшой телевизор с диагональю до 100 дюймовСмотрите любимые фильмы, спорт и игры на ультрабольшом телевизоре LG.</li></ul><ul><li>Погрузитесь в высокое разрешение на экране гигантского масштаба.</li><li>Ультратонкий дизайнТонкий дизайн добавляет изысканный оттенок вашему пространству.</li><li>AI Sound Pro точно настраивает звук для максимальной выразительностиЧистый звук с искусственным интеллектомТочная коррекция тона улучшает четкость звука для исключительного звучания.</li><li>Динамический усилитель звука на базе процессора с ИИОбработка искусственным интеллектом улучшает звук телевизора, создавая более мощный аудиоэффектПолное погружение в объемное звучание благодаря виртуальным 9.1.2-каналамПочувствуйте эффект объемного звука с телевизором LG.</li></ul><ul><li>ИИ использует алгоритмы глубинного обучения, чтобы создать ощущение, будто звук идет из 9.1.2-каналов вокруг васНасыщенный звук вместе с телевизором и саундбаром LGWOW Orchestra — захватывающее звучание благодаря идеальной синергииТелевизоры LG QNED и саундбары LG идеально дополняют друг друга, создавая гармоничное звучание в многоканальной звуковой среде.</li><li>WOW Interface позволяет удобнее управлять звуком прямо с телевизораУдобно управляйте настройками саундбара непосредственно с телевизора.</li><li>Расширенный игровой процессНаслаждайтесь безупречным игровым процессом благодаря VRR 144 Гц и AMD FreeSync Premium.</li></ul><ul><li>Играйте в игры без задержек или размытия движения, которые ухудшают производительность.</li><li>Лучший телевизор QNED для просмотра фильмовНаслаждайтесь просмотром фильмов в домашнем кинотеатре с захватывающим звуком и FILMMAKER MODE, который подстраивается под окружающее освещение для обеспечения качества изображения, отвечающего высочайшим стандартам кинематографа.</li></ul>]]></description>
-<description_ua><![CDATA[<ul><li>MiniLED з технологією точкового затемненняMiniLED на базі нового процесора alpha з технологією штучного інтелекту забезпечує надзвичайно чіткий контраст і реалістичну деталізацію на LG QNED evo.</li><li>Розумніший і швидший новий процесор alpha з технологією штучного інтелекту — результат десятиріччя інноваційШтучний інтелект нашого процесора розпізнає жанр контенту та на основі цього автоматично підбирає оптимальні налаштування зображення для кращої глибини й деталізації.</li><li>AI Picture Pro оживляє кожен кадрAI Super Upscaling і Dynamic Tone Mapping Pro аналізують елементи кожного кадру, щоб підвищити роздільну здатність, яскравість, глибину й чіткість.</li><li>Наступне покоління телевізорів LG з технологією штучного інтелектуПульт AI Magic Remote доповнює досвід користування штучним інтелектомЛегко керуйте телевізором за допомогою пульта AI Magic Remote — жодних додаткових пристроїв не потрібно!</li></ul><ul><li>Завдяки датчику руху та коліщатку прокрутки ви можете наводити й клацати, як повітряною мишею, або просто використовувати голосові команди.</li><li>AI Voice IDТехнологія LG Ідентифікації голосу ШІ розпізнає унікальний голос кожного користувача та миттєво пропонує персоналізовані рекомендації.</li><li>Розумний пошук з ШІЗапитайте свого телевізора будь-що.</li></ul><p>Вбудований штучний інтелект розпізнає ваш голос і швидко надає персоналізовані рекомендації на ваші запити.</p><ul><li>Ви також можете отримати додаткові результати та рішення за допомогою Microsoft Copilot.</li><li>Чат-бот з ШІСпілкуйтеся з чат-ботом на базі штучного інтелекту за допомогою пульта AI Magic Remote — вирішуйте будь-які питання: від налаштувань до усунення неполадок.</li></ul><ul><li>Штучний інтелект розпізнає наміри користувача та миттєво надає рішення.</li><li>Консьєрж з ШІОдне коротке натискання кнопки ШІ на пульті відкриває Консьєржа з штучним інтелектом, який пропонує персоналізовані підказки та рекомендації на основі вашої історії пошуків і переглядів.</li><li>AI Picture WizardРозширені алгоритми аналізують 1,6 мільярда можливих варіантів зображення, щоб вивчити ваші вподобання.</li></ul><ul><li>Відповідно до ваших виборів телевізор формує персоналізоване зображення саме для вас.</li><li>AI Sound WizardОберіть аудіо, яке вам подобається, з добірки звукових кліпів.</li></ul><ul><li>На основі 40 мільйонів параметрів штучний інтелект створює індивідуальний звуковий профіль, налаштований відповідно до ваших уподобань.</li><li>Оновлення протягом 5 років з відзначеною нагородами програмою webOS Re:NewОтримайте повні оновлення та користуйтеся перевагами найновіших функцій і програмного забезпечення.</li></ul><p>Лауреат нагороди CES Innovation Awards у категорії кібербезпеки.</p><ul><li>Почувайтеся в безпеці, знаючи, що webOS захищає вашу конфіденційність і дані.</li><li>Ультравеликий телевізор із діагоналлю до 100 дюймівДивіться улюблені фільми, спорт і ігри на ультравеликому телевізорі LG.</li></ul><ul><li>Пориньте у високу роздільну здатність на екрані гігантського масштабу.</li><li>Надтонкий дизайнТонкий дизайн додає вишуканого відтінку у ваш простір.</li><li>AI Sound Pro точно налаштовує звук для максимальної виразностіЧистий звук з штучним інтелектомТочна корекція тону покращує чіткість звуку для виняткового звуку.</li><li>Динамічний підсилювач звуку на базі процесора з ШІОбробка штучним інтелектом покращує звук телевізора, створюючи потужніший аудіоефектПовне занурення у об’ємне звучання завдяки віртуальним 9.1.2-каналамВідчуйте ефект об’ємного звуку з телевізором LG.</li></ul><ul><li>ШІ використовує алгоритми глибинного навчання, щоб створити відчуття, ніби звук надходить із 9.1.2-каналів навколо васНасичений звук разом із телевізором і саундбаром LGWOW Orchestra — захопливе звучання завдяки ідеальній синергіїТелевізори LG QNED і саундбари LG ідеально доповнюють одне одного, створюючи гармонійне звучання в багатоканальному звуковому середовищі.</li><li>WOW Interface дозволяє зручніше керувати звуком прямо з телевізораЗручно керуйте налаштуваннями саундбара безпосередньо з телевізора.</li><li>Розширений ігровий процесНасолоджуйтеся бездоганним ігровим процесом завдяки VRR 144 Гц й AMD FreeSync Premium.</li></ul><ul><li>Грайте в ігри без затримок або розмиття руху, які погіршують продуктивність.</li><li>Найкращий телевізор QNED для перегляду фільмівНасолоджуйтеся переглядом фільмів у домашньому кінотеатрі із захопливим звуком і FILMMAKER MODE, який підлаштовується під навколишнє освітлення для забезпечення якості зображення, що відповідає найвищим стандартам кінематографа.</li></ul>]]></description_ua>
-<param name="Тип">Телевізор</param>
-<param name="Колір">Чорний</param>
-<param name="Bluetooth">Так</param>
-<param name="Wi-Fi">Так</param>
-<param name="Операційна система">WebOS</param>
-<param name="Роздільна здатність відео">4K (3840 x 2160)</param>
-<param name="DVB-C">Так</param>
-<param name="DVB-S2">Так</param>
-<param name="DVB-T2">Так</param>
-<param name="SmartTV">Так</param>
-<param name="Частота розгортки екрана">60 Гц</param>
-<param name="Діагональ екрана">75&quot;</param>
-<param name="Висота">111.5 см</param>
-<param name="Глибина">20 см</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
 <offer id="HT35767" available="true">
 <stock_quantity>6</stock_quantity>
 <price>570.00</price>
@@ -105849,7 +105551,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35790" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>4657.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -106544,7 +106246,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35862" available="true">
-<stock_quantity>14</stock_quantity>
+<stock_quantity>11</stock_quantity>
 <price>3832.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80162</categoryId>
@@ -107314,7 +107016,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35962" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>2078.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80163</categoryId>
@@ -107340,7 +107042,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35964" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>9969.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
@@ -107896,7 +107598,7 @@
 <param name="Об`єм">200 г</param>
 </offer>
 <offer id="HT36020" available="true">
-<stock_quantity>37</stock_quantity>
+<stock_quantity>36</stock_quantity>
 <price>11413.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -108157,7 +107859,7 @@
 <param name="Гарантія">25 місяців</param>
 </offer>
 <offer id="HT36040" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>2811.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80140</categoryId>
@@ -109202,7 +108904,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT36112" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>1959.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80180</categoryId>
@@ -110259,7 +109961,7 @@
 <param name="Гарантія">60 міс</param>
 </offer>
 <offer id="HT36196" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>6419.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80131</categoryId>
@@ -110435,7 +110137,7 @@
 <param name="Гарантія">25 місяців</param>
 </offer>
 <offer id="HT36210" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>12575.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80125</categoryId>
@@ -110983,7 +110685,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT36238" available="true">
-<stock_quantity>9</stock_quantity>
+<stock_quantity>7</stock_quantity>
 <price>4322.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80162</categoryId>
@@ -111580,7 +111282,7 @@
 <param name="Гарантія">6 місяців</param>
 </offer>
 <offer id="HT6412" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>392.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>85432</categoryId>
@@ -112030,7 +111732,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT9988" available="true">
-<stock_quantity>6</stock_quantity>
+<stock_quantity>5</stock_quantity>
 <price>450.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
