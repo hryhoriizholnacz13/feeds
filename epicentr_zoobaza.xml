@@ -100754,9 +100754,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT29540" available="true">
+<offer id="HT29540" available="false">
 <price>14218.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="81">Кухонні плити</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000010973_P264114_0001-700x700.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000010973_P264114_0002-700x700.jpg</picture>
@@ -106302,9 +106302,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT32374" available="true">
+<offer id="HT32374" available="false">
 <price>2634.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="388">Смарт-годинники</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000138101.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000138102.jpg</picture>
@@ -111504,9 +111504,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT34279" available="true">
+<offer id="HT34279" available="false">
 <price>14844.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="77">Пральні машини</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157501.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157502.jpg</picture>
@@ -112465,9 +112465,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT34786" available="true">
+<offer id="HT34786" available="false">
 <price>5109.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="8750">Мультипечі</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000162981.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000162982.jpg</picture>
@@ -113317,9 +113317,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35029" available="true">
+<offer id="HT35029" available="false">
 <price>757.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="117">Кухонні комбайни</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167062.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167063.jpg</picture>
@@ -120266,9 +120266,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT36332" available="true">
+<offer id="HT36332" available="false">
 <price>14005.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="161">Телевізори</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169881.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169882.jpg</picture>
@@ -120294,9 +120294,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT36333" available="true">
+<offer id="HT36333" available="false">
 <price>11688.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="161">Телевізори</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191581.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191586.jpg</picture>
@@ -121329,9 +121329,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT6890" available="true">
+<offer id="HT6890" available="false">
 <price>1891.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="101">Мультиварки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_e578171d-6968-11e8-a892-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000001000_4409662.jpg</picture>
