@@ -1727,6 +1727,8 @@
 <category code="492">Будинки та лежаки для тварин</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3525-1.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/26/1208x800l80mc0/52998374363512.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/26/1208x800l80mc0/56502515988193.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/26/1208x800l80mc0/94105695053911.jpeg</picture>
 <name lang="ua">Лежак ЗооБаза прямокутний Магнус 53х70х33 см фуксія і сірий (8459)</name>
 <name lang="ru">Лежак ЗооБаза прямоугольный Магнус 53х70х33 см фуксия и серый (8459)</name>
 <description lang="ua"><![CDATA[<p>Прямокутний лежак Магнус — це лежак із високими бортами, де задня стінка вища за бічні й має фігурний верхній край: тварина може сховатися й обпертися.</p><ul><li>Зовні та всередині використано два кольори, шви підкреслені контрастною строчкою.</li><li>Тканина — меблева рогожка, наповнювач — синтепон.</li><li>Чохол знімний, на блискавці, його можна прати; наповнювач витягується.</li><li>Обираючи розмір, виміряйте тварину, коли вона спить, і додайте запас, щоб лапи не звисали з дна.</li></ul>]]></description>
@@ -3645,6 +3647,8 @@
 <category code="492">Будинки та лежаки для тварин</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3606-1.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/7/1208x800l80mc0/67947494138612.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/7/1208x800l80mc0/31021499969801.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/7/1208x800l80mc0/83643646170920.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/7/1208x800l80mc0/36021026343433.jpeg</picture>
 <name lang="ua">Матрац ЗооБаза Фокс 56х79 см коричневий (8380)</name>
 <name lang="ru">Матрас ЗооБаза Фокс 56х79 см коричневый (8380)</name>
@@ -11042,6 +11046,7 @@
 <param paramcode="9993" name="Колір" valuecode="k8o4cmkygbfzn296">синій</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33,9f936dee0f5373d5dfa0d21bbeff7409">зима,літо</param>
 <param paramcode="78" name="Колір виробника" valuecode="roiaf3xb">синій</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[110]]></param>
 <param paramcode="height" name="Висота"><![CDATA[230]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[140]]></param>
@@ -11067,6 +11072,7 @@
 <param paramcode="9993" name="Колір" valuecode="k8o4cmkygbfzn296">синій</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33,9f936dee0f5373d5dfa0d21bbeff7409">зима,літо</param>
 <param paramcode="78" name="Колір виробника" valuecode="roiaf3xb">синій</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[100]]></param>
 <param paramcode="height" name="Висота"><![CDATA[200]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[130]]></param>
@@ -11092,6 +11098,7 @@
 <param paramcode="9993" name="Колір" valuecode="k8o4cmkygbfzn296">синій</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33,9f936dee0f5373d5dfa0d21bbeff7409">зима,літо</param>
 <param paramcode="78" name="Колір виробника" valuecode="roiaf3xb">синій</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[90]]></param>
 <param paramcode="height" name="Висота"><![CDATA[170]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[110]]></param>
@@ -11117,6 +11124,7 @@
 <param paramcode="9993" name="Колір" valuecode="k8o4cmkygbfzn296">синій</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33,9f936dee0f5373d5dfa0d21bbeff7409">зима,літо</param>
 <param paramcode="78" name="Колір виробника" valuecode="roiaf3xb">синій</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[80]]></param>
 <param paramcode="height" name="Висота"><![CDATA[150]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[100]]></param>
@@ -11142,6 +11150,7 @@
 <param paramcode="9993" name="Колір" valuecode="k8o4cmkygbfzn296">синій</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33,9f936dee0f5373d5dfa0d21bbeff7409">зима,літо</param>
 <param paramcode="78" name="Колір виробника" valuecode="roiaf3xb">синій</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[70]]></param>
 <param paramcode="height" name="Висота"><![CDATA[130]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[80]]></param>
@@ -11166,6 +11175,7 @@
 <param paramcode="9993" name="Колір" valuecode="k8o4cmkygbfzn296">синій</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33,9f936dee0f5373d5dfa0d21bbeff7409">зима,літо</param>
 <param paramcode="78" name="Колір виробника" valuecode="roiaf3xb">синій</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[60]]></param>
 <param paramcode="height" name="Висота"><![CDATA[110]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[70]]></param>
@@ -11191,6 +11201,7 @@
 <param paramcode="9993" name="Колір" valuecode="k8o4cmkygbfzn296">синій</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33,9f936dee0f5373d5dfa0d21bbeff7409">зима,літо</param>
 <param paramcode="78" name="Колір виробника" valuecode="roiaf3xb">синій</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[50]]></param>
 <param paramcode="height" name="Висота"><![CDATA[90]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[60]]></param>
@@ -11216,6 +11227,7 @@
 <param paramcode="9993" name="Колір" valuecode="1fokcymb4ngj5yyd">червоний</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33,9f936dee0f5373d5dfa0d21bbeff7409">зима,літо</param>
 <param paramcode="78" name="Колір виробника" valuecode="5uooq3p5">червоний</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[110]]></param>
 <param paramcode="height" name="Висота"><![CDATA[230]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[140]]></param>
@@ -11240,6 +11252,7 @@
 <param paramcode="9993" name="Колір" valuecode="1fokcymb4ngj5yyd">червоний</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33,9f936dee0f5373d5dfa0d21bbeff7409">зима,літо</param>
 <param paramcode="78" name="Колір виробника" valuecode="5uooq3p5">червоний</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[100]]></param>
 <param paramcode="height" name="Висота"><![CDATA[200]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[130]]></param>
@@ -11264,6 +11277,7 @@
 <param paramcode="9993" name="Колір" valuecode="1fokcymb4ngj5yyd">червоний</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33,9f936dee0f5373d5dfa0d21bbeff7409">зима,літо</param>
 <param paramcode="78" name="Колір виробника" valuecode="5uooq3p5">червоний</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[90]]></param>
 <param paramcode="height" name="Висота"><![CDATA[170]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[110]]></param>
@@ -11289,6 +11303,7 @@
 <param paramcode="9993" name="Колір" valuecode="1fokcymb4ngj5yyd">червоний</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33,9f936dee0f5373d5dfa0d21bbeff7409">зима,літо</param>
 <param paramcode="78" name="Колір виробника" valuecode="5uooq3p5">червоний</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[80]]></param>
 <param paramcode="height" name="Висота"><![CDATA[150]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[100]]></param>
@@ -11314,6 +11329,7 @@
 <param paramcode="9993" name="Колір" valuecode="1fokcymb4ngj5yyd">червоний</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33,9f936dee0f5373d5dfa0d21bbeff7409">зима,літо</param>
 <param paramcode="78" name="Колір виробника" valuecode="5uooq3p5">червоний</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[70]]></param>
 <param paramcode="height" name="Висота"><![CDATA[130]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[80]]></param>
@@ -11338,6 +11354,7 @@
 <param paramcode="9993" name="Колір" valuecode="1fokcymb4ngj5yyd">червоний</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33,9f936dee0f5373d5dfa0d21bbeff7409">зима,літо</param>
 <param paramcode="78" name="Колір виробника" valuecode="5uooq3p5">червоний</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[60]]></param>
 <param paramcode="height" name="Висота"><![CDATA[110]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[70]]></param>
@@ -11363,6 +11380,7 @@
 <param paramcode="9993" name="Колір" valuecode="1fokcymb4ngj5yyd">червоний</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33,9f936dee0f5373d5dfa0d21bbeff7409">зима,літо</param>
 <param paramcode="78" name="Колір виробника" valuecode="5uooq3p5">червоний</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[50]]></param>
 <param paramcode="height" name="Висота"><![CDATA[90]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[60]]></param>
@@ -13653,6 +13671,7 @@
 <param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="12479" name="Вага" valuecode="8ffcfc45b46fc60d3c34ad0bba41f0bb">1,5 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -13679,6 +13698,7 @@
 <param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="12479" name="Вага" valuecode="0147ec82e4875d42f6145d9dd656ce55">10 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[600]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[350]]></param>
@@ -13758,6 +13778,7 @@
 <param paramcode="12479" name="Вага" valuecode="8ffcfc45b46fc60d3c34ad0bba41f0bb">1,5 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
 <param paramcode="11361" name="Призначення корму" valuecode="3320885db62c73e42164a85eb865d233">для кішок, які живуть у приміщенні</param>
+<param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -13835,6 +13856,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="cze">Чехія</param>
 <param paramcode="11357" name="Розмір" valuecode="e713ead23059b45633de9f045beb5ca7">для крупних порід</param>
 <param paramcode="12479" name="Вага" valuecode="0147ec82e4875d42f6145d9dd656ce55">10 кг</param>
+<param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[600]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[350]]></param>
@@ -13862,6 +13884,7 @@
 <param paramcode="11324" name="Вік" valuecode="e218bae7e984b730953eb0bea3fe76eb">зрілі</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
 <param paramcode="11361" name="Призначення корму" valuecode="090b710ed7076da0b7790f843df0958b">для літніх кішок</param>
+<param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -13915,6 +13938,7 @@
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="12479" name="Вага" valuecode="8ffcfc45b46fc60d3c34ad0bba41f0bb">1,5 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -14040,6 +14064,7 @@
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="12479" name="Вага" valuecode="56a581a260b66571c3926a0507eeac88">1,8 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -14065,6 +14090,7 @@
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="12479" name="Вага" valuecode="0fc8d13a81563ad159dc8a457da40883">8 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[340]]></param>
@@ -14088,6 +14114,7 @@
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="12479" name="Вага" valuecode="56a581a260b66571c3926a0507eeac88">1,8 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -14142,6 +14169,7 @@
 <param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="12479" name="Вага" valuecode="56a581a260b66571c3926a0507eeac88">1,8 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -14168,6 +14196,7 @@
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="12479" name="Вага" valuecode="0fc8d13a81563ad159dc8a457da40883">8 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[340]]></param>
@@ -14248,6 +14277,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="cze">Чехія</param>
 <param paramcode="12479" name="Вага" valuecode="56a581a260b66571c3926a0507eeac88">1,8 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -14598,6 +14628,7 @@
 <param paramcode="11322" name="Клас" valuecode="7e660bbb7cfc61c1cbf5691e7632f19e">суперпреміум</param>
 <param paramcode="11357" name="Розмір" valuecode="e3d045c40679e25ef2e96d724eca500b,e713ead23059b45633de9f045beb5ca7">для середніх порід,для крупних порід</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
+<param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[600]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[350]]></param>
@@ -14836,6 +14867,7 @@
 <param paramcode="11322" name="Клас" valuecode="7e660bbb7cfc61c1cbf5691e7632f19e">суперпреміум</param>
 <param paramcode="11357" name="Розмір" valuecode="e3d045c40679e25ef2e96d724eca500b,e713ead23059b45633de9f045beb5ca7">для середніх порід,для крупних порід</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
+<param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[208]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -14890,6 +14922,7 @@
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11323" name="Тип" valuecode="b01f89b12617aec40154ba0d67ccbc5f">напіввологий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[208]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -15063,6 +15096,7 @@
 <param paramcode="12481" name="Вага" valuecode="9fe04366e0ee422b20dc255bdc1d1213">2,5 кг</param>
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
+<param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[208]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -15167,6 +15201,7 @@
 <param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="11357" name="Розмір" valuecode="e713ead23059b45633de9f045beb5ca7,611c7be366bb59c543355fe113eb5e0f">для крупних порід,для гігантських порід</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
+<param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[600]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[350]]></param>
@@ -15377,6 +15412,7 @@
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="11357" name="Розмір" valuecode="cd016a229dc1ba3a2f97cc2400d00f8e">для малих порід</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
+<param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[208]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -15610,6 +15646,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="cze">Чехія</param>
 <param paramcode="12479" name="Вага" valuecode="0fc8d13a81563ad159dc8a457da40883">8 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[340]]></param>
@@ -20136,6 +20173,7 @@
 <param paramcode="11357" name="Розмір" valuecode="cd016a229dc1ba3a2f97cc2400d00f8e">для малих порід</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896,7474159555fd1f85a1773df29241afbb">чорний,синій</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33">зима</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[50]]></param>
 <param paramcode="height" name="Висота"><![CDATA[95]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[60]]></param>
@@ -20158,6 +20196,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896,7474159555fd1f85a1773df29241afbb">чорний,синій</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33">зима</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[55]]></param>
 <param paramcode="height" name="Висота"><![CDATA[110]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[70]]></param>
@@ -20181,6 +20220,7 @@
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896,7474159555fd1f85a1773df29241afbb">чорний,синій</param>
 <param paramcode="12599" name="Розмір" valuecode="e0cb3864527b2566b517d9a0cc7a88f7">1</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33">зима</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[65]]></param>
 <param paramcode="height" name="Висота"><![CDATA[130]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[85]]></param>
@@ -20204,6 +20244,7 @@
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896,7474159555fd1f85a1773df29241afbb">чорний,синій</param>
 <param paramcode="12599" name="Розмір" valuecode="3a053e0f3cae06057705df5ee934506f">2</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33">зима</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[75]]></param>
 <param paramcode="height" name="Висота"><![CDATA[150]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[100]]></param>
@@ -20227,6 +20268,7 @@
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896,7474159555fd1f85a1773df29241afbb">чорний,синій</param>
 <param paramcode="12599" name="Розмір" valuecode="4b6aede4cf3f18a2ac61de6e6a1d2027">3</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33">зима</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[85]]></param>
 <param paramcode="height" name="Висота"><![CDATA[165]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[110]]></param>
@@ -20249,6 +20291,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896,7474159555fd1f85a1773df29241afbb">чорний,синій</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33">зима</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[60]]></param>
 <param paramcode="height" name="Висота"><![CDATA[110]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[75]]></param>
@@ -20271,6 +20314,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896,7474159555fd1f85a1773df29241afbb">чорний,синій</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33">зима</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[70]]></param>
 <param paramcode="height" name="Висота"><![CDATA[130]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[90]]></param>
@@ -20293,6 +20337,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896,7474159555fd1f85a1773df29241afbb">чорний,синій</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33">зима</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[80]]></param>
 <param paramcode="height" name="Висота"><![CDATA[150]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[105]]></param>
@@ -20318,6 +20363,7 @@
 <param paramcode="9993" name="Колір" valuecode="dthtgp8p">чорний</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33,9f936dee0f5373d5dfa0d21bbeff7409">зима,літо</param>
 <param paramcode="78" name="Колір виробника" valuecode="ff8cwdpi">чорний</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[50]]></param>
 <param paramcode="height" name="Висота"><![CDATA[95]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[60]]></param>
@@ -20342,6 +20388,7 @@
 <param paramcode="9993" name="Колір" valuecode="dthtgp8p">чорний</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33,9f936dee0f5373d5dfa0d21bbeff7409">зима,літо</param>
 <param paramcode="78" name="Колір виробника" valuecode="ff8cwdpi">чорний</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[55]]></param>
 <param paramcode="height" name="Висота"><![CDATA[110]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[70]]></param>
@@ -20367,6 +20414,7 @@
 <param paramcode="9993" name="Колір" valuecode="dthtgp8p">чорний</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33,9f936dee0f5373d5dfa0d21bbeff7409">зима,літо</param>
 <param paramcode="78" name="Колір виробника" valuecode="ff8cwdpi">чорний</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[65]]></param>
 <param paramcode="height" name="Висота"><![CDATA[130]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[85]]></param>
@@ -20392,6 +20440,7 @@
 <param paramcode="9993" name="Колір" valuecode="dthtgp8p">чорний</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33,9f936dee0f5373d5dfa0d21bbeff7409">зима,літо</param>
 <param paramcode="78" name="Колір виробника" valuecode="ff8cwdpi">чорний</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[75]]></param>
 <param paramcode="height" name="Висота"><![CDATA[150]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[100]]></param>
@@ -20417,6 +20466,7 @@
 <param paramcode="9993" name="Колір" valuecode="dthtgp8p">чорний</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33,9f936dee0f5373d5dfa0d21bbeff7409">зима,літо</param>
 <param paramcode="78" name="Колір виробника" valuecode="ff8cwdpi">чорний</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[85]]></param>
 <param paramcode="height" name="Висота"><![CDATA[165]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[110]]></param>
@@ -20441,6 +20491,7 @@
 <param paramcode="9993" name="Колір" valuecode="dthtgp8p">чорний</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33,9f936dee0f5373d5dfa0d21bbeff7409">зима,літо</param>
 <param paramcode="78" name="Колір виробника" valuecode="ff8cwdpi">чорний</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[60]]></param>
 <param paramcode="height" name="Висота"><![CDATA[110]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[75]]></param>
@@ -20465,6 +20516,7 @@
 <param paramcode="9993" name="Колір" valuecode="dthtgp8p">чорний</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33,9f936dee0f5373d5dfa0d21bbeff7409">зима,літо</param>
 <param paramcode="78" name="Колір виробника" valuecode="ff8cwdpi">чорний</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[70]]></param>
 <param paramcode="height" name="Висота"><![CDATA[130]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[90]]></param>
@@ -20489,6 +20541,7 @@
 <param paramcode="9993" name="Колір" valuecode="dthtgp8p">чорний</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33,9f936dee0f5373d5dfa0d21bbeff7409">зима,літо</param>
 <param paramcode="78" name="Колір виробника" valuecode="ff8cwdpi">чорний</param>
+<param paramcode="51" name="Вид" valuecode="595bb1adaad02">черевики</param>
 <param paramcode="width" name="Ширина"><![CDATA[80]]></param>
 <param paramcode="height" name="Висота"><![CDATA[150]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[105]]></param>
@@ -20854,6 +20907,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="11357" name="Розмір" valuecode="cd016a229dc1ba3a2f97cc2400d00f8e">для малих порід</param>
 <param paramcode="12599" name="Розмір" valuecode="98161f74b9bbde8af4d60229d76c8654">S</param>
+<param paramcode="51" name="Вид" valuecode="59474de50d32d">толстовка</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -20876,6 +20930,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="11357" name="Розмір" valuecode="cd016a229dc1ba3a2f97cc2400d00f8e">для малих порід</param>
 <param paramcode="12599" name="Розмір" valuecode="3e54338903387fd18f1d5056209d7c9d">M</param>
+<param paramcode="51" name="Вид" valuecode="59474de50d32d">толстовка</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -20961,6 +21016,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="11357" name="Розмір" valuecode="cd016a229dc1ba3a2f97cc2400d00f8e">для малих порід</param>
 <param paramcode="12599" name="Розмір" valuecode="f3ae92accec7bd385193fc7756c28265">XS</param>
+<param paramcode="51" name="Вид" valuecode="59474de50d32d">толстовка</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -20983,6 +21039,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="11357" name="Розмір" valuecode="cd016a229dc1ba3a2f97cc2400d00f8e">для малих порід</param>
 <param paramcode="12599" name="Розмір" valuecode="f3ae92accec7bd385193fc7756c28265">XS</param>
+<param paramcode="51" name="Вид" valuecode="59474de50d32d">толстовка</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -21005,6 +21062,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="11357" name="Розмір" valuecode="cd016a229dc1ba3a2f97cc2400d00f8e">для малих порід</param>
 <param paramcode="12599" name="Розмір" valuecode="e0cb3864527b2566b517d9a0cc7a88f7">1</param>
+<param paramcode="51" name="Вид" valuecode="59474de50d32d">толстовка</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -21027,6 +21085,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="11357" name="Розмір" valuecode="e3d045c40679e25ef2e96d724eca500b">для середніх порід</param>
 <param paramcode="12599" name="Розмір" valuecode="3a053e0f3cae06057705df5ee934506f">2</param>
+<param paramcode="51" name="Вид" valuecode="59474de50d32d">толстовка</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -21049,6 +21108,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="11357" name="Розмір" valuecode="cd016a229dc1ba3a2f97cc2400d00f8e">для малих порід</param>
 <param paramcode="12599" name="Розмір" valuecode="f3ae92accec7bd385193fc7756c28265">XS</param>
+<param paramcode="51" name="Вид" valuecode="59474de50d32d">толстовка</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -21071,6 +21131,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="11357" name="Розмір" valuecode="cd016a229dc1ba3a2f97cc2400d00f8e">для малих порід</param>
 <param paramcode="12599" name="Розмір" valuecode="e0cb3864527b2566b517d9a0cc7a88f7">1</param>
+<param paramcode="51" name="Вид" valuecode="59474de50d32d">толстовка</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -21092,6 +21153,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="11357" name="Розмір" valuecode="e3d045c40679e25ef2e96d724eca500b">для середніх порід</param>
 <param paramcode="12599" name="Розмір" valuecode="3a053e0f3cae06057705df5ee934506f">2</param>
+<param paramcode="51" name="Вид" valuecode="59474de50d32d">толстовка</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -21953,6 +22015,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="78" name="Колір виробника" valuecode="ct2lhsxt">фіолетовий</param>
 <param paramcode="12097" name="Базовий колір" valuecode="57d9544692d9901c663d9372664e0288">фіолетовий</param>
+<param paramcode="51" name="Вид" valuecode="59474de50d32d">толстовка</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[170]]></param>
@@ -21975,6 +22038,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="78" name="Колір виробника" valuecode="ct2lhsxt">фіолетовий</param>
 <param paramcode="12097" name="Базовий колір" valuecode="57d9544692d9901c663d9372664e0288">фіолетовий</param>
+<param paramcode="51" name="Вид" valuecode="59474de50d32d">толстовка</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[170]]></param>
@@ -22490,6 +22554,7 @@
 <attribute_set code="7366">Одяг для собак</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="4d6bf879bafb46ea860438132d2abb37">Zoobaza</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
+<param paramcode="51" name="Вид" valuecode="59474de50c415">шапка</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -22509,6 +22574,7 @@
 <attribute_set code="7366">Одяг для собак</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="4d6bf879bafb46ea860438132d2abb37">Zoobaza</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
+<param paramcode="51" name="Вид" valuecode="59474de50c415">шапка</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -22528,6 +22594,7 @@
 <attribute_set code="7366">Одяг для собак</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="4d6bf879bafb46ea860438132d2abb37">Zoobaza</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
+<param paramcode="51" name="Вид" valuecode="59474de50c415">шапка</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -22547,6 +22614,7 @@
 <attribute_set code="7366">Одяг для собак</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="4d6bf879bafb46ea860438132d2abb37">Zoobaza</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
+<param paramcode="51" name="Вид" valuecode="59474de50c415">шапка</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -22568,6 +22636,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="10792" name="Розмір">16х26х30 см</param>
 <param paramcode="11383" name="Призначення" valuecode="8e72422642cdd1a133f7b91b740a334f">для всіх</param>
+<param paramcode="11387" name="Тип" valuecode="910033799bcf5a0ba4c00eaff3fab263">рюкзак</param>
 <param paramcode="width" name="Ширина"><![CDATA[180]]></param>
 <param paramcode="height" name="Висота"><![CDATA[320]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[280]]></param>
@@ -22589,6 +22658,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="10792" name="Розмір">20х30х33 см</param>
 <param paramcode="11383" name="Призначення" valuecode="8e72422642cdd1a133f7b91b740a334f">для всіх</param>
+<param paramcode="11387" name="Тип" valuecode="910033799bcf5a0ba4c00eaff3fab263">рюкзак</param>
 <param paramcode="width" name="Ширина"><![CDATA[220]]></param>
 <param paramcode="height" name="Висота"><![CDATA[350]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[320]]></param>
@@ -22610,6 +22680,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="10792" name="Розмір">25х35х40 см</param>
 <param paramcode="11383" name="Призначення" valuecode="8e72422642cdd1a133f7b91b740a334f">для всіх</param>
+<param paramcode="11387" name="Тип" valuecode="910033799bcf5a0ba4c00eaff3fab263">рюкзак</param>
 <param paramcode="width" name="Ширина"><![CDATA[270]]></param>
 <param paramcode="height" name="Висота"><![CDATA[420]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[370]]></param>
@@ -22861,7 +22932,6 @@
 <availability>in_stock</availability>
 <category code="493">Сумки, клітки та переноски для тварин</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/zoobaza/0c4e387ae5a4f594.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/zoobaza/4e8f33499a5a0b72.jpg</picture>
 <name lang="ua">Сумка-слінг ЗооБаза Гросс 16х35х21 см</name>
 <name lang="ru">Сумка-слинг ЗооБаза Гросс 16х35х21 см</name>
 <description lang="ua"><![CDATA[<ul><li>Сумка-слінг для перенесення невеликих тварин: носиться через плече на широкому регульованому ремені, тому руки лишаються вільними.</li><li>Розмір у всіх варіантів однаковий, тож орієнтуйтеся на довжину тварини й вагу, яку вам зручно носити на одному плечі.</li></ul>]]></description>
@@ -23034,6 +23104,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="2470" name="Довжина">33</param>
 <param paramcode="11383" name="Призначення" valuecode="3c3a9247c867d2f7cfcc582bb0b7868f,e5c731a39b5b9cea0e5b85adab8d3a0d">для котів,для собак</param>
+<param paramcode="11394" name="Тип" valuecode="8e901cd39c4cde8dbeb98063c60c0878">гамак</param>
 <param paramcode="2481" name="Матеріал" valuecode="lbc3e3di">тканина</param>
 <param paramcode="width" name="Ширина"><![CDATA[350]]></param>
 <param paramcode="height" name="Висота"><![CDATA[140]]></param>
@@ -35901,6 +35972,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="2470" name="Довжина">24</param>
 <param paramcode="11383" name="Призначення" valuecode="7dbe15539b5be09f3696b009a6666ebe">для гризунів</param>
+<param paramcode="11394" name="Тип" valuecode="8e901cd39c4cde8dbeb98063c60c0878">гамак</param>
 <param paramcode="width" name="Ширина"><![CDATA[260]]></param>
 <param paramcode="height" name="Висота"><![CDATA[110]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[170]]></param>
@@ -35948,6 +36020,7 @@
 <param paramcode="brand" name="Бренд" valuecode="4d6bf879bafb46ea860438132d2abb37">Zoobaza</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="78" name="Колір виробника" valuecode="ff8cwdpi">чорний</param>
+<param paramcode="6850" name="Вид намордника" valuecode="537660a7def82087c92763cb331bc085">сітка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -35969,6 +36042,7 @@
 <param paramcode="brand" name="Бренд" valuecode="4d6bf879bafb46ea860438132d2abb37">Zoobaza</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="78" name="Колір виробника" valuecode="gsyiryzw">сірий</param>
+<param paramcode="6850" name="Вид намордника" valuecode="537660a7def82087c92763cb331bc085">сітка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -35990,6 +36064,7 @@
 <param paramcode="brand" name="Бренд" valuecode="4d6bf879bafb46ea860438132d2abb37">Zoobaza</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="78" name="Колір виробника" valuecode="ff8cwdpi">чорний</param>
+<param paramcode="6850" name="Вид намордника" valuecode="537660a7def82087c92763cb331bc085">сітка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -36011,6 +36086,7 @@
 <param paramcode="brand" name="Бренд" valuecode="4d6bf879bafb46ea860438132d2abb37">Zoobaza</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="78" name="Колір виробника" valuecode="gsyiryzw">сірий</param>
+<param paramcode="6850" name="Вид намордника" valuecode="537660a7def82087c92763cb331bc085">сітка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -36032,6 +36108,7 @@
 <param paramcode="brand" name="Бренд" valuecode="4d6bf879bafb46ea860438132d2abb37">Zoobaza</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="78" name="Колір виробника" valuecode="ff8cwdpi">чорний</param>
+<param paramcode="6850" name="Вид намордника" valuecode="537660a7def82087c92763cb331bc085">сітка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -36053,6 +36130,7 @@
 <param paramcode="brand" name="Бренд" valuecode="4d6bf879bafb46ea860438132d2abb37">Zoobaza</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="78" name="Колір виробника" valuecode="gsyiryzw">сірий</param>
+<param paramcode="6850" name="Вид намордника" valuecode="537660a7def82087c92763cb331bc085">сітка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -36074,6 +36152,7 @@
 <param paramcode="brand" name="Бренд" valuecode="4d6bf879bafb46ea860438132d2abb37">Zoobaza</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="78" name="Колір виробника" valuecode="ff8cwdpi">чорний</param>
+<param paramcode="6850" name="Вид намордника" valuecode="537660a7def82087c92763cb331bc085">сітка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -36095,6 +36174,7 @@
 <param paramcode="brand" name="Бренд" valuecode="4d6bf879bafb46ea860438132d2abb37">Zoobaza</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="78" name="Колір виробника" valuecode="gsyiryzw">сірий</param>
+<param paramcode="6850" name="Вид намордника" valuecode="537660a7def82087c92763cb331bc085">сітка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -36116,6 +36196,7 @@
 <param paramcode="brand" name="Бренд" valuecode="4d6bf879bafb46ea860438132d2abb37">Zoobaza</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="78" name="Колір виробника" valuecode="ff8cwdpi">чорний</param>
+<param paramcode="6850" name="Вид намордника" valuecode="537660a7def82087c92763cb331bc085">сітка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -36137,6 +36218,7 @@
 <param paramcode="brand" name="Бренд" valuecode="4d6bf879bafb46ea860438132d2abb37">Zoobaza</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="78" name="Колір виробника" valuecode="gsyiryzw">сірий</param>
+<param paramcode="6850" name="Вид намордника" valuecode="537660a7def82087c92763cb331bc085">сітка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -36452,6 +36534,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="2470" name="Довжина">16</param>
 <param paramcode="11383" name="Призначення" valuecode="7dbe15539b5be09f3696b009a6666ebe">для гризунів</param>
+<param paramcode="11394" name="Тип" valuecode="8e901cd39c4cde8dbeb98063c60c0878">гамак</param>
 <param paramcode="width" name="Ширина"><![CDATA[180]]></param>
 <param paramcode="height" name="Висота"><![CDATA[100]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[130]]></param>
@@ -36473,6 +36556,7 @@
 <param paramcode="brand" name="Бренд" valuecode="4d6bf879bafb46ea860438132d2abb37">Zoobaza</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="11383" name="Призначення" valuecode="7dbe15539b5be09f3696b009a6666ebe">для гризунів</param>
+<param paramcode="11394" name="Тип" valuecode="8e901cd39c4cde8dbeb98063c60c0878">гамак</param>
 <param paramcode="width" name="Ширина"><![CDATA[120]]></param>
 <param paramcode="height" name="Висота"><![CDATA[85]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[100]]></param>
@@ -37118,6 +37202,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="2470" name="Довжина">29</param>
 <param paramcode="11383" name="Призначення" valuecode="00a5d9e071fc65e3f7d2e8436d632dce">для кролів</param>
+<param paramcode="11394" name="Тип" valuecode="8e901cd39c4cde8dbeb98063c60c0878">гамак</param>
 <param paramcode="width" name="Ширина"><![CDATA[190]]></param>
 <param paramcode="height" name="Висота"><![CDATA[125]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[310]]></param>
@@ -38072,6 +38157,7 @@
 <param paramcode="2470" name="Довжина">18</param>
 <param paramcode="78" name="Колір виробника" valuecode="5uooq3p5">червоний</param>
 <param paramcode="11383" name="Призначення" valuecode="7dbe15539b5be09f3696b009a6666ebe">для гризунів</param>
+<param paramcode="11394" name="Тип" valuecode="8e901cd39c4cde8dbeb98063c60c0878">гамак</param>
 <param paramcode="width" name="Ширина"><![CDATA[160]]></param>
 <param paramcode="height" name="Висота"><![CDATA[150]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[200]]></param>
@@ -38096,6 +38182,7 @@
 <param paramcode="2470" name="Довжина">18</param>
 <param paramcode="78" name="Колір виробника" valuecode="zbjmtjbl">коричневий</param>
 <param paramcode="11383" name="Призначення" valuecode="7dbe15539b5be09f3696b009a6666ebe">для гризунів</param>
+<param paramcode="11394" name="Тип" valuecode="8e901cd39c4cde8dbeb98063c60c0878">гамак</param>
 <param paramcode="width" name="Ширина"><![CDATA[160]]></param>
 <param paramcode="height" name="Висота"><![CDATA[150]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[200]]></param>
@@ -38119,6 +38206,7 @@
 <param paramcode="2470" name="Довжина">40</param>
 <param paramcode="17268" name="Довжина" valuecode="3d2db21fbc2f4135d372335e98061c2f">40 - 50 см</param>
 <param paramcode="11383" name="Призначення" valuecode="7dbe15539b5be09f3696b009a6666ebe">для гризунів</param>
+<param paramcode="11394" name="Тип" valuecode="8e901cd39c4cde8dbeb98063c60c0878">гамак</param>
 <param paramcode="width" name="Ширина"><![CDATA[220]]></param>
 <param paramcode="height" name="Висота"><![CDATA[150]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[420]]></param>
@@ -41394,6 +41482,7 @@
 <param paramcode="brand" name="Бренд" valuecode="4d6bf879bafb46ea860438132d2abb37">Zoobaza</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="11383" name="Призначення" valuecode="3c3a9247c867d2f7cfcc582bb0b7868f,e5c731a39b5b9cea0e5b85adab8d3a0d">для котів,для собак</param>
+<param paramcode="11394" name="Тип" valuecode="d6f18cac1ad602c6fc38a9253940765f">сходинки</param>
 <param paramcode="2481" name="Матеріал" valuecode="e9sbkmyk28y84fvh">тканина оксфорд</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
@@ -41416,6 +41505,7 @@
 <param paramcode="brand" name="Бренд" valuecode="4d6bf879bafb46ea860438132d2abb37">Zoobaza</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="11383" name="Призначення" valuecode="3c3a9247c867d2f7cfcc582bb0b7868f,e5c731a39b5b9cea0e5b85adab8d3a0d">для котів,для собак</param>
+<param paramcode="11394" name="Тип" valuecode="d6f18cac1ad602c6fc38a9253940765f">сходинки</param>
 <param paramcode="2481" name="Матеріал" valuecode="lbc3e3di">тканина</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
@@ -43031,6 +43121,7 @@
 <attribute_set code="7344">Пелюшки для собак</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="4d6bf879bafb46ea860438132d2abb37">Zoobaza</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
+<param paramcode="11417" name="Тип" valuecode="d1ca7b0417ea87d10b06a2f677448c02">пелюшки</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -43051,6 +43142,7 @@
 <attribute_set code="7344">Пелюшки для собак</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="4d6bf879bafb46ea860438132d2abb37">Zoobaza</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
+<param paramcode="11417" name="Тип" valuecode="d1ca7b0417ea87d10b06a2f677448c02">пелюшки</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -43071,6 +43163,7 @@
 <attribute_set code="7344">Пелюшки для собак</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="4d6bf879bafb46ea860438132d2abb37">Zoobaza</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
+<param paramcode="11417" name="Тип" valuecode="d1ca7b0417ea87d10b06a2f677448c02">пелюшки</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -43323,6 +43416,7 @@
 <param paramcode="2470" name="Довжина">60</param>
 <param paramcode="17268" name="Довжина" valuecode="18a266b13f27c1a3c9bfbe1055ff2bd1">51 - 60 см</param>
 <param paramcode="11383" name="Призначення" valuecode="3c3a9247c867d2f7cfcc582bb0b7868f,e5c731a39b5b9cea0e5b85adab8d3a0d">для котів,для собак</param>
+<param paramcode="11394" name="Тип" valuecode="d11d92977f8658baa00d6f88f005565e">плед</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[340]]></param>
@@ -43347,6 +43441,7 @@
 <param paramcode="2470" name="Довжина">80</param>
 <param paramcode="17268" name="Довжина" valuecode="01ad203634bf255b1ca7c34c8e89f191">71 - 80 см</param>
 <param paramcode="11383" name="Призначення" valuecode="3c3a9247c867d2f7cfcc582bb0b7868f,e5c731a39b5b9cea0e5b85adab8d3a0d">для котів,для собак</param>
+<param paramcode="11394" name="Тип" valuecode="d11d92977f8658baa00d6f88f005565e">плед</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[340]]></param>
@@ -43370,6 +43465,7 @@
 <param paramcode="2481" name="Матеріал" valuecode="ivgvmowo,ypqtx5q0,xzo7zfvxv7qqxclg">велюр,фліс,вельвет</param>
 <param paramcode="2470" name="Довжина">100</param>
 <param paramcode="11383" name="Призначення" valuecode="3c3a9247c867d2f7cfcc582bb0b7868f,e5c731a39b5b9cea0e5b85adab8d3a0d">для котів,для собак</param>
+<param paramcode="11394" name="Тип" valuecode="d11d92977f8658baa00d6f88f005565e">плед</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[340]]></param>
@@ -43394,6 +43490,7 @@
 <param paramcode="2470" name="Довжина">120</param>
 <param paramcode="17268" name="Довжина" valuecode="b82f4c488359457b48ae744d309dc668">понад 100 см</param>
 <param paramcode="11383" name="Призначення" valuecode="3c3a9247c867d2f7cfcc582bb0b7868f,e5c731a39b5b9cea0e5b85adab8d3a0d">для котів,для собак</param>
+<param paramcode="11394" name="Тип" valuecode="d11d92977f8658baa00d6f88f005565e">плед</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[340]]></param>
@@ -43418,6 +43515,7 @@
 <param paramcode="2470" name="Довжина">140</param>
 <param paramcode="17268" name="Довжина" valuecode="b82f4c488359457b48ae744d309dc668">понад 100 см</param>
 <param paramcode="11383" name="Призначення" valuecode="3c3a9247c867d2f7cfcc582bb0b7868f,e5c731a39b5b9cea0e5b85adab8d3a0d">для котів,для собак</param>
+<param paramcode="11394" name="Тип" valuecode="d11d92977f8658baa00d6f88f005565e">плед</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[340]]></param>
@@ -43442,6 +43540,7 @@
 <param paramcode="2470" name="Довжина">160</param>
 <param paramcode="17268" name="Довжина" valuecode="b82f4c488359457b48ae744d309dc668">понад 100 см</param>
 <param paramcode="11383" name="Призначення" valuecode="3c3a9247c867d2f7cfcc582bb0b7868f,e5c731a39b5b9cea0e5b85adab8d3a0d">для котів,для собак</param>
+<param paramcode="11394" name="Тип" valuecode="d11d92977f8658baa00d6f88f005565e">плед</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[340]]></param>
@@ -46751,9 +46850,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4019008708739]]></param>
 </offer>
-<offer id="TX28405" available="false">
+<offer id="TX28405" available="true">
 <price>2002.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="7366">Одяг для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX28405-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX28405-2.jpg</picture>
@@ -49719,6 +49818,7 @@
 <param paramcode="brand" name="Бренд" valuecode="96830e0adc10474891d9ec5ea3244019">Wolters</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">1300</param>
 <param paramcode="2481" name="Матеріал" valuecode="gkzh5fcd">кераміка</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
 <param paramcode="11350" name="Вид посуду" valuecode="980d9a6fe93277c689fd04edf48dc4a9">миска</param>
@@ -54634,6 +54734,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="gbr">Велика Британія</param>
 <param paramcode="78" name="Колір виробника" valuecode="nlmlmqnr">рожевий</param>
 <param paramcode="12097" name="Базовий колір" valuecode="af5820f4d82201e791b5ec6b99869faf">рожевий</param>
+<param paramcode="10060" name="Тип іграшки" valuecode="373f72b659032fe55acaddbaf2c81b1c">м’які</param>
 <param paramcode="10067" name="Вид іграшки" valuecode="24099586378a31099d841bb0e1033e16">фігури</param>
 <param paramcode="10072" name="Вікова категорія" valuecode="b0e2bd8480af389ada3dd4097e196970">дорослі</param>
 <param paramcode="10077" name="Матеріал" valuecode="aeaae8cb4e2599f4bd85aa81dbcbe538">текстиль</param>
@@ -72383,6 +72484,7 @@
 <param paramcode="10077" name="Матеріал" valuecode="e598c3b6ce4247d1e132009d1967a983">нейлон</param>
 <param paramcode="12097" name="Базовий колір" valuecode="1bb311a4e0544d0fd17fe471fa81299c">блакитний</param>
 <param paramcode="10072" name="Вікова категорія" valuecode="332a76167905e63acd1376bff246153e">для всіх</param>
+<param paramcode="10067" name="Вид іграшки" valuecode="070f42b0cb8686b34ed3df6abd9c0033">фризбі</param>
 <param paramcode="10095" name="Чищення зубів" valuecode="4410a7a44580581b3dfdc0e3c0696c43">ні</param>
 <param paramcode="10111" name="Ароматизована" valuecode="1135beafeed586e58a53215a119ef29a">ні</param>
 <param paramcode="10135" name="Світиться у темряві" valuecode="4347745784d80f8b8f0d11e05ee9d8c0">ні</param>
@@ -72415,6 +72517,7 @@
 <param paramcode="10077" name="Матеріал" valuecode="e598c3b6ce4247d1e132009d1967a983">нейлон</param>
 <param paramcode="12097" name="Базовий колір" valuecode="57d9544692d9901c663d9372664e0288">фіолетовий</param>
 <param paramcode="10072" name="Вікова категорія" valuecode="332a76167905e63acd1376bff246153e">для всіх</param>
+<param paramcode="10067" name="Вид іграшки" valuecode="070f42b0cb8686b34ed3df6abd9c0033">фризбі</param>
 <param paramcode="10095" name="Чищення зубів" valuecode="4410a7a44580581b3dfdc0e3c0696c43">ні</param>
 <param paramcode="10111" name="Ароматизована" valuecode="1135beafeed586e58a53215a119ef29a">ні</param>
 <param paramcode="10135" name="Світиться у темряві" valuecode="4347745784d80f8b8f0d11e05ee9d8c0">ні</param>
@@ -72447,6 +72550,7 @@
 <param paramcode="10077" name="Матеріал" valuecode="e598c3b6ce4247d1e132009d1967a983">нейлон</param>
 <param paramcode="12097" name="Базовий колір" valuecode="0820c9c4601c3f21afd927638b26c101,bb2cdbcc657af3ddad8c2eed3c72859c">помаранчевий,жовтий</param>
 <param paramcode="10072" name="Вікова категорія" valuecode="332a76167905e63acd1376bff246153e">для всіх</param>
+<param paramcode="10067" name="Вид іграшки" valuecode="070f42b0cb8686b34ed3df6abd9c0033">фризбі</param>
 <param paramcode="10095" name="Чищення зубів" valuecode="4410a7a44580581b3dfdc0e3c0696c43">ні</param>
 <param paramcode="10111" name="Ароматизована" valuecode="1135beafeed586e58a53215a119ef29a">ні</param>
 <param paramcode="10135" name="Світиться у темряві" valuecode="4347745784d80f8b8f0d11e05ee9d8c0">ні</param>
@@ -72895,6 +72999,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="vnm">В&amp;#039;єтнам</param>
 <param paramcode="78" name="Колір виробника" valuecode="u2rqrf0q">блакитний</param>
 <param paramcode="11383" name="Призначення" valuecode="8e72422642cdd1a133f7b91b740a334f">для всіх</param>
+<param paramcode="11667" name="Тип" valuecode="cc71c4c10229c9bfb7dba7893d4a20a4">диспенсер</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[208]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -72918,6 +73023,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="vnm">В&amp;#039;єтнам</param>
 <param paramcode="11383" name="Призначення" valuecode="8e72422642cdd1a133f7b91b740a334f">для всіх</param>
+<param paramcode="11667" name="Тип" valuecode="cc71c4c10229c9bfb7dba7893d4a20a4">диспенсер</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[208]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -74558,6 +74664,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="usa">США</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">450</param>
 <param paramcode="78" name="Колір виробника" valuecode="kd4hovsb">зелений</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
 <param paramcode="11350" name="Вид посуду" valuecode="7cee14a2285a253796a8b41ff8bb7de9">дорожня поїлка</param>
@@ -74587,6 +74694,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="usa">США</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">450</param>
 <param paramcode="78" name="Колір виробника" valuecode="u2rqrf0q">блакитний</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
 <param paramcode="11350" name="Вид посуду" valuecode="7cee14a2285a253796a8b41ff8bb7de9">дорожня поїлка</param>
@@ -74612,6 +74720,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="usa">США</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">450</param>
 <param paramcode="78" name="Колір виробника" valuecode="nlmlmqnr">рожевий</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
 <param paramcode="11350" name="Вид посуду" valuecode="7cee14a2285a253796a8b41ff8bb7de9">дорожня поїлка</param>
@@ -74643,6 +74752,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="usa">США</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">450</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
 <param paramcode="11350" name="Вид посуду" valuecode="7cee14a2285a253796a8b41ff8bb7de9">дорожня поїлка</param>
 <param paramcode="2481" name="Матеріал" valuecode="gqzbujpk">поліпропілен</param>
@@ -74671,6 +74781,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="usa">США</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">590</param>
 <param paramcode="78" name="Колір виробника" valuecode="kd4hovsb">зелений</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
 <param paramcode="11350" name="Вид посуду" valuecode="7cee14a2285a253796a8b41ff8bb7de9">дорожня поїлка</param>
@@ -74697,6 +74808,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="usa">США</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">590</param>
 <param paramcode="78" name="Колір виробника" valuecode="u2rqrf0q">блакитний</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
 <param paramcode="11350" name="Вид посуду" valuecode="7cee14a2285a253796a8b41ff8bb7de9">дорожня поїлка</param>
@@ -74726,6 +74838,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="usa">США</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">590</param>
 <param paramcode="78" name="Колір виробника" valuecode="ff8cwdpi">чорний</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
 <param paramcode="11350" name="Вид посуду" valuecode="7cee14a2285a253796a8b41ff8bb7de9">дорожня поїлка</param>
@@ -74751,6 +74864,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="usa">США</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">590</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
 <param paramcode="11350" name="Вид посуду" valuecode="7cee14a2285a253796a8b41ff8bb7de9">дорожня поїлка</param>
 <param paramcode="2481" name="Матеріал" valuecode="gqzbujpk,0vwwxqee">поліпропілен,силікон</param>
@@ -74776,6 +74890,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="usa">США</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">590</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
 <param paramcode="11350" name="Вид посуду" valuecode="7cee14a2285a253796a8b41ff8bb7de9">дорожня поїлка</param>
 <param paramcode="2481" name="Матеріал" valuecode="gqzbujpk,0vwwxqee">поліпропілен,силікон</param>
@@ -74805,6 +74920,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="usa">США</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">1300</param>
 <param paramcode="78" name="Колір виробника" valuecode="kd4hovsb">зелений</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
 <param paramcode="11350" name="Вид посуду" valuecode="7cee14a2285a253796a8b41ff8bb7de9">дорожня поїлка</param>
@@ -74837,6 +74953,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="usa">США</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">1300</param>
 <param paramcode="78" name="Колір виробника" valuecode="u2rqrf0q">блакитний</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
 <param paramcode="11350" name="Вид посуду" valuecode="7cee14a2285a253796a8b41ff8bb7de9">дорожня поїлка</param>
@@ -77208,6 +77325,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="prt">Португалія</param>
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
+<param paramcode="51" name="Вид" valuecode="rysnyu6wuofutsyg">мікс</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -77230,6 +77348,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="usa">США</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">450</param>
 <param paramcode="78" name="Колір виробника" valuecode="ff8cwdpi">чорний</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
 <param paramcode="11350" name="Вид посуду" valuecode="7cee14a2285a253796a8b41ff8bb7de9">дорожня поїлка</param>
@@ -79336,6 +79455,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">1200</param>
 <param paramcode="78" name="Колір виробника" valuecode="zbjmtjbl">коричневий</param>
 <param paramcode="2481" name="Матеріал" valuecode="gkzh5fcd">кераміка</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
@@ -79364,6 +79484,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">500</param>
 <param paramcode="78" name="Колір виробника" valuecode="kd4hovsb">зелений</param>
 <param paramcode="2481" name="Матеріал" valuecode="gkzh5fcd">кераміка</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
@@ -79392,6 +79513,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">500</param>
 <param paramcode="78" name="Колір виробника" valuecode="gsyiryzw">сірий</param>
 <param paramcode="2481" name="Матеріал" valuecode="vzuo0pe0">нержавіюча сталь</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
@@ -79419,6 +79541,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">1200</param>
 <param paramcode="78" name="Колір виробника" valuecode="kd4hovsb">зелений</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
 <param paramcode="11350" name="Вид посуду" valuecode="980d9a6fe93277c689fd04edf48dc4a9">миска</param>
@@ -79446,6 +79569,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">1200</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
 <param paramcode="11350" name="Вид посуду" valuecode="980d9a6fe93277c689fd04edf48dc4a9">миска</param>
 <param paramcode="78" name="Колір виробника" valuecode="yy1ake56ui0sqzfu">м&amp;#039;ятний</param>
@@ -79472,6 +79596,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">500</param>
 <param paramcode="78" name="Колір виробника" valuecode="kd4hovsb">зелений</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
 <param paramcode="11350" name="Вид посуду" valuecode="980d9a6fe93277c689fd04edf48dc4a9">миска</param>
@@ -79499,6 +79624,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">500</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
 <param paramcode="11350" name="Вид посуду" valuecode="980d9a6fe93277c689fd04edf48dc4a9">миска</param>
 <param paramcode="78" name="Колір виробника" valuecode="yy1ake56ui0sqzfu">м&amp;#039;ятний</param>
@@ -79525,6 +79651,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">600</param>
 <param paramcode="78" name="Колір виробника" valuecode="e3fyw7jf">бежевий</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
 <param paramcode="11350" name="Вид посуду" valuecode="980d9a6fe93277c689fd04edf48dc4a9">миска</param>
@@ -79552,6 +79679,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">600</param>
 <param paramcode="78" name="Колір виробника" valuecode="kd4hovsb">зелений</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
 <param paramcode="11350" name="Вид посуду" valuecode="980d9a6fe93277c689fd04edf48dc4a9">миска</param>
@@ -79579,6 +79707,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">400</param>
 <param paramcode="78" name="Колір виробника" valuecode="e3fyw7jf">бежевий</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
 <param paramcode="11350" name="Вид посуду" valuecode="980d9a6fe93277c689fd04edf48dc4a9">миска</param>
@@ -79606,6 +79735,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">400</param>
 <param paramcode="78" name="Колір виробника" valuecode="kd4hovsb">зелений</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
 <param paramcode="11350" name="Вид посуду" valuecode="980d9a6fe93277c689fd04edf48dc4a9">миска</param>
@@ -80248,6 +80378,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="aus">Австралія</param>
 <param paramcode="11383" name="Призначення" valuecode="8e72422642cdd1a133f7b91b740a334f">для всіх</param>
+<param paramcode="11667" name="Тип" valuecode="cc71c4c10229c9bfb7dba7893d4a20a4">диспенсер</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[208]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -82175,6 +82306,7 @@
 <param paramcode="10077" name="Матеріал" valuecode="e598c3b6ce4247d1e132009d1967a983">нейлон</param>
 <param paramcode="12097" name="Базовий колір" valuecode="1bb311a4e0544d0fd17fe471fa81299c">блакитний</param>
 <param paramcode="10072" name="Вікова категорія" valuecode="332a76167905e63acd1376bff246153e">для всіх</param>
+<param paramcode="10067" name="Вид іграшки" valuecode="070f42b0cb8686b34ed3df6abd9c0033">фризбі</param>
 <param paramcode="10095" name="Чищення зубів" valuecode="4410a7a44580581b3dfdc0e3c0696c43">ні</param>
 <param paramcode="10111" name="Ароматизована" valuecode="1135beafeed586e58a53215a119ef29a">ні</param>
 <param paramcode="10135" name="Світиться у темряві" valuecode="4347745784d80f8b8f0d11e05ee9d8c0">ні</param>
@@ -83865,6 +83997,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
+<param paramcode="51" name="Вид" valuecode="xu3quxxqu7iw9h1s">напій</param>
 <param paramcode="width" name="Ширина"><![CDATA[85]]></param>
 <param paramcode="height" name="Висота"><![CDATA[170]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[40]]></param>
@@ -83886,6 +84019,7 @@
 <param paramcode="brand" name="Бренд" valuecode="b21200d53467485180ca77628ee31775">Chewies</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
 <param paramcode="12481" name="Вага" valuecode="93e135c0b08eac9f352b88af9a1bfeeb">75 г</param>
+<param paramcode="51" name="Вид" valuecode="ytvfzulwpcn8ujek">сосиски</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -83908,6 +84042,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
 <param paramcode="12481" name="Вага" valuecode="93e135c0b08eac9f352b88af9a1bfeeb">75 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="51" name="Вид" valuecode="ytvfzulwpcn8ujek">сосиски</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -83931,6 +84066,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
 <param paramcode="12481" name="Вага" valuecode="93e135c0b08eac9f352b88af9a1bfeeb">75 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="51" name="Вид" valuecode="ytvfzulwpcn8ujek">сосиски</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -83954,6 +84090,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
 <param paramcode="12481" name="Вага" valuecode="e10a846fd12563276d908bf864fc040e">25 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="51" name="Вид" valuecode="ytvfzulwpcn8ujek">сосиски</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -83977,6 +84114,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
 <param paramcode="12481" name="Вага" valuecode="e10a846fd12563276d908bf864fc040e">25 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="51" name="Вид" valuecode="ytvfzulwpcn8ujek">сосиски</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -84002,6 +84140,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
 <param paramcode="12481" name="Вага" valuecode="0da29417845ba1a445658ff7fbd6db47">60 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="51" name="Вид" valuecode="ytvfzulwpcn8ujek">сосиски</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -84584,6 +84723,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="prt">Португалія</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">200</param>
 <param paramcode="78" name="Колір виробника" valuecode="ophru6z8">білий</param>
 <param paramcode="2481" name="Матеріал" valuecode="gkzh5fcd">кераміка</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
@@ -84610,6 +84750,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="prt">Португалія</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">200</param>
 <param paramcode="78" name="Колір виробника" valuecode="nlmlmqnr">рожевий</param>
 <param paramcode="2481" name="Матеріал" valuecode="gkzh5fcd">кераміка</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
@@ -84636,6 +84777,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="prt">Португалія</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">200</param>
 <param paramcode="78" name="Колір виробника" valuecode="kd4hovsb">зелений</param>
 <param paramcode="2481" name="Матеріал" valuecode="gkzh5fcd">кераміка</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
@@ -84662,6 +84804,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="prt">Португалія</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">200</param>
 <param paramcode="78" name="Колір виробника" valuecode="ji7xemhv">жовтий</param>
 <param paramcode="2481" name="Матеріал" valuecode="gkzh5fcd">кераміка</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
@@ -84688,6 +84831,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="prt">Португалія</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">200</param>
 <param paramcode="78" name="Колір виробника" valuecode="ct2lhsxt">фіолетовий</param>
 <param paramcode="2481" name="Матеріал" valuecode="gkzh5fcd">кераміка</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
@@ -84714,6 +84858,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="prt">Португалія</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="1098" name="Об&apos;єм">200</param>
 <param paramcode="78" name="Колір виробника" valuecode="u2rqrf0q">блакитний</param>
 <param paramcode="2481" name="Матеріал" valuecode="gkzh5fcd">кераміка</param>
 <param paramcode="1120" name="Призначення" valuecode="32800b8b14187e11bd4fd5d4151c7140">для собак</param>
@@ -96037,6 +96182,7 @@
 <param paramcode="10159" name="Гарантія" valuecode="290b632088923c5dd75dcc6e1d6df9cb">12 місяців</param>
 <param paramcode="104" name="Об&apos;єм">1.7</param>
 <param paramcode="762" name="Вага">0.9</param>
+<param paramcode="9635" name="Тип" valuecode="5499c75698008be2368c9da5626ebc56">звичайний</param>
 <param paramcode="11199" name="Безпека" valuecode="0d6cfdbff6893af97dd4ed87533bc9d2,35d93acca1e1325f5fb39a77a025b1ce">відключення при знятті з бази,захист від перегріву</param>
 <param paramcode="9639" name="Оснащення" valuecode="0702030f10acd7596e00fc4037a56534,6f5e85938de62dbd4179d689b73c6d7b">індикатор рівня води,відсік для зберігання шнура</param>
 <param paramcode="9850" name="Матеріал колби" valuecode="0c194001646da53792ca352b6f0baaa6">метал</param>
@@ -96209,6 +96355,7 @@
 <param paramcode="2514" name="Матеріал бака і покриття" valuecode="a4b607882c9dcbc9dc1ebd998756e867">склокераміка (сталь з емальованим покриттям)</param>
 <param paramcode="2515" name="Тип водонагрівача" valuecode="d92335df517669f4024842c1bfbbe149">електричний</param>
 <param paramcode="2554" name="Підводка труб" valuecode="0b00dc8387d2ca0ac456465696c49a9b">нижня</param>
+<param paramcode="2562" name="Тип керування" valuecode="edab354b2e4a0106da6395378c0bf58f">механічний</param>
 <param paramcode="2563" name="Тип установки" valuecode="e297d88ff1fb00050ed765ebfe3c52a1">вертикальний</param>
 <param paramcode="2565" name="Форма" valuecode="eee8a39d94cfb36c0c1e4a5f47bfb622">циліндрична (кругла)</param>
 <param paramcode="4283" name="Вид бойлера" valuecode="44b760c9711884cba4bf61cb6759cd91">поширені моделі</param>
@@ -96504,6 +96651,7 @@
 <param paramcode="2129" name="Особливості" valuecode="38816f841afd83392ad7bbf011e788a7">з газ-контролем</param>
 <param paramcode="335" name="Гриль" valuecode="51f2b40ff38ab8e5832e5979141dcf0c">немає</param>
 <param paramcode="596" name="Клас енергоспоживання" valuecode="29a7558affaebc89f2182a20e9455f52">A</param>
+<param paramcode="618" name="Тип поверхні" valuecode="91ead83f18a0a455287f08b4f516803f">комбінована</param>
 <param paramcode="619" name="Матеріал поверхні" valuecode="6090e7104e70040f247aa3f3631fae43">емаль</param>
 <param paramcode="9908" name="Кількість конфорок" valuecode="5f5e1557520e2a40553934d885de297a">4</param>
 <param paramcode="9910" name="Глибина" valuecode="f30b369f2d7863eccf6cf3bc5422acd6">56-60 см</param>
@@ -96624,6 +96772,7 @@
 <param paramcode="10159" name="Гарантія" valuecode="b951209fe78c039dfc728f4d1a2c4dd7">24 місяці</param>
 <param paramcode="104" name="Об&apos;єм">1.7</param>
 <param paramcode="762" name="Вага">1.2</param>
+<param paramcode="9635" name="Тип" valuecode="5499c75698008be2368c9da5626ebc56">звичайний</param>
 <param paramcode="11199" name="Безпека" valuecode="8173c755341051331342b266252f3d07">автоматичне відключення</param>
 <param paramcode="9639" name="Оснащення" valuecode="1a8fda240c2f04fa14e6581c84c388d5,adf63e3462b5de0749376fd3aa231fc3,258630984b5875dd6600c3ec08ad14f1,6f5e85938de62dbd4179d689b73c6d7b">з подвійними стінками,з дисплеєм,поворот на підставці на 360°,відсік для зберігання шнура</param>
 <param paramcode="9850" name="Матеріал колби" valuecode="0c194001646da53792ca352b6f0baaa6">метал</param>
@@ -96825,6 +96974,7 @@
 <param paramcode="11684" name="Додаткові функції" valuecode="a636ca4e18f8cacbacd40764430f125f,934c1103ebab6d0479a4bb5b575524f1">захист від перегріву,режим вентиляції</param>
 <param paramcode="3101" name="Вид" valuecode="fe5042ee799cb3e23d97e202c1bdbe2f">електричний</param>
 <param paramcode="4901" name="Площа основного обігріву, до">20</param>
+<param paramcode="50" name="Тип" valuecode="06b7ab487a90f80f85baad7132b66257">побутовий</param>
 <param paramcode="width" name="Ширина"><![CDATA[2100]]></param>
 <param paramcode="height" name="Висота"><![CDATA[280]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[330]]></param>
@@ -97055,6 +97205,7 @@
 <param paramcode="103" name="Потужність">700</param>
 <param paramcode="113" name="Гарантія">24</param>
 <param paramcode="11130" name="Потужність" valuecode="a8b10049cbb60a005cfa4c704c2a71eb">500-799 Вт</param>
+<param paramcode="9566" name="Тип" valuecode="ad76d2b0dd701835e38a6b02235f615c">універсальна (центрифужна)</param>
 <param paramcode="9568" name="Особливості" valuecode="30d87242ecceabc3afaabf28cb09e924">знімний контейнер для м&amp;#039;якоті</param>
 <param paramcode="9569" name="Об&apos;єм резервуара для жмиху (л)" valuecode="2660d06a9a4984a5639474ac432c1619">1-2,5</param>
 <param paramcode="width" name="Ширина"><![CDATA[330]]></param>
@@ -97366,6 +97517,7 @@
 <param paramcode="2514" name="Матеріал бака і покриття" valuecode="a4b607882c9dcbc9dc1ebd998756e867">склокераміка (сталь з емальованим покриттям)</param>
 <param paramcode="2515" name="Тип водонагрівача" valuecode="d92335df517669f4024842c1bfbbe149">електричний</param>
 <param paramcode="2554" name="Підводка труб" valuecode="0b00dc8387d2ca0ac456465696c49a9b">нижня</param>
+<param paramcode="2562" name="Тип керування" valuecode="ec849805656a35d8a2a20dde11fee7f9">електронний</param>
 <param paramcode="2563" name="Тип установки" valuecode="1c97c0d39982227b4f7ef72a0d079de2">вертикальний/горизонтальний</param>
 <param paramcode="2565" name="Форма" valuecode="1e74d68113ef7c131549ec98da661bfe">пласка</param>
 <param paramcode="4283" name="Вид бойлера" valuecode="c8fc116478ca745c0f5a8e465009d4a5">бойлер для великої родини</param>
@@ -98339,6 +98491,7 @@
 <param paramcode="2514" name="Матеріал бака і покриття" valuecode="a4b607882c9dcbc9dc1ebd998756e867">склокераміка (сталь з емальованим покриттям)</param>
 <param paramcode="2515" name="Тип водонагрівача" valuecode="d92335df517669f4024842c1bfbbe149">електричний</param>
 <param paramcode="2554" name="Підводка труб" valuecode="0b00dc8387d2ca0ac456465696c49a9b">нижня</param>
+<param paramcode="2562" name="Тип керування" valuecode="edab354b2e4a0106da6395378c0bf58f">механічний</param>
 <param paramcode="2563" name="Тип установки" valuecode="e297d88ff1fb00050ed765ebfe3c52a1">вертикальний</param>
 <param paramcode="2565" name="Форма" valuecode="eee8a39d94cfb36c0c1e4a5f47bfb622">циліндрична (кругла)</param>
 <param paramcode="4283" name="Вид бойлера" valuecode="44b760c9711884cba4bf61cb6759cd91">поширені моделі</param>
@@ -98475,9 +98628,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT23888" available="false">
+<offer id="HT23888" available="true">
 <price>3864.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="111">Електричні печі</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000002293_ROT350-B-2.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000002293_ROT350-B-3.jpg</picture>
@@ -98610,6 +98763,7 @@
 <param paramcode="11138" name="Потужність" valuecode="dd67371782fb989487670386b9db7465">менш ніж 1800 Вт</param>
 <param paramcode="1120" name="Призначення" valuecode="1f4d7e207bcc34e34286332c4632c922,c07f81c49f66a0df0c9e4bb57758046f,f55899e970f3957c1a08469d62614b74,290b2d42162b4c877e4da3f5faa08513">для дому,для риби,для м&amp;#039;яса,для овочів</param>
 <param paramcode="168" name="Керування" valuecode="26278d2d5b19fa4382210af095be4768">механічне</param>
+<param paramcode="9838" name="Тип" valuecode="e827a9a789fcdc6c1b167b820b7d727c">відкритий</param>
 <param paramcode="9839" name="Поверхня" valuecode="4d47dc09fb50b72d1ad7e5b0e12095a0,f1769d89d232664d9d3cdd15c74f5323">ребриста,гладка</param>
 <param paramcode="9840" name="Розміщення" valuecode="2eca846b75e32ea16c2e8bd002b5550e">настільний</param>
 <param paramcode="9843" name="Оснащення" valuecode="a8aa476780746563f4a8dc176cb2e027,fa812dc86148bc6fe17efe28d9a9bbb3,94a5e5695e88e511488c23243038c31c">термостат,регулювання температури,піднос для збору жиру</param>
@@ -99066,9 +99220,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT25251" available="false">
+<offer id="HT25251" available="true">
 <price>1815.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="101">Мультиварки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000000898_129.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000000898_126.jpg</picture>
@@ -99312,6 +99466,7 @@
 <param paramcode="335" name="Гриль" valuecode="51f2b40ff38ab8e5832e5979141dcf0c">немає</param>
 <param paramcode="595" name="Об&apos;єм духовки">65</param>
 <param paramcode="596" name="Клас енергоспоживання" valuecode="29a7558affaebc89f2182a20e9455f52">A</param>
+<param paramcode="618" name="Тип поверхні" valuecode="91ead83f18a0a455287f08b4f516803f">комбінована</param>
 <param paramcode="619" name="Матеріал поверхні" valuecode="6090e7104e70040f247aa3f3631fae43">емаль</param>
 <param paramcode="9908" name="Кількість конфорок" valuecode="5f5e1557520e2a40553934d885de297a">4</param>
 <param paramcode="9910" name="Глибина" valuecode="f30b369f2d7863eccf6cf3bc5422acd6">56-60 см</param>
@@ -100219,6 +100374,7 @@
 <param paramcode="11684" name="Додаткові функції" valuecode="2e9713a1e4f78436a766514a6d1785f9,a636ca4e18f8cacbacd40764430f125f">термостат,захист від перегріву</param>
 <param paramcode="3101" name="Вид" valuecode="fe5042ee799cb3e23d97e202c1bdbe2f">електричний</param>
 <param paramcode="4901" name="Площа основного обігріву, до">15</param>
+<param paramcode="50" name="Тип" valuecode="06b7ab487a90f80f85baad7132b66257">побутовий</param>
 <param paramcode="width" name="Ширина"><![CDATA[178]]></param>
 <param paramcode="height" name="Висота"><![CDATA[232]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[220]]></param>
@@ -100747,6 +100903,7 @@
 <param paramcode="762" name="Вага">30.9</param>
 <param paramcode="9908" name="Кількість конфорок" valuecode="5f5e1557520e2a40553934d885de297a">4</param>
 <param paramcode="9909" name="Ширина" valuecode="c20286b97e2ffd0925fc0db2b598d51b">45-55 см</param>
+<param paramcode="13290" name="Тип плити" valuecode="b4a95e5c9f20df71a207bae16ab9afa2">комбінована</param>
 <param paramcode="width" name="Ширина"><![CDATA[520]]></param>
 <param paramcode="height" name="Висота"><![CDATA[885]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[620]]></param>
@@ -100754,9 +100911,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT29540" available="false">
+<offer id="HT29540" available="true">
 <price>14218.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="81">Кухонні плити</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000010973_P264114_0001-700x700.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000010973_P264114_0002-700x700.jpg</picture>
@@ -100776,6 +100933,7 @@
 <param paramcode="113" name="Гарантія">12</param>
 <param paramcode="762" name="Вага">35.5</param>
 <param paramcode="9909" name="Ширина" valuecode="62aaeebd3b3576ff13878b252c1fd609">56-65 см</param>
+<param paramcode="13290" name="Тип плити" valuecode="16c59e287eb806b830590b9795acdc10">газова</param>
 <param paramcode="width" name="Ширина"><![CDATA[620]]></param>
 <param paramcode="height" name="Висота"><![CDATA[870]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[620]]></param>
@@ -100962,6 +101120,7 @@
 <param paramcode="762" name="Вага">30.9</param>
 <param paramcode="9908" name="Кількість конфорок" valuecode="5f5e1557520e2a40553934d885de297a">4</param>
 <param paramcode="9909" name="Ширина" valuecode="c20286b97e2ffd0925fc0db2b598d51b">45-55 см</param>
+<param paramcode="13290" name="Тип плити" valuecode="16c59e287eb806b830590b9795acdc10">газова</param>
 <param paramcode="width" name="Ширина"><![CDATA[520]]></param>
 <param paramcode="height" name="Висота"><![CDATA[885]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[620]]></param>
@@ -101065,6 +101224,7 @@
 <param paramcode="762" name="Вага">35.5</param>
 <param paramcode="9908" name="Кількість конфорок" valuecode="5f5e1557520e2a40553934d885de297a">4</param>
 <param paramcode="9909" name="Ширина" valuecode="62aaeebd3b3576ff13878b252c1fd609">56-65 см</param>
+<param paramcode="13290" name="Тип плити" valuecode="b4a95e5c9f20df71a207bae16ab9afa2">комбінована</param>
 <param paramcode="width" name="Ширина"><![CDATA[620]]></param>
 <param paramcode="height" name="Висота"><![CDATA[885]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[620]]></param>
@@ -101136,6 +101296,7 @@
 <param paramcode="762" name="Вага">35.5</param>
 <param paramcode="9908" name="Кількість конфорок" valuecode="5f5e1557520e2a40553934d885de297a">4</param>
 <param paramcode="9909" name="Ширина" valuecode="62aaeebd3b3576ff13878b252c1fd609">56-65 см</param>
+<param paramcode="13290" name="Тип плити" valuecode="b4a95e5c9f20df71a207bae16ab9afa2">комбінована</param>
 <param paramcode="width" name="Ширина"><![CDATA[620]]></param>
 <param paramcode="height" name="Висота"><![CDATA[885]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[620]]></param>
@@ -101353,6 +101514,7 @@
 <param paramcode="10159" name="Гарантія" valuecode="b951209fe78c039dfc728f4d1a2c4dd7">24 місяці</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="0cf86c57fce41b32ec141c3c14d4f64b">5 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="168" name="Керування" valuecode="14bd7223eafbeea7eafef3a7be3266f7">сенсорне/електронне</param>
 <param paramcode="17406" name="Сенсорна панель" valuecode="yes">так</param>
 <param paramcode="17409" name="Тип робочої ємності" valuecode="06626170606c2b37c102f931e6b951e0">чаша</param>
@@ -101398,6 +101560,7 @@
 <param paramcode="10159" name="Гарантія" valuecode="b951209fe78c039dfc728f4d1a2c4dd7">24 місяці</param>
 <param paramcode="12097" name="Базовий колір" valuecode="59474de51f852">сірий</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="0cf86c57fce41b32ec141c3c14d4f64b">5 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="168" name="Керування" valuecode="14bd7223eafbeea7eafef3a7be3266f7">сенсорне/електронне</param>
 <param paramcode="17406" name="Сенсорна панель" valuecode="yes">так</param>
 <param paramcode="17416" name="Випікання" valuecode="yes">так</param>
@@ -101440,6 +101603,7 @@
 <param paramcode="113" name="Гарантія">12</param>
 <param paramcode="106" name="Матеріал корпусу" valuecode="51de0b7a01b4f53bcd0800f03b950061,cae20eb7b306775054bdd4ac9a507644">нержавіюча сталь,пластик</param>
 <param paramcode="11130" name="Потужність" valuecode="a8b10049cbb60a005cfa4c704c2a71eb">500-799 Вт</param>
+<param paramcode="9566" name="Тип" valuecode="ad76d2b0dd701835e38a6b02235f615c">універсальна (центрифужна)</param>
 <param paramcode="9568" name="Особливості" valuecode="7949b0bc1650d68f184a7a953f409472">захист від неправильного збирання</param>
 <param paramcode="width" name="Ширина"><![CDATA[250]]></param>
 <param paramcode="height" name="Висота"><![CDATA[250]]></param>
@@ -101503,6 +101667,7 @@
 <param paramcode="10159" name="Гарантія" valuecode="b951209fe78c039dfc728f4d1a2c4dd7">24 місяці</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="cd060d57b22c03b6318f2abfd982a4d0">12 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="2732f27ae96981c3a070e91f588f6fa9">дверцята</param>
 <param paramcode="11136" name="Потужність" valuecode="a4eb347ad6de51e2e01181cae3e20a8e">1500-1700 Вт</param>
 <param paramcode="168" name="Керування" valuecode="14bd7223eafbeea7eafef3a7be3266f7">сенсорне/електронне</param>
 <param paramcode="17151" name="Розморожування" valuecode="yes">так</param>
@@ -101691,6 +101856,8 @@
 <param paramcode="78" name="Колір виробника" valuecode="nztvqygapexkind9">чорний із рожевим</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896,af5820f4d82201e791b5ec6b99869faf">чорний,рожевий</param>
 <param paramcode="10159" name="Гарантія" valuecode="290b632088923c5dd75dcc6e1d6df9cb">12 місяців</param>
+<param paramcode="16741" name="Тип" valuecode="e905736a3452dea1f933647fce8ec666">класична плойка</param>
+<param paramcode="16745" name="Тип конструкції" valuecode="f5174afa564c2240b7de77759922f3ff">з затискачем</param>
 <param paramcode="4932" name="Матеріал робочої поверхні" valuecode="a96f662fa3441c7e3499f0183ead03ab">кераміка</param>
 <param paramcode="width" name="Ширина"><![CDATA[39]]></param>
 <param paramcode="height" name="Висота"><![CDATA[123]]></param>
@@ -101832,6 +101999,7 @@
 <param paramcode="113" name="Гарантія">12</param>
 <param paramcode="10159" name="Гарантія" valuecode="290b632088923c5dd75dcc6e1d6df9cb">12 місяців</param>
 <param paramcode="104" name="Об&apos;єм">1.7</param>
+<param paramcode="9635" name="Тип" valuecode="5499c75698008be2368c9da5626ebc56">звичайний</param>
 <param paramcode="11199" name="Безпека" valuecode="9612847b5180557ee147d915f9d5e82a,8173c755341051331342b266252f3d07,35d93acca1e1325f5fb39a77a025b1ce">відключення без води,автоматичне відключення,захист від перегріву</param>
 <param paramcode="9639" name="Оснащення" valuecode="adf63e3462b5de0749376fd3aa231fc3,0b3e9c6f6c62d11a114bda37d71571ed,258630984b5875dd6600c3ec08ad14f1">з дисплеєм,фільтр для води,поворот на підставці на 360°</param>
 <param paramcode="9850" name="Матеріал колби" valuecode="0c194001646da53792ca352b6f0baaa6">метал</param>
@@ -101842,9 +102010,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT30465" available="false">
+<offer id="HT30465" available="true">
 <price>49.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="93">Аксесуари до техніки для догляду за домом</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011901_img_0_1622_78_0.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011901_img_0_1622_78_1.jpg</picture>
@@ -101937,9 +102105,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT30472" available="false">
+<offer id="HT30472" available="true">
 <price>255.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="93">Аксесуари до техніки для догляду за домом</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011908_406050105.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011908_406050092.jpg</picture>
@@ -101961,9 +102129,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT30473" available="false">
+<offer id="HT30473" available="true">
 <price>255.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="93">Аксесуари до техніки для догляду за домом</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011909_img_0_1622_66_0.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011909_img_0_1622_66_1.jpg</picture>
@@ -102024,6 +102192,7 @@
 <param paramcode="78" name="Колір виробника" valuecode="e3fyw7jf">бежевий</param>
 <param paramcode="762" name="Вага">0.1</param>
 <param paramcode="11097" name="Призначення" valuecode="8fdfd5fed4cae4230e8d38ce716cec39">для пилососів</param>
+<param paramcode="4275" name="Тип" valuecode="f4060bddccfe9125dcc8acbee6b569b1">мішок</param>
 <param paramcode="width" name="Ширина"><![CDATA[131]]></param>
 <param paramcode="height" name="Висота"><![CDATA[198]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[112]]></param>
@@ -102046,6 +102215,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ukr">Україна</param>
 <param paramcode="78" name="Колір виробника" valuecode="e3fyw7jf">бежевий</param>
 <param paramcode="11097" name="Призначення" valuecode="8fdfd5fed4cae4230e8d38ce716cec39">для пилососів</param>
+<param paramcode="4275" name="Тип" valuecode="f4060bddccfe9125dcc8acbee6b569b1">мішок</param>
 <param paramcode="width" name="Ширина"><![CDATA[131]]></param>
 <param paramcode="height" name="Висота"><![CDATA[198]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[112]]></param>
@@ -102068,6 +102238,7 @@
 <param paramcode="78" name="Колір виробника" valuecode="e3fyw7jf">бежевий</param>
 <param paramcode="762" name="Вага">0.1</param>
 <param paramcode="11097" name="Призначення" valuecode="8fdfd5fed4cae4230e8d38ce716cec39">для пилососів</param>
+<param paramcode="4275" name="Тип" valuecode="f4060bddccfe9125dcc8acbee6b569b1">мішок</param>
 <param paramcode="width" name="Ширина"><![CDATA[131]]></param>
 <param paramcode="height" name="Висота"><![CDATA[198]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[112]]></param>
@@ -102129,6 +102300,7 @@
 <param paramcode="113" name="Гарантія">12</param>
 <param paramcode="106" name="Матеріал корпусу" valuecode="51de0b7a01b4f53bcd0800f03b950061,cae20eb7b306775054bdd4ac9a507644">нержавіюча сталь,пластик</param>
 <param paramcode="11130" name="Потужність" valuecode="a8b10049cbb60a005cfa4c704c2a71eb">500-799 Вт</param>
+<param paramcode="9566" name="Тип" valuecode="ad76d2b0dd701835e38a6b02235f615c">універсальна (центрифужна)</param>
 <param paramcode="9568" name="Особливості" valuecode="7949b0bc1650d68f184a7a953f409472">захист від неправильного збирання</param>
 <param paramcode="width" name="Ширина"><![CDATA[300]]></param>
 <param paramcode="height" name="Висота"><![CDATA[170]]></param>
@@ -102311,6 +102483,7 @@
 <param paramcode="113" name="Гарантія">24</param>
 <param paramcode="11187" name="Максимальна вимірювана вага">180</param>
 <param paramcode="11193" name="Особливості" valuecode="56ec642999c1093dd7a5cb6d1a51b86c,290e8e845741c9d53d5f58cd02700d9b,06d48116e3935cc8026a1a538007eb50">дисплей,підсвічування,автоматичне відключення</param>
+<param paramcode="483" name="Тип ваг" valuecode="bdf276c5d3c5cd2a8ebe5e4e4cb530da">електронні</param>
 <param paramcode="width" name="Ширина"><![CDATA[30]]></param>
 <param paramcode="height" name="Висота"><![CDATA[310]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[310]]></param>
@@ -102343,6 +102516,7 @@
 <param paramcode="113" name="Гарантія">24</param>
 <param paramcode="11187" name="Максимальна вимірювана вага">180</param>
 <param paramcode="11193" name="Особливості" valuecode="56ec642999c1093dd7a5cb6d1a51b86c,290e8e845741c9d53d5f58cd02700d9b,06d48116e3935cc8026a1a538007eb50">дисплей,підсвічування,автоматичне відключення</param>
+<param paramcode="483" name="Тип ваг" valuecode="bdf276c5d3c5cd2a8ebe5e4e4cb530da">електронні</param>
 <param paramcode="width" name="Ширина"><![CDATA[30]]></param>
 <param paramcode="height" name="Висота"><![CDATA[310]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[310]]></param>
@@ -102375,6 +102549,7 @@
 <param paramcode="10159" name="Гарантія" valuecode="b951209fe78c039dfc728f4d1a2c4dd7">24 місяці</param>
 <param paramcode="12097" name="Базовий колір" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="0cf86c57fce41b32ec141c3c14d4f64b">5 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="168" name="Керування" valuecode="14bd7223eafbeea7eafef3a7be3266f7">сенсорне/електронне</param>
 <param paramcode="17406" name="Сенсорна панель" valuecode="yes">так</param>
 <param paramcode="17409" name="Тип робочої ємності" valuecode="06626170606c2b37c102f931e6b951e0">чаша</param>
@@ -102567,6 +102742,7 @@
 <param paramcode="2195" name="Діаметр">26</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
 <param paramcode="12966" name="Покриття" valuecode="0fe12aa7797a94fd5ba8475b3f316a2d">з покриттям</param>
+<param paramcode="4292" name="Тип форми" valuecode="4483ce727aeacf3c671064944d9a573d,f1d84f443c992fef6e3fb28914077ec9">для торта і пирога,роз&amp;#039;ємна</param>
 <param paramcode="4905" name="Матеріал" valuecode="ot0xknvx">сталь</param>
 <param paramcode="4931" name="Матеріал покриття" valuecode="789b709c811fa03b82afe8302c8d2533">антипригарне</param>
 <param paramcode="5361" name="Форма" valuecode="56084c00dd271ec3e8dfcb4e243ca652">кругла</param>
@@ -102614,9 +102790,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT30913" available="false">
+<offer id="HT30913" available="true">
 <price>626.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="107">Тостери</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012349__toster-rotex-rtm121-b.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012349_RTM121-B-2.jpg</picture>
@@ -102813,6 +102989,7 @@
 <param paramcode="brand" name="Бренд" valuecode="w7jol0xv">Rotex</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="chn">Китай</param>
 <param paramcode="78" name="Колір виробника" valuecode="roiaf3xb">синій</param>
+<param paramcode="11415" name="Тип" valuecode="f6a65b3f569224297ca0d9590fac048c">машинка</param>
 <param paramcode="2481" name="Матеріал" valuecode="vzuo0pe0">нержавіюча сталь</param>
 <param paramcode="width" name="Ширина"><![CDATA[80]]></param>
 <param paramcode="height" name="Висота"><![CDATA[40]]></param>
@@ -103736,6 +103913,7 @@
 <param paramcode="103" name="Потужність">3</param>
 <param paramcode="78" name="Колір виробника" valuecode="ff8cwdpi">чорний</param>
 <param paramcode="227" name="Особливості" valuecode="7hpplqskpysidkun">стрижка вологого волосся</param>
+<param paramcode="9918" name="Тип" valuecode="250c89baab931c138958fb0ad92350e7,75e489bf6ec3f7f847806b6fd54a8126">машинка для стрижки,тример</param>
 <param paramcode="9919" name="Призначення" valuecode="42994b25f3f84ca7bb4336e1ba97ae99">для вусів і бороди</param>
 <param paramcode="9921" name="Матеріал лез" valuecode="aa841397c26230f1afe1d21789292f68">титан</param>
 <param paramcode="9924" name="Живлення" valuecode="42e7c4d61b1d36e509791eda65e439b3">від акумулятора</param>
@@ -103897,6 +104075,7 @@
 <param paramcode="113" name="Гарантія">12</param>
 <param paramcode="10159" name="Гарантія" valuecode="290b632088923c5dd75dcc6e1d6df9cb">12 місяців</param>
 <param paramcode="104" name="Об&apos;єм">1.7</param>
+<param paramcode="9635" name="Тип" valuecode="5499c75698008be2368c9da5626ebc56">звичайний</param>
 <param paramcode="11199" name="Безпека" valuecode="8173c755341051331342b266252f3d07,9612847b5180557ee147d915f9d5e82a">автоматичне відключення,відключення без води</param>
 <param paramcode="9639" name="Оснащення" valuecode="adf63e3462b5de0749376fd3aa231fc3,258630984b5875dd6600c3ec08ad14f1,0b3e9c6f6c62d11a114bda37d71571ed">з дисплеєм,поворот на підставці на 360°,фільтр для води</param>
 <param paramcode="9850" name="Матеріал колби" valuecode="0c194001646da53792ca352b6f0baaa6">метал</param>
@@ -104936,9 +105115,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT32016" available="false">
+<offer id="HT32016" available="true">
 <price>10567.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="84">Витяжки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013456_438947412.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000013456_438947414.jpg</picture>
@@ -105181,6 +105360,7 @@
 <param paramcode="113" name="Гарантія">12</param>
 <param paramcode="106" name="Матеріал корпусу" valuecode="51de0b7a01b4f53bcd0800f03b950061,cae20eb7b306775054bdd4ac9a507644">нержавіюча сталь,пластик</param>
 <param paramcode="11130" name="Потужність" valuecode="38aaa0d3333bafb48d34d9e92dd94f4a">800-1200 Вт</param>
+<param paramcode="9566" name="Тип" valuecode="ad76d2b0dd701835e38a6b02235f615c">універсальна (центрифужна)</param>
 <param paramcode="9568" name="Особливості" valuecode="7949b0bc1650d68f184a7a953f409472">захист від неправильного збирання</param>
 <param paramcode="width" name="Ширина"><![CDATA[335]]></param>
 <param paramcode="height" name="Висота"><![CDATA[407]]></param>
@@ -105890,6 +106070,7 @@
 <param paramcode="78" name="Колір виробника" valuecode="ophru6z8">білий</param>
 <param paramcode="762" name="Вага">0.65</param>
 <param paramcode="113" name="Гарантія">12</param>
+<param paramcode="156" name="Тип" valuecode="0b5471405057844865965771e7da069a">заглибна</param>
 <param paramcode="161" name="Покриття робочої поверхні" valuecode="50a149a21414dc62a99ca0953cc457b8">антипригарне покриття</param>
 <param paramcode="width" name="Ширина"><![CDATA[70]]></param>
 <param paramcode="height" name="Висота"><![CDATA[335]]></param>
@@ -106099,6 +106280,7 @@
 <param paramcode="15958" name="Дифузор" valuecode="yes">так</param>
 <param paramcode="15959" name="Гребінець" valuecode="no">ні</param>
 <param paramcode="15960" name="Щітка" valuecode="no">ні</param>
+<param paramcode="7316" name="Тип фена" valuecode="47c10e71a0fbb0bd6d7e0f003fe15613">побутовий</param>
 <param paramcode="width" name="Ширина"><![CDATA[285]]></param>
 <param paramcode="height" name="Висота"><![CDATA[100]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[235]]></param>
@@ -106570,6 +106752,7 @@
 <param paramcode="113" name="Гарантія">12</param>
 <param paramcode="106" name="Матеріал корпусу" valuecode="51de0b7a01b4f53bcd0800f03b950061,cae20eb7b306775054bdd4ac9a507644">нержавіюча сталь,пластик</param>
 <param paramcode="11130" name="Потужність" valuecode="38aaa0d3333bafb48d34d9e92dd94f4a">800-1200 Вт</param>
+<param paramcode="9566" name="Тип" valuecode="ad76d2b0dd701835e38a6b02235f615c">універсальна (центрифужна)</param>
 <param paramcode="9568" name="Особливості" valuecode="0bc7234a1b89ccaad8ad22203bf708c5">нековзні гумові ніжки</param>
 <param paramcode="width" name="Ширина"><![CDATA[305]]></param>
 <param paramcode="height" name="Висота"><![CDATA[310]]></param>
@@ -106605,6 +106788,7 @@
 <param paramcode="9918" name="Тип" valuecode="250c89baab931c138958fb0ad92350e7">машинка для стрижки</param>
 <param paramcode="9919" name="Призначення" valuecode="538d503540216fb512f24dfec829c204,42994b25f3f84ca7bb4336e1ba97ae99">для голови,для вусів і бороди</param>
 <param paramcode="9922" name="Максимальна довжина стрижки (мм)" valuecode="d57a0c5e466f6a76b0d09815a0fb917e">11-20</param>
+<param paramcode="9923" name="Тип установки довжини" valuecode="63edbbc723e36f43641fa4d26cc33cf5">знімні насадки</param>
 <param paramcode="9924" name="Живлення" valuecode="42e7c4d61b1d36e509791eda65e439b3">від акумулятора</param>
 <param paramcode="width" name="Ширина"><![CDATA[250]]></param>
 <param paramcode="height" name="Висота"><![CDATA[80]]></param>
@@ -106968,6 +107152,7 @@
 <param paramcode="10159" name="Гарантія" valuecode="290b632088923c5dd75dcc6e1d6df9cb">12 місяців</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="192d9106e72308fa47ff2549bcaf1b64">10 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="2732f27ae96981c3a070e91f588f6fa9">дверцята</param>
 <param paramcode="11136" name="Потужність" valuecode="a24b45ec389296a190e891aa54e1416b">більше 1700 Вт</param>
 <param paramcode="14402" name="Підтримка температури" valuecode="yes">так</param>
 <param paramcode="15160" name="Автовимкнення" valuecode="yes">так</param>
@@ -107023,6 +107208,7 @@
 <param paramcode="10159" name="Гарантія" valuecode="290b632088923c5dd75dcc6e1d6df9cb">12 місяців</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="b5fb73b0f0754f764f7d8e95f8d4fedb">3,5 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="11136" name="Потужність" valuecode="b7e34912cd388b4aaa59f7e40270e6c7">1200-1500 Вт</param>
 <param paramcode="15129" name="Дисплей" valuecode="49665ccb5f56434d940c5d36577a8559">LED</param>
 <param paramcode="168" name="Керування" valuecode="14bd7223eafbeea7eafef3a7be3266f7">сенсорне/електронне</param>
@@ -107064,6 +107250,7 @@
 <param paramcode="150" name="Вага">5.5</param>
 <param paramcode="10159" name="Гарантія" valuecode="290b632088923c5dd75dcc6e1d6df9cb">12 місяців</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="a566eaba399ed9c8b3fd3e3fba8f2240">8 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="11136" name="Потужність" valuecode="a4eb347ad6de51e2e01181cae3e20a8e">1500-1700 Вт</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896,cda97fb08eda186db32c35530a77c169">чорний,срібло</param>
 <param paramcode="15129" name="Дисплей" valuecode="49665ccb5f56434d940c5d36577a8559">LED</param>
@@ -107150,6 +107337,7 @@
 <param paramcode="10159" name="Гарантія" valuecode="290b632088923c5dd75dcc6e1d6df9cb">12 місяців</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="17e3a5127a17a89c93577c81526ff4bd">6 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="11136" name="Потужність" valuecode="a4eb347ad6de51e2e01181cae3e20a8e">1500-1700 Вт</param>
 <param paramcode="15129" name="Дисплей" valuecode="49665ccb5f56434d940c5d36577a8559">LED</param>
 <param paramcode="15160" name="Автовимкнення" valuecode="yes">так</param>
@@ -107195,6 +107383,7 @@
 <param paramcode="10159" name="Гарантія" valuecode="290b632088923c5dd75dcc6e1d6df9cb">12 місяців</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="5f9aa4ef8eacea5e16d5f47595c9eeaa">10,5 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="11136" name="Потужність" valuecode="a24b45ec389296a190e891aa54e1416b">більше 1700 Вт</param>
 <param paramcode="15129" name="Дисплей" valuecode="49665ccb5f56434d940c5d36577a8559">LED</param>
 <param paramcode="16097" name="Матеріал корпусу" valuecode="54ab4342f28b3b6defa0d68b48835d23">комбінований</param>
@@ -107350,9 +107539,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT32746" available="false">
+<offer id="HT32746" available="true">
 <price>929.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="8809">Гейзерні кавоварки</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/f2468dbbfdaf21d0.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/6b85f4313f485e6b.jpg</picture>
@@ -107429,6 +107618,7 @@
 <param paramcode="10159" name="Гарантія" valuecode="290b632088923c5dd75dcc6e1d6df9cb">12 місяців</param>
 <param paramcode="12097" name="Базовий колір" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="0484c7a3dca18e0e176157884f75ef17">5,5 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="11136" name="Потужність" valuecode="a4eb347ad6de51e2e01181cae3e20a8e">1500-1700 Вт</param>
 <param paramcode="15129" name="Дисплей" valuecode="49665ccb5f56434d940c5d36577a8559">LED</param>
 <param paramcode="168" name="Керування" valuecode="14bd7223eafbeea7eafef3a7be3266f7">сенсорне/електронне</param>
@@ -107597,6 +107787,7 @@
 <param paramcode="9918" name="Тип" valuecode="250c89baab931c138958fb0ad92350e7">машинка для стрижки</param>
 <param paramcode="9921" name="Матеріал лез" valuecode="89fbb887b392738fe77d3fff46a47f28">нержавіюча сталь</param>
 <param paramcode="9922" name="Максимальна довжина стрижки (мм)" valuecode="d57a0c5e466f6a76b0d09815a0fb917e">11-20</param>
+<param paramcode="9923" name="Тип установки довжини" valuecode="63edbbc723e36f43641fa4d26cc33cf5">знімні насадки</param>
 <param paramcode="9924" name="Живлення" valuecode="42e7c4d61b1d36e509791eda65e439b3">від акумулятора</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[70]]></param>
@@ -107669,6 +107860,7 @@
 <param paramcode="3993" name="Живлення" valuecode="3831f14dd7fcdc13612c8380def1627f">акумулятор</param>
 <param paramcode="10974" name="Тип пилососа" valuecode="8637b2086d8a65ccb2560aa1667b5f8d">вертикальний</param>
 <param paramcode="10937" name="Споживана потужність" valuecode="ad87da7ac758997264dd319f2670f678">менш ніж 1500</param>
+<param paramcode="234" name="Тип прибирання" valuecode="f1339c64b728904ef1b0486074c4b2be,481af18005da68f285737bdfa9b021c6">сухе,вологе (миючий)</param>
 <param paramcode="244" name="Споживана потужність">350</param>
 <param paramcode="4684" name="Вага" valuecode="37b0b4f62c2336eb3f3f8a3c37996a43">до 2 кг</param>
 <param paramcode="78" name="Колір виробника" valuecode="669">чорний із білим</param>
@@ -108832,6 +109024,7 @@
 <param paramcode="10159" name="Гарантія" valuecode="b951209fe78c039dfc728f4d1a2c4dd7">24 місяці</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="56b7b2244a906188230c74c8462e52b7">4 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="11136" name="Потужність" valuecode="b7e34912cd388b4aaa59f7e40270e6c7">1200-1500 Вт</param>
 <param paramcode="15129" name="Дисплей" valuecode="49665ccb5f56434d940c5d36577a8559">LED</param>
 <param paramcode="15160" name="Автовимкнення" valuecode="yes">так</param>
@@ -109031,6 +109224,7 @@
 <param paramcode="10159" name="Гарантія" valuecode="290b632088923c5dd75dcc6e1d6df9cb">12 місяців</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="b5fb73b0f0754f764f7d8e95f8d4fedb">3,5 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="11136" name="Потужність" valuecode="b7e34912cd388b4aaa59f7e40270e6c7">1200-1500 Вт</param>
 <param paramcode="14267" name="Можна мити в посудомийній машині" valuecode="yes">так</param>
 <param paramcode="15160" name="Автовимкнення" valuecode="yes">так</param>
@@ -109076,6 +109270,7 @@
 <param paramcode="10159" name="Гарантія" valuecode="290b632088923c5dd75dcc6e1d6df9cb">12 місяців</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="39743bff448cbd92c34c49e0f3ca53fc">6,2 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="11136" name="Потужність" valuecode="a4eb347ad6de51e2e01181cae3e20a8e">1500-1700 Вт</param>
 <param paramcode="14267" name="Можна мити в посудомийній машині" valuecode="yes">так</param>
 <param paramcode="15160" name="Автовимкнення" valuecode="yes">так</param>
@@ -109167,6 +109362,7 @@
 <param paramcode="10159" name="Гарантія" valuecode="290b632088923c5dd75dcc6e1d6df9cb">12 місяців</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="fcbadd2f561b378541022b0db46eb2ec">13 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="2732f27ae96981c3a070e91f588f6fa9">дверцята</param>
 <param paramcode="11136" name="Потужність" valuecode="a4eb347ad6de51e2e01181cae3e20a8e">1500-1700 Вт</param>
 <param paramcode="15232" name="Таймер" valuecode="yes">так</param>
 <param paramcode="16097" name="Матеріал корпусу" valuecode="54ab4342f28b3b6defa0d68b48835d23">комбінований</param>
@@ -109375,6 +109571,7 @@
 <param paramcode="11187" name="Максимальна вимірювана вага">180</param>
 <param paramcode="11193" name="Особливості" valuecode="56ec642999c1093dd7a5cb6d1a51b86c,290e8e845741c9d53d5f58cd02700d9b,2d710198ecac1db49cba3d1b0097e6f0,06d48116e3935cc8026a1a538007eb50,89e0969a86bfa4c96a01c3d11f622672,0b2ad8ee752190de06aaf47a756fd5be">дисплей,підсвічування,автоматичне ввімкнення,автоматичне відключення,індикатор рівня перевантаженості,індикатор заряду батареї</param>
 <param paramcode="327" name="Елементи живлення" valuecode="cdd42b014a3283c85b0441e022548f14">2xAAA</param>
+<param paramcode="483" name="Тип ваг" valuecode="bdf276c5d3c5cd2a8ebe5e4e4cb530da">електронні</param>
 <param paramcode="width" name="Ширина"><![CDATA[40]]></param>
 <param paramcode="height" name="Висота"><![CDATA[320]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[320]]></param>
@@ -109692,9 +109889,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT33307" available="false">
+<offer id="HT33307" available="true">
 <price>2276.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="130">Електричні зубні щітки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/4_000014744_SS-12355.jpg</picture>
 <name lang="ua">Іригатор SOGO SS-12355</name>
@@ -109739,6 +109936,7 @@
 <param paramcode="78" name="Колір виробника" valuecode="d4a1e2a6ebc6e094c4dccb596c9d3024">золотистий</param>
 <param paramcode="227" name="Особливості" valuecode="3kevowcy">стрижка бороди</param>
 <param paramcode="4772" name="Додаткові насадки" valuecode="b589a892243dfbf2adb0409a6740e83b">з насадками</param>
+<param paramcode="9918" name="Тип" valuecode="250c89baab931c138958fb0ad92350e7">машинка для стрижки</param>
 <param paramcode="9919" name="Призначення" valuecode="42994b25f3f84ca7bb4336e1ba97ae99">для вусів і бороди</param>
 <param paramcode="9920" name="Тип керування" valuecode="f910686e0316aeae990bcab415ba9cb0">кнопкове</param>
 <param paramcode="9922" name="Максимальна довжина стрижки (мм)" valuecode="a5d052dc51c93779a0bccd2b0f92f54d">1-10</param>
@@ -109794,6 +109992,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="chn">Китай</param>
 <param paramcode="150" name="Вага">280</param>
 <param paramcode="762" name="Вага">280</param>
+<param paramcode="11415" name="Тип" valuecode="f6a65b3f569224297ca0d9590fac048c">машинка</param>
 <param paramcode="2481" name="Матеріал" valuecode="cwcwxpvb">пластик</param>
 <param paramcode="width" name="Ширина"><![CDATA[190]]></param>
 <param paramcode="height" name="Висота"><![CDATA[100]]></param>
@@ -109981,6 +110180,7 @@
 <param paramcode="78" name="Колір виробника" valuecode="ff8cwdpi">чорний</param>
 <param paramcode="227" name="Особливості" valuecode="p5kjyldfxd3pkoii">вакуумна система</param>
 <param paramcode="4772" name="Додаткові насадки" valuecode="b589a892243dfbf2adb0409a6740e83b">з насадками</param>
+<param paramcode="9918" name="Тип" valuecode="250c89baab931c138958fb0ad92350e7">машинка для стрижки</param>
 <param paramcode="9920" name="Тип керування" valuecode="f910686e0316aeae990bcab415ba9cb0">кнопкове</param>
 <param paramcode="9922" name="Максимальна довжина стрижки (мм)" valuecode="d57a0c5e466f6a76b0d09815a0fb917e">11-20</param>
 <param paramcode="9924" name="Живлення" valuecode="42e7c4d61b1d36e509791eda65e439b3">від акумулятора</param>
@@ -110168,6 +110368,7 @@
 <param paramcode="150" name="Вага">4.4</param>
 <param paramcode="10159" name="Гарантія" valuecode="290b632088923c5dd75dcc6e1d6df9cb">12 місяців</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="87f2c40ef6ae0040b89290184b28b1a6">5,8 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="11136" name="Потужність" valuecode="a4eb347ad6de51e2e01181cae3e20a8e">1500-1700 Вт</param>
 <param paramcode="12097" name="Базовий колір" valuecode="183abcd6937b3097a445a0826dcf8fe9,3ec160321d45b95cf3a540ad3a2bf896">нержавіюча сталь,чорний</param>
 <param paramcode="15232" name="Таймер" valuecode="yes">так</param>
@@ -110372,6 +110573,7 @@
 <param paramcode="103" name="Потужність">1700</param>
 <param paramcode="10159" name="Гарантія" valuecode="290b632088923c5dd75dcc6e1d6df9cb">12 місяців</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="a566eaba399ed9c8b3fd3e3fba8f2240">8 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="11136" name="Потужність" valuecode="a4eb347ad6de51e2e01181cae3e20a8e">1500-1700 Вт</param>
 <param paramcode="12097" name="Базовий колір" valuecode="183abcd6937b3097a445a0826dcf8fe9,3ec160321d45b95cf3a540ad3a2bf896">нержавіюча сталь,чорний</param>
 <param paramcode="15129" name="Дисплей" valuecode="74ef4291fa4da4e8c657b7564896dc4d">без дисплея</param>
@@ -110503,6 +110705,7 @@
 <param paramcode="10159" name="Гарантія" valuecode="290b632088923c5dd75dcc6e1d6df9cb">12 місяців</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="0cf86c57fce41b32ec141c3c14d4f64b">5 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="11136" name="Потужність" valuecode="a4eb347ad6de51e2e01181cae3e20a8e">1500-1700 Вт</param>
 <param paramcode="14267" name="Можна мити в посудомийній машині" valuecode="yes">так</param>
 <param paramcode="15129" name="Дисплей" valuecode="49665ccb5f56434d940c5d36577a8559">LED</param>
@@ -110555,6 +110758,7 @@
 <param paramcode="10159" name="Гарантія" valuecode="290b632088923c5dd75dcc6e1d6df9cb">12 місяців</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="781b2589eaac276214a3ffa73f876eee">7 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="11136" name="Потужність" valuecode="a4eb347ad6de51e2e01181cae3e20a8e">1500-1700 Вт</param>
 <param paramcode="14267" name="Можна мити в посудомийній машині" valuecode="yes">так</param>
 <param paramcode="15129" name="Дисплей" valuecode="49665ccb5f56434d940c5d36577a8559">LED</param>
@@ -111452,6 +111656,7 @@
 <param paramcode="10159" name="Гарантія" valuecode="b951209fe78c039dfc728f4d1a2c4dd7">24 місяці</param>
 <param paramcode="11136" name="Потужність" valuecode="a24b45ec389296a190e891aa54e1416b">більше 1700 Вт</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="c142f380f3aae6eaf354f3e4bea1399b">9 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="12097" name="Базовий колір" valuecode="cda97fb08eda186db32c35530a77c169,3ec160321d45b95cf3a540ad3a2bf896">срібло,чорний</param>
 <param paramcode="15160" name="Автовимкнення" valuecode="yes">так</param>
 <param paramcode="15232" name="Таймер" valuecode="yes">так</param>
@@ -111504,9 +111709,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT34279" available="false">
+<offer id="HT34279" available="true">
 <price>14844.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="77">Пральні машини</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157501.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157502.jpg</picture>
@@ -112272,6 +112477,7 @@
 <param paramcode="10159" name="Гарантія" valuecode="290b632088923c5dd75dcc6e1d6df9cb">12 місяців</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="cd060d57b22c03b6318f2abfd982a4d0">12 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="14267" name="Можна мити в посудомийній машині" valuecode="yes">так</param>
 <param paramcode="16097" name="Матеріал корпусу" valuecode="54ab4342f28b3b6defa0d68b48835d23">комбінований</param>
 <param paramcode="168" name="Керування" valuecode="14bd7223eafbeea7eafef3a7be3266f7">сенсорне/електронне</param>
@@ -112441,6 +112647,7 @@
 <param paramcode="10159" name="Гарантія" valuecode="b951209fe78c039dfc728f4d1a2c4dd7">24 місяці</param>
 <param paramcode="11136" name="Потужність" valuecode="a24b45ec389296a190e891aa54e1416b">більше 1700 Вт</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="cd060d57b22c03b6318f2abfd982a4d0">12 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="12097" name="Базовий колір" valuecode="cda97fb08eda186db32c35530a77c169,3ec160321d45b95cf3a540ad3a2bf896">срібло,чорний</param>
 <param paramcode="16097" name="Матеріал корпусу" valuecode="54ab4342f28b3b6defa0d68b48835d23">комбінований</param>
 <param paramcode="168" name="Керування" valuecode="14bd7223eafbeea7eafef3a7be3266f7">сенсорне/електронне</param>
@@ -112465,9 +112672,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT34786" available="false">
+<offer id="HT34786" available="true">
 <price>5109.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="8750">Мультипечі</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000162981.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000162982.jpg</picture>
@@ -112697,9 +112904,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT34889" available="false">
+<offer id="HT34889" available="true">
 <price>385.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="98">Електрочайники</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/tehnikaua/2773b7977547ce06.jpg</picture>
 <name lang="ua">Чайник Rotex RKT12-S</name>
@@ -112939,6 +113146,7 @@
 <param paramcode="3048" name="Регулювання помелу" valuecode="yes">так</param>
 <param paramcode="5119" name="Контейнер для молока" valuecode="yes">так</param>
 <param paramcode="5401" name="Тип керування" valuecode="f9945d9dad2b8f7b91d2f0c3b6c31111">сенсорне</param>
+<param paramcode="7047" name="Тип встановлення" valuecode="ded78b027756addd9ec9419e50904e7f">настільна</param>
 <param paramcode="width" name="Ширина"><![CDATA[300]]></param>
 <param paramcode="height" name="Висота"><![CDATA[400]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[450]]></param>
@@ -112993,6 +113201,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="cze">Чехія</param>
 <param paramcode="10159" name="Гарантія" valuecode="b951209fe78c039dfc728f4d1a2c4dd7">24 місяці</param>
 <param paramcode="103" name="Потужність">1500</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896,cda97fb08eda186db32c35530a77c169">чорний,срібло</param>
 <param paramcode="14267" name="Можна мити в посудомийній машині" valuecode="yes">так</param>
 <param paramcode="15129" name="Дисплей" valuecode="49665ccb5f56434d940c5d36577a8559">LED</param>
@@ -113259,6 +113468,7 @@
 <param paramcode="78" name="Колір виробника" valuecode="nlmlmqnr">рожевий</param>
 <param paramcode="150" name="Вага">170</param>
 <param paramcode="762" name="Вага">170</param>
+<param paramcode="11415" name="Тип" valuecode="f6a65b3f569224297ca0d9590fac048c">машинка</param>
 <param paramcode="2481" name="Матеріал" valuecode="cwcwxpvb">пластик</param>
 <param paramcode="width" name="Ширина"><![CDATA[105]]></param>
 <param paramcode="height" name="Висота"><![CDATA[70]]></param>
@@ -113317,9 +113527,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35029" available="false">
+<offer id="HT35029" available="true">
 <price>757.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="117">Кухонні комбайни</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167062.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167063.jpg</picture>
@@ -113425,6 +113635,7 @@
 <param paramcode="113" name="Гарантія">24</param>
 <param paramcode="11187" name="Максимальна вимірювана вага">180</param>
 <param paramcode="11193" name="Особливості" valuecode="56ec642999c1093dd7a5cb6d1a51b86c,290e8e845741c9d53d5f58cd02700d9b,06d48116e3935cc8026a1a538007eb50">дисплей,підсвічування,автоматичне відключення</param>
+<param paramcode="483" name="Тип ваг" valuecode="bdf276c5d3c5cd2a8ebe5e4e4cb530da">електронні</param>
 <param paramcode="width" name="Ширина"><![CDATA[35]]></param>
 <param paramcode="height" name="Висота"><![CDATA[315]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[315]]></param>
@@ -113450,6 +113661,7 @@
 <param paramcode="78" name="Колір виробника" valuecode="e8283197195e2b90ff407ec83c606918">металік</param>
 <param paramcode="12823" name="Конструкція" valuecode="5380af970c4f8b284ab377088e3eab8b">розкладна</param>
 <param paramcode="9493" name="Матеріал" valuecode="63b6dbed19438c2bff4013eec62312a6">сталь</param>
+<param paramcode="9494" name="Тип сушарки" valuecode="4305547c7bcc7eca0d743c6e2c836d2b">підлогова</param>
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
@@ -114070,6 +114282,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="pol">Польща</param>
 <param paramcode="2195" name="Діаметр">22</param>
 <param paramcode="4905" name="Матеріал" valuecode="vvnasook">нержавіюча сталь</param>
+<param paramcode="50" name="Тип" valuecode="v72wqs31lky6qlbp">миска</param>
 <param paramcode="78" name="Колір виробника" valuecode="660">нержавіюча сталь</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[130]]></param>
@@ -114094,6 +114307,7 @@
 <param paramcode="9993" name="Колір" valuecode="bciyymzdchgtwleq">нержавіюча сталь</param>
 <param paramcode="78" name="Колір виробника" valuecode="660">нержавіюча сталь</param>
 <param paramcode="4905" name="Матеріал" valuecode="vvnasook">нержавіюча сталь</param>
+<param paramcode="50" name="Тип" valuecode="v72wqs31lky6qlbp">миска</param>
 <param paramcode="width" name="Ширина"><![CDATA[260]]></param>
 <param paramcode="height" name="Висота"><![CDATA[130]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[260]]></param>
@@ -114117,6 +114331,7 @@
 <param paramcode="9993" name="Колір" valuecode="bciyymzdchgtwleq">нержавіюча сталь</param>
 <param paramcode="78" name="Колір виробника" valuecode="660">нержавіюча сталь</param>
 <param paramcode="4905" name="Матеріал" valuecode="vvnasook">нержавіюча сталь</param>
+<param paramcode="50" name="Тип" valuecode="v72wqs31lky6qlbp">миска</param>
 <param paramcode="width" name="Ширина"><![CDATA[300]]></param>
 <param paramcode="height" name="Висота"><![CDATA[130]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[300]]></param>
@@ -114910,6 +115125,7 @@
 <param paramcode="78" name="Колір виробника" valuecode="ff8cwdpi">чорний</param>
 <param paramcode="150" name="Вага">290</param>
 <param paramcode="762" name="Вага">290</param>
+<param paramcode="11415" name="Тип" valuecode="f6a65b3f569224297ca0d9590fac048c">машинка</param>
 <param paramcode="2481" name="Матеріал" valuecode="cwcwxpvb,vzuo0pe0">пластик,нержавіюча сталь</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -114965,6 +115181,7 @@
 <param paramcode="762" name="Вага">0.39</param>
 <param paramcode="10159" name="Гарантія" valuecode="b951209fe78c039dfc728f4d1a2c4dd7">24 місяці</param>
 <param paramcode="12097" name="Базовий колір" valuecode="cda97fb08eda186db32c35530a77c169">срібло</param>
+<param paramcode="16763" name="Тип" valuecode="0db56f6f4d046176c520c7439aa0571f">класичний</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[90]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[150]]></param>
@@ -115246,6 +115463,7 @@
 <param paramcode="6077" name="Потужність">20000</param>
 <param paramcode="78" name="Колір виробника" valuecode="ophru6z8">білий</param>
 <param paramcode="113" name="Гарантія">12</param>
+<param paramcode="2562" name="Тип керування" valuecode="edab354b2e4a0106da6395378c0bf58f">механічний</param>
 <param paramcode="2563" name="Тип установки" valuecode="e297d88ff1fb00050ed765ebfe3c52a1">вертикальний</param>
 <param paramcode="width" name="Ширина"><![CDATA[500]]></param>
 <param paramcode="height" name="Висота"><![CDATA[783]]></param>
@@ -115303,6 +115521,7 @@
 <param paramcode="113" name="Гарантія">12</param>
 <param paramcode="11187" name="Максимальна вимірювана вага">150</param>
 <param paramcode="11193" name="Особливості" valuecode="2d710198ecac1db49cba3d1b0097e6f0,06d48116e3935cc8026a1a538007eb50,89e0969a86bfa4c96a01c3d11f622672,0b2ad8ee752190de06aaf47a756fd5be">автоматичне ввімкнення,автоматичне відключення,індикатор рівня перевантаженості,індикатор заряду батареї</param>
+<param paramcode="483" name="Тип ваг" valuecode="bdf276c5d3c5cd2a8ebe5e4e4cb530da">електронні</param>
 <param paramcode="width" name="Ширина"><![CDATA[310]]></param>
 <param paramcode="height" name="Висота"><![CDATA[30]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[310]]></param>
@@ -115384,6 +115603,7 @@
 <param paramcode="11565" name="Тип кондиціонера" valuecode="8b80c8882ab8b992642c7b048f9da12c">спліт-система</param>
 <param paramcode="9933" name="Колір внутрішнього блоку" valuecode="62123bd3f2dc18e0a9890bbe99d47114">білий</param>
 <param paramcode="10952" name="Гарантія" valuecode="d9b077ebed4d3bb6448fc62cad307bc3">24 місяці</param>
+<param paramcode="11566" name="Тип монтажу" valuecode="1175d5be1f255f890bafa2adb0d3f060">настінний</param>
 <param paramcode="11567" name="Компресор" valuecode="a48e2f4f93903cf939752879ca9bdd2b">інверторний</param>
 <param paramcode="14388" name="Клас енергоефективності (охолодження)" valuecode="b9541d4892c313da34a675c8451fb0f4">A++</param>
 <param paramcode="14390" name="Охолодження" valuecode="yes">так</param>
@@ -115457,6 +115677,7 @@
 <param paramcode="150" name="Вага">6.5</param>
 <param paramcode="10159" name="Гарантія" valuecode="b951209fe78c039dfc728f4d1a2c4dd7">24 місяці</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="192d9106e72308fa47ff2549bcaf1b64">10 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="11136" name="Потужність" valuecode="a4eb347ad6de51e2e01181cae3e20a8e">1500-1700 Вт</param>
 <param paramcode="12097" name="Базовий колір" valuecode="cda97fb08eda186db32c35530a77c169,3ec160321d45b95cf3a540ad3a2bf896">срібло,чорний</param>
 <param paramcode="15129" name="Дисплей" valuecode="49665ccb5f56434d940c5d36577a8559">LED</param>
@@ -116164,6 +116385,7 @@
 <param paramcode="17279" name="Покриття робочих панелей" valuecode="ee9c4fc0f1950397b96c73145e4db62a">антипригарне</param>
 <param paramcode="10159" name="Гарантія" valuecode="290b632088923c5dd75dcc6e1d6df9cb">12 місяців</param>
 <param paramcode="12097" name="Базовий колір" valuecode="cda97fb08eda186db32c35530a77c169">срібло</param>
+<param paramcode="2496" name="Тип товару" valuecode="8mfhh3dyz6pcoohf">Бутербродниця</param>
 <param paramcode="78" name="Колір виробника" valuecode="wdlnhtlh">срібний</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[246]]></param>
@@ -116189,6 +116411,7 @@
 <param paramcode="10159" name="Гарантія" valuecode="b951209fe78c039dfc728f4d1a2c4dd7">24 місяці</param>
 <param paramcode="11136" name="Потужність" valuecode="b7e34912cd388b4aaa59f7e40270e6c7">1200-1500 Вт</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="0cf86c57fce41b32ec141c3c14d4f64b">5 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="12097" name="Базовий колір" valuecode="cda97fb08eda186db32c35530a77c169,3ec160321d45b95cf3a540ad3a2bf896">срібло,чорний</param>
 <param paramcode="16097" name="Матеріал корпусу" valuecode="54ab4342f28b3b6defa0d68b48835d23">комбінований</param>
 <param paramcode="168" name="Керування" valuecode="14bd7223eafbeea7eafef3a7be3266f7">сенсорне/електронне</param>
@@ -116226,6 +116449,8 @@
 <param paramcode="113" name="Гарантія">24</param>
 <param paramcode="78" name="Колір виробника" valuecode="ff8cwdpi">чорний</param>
 <param paramcode="2845" name="Колір" valuecode="e8cb20b018dbeb82208aa2b8b95b80a3">чорний</param>
+<param paramcode="16576" name="Тип живлення" valuecode="64fb3a448022b3889e9d16af257c4d71">від мережі</param>
+<param paramcode="9477" name="Тип" valuecode="d8df94e76b1db596ace7520f3c649356">заглибний</param>
 <param paramcode="width" name="Ширина"><![CDATA[228]]></param>
 <param paramcode="height" name="Висота"><![CDATA[305]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[228]]></param>
@@ -116531,6 +116756,7 @@
 <param paramcode="2514" name="Матеріал бака і покриття" valuecode="a4b607882c9dcbc9dc1ebd998756e867">склокераміка (сталь з емальованим покриттям)</param>
 <param paramcode="2515" name="Тип водонагрівача" valuecode="d92335df517669f4024842c1bfbbe149">електричний</param>
 <param paramcode="2562" name="Тип керування" valuecode="edab354b2e4a0106da6395378c0bf58f">механічний</param>
+<param paramcode="2563" name="Тип установки" valuecode="e297d88ff1fb00050ed765ebfe3c52a1">вертикальний</param>
 <param paramcode="2565" name="Форма" valuecode="eee8a39d94cfb36c0c1e4a5f47bfb622">циліндрична (кругла)</param>
 <param paramcode="width" name="Ширина"><![CDATA[405]]></param>
 <param paramcode="height" name="Висота"><![CDATA[710]]></param>
@@ -116570,9 +116796,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35642" available="false">
+<offer id="HT35642" available="true">
 <price>7453.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="8239">Кавоварки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177712.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177714.jpg</picture>
@@ -116779,6 +117005,7 @@
 <param paramcode="11136" name="Потужність" valuecode="a24b45ec389296a190e891aa54e1416b">більше 1700 Вт</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="5e5f2736d04324809d03f8d21b60161a">9,5 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="16097" name="Матеріал корпусу" valuecode="54ab4342f28b3b6defa0d68b48835d23">комбінований</param>
 <param paramcode="168" name="Керування" valuecode="14bd7223eafbeea7eafef3a7be3266f7">сенсорне/електронне</param>
 <param paramcode="17406" name="Сенсорна панель" valuecode="yes">так</param>
@@ -116885,6 +117112,7 @@
 <param paramcode="15948" name="Іонізація" valuecode="yes">так</param>
 <param paramcode="16097" name="Матеріал корпусу" valuecode="b1bdf645408eb178add8f68512a0b98d">пластик</param>
 <param paramcode="12097" name="Базовий колір" valuecode="cb8a8dc6861023bc621f964a491c94d4">білий</param>
+<param paramcode="14358" name="Тип живлення" valuecode="74761a570613e0d6456d295b0aea20ec">мережевий</param>
 <param paramcode="width" name="Ширина"><![CDATA[250]]></param>
 <param paramcode="height" name="Висота"><![CDATA[120]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[220]]></param>
@@ -117056,9 +117284,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35687" available="false">
+<offer id="HT35687" available="true">
 <price>2854.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="84">Витяжки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178554.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178558.jpg</picture>
@@ -117729,7 +117957,9 @@
 <param paramcode="78" name="Колір виробника" valuecode="rty37clq">бірюзовий</param>
 <param paramcode="12097" name="Базовий колір" valuecode="a44a75b549f8063e80bb51dbb0b04cf0">бірюзовий</param>
 <param paramcode="10159" name="Гарантія" valuecode="290b632088923c5dd75dcc6e1d6df9cb">12 місяців</param>
+<param paramcode="16741" name="Тип" valuecode="e905736a3452dea1f933647fce8ec666">класична плойка</param>
 <param paramcode="16744" name="Призначення" valuecode="d445a8048286e4aa81c0efc998889b42">для локонів</param>
+<param paramcode="16745" name="Тип конструкції" valuecode="f5174afa564c2240b7de77759922f3ff">з затискачем</param>
 <param paramcode="width" name="Ширина"><![CDATA[177]]></param>
 <param paramcode="height" name="Висота"><![CDATA[123]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[250]]></param>
@@ -117753,6 +117983,9 @@
 <param paramcode="12097" name="Базовий колір" valuecode="09a334800e7d6ccc7d54827f16cf4df2">бежевий</param>
 <param paramcode="10159" name="Гарантія" valuecode="290b632088923c5dd75dcc6e1d6df9cb">12 місяців</param>
 <param paramcode="108" name="Кількість температурних режимів">5</param>
+<param paramcode="16083" name="Тип живлення" valuecode="4d002264f57674b6832236335adea29a">від мережі</param>
+<param paramcode="16741" name="Тип" valuecode="e905736a3452dea1f933647fce8ec666">класична плойка</param>
+<param paramcode="16745" name="Тип конструкції" valuecode="f5174afa564c2240b7de77759922f3ff">з затискачем</param>
 <param paramcode="16750" name="Покриття робочої поверхні" valuecode="683419829a672e6095541bf848e8564c">турмалінове</param>
 <param paramcode="width" name="Ширина"><![CDATA[85]]></param>
 <param paramcode="height" name="Висота"><![CDATA[60]]></param>
@@ -117936,6 +118169,7 @@
 <param paramcode="395" name="Загальний об&apos;єм">43</param>
 <param paramcode="10952" name="Гарантія" valuecode="5754dacb5f374098bd115eafa36c9dd4">12 місяців</param>
 <param paramcode="13470" name="Матеріал полиць" valuecode="159ed46a3b2ff5b084ba65067314f989">удароміцне скло</param>
+<param paramcode="13472" name="Тип ручок" valuecode="3a88783b0546ed3ea11ec895e7ebf7f3">приховані</param>
 <param paramcode="width" name="Ширина"><![CDATA[472]]></param>
 <param paramcode="height" name="Висота"><![CDATA[550]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[475]]></param>
@@ -118185,6 +118419,7 @@
 <param paramcode="11136" name="Потужність" valuecode="a24b45ec389296a190e891aa54e1416b">більше 1700 Вт</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="0484c7a3dca18e0e176157884f75ef17">5,5 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="168" name="Керування" valuecode="14bd7223eafbeea7eafef3a7be3266f7">сенсорне/електронне</param>
 <param paramcode="17406" name="Сенсорна панель" valuecode="yes">так</param>
 <param paramcode="17409" name="Тип робочої ємності" valuecode="06626170606c2b37c102f931e6b951e0">чаша</param>
@@ -118224,6 +118459,7 @@
 <param paramcode="11136" name="Потужність" valuecode="a24b45ec389296a190e891aa54e1416b">більше 1700 Вт</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="a566eaba399ed9c8b3fd3e3fba8f2240">8 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="15129" name="Дисплей" valuecode="49665ccb5f56434d940c5d36577a8559">LED</param>
 <param paramcode="15160" name="Автовимкнення" valuecode="yes">так</param>
 <param paramcode="15232" name="Таймер" valuecode="yes">так</param>
@@ -118270,6 +118506,7 @@
 <param paramcode="10159" name="Гарантія" valuecode="b951209fe78c039dfc728f4d1a2c4dd7">24 місяці</param>
 <param paramcode="11136" name="Потужність" valuecode="a24b45ec389296a190e891aa54e1416b">більше 1700 Вт</param>
 <param paramcode="9562" name="Об&apos;єм чаші" valuecode="0cf86c57fce41b32ec141c3c14d4f64b">5 л</param>
+<param paramcode="10694" name="Тип завантаження" valuecode="f47f6353c060015bf842fe6cf3c8e4bf">знімна ємність</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
 <param paramcode="15129" name="Дисплей" valuecode="49665ccb5f56434d940c5d36577a8559">LED</param>
 <param paramcode="168" name="Керування" valuecode="14bd7223eafbeea7eafef3a7be3266f7">сенсорне/електронне</param>
@@ -118450,8 +118687,10 @@
 <param paramcode="15721" name="Регулювання кута нахилу" valuecode="yes">так</param>
 <param paramcode="16897" name="Захист від перегріву" valuecode="yes">так</param>
 <param paramcode="17003" name="Тип" valuecode="1094a1f2b7cf1ca4994b37d828bcd51e">з лопатями</param>
+<param paramcode="17008" name="Тип встановлення" valuecode="d534c53675b3d23612770e6a3e0ee779">підлоговий</param>
 <param paramcode="17019" name="Обертання" valuecode="yes">так</param>
 <param paramcode="17032" name="Споживана потужність" valuecode="9eeb6ab5a75c192fec0d06ece4ac330b">51-100 Вт</param>
+<param paramcode="5401" name="Тип керування" valuecode="0270377d984b07d2df88df88d0a0aafd">кнопки / регулятори</param>
 <param paramcode="width" name="Ширина"><![CDATA[300]]></param>
 <param paramcode="height" name="Висота"><![CDATA[295]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[430]]></param>
@@ -118678,6 +118917,7 @@
 <param paramcode="10159" name="Гарантія" valuecode="b951209fe78c039dfc728f4d1a2c4dd7">24 місяці</param>
 <param paramcode="16741" name="Тип" valuecode="678d18467fd533f35b7f948f01bf3b40">конусна плойка</param>
 <param paramcode="16744" name="Призначення" valuecode="d445a8048286e4aa81c0efc998889b42">для локонів</param>
+<param paramcode="16745" name="Тип конструкції" valuecode="ac0485a1f4d198e3180b0877a0330339">без затискача</param>
 <param paramcode="16750" name="Покриття робочої поверхні" valuecode="6a62a2334b5b80fd993cada5ec3a5a0d">керамічне</param>
 <param paramcode="4932" name="Матеріал робочої поверхні" valuecode="a96f662fa3441c7e3499f0183ead03ab">кераміка</param>
 <param paramcode="width" name="Ширина"><![CDATA[390]]></param>
@@ -118742,6 +118982,7 @@
 <param paramcode="11131" name="Потужність" valuecode="b92dafab81d04489c66b559574cf6878">більш ніж 500 Вт</param>
 <param paramcode="12097" name="Базовий колір" valuecode="3ec160321d45b95cf3a540ad3a2bf896">чорний</param>
 <param paramcode="1005" name="Захист" valuecode="ceb415f06dbeaf60553da865fd406760">від перегріву</param>
+<param paramcode="356" name="Тип міксера" valuecode="d0eae3aea0bc1e417090e4f3d17d76cc">стаціонарний</param>
 <param paramcode="width" name="Ширина"><![CDATA[228]]></param>
 <param paramcode="height" name="Висота"><![CDATA[255]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[215]]></param>
@@ -120266,9 +120507,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT36332" available="false">
+<offer id="HT36332" available="true">
 <price>14005.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="161">Телевізори</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169881.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000169882.jpg</picture>
@@ -120294,9 +120535,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT36333" available="false">
+<offer id="HT36333" available="true">
 <price>11688.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="161">Телевізори</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191581.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191586.jpg</picture>
@@ -120312,6 +120553,7 @@
 <param paramcode="15083" name="DVB-C" valuecode="yes">так</param>
 <param paramcode="15084" name="DVB-S" valuecode="yes">так</param>
 <param paramcode="15085" name="DVB-S2" valuecode="yes">так</param>
+<param paramcode="12645" name="Тип підсвічування" valuecode="50e858d6132a570aec241332352456ce">Direct LED</param>
 <param paramcode="width" name="Ширина"><![CDATA[530]]></param>
 <param paramcode="height" name="Висота"><![CDATA[910]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[740]]></param>
@@ -120335,6 +120577,8 @@
 <param paramcode="9715" name="Гарантія">12</param>
 <param paramcode="103" name="Потужність">2000</param>
 <param paramcode="106" name="Матеріал корпусу" valuecode="cae20eb7b306775054bdd4ac9a507644">пластик</param>
+<param paramcode="11676" name="Тип встановлення" valuecode="fb9d6b7950caa8620193540a2d713fd0">підлоговий</param>
+<param paramcode="3101" name="Вид" valuecode="fe5042ee799cb3e23d97e202c1bdbe2f">електричний</param>
 <param paramcode="width" name="Ширина"><![CDATA[178]]></param>
 <param paramcode="height" name="Висота"><![CDATA[232]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[220]]></param>
@@ -120362,6 +120606,7 @@
 <param paramcode="15948" name="Іонізація" valuecode="yes">так</param>
 <param paramcode="16097" name="Матеріал корпусу" valuecode="b1bdf645408eb178add8f68512a0b98d">пластик</param>
 <param paramcode="12097" name="Базовий колір" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
+<param paramcode="14358" name="Тип живлення" valuecode="74761a570613e0d6456d295b0aea20ec">мережевий</param>
 <param paramcode="width" name="Ширина"><![CDATA[250]]></param>
 <param paramcode="height" name="Висота"><![CDATA[120]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[220]]></param>
@@ -120387,6 +120632,7 @@
 <param paramcode="113" name="Гарантія">24</param>
 <param paramcode="10159" name="Гарантія" valuecode="b951209fe78c039dfc728f4d1a2c4dd7">24 місяці</param>
 <param paramcode="104" name="Об&apos;єм">0.6</param>
+<param paramcode="9635" name="Тип" valuecode="5499c75698008be2368c9da5626ebc56">звичайний</param>
 <param paramcode="width" name="Ширина"><![CDATA[200]]></param>
 <param paramcode="height" name="Висота"><![CDATA[230]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[230]]></param>
@@ -120439,6 +120685,8 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="pol">Польща</param>
 <param paramcode="113" name="Гарантія">12</param>
 <param paramcode="150" name="Вага">350</param>
+<param paramcode="10887" name="Тип тримера" valuecode="2e2bb79c238ae1cff811db814e5432e2">висувний</param>
+<param paramcode="6697" name="Тип бритви" valuecode="c0533344d0007ce64d73a807f29fe06e">електробритва шейвер</param>
 <param paramcode="width" name="Ширина"><![CDATA[150]]></param>
 <param paramcode="height" name="Висота"><![CDATA[140]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[124]]></param>
@@ -120469,6 +120717,7 @@
 <param paramcode="10529" name="Вага">2.5</param>
 <param paramcode="12097" name="Базовий колір" valuecode="59474de51f852">сірий</param>
 <param paramcode="17280" name="Матеріал корпусу" valuecode="6c2f24df8af4857cd9824aaff546e08c">пластик</param>
+<param paramcode="2496" name="Тип товару" valuecode="8mfhh3dyz6pcoohf">Бутербродниця</param>
 <param paramcode="width" name="Ширина"><![CDATA[265]]></param>
 <param paramcode="height" name="Висота"><![CDATA[246]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[260]]></param>
@@ -120491,6 +120740,8 @@
 <param paramcode="113" name="Гарантія">12</param>
 <param paramcode="103" name="Потужність">5</param>
 <param paramcode="78" name="Колір виробника" valuecode="d4a1e2a6ebc6e094c4dccb596c9d3024">золотистий</param>
+<param paramcode="9918" name="Тип" valuecode="250c89baab931c138958fb0ad92350e7">машинка для стрижки</param>
+<param paramcode="9920" name="Тип керування" valuecode="f910686e0316aeae990bcab415ba9cb0">кнопкове</param>
 <param paramcode="width" name="Ширина"><![CDATA[180]]></param>
 <param paramcode="height" name="Висота"><![CDATA[220]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[155]]></param>
@@ -120511,6 +120762,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="pol">Польща</param>
 <param paramcode="113" name="Гарантія">12</param>
 <param paramcode="78" name="Колір виробника" valuecode="ff8cwdpi">чорний</param>
+<param paramcode="9918" name="Тип" valuecode="250c89baab931c138958fb0ad92350e7,00047409a047c8aa934f280c4f821c91">машинка для стрижки,набір для стрижки</param>
 <param paramcode="width" name="Ширина"><![CDATA[180]]></param>
 <param paramcode="height" name="Висота"><![CDATA[220]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[155]]></param>
@@ -120566,9 +120818,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT36353" available="false">
+<offer id="HT36353" available="true">
 <price>26999.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="77">Пральні машини</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191462.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191463.jpg</picture>
@@ -120591,6 +120843,7 @@
 <param paramcode="78" name="Колір виробника" valuecode="ff8cwdpi">чорний</param>
 <param paramcode="110" name="Висота">88.5</param>
 <param paramcode="168" name="Керування" valuecode="d231088f3219b51209485539e0e0fd2a">електронне</param>
+<param paramcode="649" name="Тип машини" valuecode="a304130792bfee62a8cb89b64e334c5d">пральна</param>
 <param paramcode="width" name="Ширина"><![CDATA[615]]></param>
 <param paramcode="height" name="Висота"><![CDATA[905]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[545]]></param>
@@ -120620,6 +120873,7 @@
 <param paramcode="78" name="Колір виробника" valuecode="ophru6z8">білий</param>
 <param paramcode="110" name="Висота">84.5</param>
 <param paramcode="168" name="Керування" valuecode="d231088f3219b51209485539e0e0fd2a">електронне</param>
+<param paramcode="649" name="Тип машини" valuecode="38064dbf708b05fef6a62e2b30f16882">прально-сушильна</param>
 <param paramcode="width" name="Ширина"><![CDATA[615]]></param>
 <param paramcode="height" name="Висота"><![CDATA[865]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[490]]></param>
@@ -121329,9 +121583,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT6890" available="false">
+<offer id="HT6890" available="true">
 <price>1891.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="101">Мультиварки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_e578171d-6968-11e8-a892-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000001000_4409662.jpg</picture>
@@ -121385,6 +121639,8 @@
 <param paramcode="103" name="Потужність">900</param>
 <param paramcode="113" name="Гарантія">24</param>
 <param paramcode="762" name="Вага">5.7</param>
+<param paramcode="50" name="Тип" valuecode="6b0dbb4c1405db2283acc3c9e195a179,b575b9d0d8c6d4e9cacaf71f6c3d15e2">мультиварка,скороварка</param>
+<param paramcode="5017" name="Тип нагріву" valuecode="383778ee4bdd1dc24a616c7858a0840b,aebc1cdbd69872c44420a2e6cfb6351e">ТЕН-нагрів,3D-нагрів</param>
 <param paramcode="width" name="Ширина"><![CDATA[314]]></param>
 <param paramcode="height" name="Висота"><![CDATA[321]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[340]]></param>
@@ -123624,6 +123880,8 @@
 <attribute_set code="7335">Бальзами для тварин</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="bra">Бразилія</param>
+<param paramcode="11416" name="Тип тварини" valuecode="94dc51e9793472b8d4e58c01de983aa9,698c6f19632b1577a1a0d8c4efe49bbd">для собак,для котів</param>
+<param paramcode="11417" name="Тип" valuecode="aab7b8027f0499b3e399fbc7f9386782">спрей</param>
 <param paramcode="width" name="Ширина"><![CDATA[50]]></param>
 <param paramcode="height" name="Висота"><![CDATA[190]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[50]]></param>
@@ -123644,6 +123902,7 @@
 <attribute_set code="7335">Бальзами для тварин</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="bra">Бразилія</param>
+<param paramcode="11417" name="Тип" valuecode="aab7b8027f0499b3e399fbc7f9386782">спрей</param>
 <param paramcode="width" name="Ширина"><![CDATA[50]]></param>
 <param paramcode="height" name="Висота"><![CDATA[190]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[50]]></param>
@@ -123664,6 +123923,8 @@
 <attribute_set code="7335">Бальзами для тварин</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="bra">Бразилія</param>
+<param paramcode="11416" name="Тип тварини" valuecode="94dc51e9793472b8d4e58c01de983aa9,698c6f19632b1577a1a0d8c4efe49bbd">для собак,для котів</param>
+<param paramcode="11417" name="Тип" valuecode="aab7b8027f0499b3e399fbc7f9386782">спрей</param>
 <param paramcode="width" name="Ширина"><![CDATA[50]]></param>
 <param paramcode="height" name="Висота"><![CDATA[190]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[50]]></param>
@@ -123705,6 +123966,7 @@
 <attribute_set code="7334">Шампуні для тварин</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="bra">Бразилія</param>
+<param paramcode="11416" name="Тип тварини" valuecode="94dc51e9793472b8d4e58c01de983aa9,698c6f19632b1577a1a0d8c4efe49bbd">для собак,для котів</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="6b4e21f65717ead1d368f85322c15aea">флакон</param>
 <param paramcode="width" name="Ширина"><![CDATA[50]]></param>
 <param paramcode="height" name="Висота"><![CDATA[190]]></param>
@@ -123747,6 +124009,8 @@
 <attribute_set code="7335">Бальзами для тварин</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="bra">Бразилія</param>
+<param paramcode="11416" name="Тип тварини" valuecode="94dc51e9793472b8d4e58c01de983aa9,698c6f19632b1577a1a0d8c4efe49bbd">для собак,для котів</param>
+<param paramcode="11417" name="Тип" valuecode="aab7b8027f0499b3e399fbc7f9386782">спрей</param>
 <param paramcode="width" name="Ширина"><![CDATA[50]]></param>
 <param paramcode="height" name="Висота"><![CDATA[190]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[50]]></param>
@@ -123769,6 +124033,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="bra">Бразилія</param>
 <param paramcode="1098" name="Об&apos;єм">240</param>
 <param paramcode="11416" name="Тип тварини" valuecode="698c6f19632b1577a1a0d8c4efe49bbd,94dc51e9793472b8d4e58c01de983aa9">для котів,для собак</param>
+<param paramcode="11417" name="Тип" valuecode="c343ecada69d812117cb48e51df97147">шампунь</param>
 <param paramcode="width" name="Ширина"><![CDATA[50]]></param>
 <param paramcode="height" name="Висота"><![CDATA[190]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[50]]></param>
@@ -123789,6 +124054,7 @@
 <attribute_set code="7334">Шампуні для тварин</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="bra">Бразилія</param>
+<param paramcode="11416" name="Тип тварини" valuecode="94dc51e9793472b8d4e58c01de983aa9,698c6f19632b1577a1a0d8c4efe49bbd">для собак,для котів</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="6b4e21f65717ead1d368f85322c15aea">флакон</param>
 <param paramcode="width" name="Ширина"><![CDATA[50]]></param>
 <param paramcode="height" name="Висота"><![CDATA[190]]></param>
@@ -123860,6 +124126,7 @@
 <attribute_set code="7334">Шампуні для тварин</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="bra">Бразилія</param>
+<param paramcode="11416" name="Тип тварини" valuecode="94dc51e9793472b8d4e58c01de983aa9,698c6f19632b1577a1a0d8c4efe49bbd">для собак,для котів</param>
 <param paramcode="width" name="Ширина"><![CDATA[50]]></param>
 <param paramcode="height" name="Висота"><![CDATA[190]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[50]]></param>
@@ -123880,6 +124147,8 @@
 <attribute_set code="7335">Бальзами для тварин</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="bra">Бразилія</param>
+<param paramcode="11416" name="Тип тварини" valuecode="94dc51e9793472b8d4e58c01de983aa9,698c6f19632b1577a1a0d8c4efe49bbd">для собак,для котів</param>
+<param paramcode="11417" name="Тип" valuecode="aab7b8027f0499b3e399fbc7f9386782">спрей</param>
 <param paramcode="width" name="Ширина"><![CDATA[50]]></param>
 <param paramcode="height" name="Висота"><![CDATA[190]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[50]]></param>
@@ -123900,6 +124169,7 @@
 <attribute_set code="7334">Шампуні для тварин</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="bra">Бразилія</param>
+<param paramcode="11416" name="Тип тварини" valuecode="94dc51e9793472b8d4e58c01de983aa9,698c6f19632b1577a1a0d8c4efe49bbd">для собак,для котів</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="170da9d6eb4ff8adf68beae23cd53672">флакон із дозатором</param>
 <param paramcode="width" name="Ширина"><![CDATA[50]]></param>
 <param paramcode="height" name="Висота"><![CDATA[190]]></param>
@@ -123921,6 +124191,7 @@
 <attribute_set code="7334">Шампуні для тварин</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="bra">Бразилія</param>
+<param paramcode="11416" name="Тип тварини" valuecode="94dc51e9793472b8d4e58c01de983aa9,698c6f19632b1577a1a0d8c4efe49bbd">для собак,для котів</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="6b4e21f65717ead1d368f85322c15aea">флакон</param>
 <param paramcode="width" name="Ширина"><![CDATA[50]]></param>
 <param paramcode="height" name="Висота"><![CDATA[190]]></param>
@@ -123942,6 +124213,7 @@
 <attribute_set code="7334">Шампуні для тварин</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="bra">Бразилія</param>
+<param paramcode="11416" name="Тип тварини" valuecode="94dc51e9793472b8d4e58c01de983aa9,698c6f19632b1577a1a0d8c4efe49bbd">для собак,для котів</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="170da9d6eb4ff8adf68beae23cd53672">флакон із дозатором</param>
 <param paramcode="width" name="Ширина"><![CDATA[50]]></param>
 <param paramcode="height" name="Висота"><![CDATA[190]]></param>
@@ -124013,6 +124285,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ita">Італія</param>
 <param paramcode="11383" name="Призначення" valuecode="8e72422642cdd1a133f7b91b740a334f">для всіх</param>
+<param paramcode="11667" name="Тип" valuecode="70770c71030ae88d2e784af03323110f">пакет</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[208]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -124034,6 +124307,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="ita">Італія</param>
 <param paramcode="11383" name="Призначення" valuecode="e5c731a39b5b9cea0e5b85adab8d3a0d">для собак</param>
+<param paramcode="11667" name="Тип" valuecode="cc71c4c10229c9bfb7dba7893d4a20a4">диспенсер</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[208]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -124309,6 +124583,8 @@
 <attribute_set code="7335">Бальзами для тварин</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="bra">Бразилія</param>
+<param paramcode="11416" name="Тип тварини" valuecode="94dc51e9793472b8d4e58c01de983aa9,698c6f19632b1577a1a0d8c4efe49bbd">для собак,для котів</param>
+<param paramcode="11417" name="Тип" valuecode="aab7b8027f0499b3e399fbc7f9386782">спрей</param>
 <param paramcode="width" name="Ширина"><![CDATA[50]]></param>
 <param paramcode="height" name="Висота"><![CDATA[190]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[50]]></param>
@@ -124377,6 +124653,7 @@
 <attribute_set code="7334">Шампуні для тварин</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="bra">Бразилія</param>
+<param paramcode="11416" name="Тип тварини" valuecode="94dc51e9793472b8d4e58c01de983aa9,698c6f19632b1577a1a0d8c4efe49bbd">для собак,для котів</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="170da9d6eb4ff8adf68beae23cd53672">флакон із дозатором</param>
 <param paramcode="width" name="Ширина"><![CDATA[50]]></param>
 <param paramcode="height" name="Висота"><![CDATA[190]]></param>
@@ -125913,9 +126190,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4851" available="true">
+<offer id="ZB4851" available="false">
 <price>825.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="492">Будинки та лежаки для тварин</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled_epicentr/zoobaza/cf5d0406ce5d60f5.jpg</picture>
 <name lang="ua">Будка ЗооБаза Геросс 36х32х32 см</name>
@@ -127739,9 +128016,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT30466" available="true">
+<offer id="HT30466" available="false">
 <price>255.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="93">Аксесуари до техніки для догляду за домом</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011902_20338_.jpg</picture>
 <name lang="ua">Мішок д/пилососа б/р СЛОН P-03 C-I c до Philips</name>
