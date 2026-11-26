@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-24 12:00">
+<yml_catalog date="2026-11-26 08:00">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -359,6 +359,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3419-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/20/1208x800l80mc0/88932920843634.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/20/1208x800l80mc0/82525280626282.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303640</article>
@@ -379,6 +380,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3421-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/22/1208x800l80mc0/91656469280678.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/22/1208x800l80mc0/28346707885467.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303643</article>
@@ -399,6 +401,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3423-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/24/1208x800l80mc0/38508856488123.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/24/1208x800l80mc0/61886598163244.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303646</article>
 <name>Лежак ЗооБаза Вояж 50х65х21 см красный (303646)</name>
@@ -459,6 +463,8 @@
 <price>2097.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
+<picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/76385135595336.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/44160021196908.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/13892494476533.jpeg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3428-1.jpg</picture>
 <vendor>ЗооБаза</vendor>
@@ -504,6 +510,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/44378346848726.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/85848530351512.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/72874946489114.jpeg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3430-1.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303656</article>
@@ -526,6 +534,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3431-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/32/1208x800l80mc0/32688070897283.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/32/1208x800l80mc0/85749498883420.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303658</article>
@@ -549,6 +558,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://www.zoobaza.com.ua/content/images/33/1208x800l80mc0/70160613209603.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/33/1208x800l80mc0/35551823766663.jpeg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3432-1.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303659</article>
@@ -597,6 +607,8 @@
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3434-1.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/35/1208x800l80mc0/80594915416540.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/35/1208x800l80mc0/81306730099735.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/35/1208x800l80mc0/48925288405541.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303662</article>
 <name>Лежак-матрас ЗооБаза Вояж 50х60 см синий (303662)</name>
@@ -1058,8 +1070,11 @@
 <price>1341.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675996</categoryId>
+<picture>https://www.zoobaza.com.ua/content/images/23/1208x800l80mc0/15988490316597.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/23/1208x800l80mc0/74489608498156.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/23/1208x800l80mc0/39003342171645.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/23/1024x994l80mc0/95505528721280.jpeg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3472-1.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/23/1208x800l80mc0/87191616818856.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303616</article>
 <name>Сумка-переноска ЗооБаза Лежебока 23х35х31 синий (303616)</name>
@@ -1099,6 +1114,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675996</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3486-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/37/700x933l80mc0/11921373999317.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>7539</article>
 <name>Сумка-переноска ЗооБаза Спорт 23х35х31 см синий (7539)</name>
@@ -1424,6 +1440,7 @@
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3521-1.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/22/1208x800l80mc0/12787277886599.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/22/1208x800l80mc0/32620370795986.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>8455</article>
 <name>Лежак ЗооБаза прямоугольный Магнус 33х40х31 см фуксия и серый (8455)</name>
@@ -1462,6 +1479,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3523-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/24/1208x800l80mc0/48373441112170.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/24/1208x800l80mc0/93606731539361.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>8457</article>
 <name>Лежак ЗооБаза прямоугольный Магнус 43х54х32 см фуксия и серый (8457)</name>
@@ -1500,8 +1519,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3525-1.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/26/1208x800l80mc0/56502515988193.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/26/1208x800l80mc0/52998374363512.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/26/1208x800l80mc0/56502515988193.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/26/1208x800l80mc0/94105695053911.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>8459</article>
@@ -1521,6 +1540,7 @@
 <price>2763.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
+<picture>https://www.zoobaza.com.ua/content/images/27/1208x800l80mc0/11407949294550.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/27/1208x800l80mc0/23266726696654.jpeg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3526-1.jpg</picture>
 <vendor>ЗооБаза</vendor>
@@ -1541,6 +1561,9 @@
 <price>2763.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
+<picture>https://www.zoobaza.com.ua/content/images/28/1208x800l80mc0/24092260066154.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/28/1208x800l80mc0/84811874526746.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/28/1208x800l80mc0/58051131381500.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/28/1208x800l80mc0/54837872642311.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303732</article>
@@ -1561,6 +1584,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3528-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/24879996938273.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/22193860606484.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303733</article>
@@ -1582,6 +1606,7 @@
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3529-1.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/63727335395798.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/22882021740428.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/80921719316956.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303734</article>
@@ -1622,6 +1647,9 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3531-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/32/1208x800l80mc0/17678549091331.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/32/1208x800l80mc0/85829386769481.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/32/1208x800l80mc0/27587098230250.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/32/1208x800l80mc0/98332474459538.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303736</article>
@@ -1642,6 +1670,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3532-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/33/1208x800l80mc0/25748267093031.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/33/1208x800l80mc0/83747776503401.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303737</article>
 <name>Лежак ЗооБаза прямоугольный Магнус 38х45х31 см коричневый и бежевый (303737)</name>
@@ -1685,6 +1715,7 @@
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3534-1.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/35/1208x800l80mc0/44538958087563.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/35/1208x800l80mc0/72080714906754.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303739</article>
 <name>Лежак ЗооБаза прямоугольный Магнус 33х40х31 см коричневый и бежевый (303739)</name>
@@ -1704,6 +1735,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3535-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/36/1208x800l80mc0/19154233448597.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/36/1208x800l80mc0/90953857737119.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/36/1208x800l80mc0/64633101942745.jpeg</picture>
 <vendor>ЗооБаза</vendor>
@@ -1724,6 +1756,7 @@
 <price>1683.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
+<picture>https://www.zoobaza.com.ua/content/images/37/1208x800l80mc0/11402955008452.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/37/1208x800l80mc0/89213592556056.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>8446</article>
@@ -1743,6 +1776,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://www.zoobaza.com.ua/content/images/38/1208x800l80mc0/80314347378945.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/38/1208x800l80mc0/59719238141841.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>8447</article>
 <name>Лежак-матрас ЗооБаза Магнус d65 фуксия и серый (8447)</name>
@@ -1781,6 +1815,7 @@
 <price>2817.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
+<picture>https://www.zoobaza.com.ua/content/images/40/1208x800l80mc0/69478767387247.jpeg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3539-1.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/40/1208x800l80mc0/85054690588845.jpeg</picture>
 <vendor>ЗооБаза</vendor>
@@ -1800,6 +1835,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3540-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/41/1208x800l80mc0/57638403790459.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/41/1208x800l80mc0/34293354842316.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/41/1208x800l80mc0/67043078631725.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/41/1208x800l80mc0/23639172474011.jpeg</picture>
@@ -1824,6 +1860,7 @@
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3541-1.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/42/1208x800l80mc0/52067827645031.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/42/1208x800l80mc0/94612592414479.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/42/1208x800l80mc0/11998750423395.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303743</article>
 <name>Лежак-матрас ЗооБаза Магнус d65 коричневый и бежевый (303743)</name>
@@ -1844,6 +1881,7 @@
 <categoryId>4675999</categoryId>
 <picture>https://www.zoobaza.com.ua/content/images/43/1208x800l80mc0/53557499182184.jpeg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3542-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/43/1208x800l80mc0/11418400619757.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303744</article>
 <name>Лежак-матрас ЗооБаза Магнус d65 салатовый и серый (303744)</name>
@@ -1864,6 +1902,8 @@
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3543-1.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/44/1208x800l80mc0/69007090353114.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/44/1208x800l80mc0/18842232827659.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/44/1208x800l80mc0/86120275655269.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303745</article>
 <name>Лежак-матрас ЗооБаза Магнус d50 коричневый и бежевый (303745)</name>
@@ -1925,6 +1965,8 @@
 <price>855.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
+<picture>https://www.zoobaza.com.ua/content/images/47/1208x800l80mc0/25990855058941.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/47/1208x800l80mc0/54073709581870.jpeg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3546-1.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <article>8435</article>
@@ -1947,6 +1989,8 @@
 <price>1139.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
+<picture>https://www.zoobaza.com.ua/content/images/48/1208x800l80mc0/94335723617437.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/48/1208x800l80mc0/56772996282061.jpeg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3547-1.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <article>8436</article>
@@ -1969,6 +2013,7 @@
 <price>1404.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
+<picture>https://www.zoobaza.com.ua/content/images/49/1208x800l80mc0/48538287027894.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/49/1208x800l80mc0/98254378821493.jpeg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3548-1.jpg</picture>
 <vendor>ЗооБаза</vendor>
@@ -1994,6 +2039,7 @@
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3549-1.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/50/1208x800l80mc0/98948378341032.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/50/1208x800l80mc0/55149032276745.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303747</article>
 <name>Матрас ЗооБаза Магнус 70х110 см коричневый и бежевый (303747)</name>
@@ -2038,6 +2084,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3551-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/2/1208x800l80mc0/39126604281104.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/2/1208x800l80mc0/95041992531126.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303749</article>
@@ -2060,6 +2107,7 @@
 <price>1139.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
+<picture>https://www.zoobaza.com.ua/content/images/3/1208x800l80mc0/44943924356191.jpeg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3552-1.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303750</article>
@@ -2083,6 +2131,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3553-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/4/1208x800l80mc0/79477666637053.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/4/1208x800l80mc0/46621738992366.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303751</article>
 <name>Матрас ЗооБаза Магнус 55х70 см коричневый и бежевый (303751)</name>
@@ -2912,6 +2962,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3603-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/4/1208x800l80mc0/61328418724080.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/4/1208x800l80mc0/70594844468996.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/4/1208x800l80mc0/37667297969951.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/4/1208x800l80mc0/74707542296016.jpeg</picture>
 <vendor>ЗооБаза</vendor>
@@ -2935,6 +2987,7 @@
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3604-1.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/5/1208x800l80mc0/61402048250965.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/5/1208x800l80mc0/18226600286590.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/5/1208x800l80mc0/51455335174618.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>8378</article>
@@ -3004,6 +3057,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3607-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/8/1208x800l80mc0/70264652176522.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/8/1208x800l80mc0/60696170115776.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/8/1208x800l80mc0/68387812183199.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>8384</article>
@@ -3151,6 +3206,7 @@
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3628-1.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/65206242880518.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/75434014937130.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/88086428248304.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/62541797029408.jpeg</picture>
 <vendor>ЗооБаза</vendor>
@@ -3175,6 +3231,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3629-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/33787763123889.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/70517372922475.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/31993784548785.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/99956119844208.jpeg</picture>
@@ -3200,6 +3257,7 @@
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3630-1.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/13690169430141.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/42235294167406.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/29056808191262.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>303761</article>
@@ -3652,6 +3710,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675999</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3654-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/5/900x628l80mc0/45720579791765.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <article>8345</article>
 <name>Лежак ЗооБаза двусторонний прямоугольный Бартон 50х65х23 см розовый и серый (8345)</name>
@@ -5617,6 +5676,7 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675996</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3782-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/33/1208x800l80mc0/47394088605401.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/33/1208x800l80mc0/29576273950909.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/33/1208x800l80mc0/54300214241454.jpeg</picture>
 <vendor>ЗооБаза</vendor>
@@ -6267,7 +6327,9 @@
 <currencyId>UAH</currencyId>
 <categoryId>4675996</categoryId>
 <picture>https://www.zoobaza.com.ua/content/images/12/1208x800l80mc0/62842377401256.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/12/1208x800l80mc0/16547370756291.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/12/1208x800l80mc0/83245939473065.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/12/1208x800l80mc0/27827741648042.jpeg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3811-1.jpg</picture>
 <vendor>ЗооБаза</vendor>
 <article>304562</article>
@@ -6287,7 +6349,9 @@
 <price>1476.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675996</categoryId>
+<picture>https://www.zoobaza.com.ua/content/images/13/1208x800l80mc0/46371961653466.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/13/1208x800l80mc0/47619880549042.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/13/1208x800l80mc0/27488389255505.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/13/1208x800l80mc0/23731435255975.jpeg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB3812-1.jpg</picture>
 <vendor>ЗооБаза</vendor>
@@ -11399,11 +11463,11 @@
 <price>1070.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
-<picture>https://www.zoobaza.com.ua/content/images/44/1000x1000l80mc0/33048840003838.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/44/1024x768l80mc0/54188166790049.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4243-1.png</picture>
 <picture>https://www.zoobaza.com.ua/content/images/44/1024x768l80mc0/73966791626929.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/44/1024x768l80mc0/11949078328989.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4243-1.png</picture>
+<picture>https://www.zoobaza.com.ua/content/images/44/1000x1000l80mc0/33048840003838.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>532114040</article>
 <name>Корм для котов Fitmin Purity Urinary 1,5 кг (532114040)</name>
@@ -11422,11 +11486,11 @@
 <price>5259.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
-<picture>https://www.zoobaza.com.ua/content/images/45/1000x1000l80mc0/25041616271840.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/45/1024x768l80mc0/30929048941782.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4244-1.png</picture>
 <picture>https://www.zoobaza.com.ua/content/images/45/1024x768l80mc0/47144552540364.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/45/1024x768l80mc0/36089134238749.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4244-1.png</picture>
+<picture>https://www.zoobaza.com.ua/content/images/45/1000x1000l80mc0/25041616271840.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>532114041</article>
 <name>Сухой корм для котов Fitmin Purity Urinary 10 кг (532114041)</name>
@@ -11572,9 +11636,9 @@
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
 <picture>https://www.zoobaza.com.ua/content/images/2/1024x768l80mc0/83064175119415.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/2/1024x768l80mc0/90582157281755.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/2/1024x768l80mc0/28480495961199.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/2/1024x768l80mc0/39661897443255.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/2/1024x768l80mc0/90582157281755.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>512114011</article>
 <name>Сухой корм для котов Fitmin For Life Adult Chicken 8 кг (512114011)</name>
@@ -11596,8 +11660,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
 <picture>https://www.zoobaza.com.ua/content/images/3/1024x768l80mc0/15421961393018.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4252-1.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/3/1024x768l80mc0/83064288766315.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4252-1.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/3/1024x768l80mc0/65794104381759.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/3/1024x768l80mc0/58484034326162.jpg</picture>
 <vendor>Fitmin</vendor>
@@ -11642,10 +11706,10 @@
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
 <picture>https://www.zoobaza.com.ua/content/images/5/1024x768l80mc0/73895285908429.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/5/1024x768l80mc0/90180113012955.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4254-1.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/5/1024x768l80mc0/42460098143320.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/5/1024x768l80mc0/91017391541285.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/5/1024x768l80mc0/90180113012955.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>512114016</article>
 <name>Сухой корм для котов Fitmin For Life Castrate Beef 1,8 кг (512114016)</name>
@@ -11665,9 +11729,9 @@
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
 <picture>https://www.zoobaza.com.ua/content/images/6/1024x768l80mc0/94514282155470.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/6/1024x768l80mc0/95614070601012.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/6/1024x768l80mc0/95112246091137.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/6/1024x768l80mc0/83209669291448.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/6/1024x768l80mc0/95614070601012.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>512114017</article>
 <name>Сухой корм для котов Fitmin For Life Castrate Beef 8 кг (512114017)</name>
@@ -11688,9 +11752,9 @@
 <categoryId>1461212</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4256-1.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/7/1024x768l80mc0/61101972412838.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/7/1024x768l80mc0/55965572315497.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/7/1024x768l80mc0/96134348347862.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/7/1024x768l80mc0/29465356440979.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/7/1024x768l80mc0/55965572315497.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>512114019</article>
 <name>Корм для котов Fitmin For Life Castrate Chicken 1,8 кг (512114019)</name>
@@ -11954,9 +12018,9 @@
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
 <picture>https://www.zoobaza.com.ua/content/images/20/1024x768l80mc0/43444523664694.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/20/1024x768l80mc0/11761141268847.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/20/1024x768l80mc0/72685721729420.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4269-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/20/1024x768l80mc0/11761141268847.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>531114007</article>
 <name>Корм для собак Fitmin Purity GF Adult Beef 2 кг (531114007)</name>
@@ -11978,9 +12042,9 @@
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
 <picture>https://www.zoobaza.com.ua/content/images/21/1024x768l80mc0/77431009113538.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/21/1024x768l80mc0/37799742632001.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/21/1024x768l80mc0/23793312109596.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4270-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/21/1024x768l80mc0/37799742632001.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>531114005</article>
 <name>Корм для собак Fitmin Purity GF Adult Beef 12 кг (531114005)</name>
@@ -12047,8 +12111,8 @@
 <categoryId>1461202</categoryId>
 <picture>https://www.zoobaza.com.ua/content/images/24/1024x768l80mc0/26022272549015.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/24/1024x768l80mc0/54156331596457.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/24/1024x768l80mc0/49384887731099.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4273-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/24/1024x768l80mc0/49384887731099.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>531114011</article>
 <name>Сухой корм для собак Fitmin Purity GF Adult Mini Beef 4 кг (531114011)</name>
@@ -12072,8 +12136,8 @@
 <categoryId>1461202</categoryId>
 <picture>https://www.zoobaza.com.ua/content/images/25/1024x768l80mc0/93070050667697.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/25/1024x768l80mc0/99747715374724.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/25/1024x768l80mc0/91888964780898.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4274-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/25/1024x768l80mc0/91888964780898.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>531114010</article>
 <name>Сухой корм для собак Fitmin Purity GF Adult Mini Beef 0,8 кг (531114010)</name>
@@ -12097,8 +12161,8 @@
 <categoryId>1461202</categoryId>
 <picture>https://www.zoobaza.com.ua/content/images/26/1024x768l80mc0/99009620983997.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/26/1024x768l80mc0/24578605886791.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/26/1024x768l80mc0/63492992784924.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4275-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/26/1024x768l80mc0/63492992784924.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>531114017</article>
 <name>Корм для щенков Fitmin Purity GF Puppy Fish 2 кг (531114017)</name>
@@ -12119,9 +12183,9 @@
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
 <picture>https://www.zoobaza.com.ua/content/images/27/1024x768l80mc0/46348031409459.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/27/1024x768l80mc0/40815728154622.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/27/1024x768l80mc0/95246786512647.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4276-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/27/1024x768l80mc0/40815728154622.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>531114015</article>
 <name>Сухой корм для щенков Fitmin Purity GF Puppy Fish 12 кг (531114015)</name>
@@ -12261,9 +12325,9 @@
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
 <picture>https://www.zoobaza.com.ua/content/images/33/1024x768l80mc0/26333313171224.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/33/1024x768l80mc0/74199681562165.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4282-1.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/33/1024x768l80mc0/36702087756523.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4282-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/33/1024x768l80mc0/74199681562165.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>531114036</article>
 <name>Сухой корм для собак Fitmin Purity Rice Senior &amp; Light Venison &amp; Lamb 12 кг (531114036)</name>
@@ -12284,9 +12348,9 @@
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
 <picture>https://www.zoobaza.com.ua/content/images/34/1024x768l80mc0/26149214925721.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/34/1024x768l80mc0/86971739917167.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4283-1.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/34/1024x768l80mc0/45392611056281.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4283-1.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/34/1024x768l80mc0/86971739917167.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>531114037</article>
 <name>Сухой корм для собак Fitmin Purity Rice Senior &amp; Light Venison &amp; Lamb 2 кг (531114037)</name>
@@ -12412,8 +12476,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4293-1.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/44/1024x768l80mc0/66517721581316.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/44/1024x768l80mc0/29659177304699.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/44/1024x768l80mc0/66517721581316.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>511114054</article>
 <name>Сухой корм для собак Fitmin For Life Adult Mini 2,5 кг (511114054)</name>
@@ -12544,8 +12608,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4299-1.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/50/1024x768l80mc0/49262706217681.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/50/1024x768l80mc0/41974059439676.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/50/1024x768l80mc0/49262706217681.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>511114065</article>
 <name>Сухой корм для собак Fitmin For Life Light &amp; Senior 2,5 кг (511114065)</name>
@@ -12564,8 +12628,8 @@
 <currencyId>UAH</currencyId>
 <categoryId>1461202</categoryId>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4300-1.jpg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/1/1024x768l80mc0/31955535036714.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/1/1024x768l80mc0/17652198517005.jpg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/1/1024x768l80mc0/31955535036714.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>511114064</article>
 <name>Сухой корм для собак Fitmin For Life Light &amp; Senior 12 кг (511114064)</name>
@@ -12634,6 +12698,7 @@
 <picture>https://www.zoobaza.com.ua/content/images/4/1024x768l80mc0/94411522887001.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/4/1024x768l80mc0/30299853086337.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/4/1024x768l80mc0/94272708829447.jpg</picture>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4303-1.jpg</picture>
 <vendor>Fitmin</vendor>
 <article>511114063</article>
 <name>Корм для собак Fitmin For Life Lamb &amp; Rice Mini 2,5 кг (511114063)</name>
@@ -16887,6 +16952,25 @@
 <param name="Тип">Сумка-переноска</param>
 <param name="Призначення">Для собак, Для котів</param>
 <param name="Особливості">З відділенням для аксесуарів</param>
+</offer>
+<offer id="ZB4660" available="true">
+<stock_quantity>2</stock_quantity>
+<price>1350.00</price>
+<currencyId>UAH</currencyId>
+<categoryId>4675996</categoryId>
+<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/zoobaza/0c4e387ae5a4f594.jpg</picture>
+<vendor>ЗооБаза</vendor>
+<name>Сумка-слинг ЗооБаза Гросс 16х35х21 см</name>
+<name_ua>Сумка-слінг ЗооБаза Гросс 16х35х21 см</name_ua>
+<description><![CDATA[<ul><li>Сумка-слинг для переноски небольших животных: носится через плечо на широком регулируемом ремне, поэтому руки остаются свободными.</li><li>Размер у всех вариантов одинаковый, поэтому ориентируйтесь на длину животного и вес, который вам удобно носить на одном плече.</li></ul>]]></description>
+<description_ua><![CDATA[<ul><li>Сумка-слінг для перенесення невеликих тварин: носиться через плече на широкому регульованому ремені, тому руки лишаються вільними.</li><li>Розмір у всіх варіантів однаковий, тож орієнтуйтеся на довжину тварини й вагу, яку вам зручно носити на одному плечі.</li></ul>]]></description_ua>
+<param name="Розмір">16х35х21 см</param>
+<param name="Вага, кг">0.4</param>
+<param name="Габарити, см">16х35х21</param>
+<param name="Тип">Сумка-переноска</param>
+<param name="Особливості">З відділенням для аксесуарів</param>
+<param name="Матеріал">Оксфорд</param>
+<param name="EAN">4823118711325</param>
 </offer>
 <offer id="ZB4661" available="false">
 <stock_quantity>0</stock_quantity>
@@ -36727,34 +36811,6 @@
 <param name="Тип">Куртки</param>
 <param name="Розмір">48 см</param>
 <param name="EAN">4019008708739</param>
-</offer>
-<offer id="TX28405" available="true">
-<stock_quantity>2</stock_quantity>
-<price>2080.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>3935762</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX28405-1.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX28405-2.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX28405-3.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX28405-4.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX28405-5.jpg</picture>
-<vendor>Wolters</vendor>
-<article>28405</article>
-<name>Куртка парка для собак Wolters Amundsen 24 см Оливковый (28405)</name>
-<name_ua>Куртка парку для собак Wolters Amundsen 24 см Оливковий (28405)</name_ua>
-<description><![CDATA[<p>Зимняя куртка Wolters Winter Jacket Amundsen идеально подходит для тех, кто следит за трендами и ищет стильную и теплую куртку для своего любимца. Изготовлена из легкоочищаемого полиэстера. Куртка имеет комфортную подкладку из мягкого согревающего флиса и оснащена светоотражающиеми полосками, улучшающими видимость в темноте и слабом освещении. Утепленный воротник состоит из искусственного меха, а мягкая резинка на животе обеспечивает комфорт во время ношения. Куртка оснащена застежками-липучками на шее и кнопками на животе для легкого надевания. Предназначена для комфортного использования амуниции благодаря водонепроницаемой молнии, вставленной в ткань, что позволяет привязать собаку к шлейке через куртку. Одним из преимуществ является отсутствие использования вредных перфторуглеродов (PFC), вместо них используется экологически чистая гидроизоляция ecorepel. Эта система имитирует естественную водоотталкивающую защиту утиных перьев, обеспечивая чистоту и сухость изделия (до 10000 мм водного столба). Куртка также ветрозащитная и дышащая. Куртку можно стирать в деликатном режиме при температуре 30 градусов по цельсию, используя мягкое моющее средство. Куртку следует сушить естественным путем.</p><p><strong>Характеристики продукта:</strong></p><p><strong>С воротником из искусственного меха;</strong></p><p><strong>Доступны специальные размеры для мопсов, бульдогов, такс;</strong></p><p><strong>Подкладка с удобным мягким флисом;</strong></p><p><strong>Доступны специальные размеры для мопсов, бульдогов и т.п.;</strong></p><p><strong>Водо- и грязеотталкивающая благодаря гидроизоляции ecorepel;</strong></p><p>100% без PFC;</p><p>Водонепроницаемость до 10 000 мм воды;</p><p><strong>Защищена от ветра, но дышащая;</strong></p><p><strong>Оснащена водонепроницаемой системой молнии Zip&amp;Go;</strong></p><p><strong>С молнией на шее;</strong></p><p><strong>Мягкая резинка на животе делает куртку удобной в носке;</strong></p><p><strong>Оснащена светоотражающими элементами;</strong></p><p>100% полиэстер.</p>]]></description>
-<description_ua><![CDATA[<p>Зимова куртка Wolters Winter Jacket Amundsen ідеально підходить для тих, хто слідкує за трендами та шукає стильну та теплу куртку для свого улюбленця. Виготовлена з поліестеру, який легко чиститься. Куртка має комфортну підкладку із м'якого зігріваючого флісу та світловідбиваючі смужки, що поліпшують видимість у темряві та при слабкому освітленні. Утеплений комір складається зі штучного хутра, а м'яка гумка на животі забезпечує комфорт під час носіння. Куртка оснащена застібками-липучками на шиї та кнопками на животі для легкості надягання. Призначена для практичного використання амуніції завдяки водонепроникній блискавці, вставленій у тканину, що дозволяє прив'язати собаку до шлейки через куртку. Однією з переваг є відсутність використання шкідливих перфторуглеродів (PFC), замість них використовується екологічно чиста гідроізоляція ecorepel. Ця система імітує природний водовідштовхувальний захист качиного пір'я, забезпечуючи чистоту та сухість виробу (до 10000 мм водного стовпа). Куртка також вітрозахисна та дихаюча. Куртку можна прати в делікатному режимі при температурі 30 градусів по цельсію, використовуючи м'який миючий засіб. Куртку слід сушити на повітрі.</p><p><strong>Характеристики продукту:</strong></p><p><strong>З коміром із штучного хутра;</strong></p><p><strong>Доступні спеціальні розміри для мопсів, бульдогів, такс;</strong></p><p><strong>Підкладка зі зручним м'яким флісом;</strong></p><p><strong>Доступні спеціальні розміри для мопсів, бульдогів тощо;</strong></p><p><strong>Водо- та брудовідштовхувальна завдяки гідроізоляції ecorepel;</strong></p><p>100% без PFC;</p><p>Водонепроникність до 10000 мм води;</p><p><strong>Вітрозахисна і дихаюча;</strong></p><p><strong>Оснащена водонепроникною системою блискавки Zip &amp; Go;</strong></p><p><strong>З блискавкою на шиї;</strong></p><p><strong>М'яка гумка на животі робить куртку зручною в носінні;</strong></p><p><strong>Оснащена світловідбиваючими елементами;</strong></p><p>100% поліестер.</p>]]></description_ua>
-<param name="Довжина">75 см</param>
-<param name="Особливості">Со светоотражающими элементами</param>
-<param name="Матеріал">Поліестер</param>
-<param name="Вид">Куртки</param>
-<param name="Тематика">Повседневный</param>
-<param name="Колір">Оливковий</param>
-<param name="Тварина">Собака</param>
-<param name="Сезон">Зима</param>
-<param name="Тип">Куртки</param>
-<param name="Розмір">24</param>
-<param name="EAN">4019008530309</param>
 </offer>
 <offer id="TX28500" available="true">
 <stock_quantity>2</stock_quantity>
@@ -84013,7 +84069,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT29634" available="true">
-<stock_quantity>8</stock_quantity>
+<stock_quantity>7</stock_quantity>
 <price>6000.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>237815</categoryId>
@@ -86329,7 +86385,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT30786" available="true">
-<stock_quantity>41</stock_quantity>
+<stock_quantity>40</stock_quantity>
 <price>346.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4674121</categoryId>
@@ -94726,7 +94782,6 @@
 <price>5438.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80131</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/100015292.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/200015292.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/700015292.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/800015292.jpg</picture>
@@ -109338,7 +109393,7 @@
 </offer>
 <offer id="HT36113" available="true">
 <stock_quantity>6</stock_quantity>
-<price>8238.00</price>
+<price>8000.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80140</categoryId>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186781.jpg</picture>
