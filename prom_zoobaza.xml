@@ -36178,7 +36178,7 @@
 <portal_category_id>606</portal_category_id>
 <price>2331.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_d136315d-189e-11e9-9766-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000001724_261710334.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000001724_261710350.jpg</picture>
@@ -36233,13 +36233,13 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Мультиварка Rotex RMC508-W - ваш ідеальний вибір для обладнання кухні надійною та сучасною технікою. Цей пристрій 6 в 1 замінить кілька кухонних пристроїв, що дозволить не лише зекономити місце на столі, а й зменшити витрати. Мультиварка включає в себе функції мультиварки, пароварки, йогуртниці, сковорідки, фритюрниці і духовки, все це у компактному та ергономічному корпусі з зручним блоком управління і яскравим дисплеєм. Оснащена простим у використанні управлінням, мультиварка Rotex RMC508-W ідеально підійде як для початківців, так і для досвідчених господинь. Просто завантажте інгредієнти, оберіть потрібний режим на панелі управління і натисніть кнопку «Старт». Всі кнопки чітко позначені для максимальної зручності. Чаша мультиварки має подвійне керамічне покриття, що дозволяє готувати з мінімальним використанням масла і жиру. Її відмінні антипригарні властивості гарантують відсутність пригорання або прилипання продуктів. Обсяг чаші - 5 літрів, що дозволяє готувати страви для великої компанії (7-10 чоловік). Однією з ключових функцій є відкладений старт, який дозволяє налаштувати час приготування таким чином, щоб страва була готова саме в потрібний момент. Більше не потрібно переживати через час приготування перед вечіркою або святковим обідом - просто встановіть час, і мультиварка зробить решту.]]></description>
 </offer>
-<offer id="HT14185" available="false" selling_type="r">
+<offer id="HT14185" available="true" selling_type="r">
 <name>Мультиварка-скороварка Rotex REPC72-B</name>
 <categoryId>282</categoryId>
 <portal_category_id>606</portal_category_id>
 <price>3151.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>11</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_bd74c146-5541-11e8-b68c-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000000791_4657294.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000000791_4657295.jpg</picture>
@@ -39748,7 +39748,7 @@
 <portal_category_id>6300407</portal_category_id>
 <price>6463.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000005158_59993331.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000005158_59993333.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000005158_59993270.jpg</picture>
@@ -40562,7 +40562,7 @@
 <portal_category_id>606</portal_category_id>
 <price>1717.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000000898_129.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000000898_128.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000000898_127.jpg</picture>
@@ -40624,7 +40624,7 @@
 <portal_category_id>606</portal_category_id>
 <price>2193.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_964bd7f6-5c0f-11e8-a892-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000000901_4653166.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000000901_4653169.jpg</picture>
@@ -40655,7 +40655,7 @@
 <portal_category_id>606</portal_category_id>
 <price>3082.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>11</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_41df0236-6375-11e8-a892-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000000965_REPC57-B-2.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000000965_REPC57-B-3.jpg</picture>
@@ -41794,7 +41794,7 @@
 <portal_category_id>603</portal_category_id>
 <price>7182.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000012301.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000012302.jpg</picture>
 <vendor>Saturn</vendor>
@@ -43669,7 +43669,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Castle CPG-50H - це комбінована плита, яка відзначається своїм функціоналом, стильним дизайном і високою продуктивністю. Плита Castle CPG-50H має сучасний і елегантний зовнішній вигляд, який додає шарму будь-якій кухні. Вона має металеву конструкцію з елементами чорного кольору та нержавіючою сталі, яка додає їй довговічності і стійкості. Плита оснащена системою з 4 газовими пальниками, які забезпечують швидке і рівномірне нагрівання. Кожен пальник може бути налаштований на різні рівні потужності, що дозволяє контролювати інтенсивність нагрівання залежно від потреб. Плита має простору варильну поверхню, що дозволяє готувати одночасно в кількох посудинках. Вона виготовлена з високоякісної емальованої сталі, яка легко чиститься і має високу стійкість до подряпин і пошкоджень. Castle CPG-50H обладнана різноманітними функціями безпеки для захисту вас і вашого будинку. До таких функцій входять автоматичне відключення газу у випадку, якщо полум'я пальників погасне внаслідок витоку газу. Плита має просту установку і легке управління, що робить її зручною в експлуатації. Вона також легко чиститься завдяки гладкій поверхні і відсутності складних деталей.Castle CPG-50H економить енергію завдяки своїй високій ефективності. Газова технологія дозволяє швидко нагрівати плиту і пічку, забезпечуючи швидке приготування їжі та економію часу. Духовка має додаткові функції, такі як таймер для точного вимірювання часу готування, освітлення внутрішньої частини пічки для зручного спостереження за їжею та подвійне скло у дверцях, що знімається для зручнішого чищення. Castle CPG-50H - це надійна, функціональна та стильна комбінована плита, яка забезпечує вам зручність, безпеку та задоволення в процесі готування їжі.]]></description>
 </offer>
-<offer id="HT29540" available="true" selling_type="r">
+<offer id="HT29540" available="false" selling_type="r">
 <name>Плита газова CASTLE CG-60B (сіра)</name>
 <categoryId>219</categoryId>
 <portal_category_id>641</portal_category_id>
@@ -43709,7 +43709,7 @@
 <portal_category_id>640</portal_category_id>
 <price>1634.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000010974_mcz-91m-01_4b7zmywp.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000010974_mcz-91m-02_42rqfzpv.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000010974_179665923.jpg</picture>
@@ -43948,7 +43948,7 @@
 <portal_category_id>63023</portal_category_id>
 <price>5619.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011067_342311643.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011067_342311644.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011067_342311645.jpg</picture>
@@ -44045,7 +44045,7 @@
 <portal_category_id>641</portal_category_id>
 <price>11694.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011132_7116285_1.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011132_7116285_2.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011132_7116285_5.jpg</picture>
@@ -44174,7 +44174,7 @@
 <portal_category_id>641</portal_category_id>
 <price>13344.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011185_326470543.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011185.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011185_Screenshot.jpg</picture>
@@ -44236,7 +44236,7 @@
 <portal_category_id>641</portal_category_id>
 <price>13607.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011187_326516081.jpg</picture>
 <vendor>CASTLE</vendor>
 <vendorCode>HT29754</vendorCode>
@@ -44266,7 +44266,7 @@
 <portal_category_id>641</portal_category_id>
 <price>15444.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011188_326523108.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011188_7251269_4.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011188_7251269_3.jpg</picture>
@@ -45193,7 +45193,7 @@
 <portal_category_id>641</portal_category_id>
 <price>13963.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011644_356787107.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011644_417852146.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000011644_9147873.jpg</picture>
@@ -47331,7 +47331,7 @@
 <portal_category_id>64403</portal_category_id>
 <price>333.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>41</quantity_in_stock>
+<quantity_in_stock>40</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012223_405965620.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012223_385409950.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012223_385409953.jpg</picture>
@@ -48774,7 +48774,7 @@
 <portal_category_id>62701</portal_category_id>
 <price>8057.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000012857_228461465.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000012857_228461475.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000012857_228461476.jpg</picture>
@@ -49259,7 +49259,7 @@
 <portal_category_id>606</portal_category_id>
 <price>3446.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013239_444673144.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013239_444673145.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013239_444673146.jpg</picture>
@@ -51892,7 +51892,7 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Найкраща піца в окрузі Ця програма з можливістю налаштування температури випікання до 300 °C створена спеціально для полегшення приготування неперевершеної піци, фокачі, коржів і подібних страв. Найшвидший спосіб випікання заморожених продуктів Ця ефективна програма випікання ідеально підходить для всіх типів заморожених продуктів і напівфабрикатів. Смачні та корисні радощі життя Тепер ви зможете насолоджуватися хрусткими та смачними смаженими стравами без зайвих калорій. Цей метод надзвичайно інтенсивного випікання з використанням гарячого повітря не потребує жиру для досягнення бездоганної хрусткої золотистої скоринки. Результати приготування будуть ще кращими, якщо випікати в спеціальному деку з отворами (залежить від моделі), яке з усіх боків ідеально огортає страву. Підходить для малих шматків м’яса, риби, овочів і заморожених напівфабрикатів, як-от картопля фрі та курячі нагетси. Найпростіший спосіб запікання на пару Ця програма створює ідеально пропарене середовище, яке гарантує, що ваш хліб матиме високий ріст і хрумку скоринку. Все, що вам потрібно зробити, це налити трохи води в неглибокий лист, вибрати програму ExtraSteam і дозволити духовці зробити всю роботу. Щоразу рівномірно пропікається Духовки Gorenje добре відомі своєю інноваційною закругленою камерою, яка вже багато років є їхньою відмінністю. Форма HomeMade була натхненна традиційними дров'яними печами та забезпечує кращу циркуляцію повітря порівняно з конкурентами. Тепер форма HomeMade була повністю перероблена, а потік повітря покращено за рахунок нової конструкції обігрівача та покращеного розподілу вентиляційних отворів. Саме тому температура у всій духовці стабільна. Ваші страви ніколи більше не підгорятимуть з одного боку і недосмажуватимуться з іншого. Ідеально з усіх боків Технологія MultiAir забезпечує оптимальну циркуляцію тепла всередині духовки. Завдяки вдало розташованим вентиляційним отворам на задній стінці та унікальній закругленій формі повітря рівномірно розподіляється по всій духовій шафі. Вентилятор проганяє гаряче повітря по всьому об'єму духовки, завдяки чому їжа ідеально пропікається з усіх боків. Динамічне рух повітря також дозволяє одночасно випікати на кількох рівнях без змішування запахів та смаків. Просте повсякденне прибирання AquaClean пропонує велику допомогу в очищенні камери духової шафи. Все, що потрібно, це налити півлітра води в лист і включати AquaClean після кожної випічки. Всього через 30 хвилин результати видно на всій поверхні та деках. Плями та жир розм'якшуються і легко видаляються. Просте та ефективне розморожування Духовки Gorenje виділяються функцією ефективного розморожування, яке рівномірно розморозить будь-який продукт глибокого заморожування. Просто встановіть час, а решту залиште у духовці! Для натхнення в останню хвилину Пекарські печі OptiBake досягають температури до 200 ˚C всього за 4,50 хвилин, що заощаджує 30 % часу, необхідного для стандартного попереднього нагріву, і робить їх одними з найшвидших печей на ринку. Це дуже зручно для рецептів, які потребують попередньо розігрітої духовки. Світловий та звуковий сигнал повідомить вас, коли температура стане потрібною. Ультрастійке, ультрагладке покриття Якість та тип емалі винятково важливі для плити та її роботи. SilverMatte – це дуже стійкий та міцний матеріал, здатний витримувати екстремальні температури. Вільний від мікропор, він покриває поверхні духовки і деко, роблячи їх стійкими до найвищих температур. Покриття внутрішньої частини сприяє відображенню тепла та забезпечує додаткову ізоляцію. Тому внутрішній простір духовки завжди залишається стерильним та безпечним. Все акуратно під рукою Більшість плит мають зручний висувний ящик з достатнім простором для зберігання деко та іншого кухонного приладдя. Готовий до рецептів XXL Плити Gorenje пропонують збільшену поверхню для випікання та використання дуже великих деко. Інноваційні рішення дозволяють оптимізувати споживання енергії та рівномірно готувати їжу незалежно від її кількості. Повна ширина духовки використовується ефективно, а передові технології забезпечують рівномірне приготування їжі на всіх рівнях.]]></description>
 </offer>
-<offer id="HT32248" available="true" selling_type="r">
+<offer id="HT32248" available="false" selling_type="r">
 <name>Посудомийна машина Gorenje GV16D9 (вбудована 60 см)</name>
 <categoryId>226</categoryId>
 <portal_category_id>615</portal_category_id>
@@ -52169,7 +52169,7 @@
 <param name="Підтримка відеовикликів">Так</param>
 <description><![CDATA[Створений для дітей - погоджений батькамиДитячий годинник Gelius Rainbow створений для дітей - погоджений люблячими батьками. Насолоджуйтесь швидким процесором, чітким і яскравим екраном та багатьма іншими особливостями годинника.Дозвольте дітям вільно насолоджуватись та досліджувати реальний світ - про все інше подбає Gelius! Все під контролем у безкоштовному додатку Setracker. Комбінація кольорівДіти можуть персоналізувати свій годинник Rainbow Kids за допомогою змінних кольорових резинок на корпус пристрою, що дозволить змінювати зовнішній вигляд гаджету. Функція відеодзвінка та фронтальної камериДитина завжди зможе зв'язатися з вами та друзями через відеозв'язок, або зробити фото та поділитися усіма своїми пригодами! Місцезнаходження за останніми стандартами та технологіямиБатьки завжди можуть відстежувати розташування своєї дитини у реальному часі, незалежно від того, де вона знаходиться - вдома чи на вулиці, завдяки швидкій та надійній системі глобального позиціонування GPS, AGPS, LBS, WIFI. Багато можливостей в одному годиннику. Gelius Rainbow Kids - це справжнє поєднання практичності та стилю. Дитячі годинники не лише вражають функціональністю, але й мають можливість персоналізації головного екрану завдяки змінним вотч фейсам. P67 захист від вологиСтандарт захисту від вологи IP67 означає, що смарт-годинник повністю захищений від пилу і води. Тому діти можуть безпечно грати під дощем або біля басейну, і вам не треба хвилюватись за їхню безпеку. З Gelius Rainbow Kids - все під контролем. Особливості: Точність GPS: 5-30 мТочність Wi-Fi: 30-50 мТочність LBS: 100 м і вищеФункція відеодзвінкаРозташування: GPS, AGPS, LBS, Wi-FiМережа 2G / Мережа 3G / Мережа 4GЗмінні кольорові резинки на корпус пристроюДзвінок на номер телефону 3 номери SOS + 15 у телефонній книзіПідтримка SOS у додаткуПідтримка G-сенсора (три осі)Додаток: Setracker]]></description>
 </offer>
-<offer id="HT32374" available="true" selling_type="r">
+<offer id="HT32374" available="false" selling_type="r">
 <name>Смарт-годинник дитячий Gelius GP-PK008 (Rainbow) White</name>
 <categoryId>239</categoryId>
 <portal_category_id>721</portal_category_id>
@@ -53284,7 +53284,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Зручна ручка Цей потужний блендер має зручну ручку, яка відповідає формі вашої руки. Таким чином, він дозволяє уникнути різких рухів і допомагає отримати більшу точність під час використання своїх функцій. Він має міцну наддовгу ручку, виготовлену з високоякісної сталі, для повної безпеки та міцності під час використання. Універсальність Набір ручного блендера має чотири титанові леза для високоефективної роботи. Він також має подрібнювач з лезами з того ж типу матеріалу ємністю 650 мл. Має пластиковий стакан об'ємом 800 мл з мірною шкалою та ефективну товкачку для картоплі. Крім того, він включає в себе спеціальний віночок для яєць і інший, який дає вам можливість виконувати кілька завдань одночасно. Ідеально підходить для приготування всіх видів сумішей. Різні швидкості Він має ефективну кнопку з двома швидкостями керування, звичайною дією та турбо. Він має вбудоване колесо керування з 23 різними швидкостями, що допоможе вам досягти точних міксів. Він також має потужний двигун і має змішувальні важелі. Вони здатні дробити лід. Практичний і простий у використанні Цей міксер є дуже простим пристроєм у користуванні, і, крім того, він уникає дратівливих шумів під час виконання будь-яких своїх функцій, навіть у найменших або найбільш ізольованих приміщеннях. З цим занурювальним блендером ви також можете здійснювати подрібнювальні рухи, що дозволить обійтися без інших приладів і значно заощадить час. Кожного разу, коли ви використовуєте цей ручний блендер, ви матимете можливість швидко зібрати та розібрати його лише одним клацанням миші. Мобільність і зберігання Ручний міксер Sogo дуже легко переміщати по поверхні кухні, оскільки він важить лише 1,75 кг і займає дуже мало місця, де б ви його не поставили. Одним із найзручніших та інноваційних аксесуарів цього ручного блендера є вішалка для підвішування різних аксесуарів. Таким чином, з його допомогою ви зможете заощадити місце на вашій кухні і зробити так, щоб вона завжди виглядала чітко. Елегантний дизайн Елегантний і сучасний дизайн цього блендера дозволяє легко інтегрувати його в оздоблення вашої кухні. Це стримана модель. У цьому аспекті наявність блакитного світлодіодного світлового індикаторного кільця та подовженої ручки з нержавіючої сталі виділяються елементами, які надають вашій кухні сучасний відтінок. З іншого боку, його можна розібрати для легкого очищення.]]></description>
 </offer>
-<offer id="HT32710" available="true" selling_type="r">
+<offer id="HT32710" available="false" selling_type="r">
 <name>Радіатор масляний Olimpia Splendid CALDORAD 9 DIGITAL (99622) (9 секцій) Уцінка</name>
 <categoryId>269</categoryId>
 <portal_category_id>13240108</portal_category_id>
@@ -55271,7 +55271,7 @@
 <portal_category_id>641</portal_category_id>
 <price>11288.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014639_castlecg60g.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_00014639_castlecg60g.jpg</picture>
 <vendor>CASTLE</vendor>
@@ -57338,7 +57338,7 @@
 <portal_category_id>6300424</portal_category_id>
 <price>3063.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>33</quantity_in_stock>
+<quantity_in_stock>32</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000015087_488174774.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000015087_488174802.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000015087_488174838.jpg</picture>
@@ -59309,7 +59309,7 @@
 <portal_category_id>61903</portal_category_id>
 <price>27657.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>12</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153911.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153912.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000153913.jpg</picture>
@@ -59584,7 +59584,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Опис Більше ніяких покупних пакетиків для льоду, які посідають все місце в морозильній камері! З цим льодогенератором ви отримаєте рівні кубики потрібного вам розміру (маленький/великий) всього за кілька хвилин. Апарат виготовляє до 9 кубиків льоду за 7-9 хвилин або 12 кг за 24 години.Льодогенератор дуже простий у використанні та оснащений різними індикаторами для безпечної та ефективної роботи. Готові кубики льоду можна витягти з апарата за допомогою черпака, що додається. Потужний та безшумний, цей апарат працює з рівнем шуму всього 55 децибелів. Це означає, що він може виробляти лід безперервно, не турбуючи вас та ваших гостей. 2 розміри кубиків льоду S = Ø 21 мм, L = Ø 24 ммПрозора панель керування зі світлодіодними індикаторами9 кубиків за цикл, час циклу 7-9 хвилинПриблизно 12 кг/24 годиниРівень шуму В комплект входять: лопата та знімний кошик]]></description>
 </offer>
-<offer id="HT34052" available="true" selling_type="r">
+<offer id="HT34052" available="false" selling_type="r">
 <name>Морозивниця FIRST Austria FA-5105</name>
 <categoryId>290</categoryId>
 <portal_category_id>64302</portal_category_id>
@@ -60553,7 +60553,7 @@
 <portal_category_id>15230411</portal_category_id>
 <price>643.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156901.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156902.jpg</picture>
 <vendorCode>HT34227</vendorCode>
@@ -60612,7 +60612,7 @@
 <portal_category_id>62701</portal_category_id>
 <price>19500.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156961.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156962.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156963.jpg</picture>
@@ -60693,7 +60693,7 @@
 <portal_category_id>6300424</portal_category_id>
 <price>3239.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>15</quantity_in_stock>
+<quantity_in_stock>13</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157051.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157052.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000157053.jpg</picture>
@@ -60969,7 +60969,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Ваги кухонні електронні, до 5 кг, точність 1 г., LCD дисплей, автовідключення, автообнулення, індикатор перевантаження, індикатор батарейки, батарейка 2 х AAA (в комплекті). Матеріал корпусу: загартоване скло. Гарантія - 1 рік]]></description>
 </offer>
-<offer id="HT34279" available="true" selling_type="r">
+<offer id="HT34279" available="false" selling_type="r">
 <name>Пральна машина MIDEA MF110W60/ W-UA</name>
 <categoryId>229</categoryId>
 <portal_category_id>603</portal_category_id>
@@ -63393,7 +63393,7 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Мультипіч Rotex ROM1210-2XL MultiFry DUO — це потужний і універсальний кухонний прилад, створений для швидкого, смачного та корисного приготування різноманітних страв. Завдяки потужності 2800 Вт і загальному об’єму 12 літрів (2 чаші по 6 л), пристрій дозволяє одночасно готувати дві різні страви, економлячи час і електроенергію. Такий формат ідеально підходить для сімейного використання або приготування великих порцій страв до святкового столу.Мультипіч оснащена 11 автоматичними програмами, серед яких — овочі, риба, піца, картопля фрі, стейк, курка, креветки та мафіни. Кожен режим має оптимальну температуру та тривалість приготування, що забезпечує стабільно відмінний результат без потреби постійного контролю. Сенсорна панель керування робить експлуатацію простою та інтуїтивною, а сучасний дизайн пристрою гармонійно поєднується з будь-яким кухонним інтер’єром.Rotex ROM1210-2XL MultiFry DUO — це справжня мультифункціональна піч, яка поєднує функції духовки, фритюрниці та гриля. Вона дозволяє готувати з мінімальною кількістю олії, зберігаючи природний смак продуктів і роблячи страви більш корисними. Це чудовий вибір для тих, хто цінує зручність, швидкість і здорове харчування.]]></description>
 </offer>
-<offer id="HT34786" available="true" selling_type="r">
+<offer id="HT34786" available="false" selling_type="r">
 <name>Мультипіч-фритюрниця ZELMER ZAF 6020 (6,5л)</name>
 <categoryId>267</categoryId>
 <portal_category_id>6300424</portal_category_id>
@@ -64890,7 +64890,7 @@
 <param name="Вага">0,16 кг</param>
 <description><![CDATA[Форми для мультипечі Adler AD 6731 – практичне рішення для аерофритюрниць, духовок та мікрохвильових печей об’ємом 3-5 літрів, яке зменшує контакт електроприладів з жиром та забезпечує рівномірне випікання та смаження страв.Форми Adler AD 6731 виготовлені з екологічно чистого та безпечного для здоров’я людини пергаменту та підтримують температуру до 240°C.До складу комплекту постачання входить 100 одноразових форм.● Виробник: Adler● Артикул: AD6731● Тип: Форма для випікання● Призначення: Для мультипічок● Матеріал: Пергамент● Особливості: 100 шт. в комплекті, для мультипічок 3–5 л, термостійкий (до 240°C), універсальне використання, стійкий до олії та води, антипригарний, біорозкладний● Колір: Бежевий● Габарити: 160 × 160 × 45 мм● Вага: 0.18 кг● Габарити упаковки: 235 × 235 × 70 мм● Вага з упаковкою: 0.24 кг]]></description>
 </offer>
-<offer id="HT35029" available="true" selling_type="r">
+<offer id="HT35029" available="false" selling_type="r">
 <name>Подрібнювач FIRST Austria FA-5114-WI</name>
 <categoryId>290</categoryId>
 <portal_category_id>64302</portal_category_id>
@@ -67398,7 +67398,7 @@
 <portal_category_id>6300424</portal_category_id>
 <price>3718.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>17</quantity_in_stock>
+<quantity_in_stock>12</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171881.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171882.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171883.jpg</picture>
@@ -68633,7 +68633,7 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Ваги кухонні SATURN ST-KS7836Максимальна вага: 5 кгГрадація: 1 гСенсорне керуванняТензодатчикАвтоматичний нуль, автоматичне вимкненняІндикатор низького заряду батареїІндикатор перевантаженняЕлемент живлення: 2 батарейки ААА.]]></description>
 </offer>
-<offer id="HT35354" available="true" selling_type="r">
+<offer id="HT35354" available="false" selling_type="r">
 <name>Ваги кухонні SATURN ST-KS7837</name>
 <categoryId>277</categoryId>
 <portal_category_id>15230411</portal_category_id>
@@ -68887,7 +68887,7 @@
 <portal_category_id>63020</portal_category_id>
 <price>252.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>11</quantity_in_stock>
+<quantity_in_stock>10</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000173541.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000173542.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000173543.jpg</picture>
@@ -69226,7 +69226,7 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Пароварка Saturn ST-EC1187 — здорове приготування без зайвих зусильПароварка Saturn ST-EC1187 допоможе готувати корисні та смачні страви з максимальним збереженням вітамінів і природного смаку продуктів. Завдяки високій потужності та продуманій конструкції вона стане практичним рішенням для щоденного використання.Потужність 1500 ВтВисока максимальна потужність забезпечує швидке утворення пари та рівномірне приготування страв.Місткість 12 літрівЗагальний об’єм 12 л дозволяє готувати одразу кілька страв для всієї родини.2 лотки для продуктівЗручне розділення інгредієнтів дає можливість одночасно готувати різні страви без змішування смаків.Індикатор рівня водиДозволяє легко контролювати кількість води під час роботи пристрою.Сигнал про завершення приготуванняЗвукове сповіщення повідомляє про закінчення циклу.Автоматична зупинка роботиПрилад автоматично вимикається після завершення приготування, що підвищує безпеку використання.Ергономічний дизайнКомпактна та зручна конструкція гармонійно впишеться в інтер’єр кухні та не займатиме багато місця.Saturn ST-EC1187 — це поєднання потужності, місткості та простоти керування для щоденного приготування здорових страв.]]></description>
 </offer>
-<offer id="HT35394" available="true" selling_type="r">
+<offer id="HT35394" available="false" selling_type="r">
 <name>Попкорниця SATURN-ST-FP0709</name>
 <categoryId>290</categoryId>
 <portal_category_id>64302</portal_category_id>
@@ -70795,7 +70795,7 @@
 <portal_category_id>6300424</portal_category_id>
 <price>6440.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175071.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175072.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175073.jpg</picture>
@@ -72799,7 +72799,7 @@
 <portal_category_id>602</portal_category_id>
 <price>27038.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>20</quantity_in_stock>
+<quantity_in_stock>17</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175501.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175502.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000175503.jpg</picture>
@@ -73345,7 +73345,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Миючий пилосос Rowenta IN5021F0 Clean ItУніверсальний миючий пилосос, спеціально розроблений для прибирання килимів та м'яких поверхонь. Бак без мішка обсягом 1,5 л забезпечує зручність та практичність під час роботи, а потужність 750 Вт гарантує ефективне очищення навіть складних забруднень.Переваги:Конструкція без мішка значно спрощує процес утримання та очищення. Не потрібно купувати витратні мішки, достатньо просто спорожнити контейнер при першій необхідності.Універсальна щітка та довгий шланг завдовжки 5 метрів дозволяють займатися прибиранням у найменш доступних місцях. Ви можете легко чистити килими, діваны, драпіровки та інші м'які поверхні.Невелика вага 5,07 кг та компактні розміри (18х33х31,4 см) гарантують легкість у маніпуляції та зберіганню. Ручка у вигляді шланга забезпечує комфортний контроль під час прибирання.Рівень шуму 83,8 дБ не порушує комфортну атмосферу під час роботи пристрою.Для кого підходить:Цей пилосос ідеальний для тих, хто часто прибирає килими та м'які меблі. Він стане надійним помічником у доме або офісі, де потрібне регулярне вологе очищення поверхонь.Мобільність та зручність контролю роблять його оптимальним рішенням для прибирання різних куточків квартири або будинку.]]></description>
 </offer>
-<offer id="HT35709" available="true" selling_type="r">
+<offer id="HT35709" available="false" selling_type="r">
 <name>Мультипіч-фритюрниця Tefal EY5728E1 (5л)</name>
 <categoryId>267</categoryId>
 <portal_category_id>6300424</portal_category_id>
@@ -75083,7 +75083,7 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Кавоварка KUMTEL HFCM-03 Black – це зручна крапельна модель, яка ідеально підійде для щоденного приготування кави вдома або в офісі. Вона працює з меленою кавою та дозволяє швидко приготувати ароматне американо. Завдяки потужності 750 Вт процес приготування напою займає мінімум часу, а об’єм резервуара для води 1.25 л дозволяє зробити кілька чашок за один цикл.Модель оснащена автоматичним вимкненням, функцією підтримання тепла та нейлоновим фільтром, що робить її ще більш практичною. Скляна чаша не лише виглядає стильно, але й зберігає тепло кави, не змінюючи її смак.Кавоварка має компактні габарити – 21 × 15.5 × 26 см і вагу лише 1.14 кг в упаковці, що робить її легкою та зручною для розміщення навіть на маленькій кухні. Корпус із поєднання пластику та скла виконаний в елегантному чорному кольорі, а механічне керування інтуїтивно зрозуміле навіть для початківця.KUMTEL HFCM-03 Black – чудовий вибір для тих, хто хоче мати завжди під рукою теплу, свіжозаварену каву без зайвих зусиль.]]></description>
 </offer>
-<offer id="HT35813" available="true" selling_type="r">
+<offer id="HT35813" available="false" selling_type="r">
 <name>Мультипіч-фритюрниця Tefal EY846HE0 (7л)</name>
 <categoryId>267</categoryId>
 <portal_category_id>6300424</portal_category_id>
@@ -75750,7 +75750,7 @@
 <portal_category_id>639</portal_category_id>
 <price>1040.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000170381.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000170382.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000170383.jpg</picture>
@@ -76654,7 +76654,7 @@
 <param name="Гарантія">2 роки</param>
 <description><![CDATA[Мощность 1000 W. 2 скоростных режима работы. Регулятор скорости корпуса. Нож Ice Crush из нержавеющей стали с титановым покрытием. Пластиковый корпус со съемной ногой. Нога из нержавеющей стали. Подвесная петля. Аксессуары: чаша для измельчения и нарезки кубиками 2 л с лезвием, чаша с измельчителем 400 мл, насадка для нарезки кубиками 8 мм х 8 мм, насадка для нарезки кубиками 11 мм х 11мм, насадка для нарезки соломкой, мерный стакан с терка для дерунов, двухсторонний диск для нарезки и измельчения овощей и фруктов, насадка для замеса теста, насадки для взбивания и замеса. Гарантия – 2 года.Характеристики:Тип: погружнойМощность, Вт:1000Количество скоростей:2Цвет: черныйНож для измельчения: ICE Crush из нержавеющей стали с титановым покрытиемНожка блендера (материал): нержавеющая стальНасадки: Насадка для нарезки кубиками, 8 х 8 мм; Насадка для нарезки кубиками, 11 х 11 мм; Насадка для нарезки соломкой; Венчик; Терка для дерунов; Насадка-смеситель для теста;Диск двусторонний для нарезки овощей и фруктов;Насадки для взбивания и замесаМерный стакан: 600 млИзмельчитель: с пластиковой чашей, 400 мл; Для нарезки кубиками, пластиковая чаша, 2 лГарантия, р:2Особенности:Регулятор скорости на корпусеМерный стакан с крышкойПетля для подвешивания]]></description>
 </offer>
-<offer id="HT35926" available="true" selling_type="r">
+<offer id="HT35926" available="false" selling_type="r">
 <name>Телевізор Philips 55PUS9010/12 Smart TV</name>
 <categoryId>295</categoryId>
 <portal_category_id>6370714</portal_category_id>
@@ -78733,7 +78733,7 @@
 <portal_category_id>638</portal_category_id>
 <price>1042.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184871.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184872.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184873.jpg</picture>
@@ -78761,7 +78761,7 @@
 <portal_category_id>61601</portal_category_id>
 <price>1244.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>21</quantity_in_stock>
+<quantity_in_stock>20</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184761.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184762.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184763.jpg</picture>
@@ -80145,9 +80145,9 @@
 <name>Витяжка Gorenje TH64E3BG (телескопічна)</name>
 <categoryId>222</categoryId>
 <portal_category_id>642</portal_category_id>
-<price>8238.00</price>
+<price>8000.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186781.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186782.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186783.jpg</picture>
@@ -80455,7 +80455,7 @@
 <portal_category_id>603</portal_category_id>
 <price>16813.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186751.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186752.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186753.jpg</picture>
@@ -83335,7 +83335,7 @@
 <portal_category_id>6300424</portal_category_id>
 <price>8443.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000170751.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000170752.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000170753.jpg</picture>
@@ -85583,7 +85583,7 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[CrispZoneВелика шухляда для фруктів і овочівПростора шухляда CrispZone зберігає свіжість і поживні якості продуктів. Завдяки низькій температурі продукти довше не псуються.Зручне та ефективнеСвітлодіодне освітлення в холодильниках забезпечує чудове та надзвичайно ефективне освітлення. Термін його служби втридцятеро довший, ніж у звичайних лампочок, а енергоспоживання знижується вдесятеро.Практичне місце для зберігання яєцьЗберігайте яйця під рукою за допомогою практичного та легкого у догляді лотка для яєць.]]></description>
 </offer>
-<offer id="HT36332" available="true" selling_type="r">
+<offer id="HT36332" available="false" selling_type="r">
 <name>Телевізор HAIER H43K85FUX</name>
 <categoryId>295</categoryId>
 <portal_category_id>6370714</portal_category_id>
@@ -85622,7 +85622,7 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Haier H43K85FUX поєднує діагональ 43 дюйми, панель LED та роздільну здатність 4K у форматі, який не вимагає стіни під дуже великий телевізор.У H43K85FUX система Google TV дає доступ до програм, але не змінює можливості самої LED-панелі. При порівнянні з сусідньою моделлю окремо дивіться на роздільну здатність 4K, частоту та формати, що підтримуються.Найближчий діагоналі H43S80FUX заявлений вже з панеллю QLED, тоді як у H43K85FUX стоїть LED. Це підтверджена відмінність серій. Реальне зображення все одно оцінюють з урахуванням джерела сигналу та налаштувань, а не лише одного напису панелі.Як H43K85FUX показує рухЗа специфікацією Haier H43K85FUX частота панелі вказана як 60Hz. MEMC є у специфікації. Dolby Vision не заявлено. Dolby Atmos не заявлено.У H43K85FUX роздільна здатність 3840×2160 підходить для 4K-матеріалу, проте підтверджені 60 Hz не слід видавати за панель із підвищеною частотою. Якщо для консолі або ПК особливо важливою є плавність динаміки, потрібна інша специфікація.Що можна підключити до H43K85FUXHDMI4 HDMI 2.1USB2 (USB 2.0)Bluetooth5.1ChromecastєУ H43K85FUX заявлено 4 HDMI 2.1 і 2 (USB 2.0) USB. За цим набором видно скільки джерел можна залишити підключеними, але версія HDMI сама по собі не гарантує будь-який ігровий режим на кожному вході. Потрібну комбінацію частоти, роздільної здатності та функцій звіряйте в інструкції Haier.Чи підійде діагональ 43 дюймиФормат 43 дюйми у H43K85FUX легше вписати в невелику вітальню або готову меблеву нішу. Спочатку виміряйте доступну ширину і вирішіть, де стоятиме приставка та акустика: роз'єми повинні залишитися доступними.Як підготувати місце для H43K85FUXVESA200x200Клас енергоефективностіFДля Haier H43K85FUX перевірте кріплення, ширину місця та доступ до бічних роз'ємів до монтажу. Діагональ 43 дюймів не замінює фактичний замір стін та меблів.Якщо ви порівнюєте Haier H43K85FUX із сусідньою діагоналлю, напишіть нам ширину місця, дистанцію перегляду та список пристроїв, що підключаються. Допоможемо перевірити розмір та входи без обіцянок, яких немає у специфікації.]]></description>
 </offer>
-<offer id="HT36333" available="true" selling_type="r">
+<offer id="HT36333" available="false" selling_type="r">
 <name>Телевізор SetUP 40FSF30 Smart TV</name>
 <categoryId>295</categoryId>
 <portal_category_id>6370714</portal_category_id>
@@ -86235,7 +86235,7 @@
 <portal_category_id>603</portal_category_id>
 <price>24544.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191461.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191462.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191463.jpg</picture>
@@ -86292,6 +86292,172 @@
 <param name="Глибина">47 см</param>
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Бренд - Hisense;Функції - Струмінне полоскання, Сушіння, Таймер закінчення прання;Дисплей - LED-індикація;Тип завантаження - Фронтальна;Програми - Швидке прання, Одяг малюка;Колір корпусу - Білий, Чорний;Захист і контроль - Захист від дітей, Контроль дисбалансу-8 см;Функція пара - Так;Сфера застосування - Для дому (побутова);Максимальна швидкість віджиму - 1400 об/хв;Ширина - 52-61;Максимальне завантаження, кг - 8 кг;Рівень шуму при віджиманні, дБ - 72 дБ; пральної машини - Автоматичні;Управління - Сенсорне;Матеріал Тіна - Нержавіюча сталь;Тип двигуна - Інверторний;Матеріал бака - Пластик;Сегментація за габаритами - Вузькі (сторона 40-49 см);Витрата води за цикл - 55 л; 47; Висота, см - 84,5; Ширина, см - 59,5;]]></description>
+</offer>
+<offer id="HT36355" available="true" selling_type="r">
+<name>Водонагрівач Gorenje MINI10-O (над мийкою)</name>
+<categoryId>221</categoryId>
+<portal_category_id>607</portal_category_id>
+<price>5400.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>9</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191271.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191272.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191273.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191274.jpg</picture>
+<vendor>Gorenje</vendor>
+<vendorCode>HT36355</vendorCode>
+<country>Словенія</country>
+<param name="Колір">Білий</param>
+<param name="Ширина">34 см</param>
+<param name="Керування">Механічне</param>
+<param name="Максимальна температура нагріву">до 75°C</param>
+<param name="Встановлення">Універсальне</param>
+<param name="Матеріал корпусу">Метал</param>
+<param name="Час нагріву">25 хв</param>
+<param name="Кількість ТЕНІВ">1</param>
+<param name="Об&apos;єм баку">10 л</param>
+<param name="Тип нагрівального елемента">Мокрий ТЕН</param>
+<param name="Потужність">1500 Вт</param>
+<param name="Внутрішнє покриття">Емаль</param>
+<param name="Гарантія на бак">7 років</param>
+<param name="Вага">6,7 кг</param>
+<param name="Висота">39 см</param>
+<param name="Глибина">34 см</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[GORENJE MINI10-OНасолоджуйтесь використанням теплої води в будь-який час завдяки сучасному електричному водонагрівачу.Подвійний антикорозійний захистЗавдяки якісному надгладкому емальованому покриттю та великому магнієвому аноду водонагрівач буде неймовірно довговічним. А ви зможете насолоджуватися його стабільною та якісною роботою протягом довгих років навіть за складних умов.Можливість встановлення під мийкоюКомпактний водонагрівач стане чудовим рішенням для тих ситуацій, коли вам не потрібні великі об’єми гарячої води. Моделі нагрівачів від GORENJE дуже компактні, і їх можна легко встановити прямо під мийкою. Вони відмінно підійдуть для вбудовування в кухонні шафи, ванні кімнати, гостьові зони або навіть майстерні, не займаючи зайвий вільний простір і забезпечуючи лише зручність та комфорт.Захист від перегрівуСпеціальна система не допускатиме, щоб нагрівач піднімав температуру води вище 90 градусів за Цельсієм. При виникненні несправності пристрій буде автоматично вимкнено, а ви отримаєте сигнал про надто високу температуру води. Таким чином використання водонагрівача буде безпечнішим і захистить користувача від можливих опіків.Захист від увімкнення без водиВодонагрівач не увімкнеться, якщо перед підключенням до електромережі він не був заповнений водою. Такий підхід допомагає захистити внутрішні компоненти пристрою від перегріву, а сам нагрівальний елемент від пошкоджень.Відкритий нагрівальний елемент (ТЕН)У даній моделі використовується занурювальний електричний нагрівач, який відрізняється підвищеною економічністю та зручністю. ТЕН безпосередньо контактуватиме з водою, завдяки чому нагріватиме її ще швидше і ефективніше.7 років гарантії (на внутрішній бак)Виробник впевнений у високій якості кожного з випущених водонагрівачів, на підтвердження чого надає гарантію на внутрішній бак терміном на 7 років. Таким чином ви завжди отримуєте стабільну роботу пристрою, захист та впевненість на багато років. Гарантійні умови діють згідно з гарантійним талоном на водонагрівач.Загальна гарантія терміном на два рокиНа всі водонагрівачі від GORENJE MINI10-U надається повна гарантія строком на 2 роки. Протягом цього часу на всі основні вузли та деталі пристрою діятимуть гарантійні зобов'язання. Завдяки цьому ви завжди зможете бути впевненими у високій якості, а також стабільній та довгостроковій роботі вашого водонагрівача.]]></description>
+</offer>
+<offer id="HT36356" available="true" selling_type="r">
+<name>Водонагрівач Gorenje MINI10-U (під мийку)</name>
+<categoryId>221</categoryId>
+<portal_category_id>607</portal_category_id>
+<price>5400.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>10</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191251.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191252.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191253.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191254.jpg</picture>
+<vendor>Gorenje</vendor>
+<vendorCode>HT36356</vendorCode>
+<country>Словенія</country>
+<param name="Колір">Білий</param>
+<param name="Регулятор температури">Так</param>
+<param name="Ширина">34 см</param>
+<param name="Керування">Механічне</param>
+<param name="Максимальна температура нагріву">до 75°C</param>
+<param name="Встановлення">Під раковиною</param>
+<param name="Матеріал корпусу">Метал</param>
+<param name="Час нагріву">25 хв</param>
+<param name="Кількість ТЕНІВ">1</param>
+<param name="Об&apos;єм баку">10 л</param>
+<param name="Тип нагрівального елемента">Мокрий ТЕН</param>
+<param name="Потужність">1500 Вт</param>
+<param name="Внутрішнє покриття">Емаль</param>
+<param name="Гарантія на бак">7 років</param>
+<param name="Тип водонагрівача">Накопичувальний</param>
+<param name="Вага">6,7 кг</param>
+<param name="Висота">29 см</param>
+<param name="Глибина">34 см</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Водонагрівач Gorenje MINI10-UХарактеристикиОб'єм: 10.9, 17Тип керування: МеханічнеВстановлення: ВертикальнеФорма бака: ПрямокутнаТип встановлення: Під мийкоюПотужність: 1500Індикатор температури: НiТип нагрівального елемента (ТЕНа): МокрийЧас нагріву: 00:26 (ΔT=55°С) δt=45°сМатеріал внутрішнього бака: СтальГабарити в упаковці (ВхШхГ): 350 x 400 x 390 ш х г х вВага: 6.7Вага в упаковці: 8.4Регулятор температури: ТакМаксимальна температура води: 75Оснащення: Ні, Запобіжний клапан, Магнієвий анод, Захист від сухого увімкнення, Ні пзвКраїна-виробник товару: КитайКерування через Wi-Fi: Без керування через Wi-FiМатеріал бака: Сталевий з покриттямКлас енергоспоживання: AПідведення труб: ВерхнєРобочий тиск води: 0.2 / 7.5 мін/максДіаметр приєднання: G1/2”Споживання електроенергії: 485 1Колір: Білий із сірою вставкоюГарантіяГарантія: 24 місяці, 24]]></description>
+</offer>
+<offer id="HT36357" available="true" selling_type="r">
+<name>Водонагрівач Gorenje MINI15-U (під мийку)</name>
+<categoryId>221</categoryId>
+<portal_category_id>607</portal_category_id>
+<price>5725.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>10</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191261.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191262.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191263.jpg</picture>
+<vendor>Gorenje</vendor>
+<vendorCode>HT36357</vendorCode>
+<country>Словенія</country>
+<param name="Колір">Білий</param>
+<param name="Регулятор температури">Так</param>
+<param name="Ширина">43 см</param>
+<param name="Керування">Механічне</param>
+<param name="Максимальна температура нагріву">до 75°C</param>
+<param name="Встановлення">Під раковиною</param>
+<param name="Матеріал корпусу">Метал</param>
+<param name="Кількість ТЕНІВ">1</param>
+<param name="Об&apos;єм баку">15 л</param>
+<param name="Тип нагрівального елемента">Мокрий ТЕН</param>
+<param name="Потужність">1500 Вт</param>
+<param name="Внутрішнє покриття">Емаль</param>
+<param name="Гарантія на бак">7 років</param>
+<param name="Тип водонагрівача">Накопичувальний</param>
+<param name="Вага">8 кг</param>
+<param name="Висота">44 см</param>
+<param name="Глибина">39 см</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Електричний накопичувальний водонагрівач Gorenje MINI15-U:Компактний та ефективний водонагрівач Gorenje MINI15-U — це ідеальне рішення для швидкого забезпечення гарячою водою вашої кухні, офісу, гостьового санвузла чи майстерні. Завдяки продуманій квадратній формі та ультракомпактним розмірам, прилад розроблений спеціально для непомітного та зручного встановлення під мийкою, що дозволяє зберегти корисний простір вашого інтер'єру.Насолоджуйтеся стабільним комфортом та бездоганною якістю європейських стандартів у будь-який час.Ключові переваги та технології:- Монтаж під раковиною: верхнє підведення труб забезпечує легке та швидке інтегрування приладу безпосередньо всередину кухонної шафи чи тумби під умивальник.- Подвійний захист від коррозії: внутрішні стінки бака вкриті високоякісною надгладкою емаллю, яка працює в тандемі з магнієвим анодом збільшеного розміру, гарантуючи максимальну стійкість до агресивної чи жорсткої води.- Ефективне та швидке нагрівання: завдяки занурювальному («мокрому») ТЕНу потужністю 1500 Вт, який має прямий контакт із водою, 15,9 літрів води нагріваються до робочої температури всього за 39 хвилин.- Інтуїтивне керування: простий, надійний та зрозумілий механічний поворотний перемикач на корпусі дозволяє точно регулювати рівень нагріву під ваші повсякденні потреби.- Багаторівнева система безпеки: бойлер обладнаний термостатом захисту від перегріву (автоматичне вимкнення у разі досягнення критичної температури), функцією «антизамерзання» та блокуванням увімкнення за відсутності води в баку.- Офіційна гарантія: надійність конструкції підтверджена тривалою гарантією 7 років на внутрішній бак та 2 роки повної загальної гарантії на електричну частину приладу.]]></description>
+</offer>
+<offer id="HT36358" available="true" selling_type="r">
+<name>Водонагрівач Gorenje TG30W-E ( 30л, мокрий тен)</name>
+<categoryId>221</categoryId>
+<portal_category_id>607</portal_category_id>
+<price>6694.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>15</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191291.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191292.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191293.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191294.jpg</picture>
+<vendor>Gorenje</vendor>
+<vendorCode>HT36358</vendorCode>
+<country>Словенія</country>
+<param name="Колір">Білий</param>
+<param name="Регулятор температури">Так</param>
+<param name="Ширина">34 см</param>
+<param name="Керування">Механічне</param>
+<param name="Максимальна температура нагріву">до 75°C</param>
+<param name="Матеріал корпусу">Метал</param>
+<param name="Кількість ТЕНІВ">1</param>
+<param name="Об&apos;єм баку">30 л</param>
+<param name="Тип нагрівального елемента">Мокрий ТЕН</param>
+<param name="Потужність">1500 Вт</param>
+<param name="Внутрішнє покриття">Емаль</param>
+<param name="Тип водонагрівача">Накопичувальний</param>
+<param name="Вага">10,5 кг</param>
+<param name="Висота">57.5 см</param>
+<param name="Глибина">36,5 см</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Менше корозії – стабільне нагріванняЗавдяки подвійному антикорозійному захисту, що поєднує емалеве покриття та великий магнієвий анод, цей водонагрівач прослужить напрочуд довго, зберігаючи високу продуктивність підігріву – навіть у найскладніших умовах, без сторонніх домішок та із захистом від накипу.Розумна автоматика вимкненняЗавдяки точному контролю температури води, яка не допускає нагрівання вище 90°С, цей водонагрівач повністю захищений від поломок. Автоматично вимикаючись, коли температура води стає занадто високою, він відразу активує індикатор, щоб ви не змогли його випадково ввімкнути та обпектися. Отримайте більше захисту та контролюйте все з найменшого погляду.Захист від сухого стартуДодатковий захист від перегріву забезпечить функція блокування увімкнення, що спрацьовує при недостатньому рівні води всередині бака. Так внутрішні компоненти та ТЕН не перегріються, зберігаючи максимальну довговічність у будь-яких умовах експлуатації.Мінімальні тепловтратиЯкісна теплоізоляція корпусу значно знизить тепловтрати і запобігає перевитратам енергії на постійне нагрівання води, що остигає.Високоефективний ТЕН: сталь 310SЗанурювальний нагрівач із якісної нержавіючої сталі 310S забезпечить ще більш швидке та енергоефективне нагрівання. Завдяки корозійній стійкості та витривалості до різких перепадів температури, такий ТЕН забезпечить довгу службу та збереже стабільну ефективність нагріву навіть за інтенсивного використання. Отримайте більше надійності, ефективності та економії засобів з нагріванням, що втілило найкращі сучасні технології та системи захисту.5 років гарантії на внутрішній бакGorenje розробляється і виробляється на кращих заводах, втілюючи бездоганну європейську якість для надійності, якій справді довіряють. Отримайте більшу впевненість із 5-річною гарантією на внутрішній бак – ключовий елемент водонагрівача, який захищений від будь-яких несправностей. Усі умови гарантії вказані у гарантійному талоні.2 роки повної впевненостіВибираючи Gorenje, ви отримаєте більше надійності, що підтверджена 2-річною повною гарантією. Будьте впевнені у постійній підтримці, які б не виникали проблеми з основними компонентами та деталями нагрівача з гарантією, яка стане вашою впевненістю у його винятковій довговічності.]]></description>
+</offer>
+<offer id="HT36359" available="true" selling_type="r">
+<name>Водонагрівач Gorenje TG50W-E ( 50л, мокрий тен)</name>
+<categoryId>221</categoryId>
+<portal_category_id>607</portal_category_id>
+<price>7125.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>28</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191301.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191302.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191303.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191304.jpg</picture>
+<vendor>Gorenje</vendor>
+<vendorCode>HT36359</vendorCode>
+<country>Словенія</country>
+<param name="Колір">Білий</param>
+<param name="Ширина">38 см</param>
+<param name="Керування">Механічне</param>
+<param name="Максимальна температура нагріву">до 75°C</param>
+<param name="Встановлення">Настінний</param>
+<param name="Матеріал корпусу">Метал</param>
+<param name="Кількість ТЕНІВ">1</param>
+<param name="Об&apos;єм баку">50 л</param>
+<param name="Тип нагрівального елемента">Мокрий ТЕН</param>
+<param name="Потужність">1500 Вт</param>
+<param name="Внутрішнє покриття">Емаль</param>
+<param name="Гарантія на бак">5 років</param>
+<param name="Тип водонагрівача">Накопичувальний</param>
+<param name="Вага">15 кг</param>
+<param name="Висота">71 см</param>
+<param name="Глибина">38 см</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Менше корозії – стабільне нагріванняЗавдяки подвійному антикорозійному захисту, що поєднує емалеве покриття та великий магнієвий анод, цей водонагрівач прослужить напрочуд довго, зберігаючи високу продуктивність підігріву – навіть у найскладніших умовах, без сторонніх домішок та із захистом від накипу.Розумна автоматика вимкненняЗавдяки точному контролю температури води, яка не допускає нагрівання вище 90°С, цей водонагрівач повністю захищений від поломок. Автоматично вимикаючись, коли температура води стає занадто високою, він відразу активує індикатор, щоб ви не змогли його випадково ввімкнути та обпектися. Отримайте більше захисту та контролюйте все з найменшого погляду.Захист від сухого стартуДодатковий захист від перегріву забезпечить функція блокування увімкнення, що спрацьовує при недостатньому рівні води всередині бака. Так внутрішні компоненти та ТЕН не перегріються, зберігаючи максимальну довговічність у будь-яких умовах експлуатації.Мінімальні тепловтратиЯкісна теплоізоляція корпусу значно знизить тепловтрати і запобігає перевитратам енергії на постійне нагрівання води, що остигає.Високоефективний ТЕН: сталь 310SЗанурювальний нагрівач із якісної нержавіючої сталі 310S забезпечить ще більш швидке та енергоефективне нагрівання. Завдяки корозійній стійкості та витривалості до різких перепадів температури, такий ТЕН забезпечить довгу службу та збереже стабільну ефективність нагріву навіть за інтенсивного використання. Отримайте більше надійності, ефективності та економії засобів з нагріванням, що втілило найкращі сучасні технології та системи захисту.5 років гарантії на внутрішній бакGorenje розробляється і виробляється на кращих заводах, втілюючи бездоганну європейську якість для надійності, якій справді довіряють. Отримайте більшу впевненість із 5-річною гарантією на внутрішній бак – ключовий елемент водонагрівача, який захищений від будь-яких несправностей. Усі умови гарантії вказані у гарантійному талоні.2 роки повної впевненостіВибираючи Gorenje, ви отримаєте більше надійності, що підтверджена 2-річною повною гарантією. Будьте впевнені у постійній підтримці, які б не виникали проблеми з основними компонентами та деталями нагрівача з гарантією, яка стане вашою впевненістю у його винятковій довговічності.]]></description>
 </offer>
 <offer id="HT4815" available="true" selling_type="r">
 <name>Бутербродниця Rotex RSM110-W</name>
@@ -86882,7 +87048,7 @@
 <portal_category_id>63005</portal_category_id>
 <price>2850.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000002292_17558483.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000002292_233443682.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000002292_17558500.jpg</picture>
@@ -87002,7 +87168,7 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Мультиварка Rotex RMC505-W Excellence виготовлена в сучасному дизайні в корпусі з нержавіючої сталі. Модель потужністю 900 Вт управляється електронними кнопками і оснащена двома цифровими LED дисплеями. У ній розташована чаша об'ємом 5 літрів з мармурово-керамічним покриттям і товщиною стінок 1,7 мм. Прилад оснащений 30 вбудованими автоматичними програмами приготування, включаючи варіння на пару в контейнері-пароварці і готування продуктів у вакуумі (sous-vide). Функція Smart Cooking дозволяє коригувати параметри готування під час виконання програми. Користувач може створити свій рецепт і записати в пам'ять пристрою порядок його приготування з температурними та часовими параметрами, а за допомогою таймеру відкладеного старту до 24 годин можна готувати страви до певного часу. Мультиварка Rotex RMC505-W Excellence може не тільки підтримувати температуру готової їжі, але і просто розігрівати її.]]></description>
 </offer>
-<offer id="HT6890" available="true" selling_type="r">
+<offer id="HT6890" available="false" selling_type="r">
 <name>Мультиварка Rotex RMC507-B</name>
 <categoryId>282</categoryId>
 <portal_category_id>606</portal_category_id>
@@ -87072,7 +87238,7 @@
 <portal_category_id>606</portal_category_id>
 <price>3120.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_70c4a625-5c0f-11e8-a892-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000000900_4655640.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000000900_4655646.jpg</picture>
