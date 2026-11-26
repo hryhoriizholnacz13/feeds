@@ -69407,7 +69407,9 @@
 <attribute_set code="7366">Одяг для собак</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nor">Норвегія</param>
+<param paramcode="11357" name="Розмір" valuecode="e3d045c40679e25ef2e96d724eca500b">для середніх порід</param>
 <param paramcode="12097" name="Базовий колір" valuecode="4f06e3a687481542b424687ecf8d0e8e">зелений</param>
+<param paramcode="12599" name="Розмір" valuecode="bc113f53a7eba7e43c13dff8510adf05">L</param>
 <param paramcode="9993" name="Колір" valuecode="b9f6zzbllpjc75ur">зелений</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33">зима</param>
 <param paramcode="51" name="Вид" valuecode="59474de50c575">куртка</param>
@@ -69471,7 +69473,9 @@
 <attribute_set code="7366">Одяг для собак</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nor">Норвегія</param>
+<param paramcode="11357" name="Розмір" valuecode="e3d045c40679e25ef2e96d724eca500b">для середніх порід</param>
 <param paramcode="12097" name="Базовий колір" valuecode="59474de51f852">сірий</param>
+<param paramcode="12599" name="Розмір" valuecode="bc113f53a7eba7e43c13dff8510adf05">L</param>
 <param paramcode="9993" name="Колір" valuecode="olc1g9pl">сірий</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33">зима</param>
 <param paramcode="51" name="Вид" valuecode="59474de50c575">куртка</param>
@@ -69503,7 +69507,9 @@
 <attribute_set code="7366">Одяг для собак</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nor">Норвегія</param>
+<param paramcode="11357" name="Розмір" valuecode="7e05977dcad83446f5f18e922335f8dc">для великих порід</param>
 <param paramcode="12097" name="Базовий колір" valuecode="59474de51f852">сірий</param>
+<param paramcode="12599" name="Розмір" valuecode="ff6bf62bf265c1fd0874bc971a743325">XL</param>
 <param paramcode="9993" name="Колір" valuecode="olc1g9pl">сірий</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33">зима</param>
 <param paramcode="51" name="Вид" valuecode="59474de50c575">куртка</param>
@@ -69535,7 +69541,9 @@
 <attribute_set code="7366">Одяг для собак</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nor">Норвегія</param>
+<param paramcode="11357" name="Розмір" valuecode="7e05977dcad83446f5f18e922335f8dc">для великих порід</param>
 <param paramcode="12097" name="Базовий колір" valuecode="59474de51f852">сірий</param>
+<param paramcode="12599" name="Розмір" valuecode="85d67bf16ad94e90b3adb97b7c247306">XXL</param>
 <param paramcode="9993" name="Колір" valuecode="olc1g9pl">сірий</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33">зима</param>
 <param paramcode="51" name="Вид" valuecode="59474de50c575">куртка</param>
@@ -69701,7 +69709,9 @@
 <attribute_set code="7366">Одяг для собак</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nor">Норвегія</param>
+<param paramcode="11357" name="Розмір" valuecode="cd016a229dc1ba3a2f97cc2400d00f8e">для малих порід</param>
 <param paramcode="12097" name="Базовий колір" valuecode="57d9544692d9901c663d9372664e0288">фіолетовий</param>
+<param paramcode="12599" name="Розмір" valuecode="f3ae92accec7bd385193fc7756c28265">XS</param>
 <param paramcode="9993" name="Колір" valuecode="9deb9bdff20ff0ad829c7a23c88df5d5">фіолетовий</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33">зима</param>
 <param paramcode="51" name="Вид" valuecode="59474de50c575">куртка</param>
@@ -69817,7 +69827,9 @@
 <attribute_set code="7366">Одяг для собак</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nor">Норвегія</param>
+<param paramcode="11357" name="Розмір" valuecode="7e05977dcad83446f5f18e922335f8dc">для великих порід</param>
 <param paramcode="12097" name="Базовий колір" valuecode="57d9544692d9901c663d9372664e0288">фіолетовий</param>
+<param paramcode="12599" name="Розмір" valuecode="ff6bf62bf265c1fd0874bc971a743325">XL</param>
 <param paramcode="9993" name="Колір" valuecode="9deb9bdff20ff0ad829c7a23c88df5d5">фіолетовий</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33">зима</param>
 <param paramcode="51" name="Вид" valuecode="59474de50c575">куртка</param>
@@ -69846,7 +69858,9 @@
 <attribute_set code="7366">Одяг для собак</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nor">Норвегія</param>
+<param paramcode="11357" name="Розмір" valuecode="7e05977dcad83446f5f18e922335f8dc">для великих порід</param>
 <param paramcode="12097" name="Базовий колір" valuecode="57d9544692d9901c663d9372664e0288">фіолетовий</param>
+<param paramcode="12599" name="Розмір" valuecode="85d67bf16ad94e90b3adb97b7c247306">XXL</param>
 <param paramcode="9993" name="Колір" valuecode="9deb9bdff20ff0ad829c7a23c88df5d5">фіолетовий</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33">зима</param>
 <param paramcode="51" name="Вид" valuecode="59474de50c575">куртка</param>
@@ -69875,7 +69889,9 @@
 <attribute_set code="7366">Одяг для собак</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nor">Норвегія</param>
+<param paramcode="11357" name="Розмір" valuecode="7e05977dcad83446f5f18e922335f8dc">для великих порід</param>
 <param paramcode="12097" name="Базовий колір" valuecode="57d9544692d9901c663d9372664e0288">фіолетовий</param>
+<param paramcode="12599" name="Розмір" valuecode="85d67bf16ad94e90b3adb97b7c247306">XXL</param>
 <param paramcode="9993" name="Колір" valuecode="9deb9bdff20ff0ad829c7a23c88df5d5">фіолетовий</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33">зима</param>
 <param paramcode="51" name="Вид" valuecode="59474de50c575">куртка</param>
@@ -69904,7 +69920,9 @@
 <attribute_set code="7366">Одяг для собак</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nor">Норвегія</param>
+<param paramcode="11357" name="Розмір" valuecode="611c7be366bb59c543355fe113eb5e0f">для гігантських порід</param>
 <param paramcode="12097" name="Базовий колір" valuecode="57d9544692d9901c663d9372664e0288">фіолетовий</param>
+<param paramcode="12599" name="Розмір" valuecode="e8547222f692818ff2d0cd536f60f22c">XXXL</param>
 <param paramcode="9993" name="Колір" valuecode="9deb9bdff20ff0ad829c7a23c88df5d5">фіолетовий</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33">зима</param>
 <param paramcode="51" name="Вид" valuecode="59474de50c575">куртка</param>
@@ -69933,7 +69951,9 @@
 <attribute_set code="7366">Одяг для собак</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nor">Норвегія</param>
+<param paramcode="11357" name="Розмір" valuecode="611c7be366bb59c543355fe113eb5e0f">для гігантських порід</param>
 <param paramcode="12097" name="Базовий колір" valuecode="57d9544692d9901c663d9372664e0288">фіолетовий</param>
+<param paramcode="12599" name="Розмір" valuecode="e8547222f692818ff2d0cd536f60f22c">XXXL</param>
 <param paramcode="9993" name="Колір" valuecode="9deb9bdff20ff0ad829c7a23c88df5d5">фіолетовий</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33">зима</param>
 <param paramcode="51" name="Вид" valuecode="59474de50c575">куртка</param>
@@ -70015,6 +70035,8 @@
 <attribute_set code="7366">Одяг для собак</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nor">Норвегія</param>
+<param paramcode="11357" name="Розмір" valuecode="7e05977dcad83446f5f18e922335f8dc">для великих порід</param>
+<param paramcode="12599" name="Розмір" valuecode="85d67bf16ad94e90b3adb97b7c247306">XXL</param>
 <param paramcode="9993" name="Колір" valuecode="jt33nxzvygrjsm0m">бірюзовий</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33">зима</param>
 <param paramcode="51" name="Вид" valuecode="59474de50c575">куртка</param>
@@ -70042,6 +70064,8 @@
 <attribute_set code="7366">Одяг для собак</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nor">Норвегія</param>
+<param paramcode="11357" name="Розмір" valuecode="7e05977dcad83446f5f18e922335f8dc">для великих порід</param>
+<param paramcode="12599" name="Розмір" valuecode="85d67bf16ad94e90b3adb97b7c247306">XXL</param>
 <param paramcode="9993" name="Колір" valuecode="jt33nxzvygrjsm0m">бірюзовий</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33">зима</param>
 <param paramcode="51" name="Вид" valuecode="59474de50c575">куртка</param>
@@ -70069,6 +70093,8 @@
 <attribute_set code="7366">Одяг для собак</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nor">Норвегія</param>
+<param paramcode="11357" name="Розмір" valuecode="611c7be366bb59c543355fe113eb5e0f">для гігантських порід</param>
+<param paramcode="12599" name="Розмір" valuecode="e8547222f692818ff2d0cd536f60f22c">XXXL</param>
 <param paramcode="9993" name="Колір" valuecode="jt33nxzvygrjsm0m">бірюзовий</param>
 <param paramcode="5117" name="Сезон" valuecode="3f12f16d16a12b55d7d076fb6a685e33">зима</param>
 <param paramcode="51" name="Вид" valuecode="59474de50c575">куртка</param>
