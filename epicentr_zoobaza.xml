@@ -13750,6 +13750,7 @@
 <param paramcode="12479" name="Вага" valuecode="0147ec82e4875d42f6145d9dd656ce55">10 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
 <param paramcode="11361" name="Призначення корму" valuecode="40719a49155e28022a1ab5c715b99e02">для виставкових і вибагливих кішок</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="width" name="Ширина"><![CDATA[600]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[350]]></param>
@@ -13856,6 +13857,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="cze">Чехія</param>
 <param paramcode="11357" name="Розмір" valuecode="e713ead23059b45633de9f045beb5ca7">для крупних порід</param>
 <param paramcode="12479" name="Вага" valuecode="0147ec82e4875d42f6145d9dd656ce55">10 кг</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[600]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
@@ -13912,6 +13914,7 @@
 <param paramcode="11324" name="Вік" valuecode="e218bae7e984b730953eb0bea3fe76eb">зрілі</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
 <param paramcode="11361" name="Призначення корму" valuecode="090b710ed7076da0b7790f843df0958b">для літніх кішок</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="width" name="Ширина"><![CDATA[600]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[350]]></param>
@@ -13938,6 +13941,8 @@
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="12479" name="Вага" valuecode="8ffcfc45b46fc60d3c34ad0bba41f0bb">1,5 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="986573d006d2bdfcc1d26375ccfc3518">для кішок із сечокам&amp;#039;яними захворюваннями</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -13966,6 +13971,8 @@
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="12479" name="Вага" valuecode="0147ec82e4875d42f6145d9dd656ce55">10 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="986573d006d2bdfcc1d26375ccfc3518">для кішок із сечокам&amp;#039;яними захворюваннями</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="width" name="Ширина"><![CDATA[600]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[350]]></param>
@@ -13990,6 +13997,7 @@
 <param paramcode="12479" name="Вага" valuecode="8d79203b93b23b3b6c496905a0dcb193">100 г</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="069372634d6bfc9211bca259e3daf01b">пауч</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -14015,6 +14023,7 @@
 <param paramcode="2305" name="Вид упаковки" valuecode="069372634d6bfc9211bca259e3daf01b">пауч</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -14039,6 +14048,7 @@
 <param paramcode="12479" name="Вага" valuecode="8d79203b93b23b3b6c496905a0dcb193">100 г</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="069372634d6bfc9211bca259e3daf01b">пауч</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -14064,6 +14074,8 @@
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="12479" name="Вага" valuecode="56a581a260b66571c3926a0507eeac88">1,8 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -14090,6 +14102,8 @@
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="12479" name="Вага" valuecode="0fc8d13a81563ad159dc8a457da40883">8 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
@@ -14114,6 +14128,8 @@
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="12479" name="Вага" valuecode="56a581a260b66571c3926a0507eeac88">1,8 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -14142,6 +14158,7 @@
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="12479" name="Вага" valuecode="0fc8d13a81563ad159dc8a457da40883">8 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[340]]></param>
@@ -14169,6 +14186,7 @@
 <param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="12479" name="Вага" valuecode="56a581a260b66571c3926a0507eeac88">1,8 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -14196,6 +14214,7 @@
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="12479" name="Вага" valuecode="0fc8d13a81563ad159dc8a457da40883">8 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
@@ -14277,6 +14296,8 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="cze">Чехія</param>
 <param paramcode="12479" name="Вага" valuecode="56a581a260b66571c3926a0507eeac88">1,8 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -14330,6 +14351,7 @@
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="12479" name="Вага" valuecode="0fc8d13a81563ad159dc8a457da40883">8 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[340]]></param>
@@ -14356,6 +14378,7 @@
 <param paramcode="12479" name="Вага" valuecode="998ade36b326ff42a4448be73c770a7c">85 г</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="069372634d6bfc9211bca259e3daf01b">пауч</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -14382,6 +14405,7 @@
 <param paramcode="12479" name="Вага" valuecode="998ade36b326ff42a4448be73c770a7c">85 г</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="069372634d6bfc9211bca259e3daf01b">пауч</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -14407,6 +14431,7 @@
 <param paramcode="12479" name="Вага" valuecode="998ade36b326ff42a4448be73c770a7c">85 г</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="069372634d6bfc9211bca259e3daf01b">пауч</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -14432,6 +14457,7 @@
 <param paramcode="12479" name="Вага" valuecode="998ade36b326ff42a4448be73c770a7c">85 г</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="069372634d6bfc9211bca259e3daf01b">пауч</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -14456,6 +14482,7 @@
 <param paramcode="12479" name="Вага" valuecode="998ade36b326ff42a4448be73c770a7c">85 г</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="069372634d6bfc9211bca259e3daf01b">пауч</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -14480,6 +14507,7 @@
 <param paramcode="2305" name="Вид упаковки" valuecode="069372634d6bfc9211bca259e3daf01b">пауч</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -14503,6 +14531,7 @@
 <param paramcode="12479" name="Вага" valuecode="8d79203b93b23b3b6c496905a0dcb193">100 г</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="069372634d6bfc9211bca259e3daf01b">пауч</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -14526,6 +14555,7 @@
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="1cf53a022441718bbd5be2c1f97e234e">400 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="c8dde5ebc4c33250198aae8f5ff25aed">металева банка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -14551,6 +14581,7 @@
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="1cf53a022441718bbd5be2c1f97e234e">400 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="c8dde5ebc4c33250198aae8f5ff25aed">металева банка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -14575,6 +14606,7 @@
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="1cf53a022441718bbd5be2c1f97e234e">400 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="c8dde5ebc4c33250198aae8f5ff25aed">металева банка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -15096,6 +15128,7 @@
 <param paramcode="12481" name="Вага" valuecode="9fe04366e0ee422b20dc255bdc1d1213">2,5 кг</param>
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[208]]></param>
@@ -15150,6 +15183,7 @@
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="11357" name="Розмір" valuecode="cd016a229dc1ba3a2f97cc2400d00f8e">для малих порід</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[208]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -15228,6 +15262,7 @@
 <param paramcode="11324" name="Вік" valuecode="204c3d0f8c4803405a376fd680e64d4f">цуценята</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[208]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -15255,6 +15290,7 @@
 <param paramcode="11324" name="Вік" valuecode="204c3d0f8c4803405a376fd680e64d4f">цуценята</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="width" name="Ширина"><![CDATA[600]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[350]]></param>
@@ -15282,6 +15318,7 @@
 <param paramcode="11324" name="Вік" valuecode="a67cc363d36d2038d168180b5650b12f">молоді</param>
 <param paramcode="11357" name="Розмір" valuecode="e713ead23059b45633de9f045beb5ca7">для крупних порід</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="width" name="Ширина"><![CDATA[600]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[350]]></param>
@@ -15307,6 +15344,7 @@
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[208]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -15332,6 +15370,7 @@
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="width" name="Ширина"><![CDATA[600]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[350]]></param>
@@ -15412,6 +15451,7 @@
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="11357" name="Розмір" valuecode="cd016a229dc1ba3a2f97cc2400d00f8e">для малих порід</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[208]]></param>
@@ -15439,6 +15479,7 @@
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="11357" name="Розмір" valuecode="cd016a229dc1ba3a2f97cc2400d00f8e">для малих порід</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="width" name="Ширина"><![CDATA[600]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[350]]></param>
@@ -15493,6 +15534,7 @@
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="width" name="Ширина"><![CDATA[600]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[350]]></param>
@@ -15646,6 +15688,8 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="cze">Чехія</param>
 <param paramcode="12479" name="Вага" valuecode="0fc8d13a81563ad159dc8a457da40883">8 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
@@ -15722,6 +15766,7 @@
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -15797,6 +15842,7 @@
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[170]]></param>
@@ -15847,6 +15893,7 @@
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -31469,6 +31516,7 @@
 <param paramcode="2305" name="Вид упаковки" valuecode="069372634d6bfc9211bca259e3daf01b">пауч</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="ea046dbc8d58499c0124e91a598d7b82">преміум</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[120]]></param>
@@ -70899,6 +70947,7 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="gbr">Велика Британія</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="062a09591ca3e6884727f90014d6837e">70 г</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
@@ -74147,6 +74196,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nzl">Нова Зеландія</param>
 <param paramcode="12481" name="Вага" valuecode="2d4370ac60117d0c9928556179970721">390 г</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -74175,6 +74225,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nzl">Нова Зеландія</param>
 <param paramcode="12481" name="Вага" valuecode="2d4370ac60117d0c9928556179970721">390 г</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -74203,6 +74254,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nzl">Нова Зеландія</param>
 <param paramcode="12481" name="Вага" valuecode="2d4370ac60117d0c9928556179970721">390 г</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -74231,6 +74283,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nzl">Нова Зеландія</param>
 <param paramcode="12481" name="Вага" valuecode="2d4370ac60117d0c9928556179970721">390 г</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -74259,6 +74312,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nzl">Нова Зеландія</param>
 <param paramcode="12481" name="Вага" valuecode="c135f9d3245b1438acc95d14a92292f5">170 г</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -74287,6 +74341,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nzl">Нова Зеландія</param>
 <param paramcode="12481" name="Вага" valuecode="c135f9d3245b1438acc95d14a92292f5">170 г</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -74315,6 +74370,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nzl">Нова Зеландія</param>
 <param paramcode="12481" name="Вага" valuecode="c135f9d3245b1438acc95d14a92292f5">170 г</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -74343,6 +74399,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nzl">Нова Зеландія</param>
 <param paramcode="12481" name="Вага" valuecode="c135f9d3245b1438acc95d14a92292f5">170 г</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -74368,9 +74425,11 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nzl">Нова Зеландія</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="998ade36b326ff42a4448be73c770a7c">85 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="c8dde5ebc4c33250198aae8f5ff25aed">металева банка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -74396,9 +74455,11 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nzl">Нова Зеландія</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="998ade36b326ff42a4448be73c770a7c">85 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="c8dde5ebc4c33250198aae8f5ff25aed">металева банка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -74423,9 +74484,11 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nzl">Нова Зеландія</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="998ade36b326ff42a4448be73c770a7c">85 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="c8dde5ebc4c33250198aae8f5ff25aed">металева банка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -74451,9 +74514,11 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nzl">Нова Зеландія</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="998ade36b326ff42a4448be73c770a7c">85 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="c8dde5ebc4c33250198aae8f5ff25aed">металева банка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -74479,9 +74544,11 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nzl">Нова Зеландія</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="998ade36b326ff42a4448be73c770a7c">85 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="c8dde5ebc4c33250198aae8f5ff25aed">металева банка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -74583,6 +74650,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nzl">Нова Зеландія</param>
 <param paramcode="12481" name="Вага" valuecode="9fe04366e0ee422b20dc255bdc1d1213">2,5 кг</param>
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
@@ -74611,6 +74679,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="nzl">Нова Зеландія</param>
 <param paramcode="12481" name="Вага" valuecode="9fe04366e0ee422b20dc255bdc1d1213">2,5 кг</param>
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
@@ -77270,6 +77339,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="gbr">Велика Британія</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
@@ -77298,6 +77368,7 @@
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="gbr">Велика Британія</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
@@ -83436,10 +83507,12 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="062a09591ca3e6884727f90014d6837e">70 г</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="c93104440b38f3646136518eea9bbcd7">додаткове годування</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="c8dde5ebc4c33250198aae8f5ff25aed">металева банка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -83464,6 +83537,7 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="062a09591ca3e6884727f90014d6837e">70 г</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
@@ -83493,10 +83567,12 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="062a09591ca3e6884727f90014d6837e">70 г</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="c93104440b38f3646136518eea9bbcd7">додаткове годування</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="c8dde5ebc4c33250198aae8f5ff25aed">металева банка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -83522,10 +83598,12 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="062a09591ca3e6884727f90014d6837e">70 г</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="c93104440b38f3646136518eea9bbcd7">додаткове годування</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="c8dde5ebc4c33250198aae8f5ff25aed">металева банка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -83549,10 +83627,12 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="062a09591ca3e6884727f90014d6837e">70 г</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="c93104440b38f3646136518eea9bbcd7">додаткове годування</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="c8dde5ebc4c33250198aae8f5ff25aed">металева банка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -83576,6 +83656,7 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="062a09591ca3e6884727f90014d6837e">70 г</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
@@ -83606,10 +83687,12 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="062a09591ca3e6884727f90014d6837e">70 г</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="c93104440b38f3646136518eea9bbcd7">додаткове годування</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="c8dde5ebc4c33250198aae8f5ff25aed">металева банка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -83633,10 +83716,12 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="062a09591ca3e6884727f90014d6837e">70 г</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="c93104440b38f3646136518eea9bbcd7">додаткове годування</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="c8dde5ebc4c33250198aae8f5ff25aed">металева банка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -83663,6 +83748,7 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="062a09591ca3e6884727f90014d6837e">70 г</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
@@ -83692,6 +83778,7 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="062a09591ca3e6884727f90014d6837e">70 г</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
@@ -83720,6 +83807,7 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="062a09591ca3e6884727f90014d6837e">70 г</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
@@ -83749,6 +83837,7 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="062a09591ca3e6884727f90014d6837e">70 г</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
@@ -83779,6 +83868,7 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="062a09591ca3e6884727f90014d6837e">70 г</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
@@ -83808,6 +83898,7 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="062a09591ca3e6884727f90014d6837e">70 г</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
@@ -83836,6 +83927,7 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="062a09591ca3e6884727f90014d6837e">70 г</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
@@ -83865,6 +83957,7 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="062a09591ca3e6884727f90014d6837e">70 г</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
@@ -83894,6 +83987,7 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="062a09591ca3e6884727f90014d6837e">70 г</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
@@ -83923,6 +84017,7 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="062a09591ca3e6884727f90014d6837e">70 г</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
@@ -83952,6 +84047,7 @@
 <attribute_set code="4844">Корм для котів</attribute_set>
 <param paramcode="brand" name="Бренд" valuecode="827b4a70220f11ea918e001e67ecc97b">Інше</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="deu">Німеччина</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="062a09591ca3e6884727f90014d6837e">70 г</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
@@ -94078,6 +94174,7 @@
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="998ade36b326ff42a4448be73c770a7c">85 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="069372634d6bfc9211bca259e3daf01b">пауч</param>
 <param paramcode="width" name="Ширина"><![CDATA[20]]></param>
@@ -94109,6 +94206,7 @@
 <param paramcode="12479" name="Вага" valuecode="998ade36b326ff42a4448be73c770a7c">85 г</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="069372634d6bfc9211bca259e3daf01b">пауч</param>
 <param paramcode="width" name="Ширина"><![CDATA[70]]></param>
 <param paramcode="height" name="Висота"><![CDATA[20]]></param>
@@ -94167,6 +94265,7 @@
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="998ade36b326ff42a4448be73c770a7c">85 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="width" name="Ширина"><![CDATA[20]]></param>
 <param paramcode="height" name="Висота"><![CDATA[140]]></param>
@@ -94256,6 +94355,7 @@
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="998ade36b326ff42a4448be73c770a7c">85 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="width" name="Ширина"><![CDATA[20]]></param>
 <param paramcode="height" name="Висота"><![CDATA[140]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[90]]></param>
@@ -94371,6 +94471,7 @@
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="998ade36b326ff42a4448be73c770a7c">85 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="width" name="Ширина"><![CDATA[20]]></param>
 <param paramcode="height" name="Висота"><![CDATA[140]]></param>
@@ -94400,6 +94501,7 @@
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="998ade36b326ff42a4448be73c770a7c">85 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="11324" name="Вік" valuecode="e218bae7e984b730953eb0bea3fe76eb">зрілі</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -94486,6 +94588,7 @@
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="08fbadcfce3842f634a664b3ca2a3113">195 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="width" name="Ширина"><![CDATA[75]]></param>
 <param paramcode="height" name="Висота"><![CDATA[55]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[75]]></param>
@@ -94545,6 +94648,7 @@
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="998ade36b326ff42a4448be73c770a7c">85 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="width" name="Ширина"><![CDATA[20]]></param>
 <param paramcode="height" name="Висота"><![CDATA[140]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[90]]></param>
@@ -94574,6 +94678,7 @@
 <param paramcode="12479" name="Вага" valuecode="998ade36b326ff42a4448be73c770a7c">85 г</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="width" name="Ширина"><![CDATA[20]]></param>
 <param paramcode="height" name="Висота"><![CDATA[140]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[90]]></param>
@@ -94630,6 +94735,7 @@
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="998ade36b326ff42a4448be73c770a7c">85 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="width" name="Ширина"><![CDATA[20]]></param>
 <param paramcode="height" name="Висота"><![CDATA[140]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[90]]></param>
@@ -94685,6 +94791,7 @@
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="998ade36b326ff42a4448be73c770a7c">85 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="069372634d6bfc9211bca259e3daf01b">пауч</param>
 <param paramcode="width" name="Ширина"><![CDATA[70]]></param>
 <param paramcode="height" name="Висота"><![CDATA[20]]></param>
@@ -94714,6 +94821,7 @@
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="12479" name="Вага" valuecode="998ade36b326ff42a4448be73c770a7c">85 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="986573d006d2bdfcc1d26375ccfc3518">для кішок із сечокам&amp;#039;яними захворюваннями</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="069372634d6bfc9211bca259e3daf01b">пауч</param>
 <param paramcode="width" name="Ширина"><![CDATA[20]]></param>
 <param paramcode="height" name="Висота"><![CDATA[140]]></param>
@@ -94773,6 +94881,7 @@
 <param paramcode="12479" name="Вага" valuecode="1cf53a022441718bbd5be2c1f97e234e">400 г</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="width" name="Ширина"><![CDATA[70]]></param>
 <param paramcode="height" name="Висота"><![CDATA[200]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[150]]></param>
@@ -94802,6 +94911,7 @@
 <param paramcode="12479" name="Вага" valuecode="31dc4e4c4f49bfdeb9cf2fe5102bb7db">2 кг</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="width" name="Ширина"><![CDATA[150]]></param>
 <param paramcode="height" name="Висота"><![CDATA[300]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[200]]></param>
@@ -94831,6 +94941,7 @@
 <param paramcode="12479" name="Вага" valuecode="bc99a00551876e587a94e16d9b7431d5">4 кг</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="width" name="Ширина"><![CDATA[200]]></param>
 <param paramcode="height" name="Висота"><![CDATA[350]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[250]]></param>
@@ -94946,6 +95057,7 @@
 <param paramcode="11322" name="Клас" valuecode="7e660bbb7cfc61c1cbf5691e7632f19e">суперпреміум</param>
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="12479" name="Вага" valuecode="31dc4e4c4f49bfdeb9cf2fe5102bb7db">2 кг</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[208]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -95333,6 +95445,7 @@
 <param paramcode="11322" name="Клас" valuecode="7e660bbb7cfc61c1cbf5691e7632f19e">суперпреміум</param>
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="12479" name="Вага" valuecode="bc99a00551876e587a94e16d9b7431d5">4 кг</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="width" name="Ширина"><![CDATA[180]]></param>
 <param paramcode="height" name="Висота"><![CDATA[250]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[300]]></param>
@@ -95689,6 +95802,7 @@
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="12479" name="Вага" valuecode="c53d9fd0fc7a6b531914eb1e2d972f6f">1,2 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="width" name="Ширина"><![CDATA[180]]></param>
 <param paramcode="height" name="Висота"><![CDATA[340]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[90]]></param>
@@ -95833,6 +95947,7 @@
 <param paramcode="11322" name="Клас" valuecode="7e660bbb7cfc61c1cbf5691e7632f19e">суперпреміум</param>
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="12479" name="Вага" valuecode="1cf53a022441718bbd5be2c1f97e234e">400 г</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="width" name="Ширина"><![CDATA[150]]></param>
 <param paramcode="height" name="Висота"><![CDATA[80]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[250]]></param>
@@ -95861,6 +95976,7 @@
 <param paramcode="11322" name="Клас" valuecode="7e660bbb7cfc61c1cbf5691e7632f19e">суперпреміум</param>
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="12479" name="Вага" valuecode="bc99a00551876e587a94e16d9b7431d5">4 кг</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="width" name="Ширина"><![CDATA[250]]></param>
 <param paramcode="height" name="Висота"><![CDATA[290]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[140]]></param>
@@ -96060,6 +96176,7 @@
 <param paramcode="12479" name="Вага" valuecode="31dc4e4c4f49bfdeb9cf2fe5102bb7db">2 кг</param>
 <param paramcode="11324" name="Вік" valuecode="e218bae7e984b730953eb0bea3fe76eb">зрілі</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
 <param paramcode="width" name="Ширина"><![CDATA[300]]></param>
 <param paramcode="height" name="Висота"><![CDATA[100]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[250]]></param>
@@ -98286,6 +98403,7 @@
 <param paramcode="brand" name="Бренд" valuecode="pqjgtvqestxqevib">Minola</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="pol">Польща</param>
 <param paramcode="762" name="Вага">14.5</param>
+<param paramcode="12063" name="Ширина" valuecode="f057f07986e7782179fd2650c5a67b81">60</param>
 <param paramcode="9753" name="Керування" valuecode="d5d3587d1a98c9b47d4a6d8499c89887">сенсорне</param>
 <param paramcode="78" name="Колір виробника" valuecode="ff8cwdpi">чорний</param>
 <param paramcode="106" name="Матеріал корпусу" valuecode="d5070090a514bebd06f6b6f7e0e4853c,0a44fd2bd0b6c8cf6cb8ba6861dc3843">метал,скло</param>
@@ -101713,11 +101831,11 @@
 <param paramcode="brand" name="Бренд" valuecode="5caffab0a4d211e580cf42f2e9bc64ff">Castle</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="tur">Туреччина</param>
 <param paramcode="762" name="Вага">11.2</param>
+<param paramcode="12063" name="Ширина" valuecode="f057f07986e7782179fd2650c5a67b81">60</param>
 <param paramcode="78" name="Колір виробника" valuecode="ophru6z8">білий</param>
 <param paramcode="103" name="Потужність">230</param>
 <param paramcode="113" name="Гарантія">12</param>
 <param paramcode="6443" name="Колір" valuecode="511f738d5c2bba118ed14f217cc2599a">білий</param>
-<param paramcode="12063" name="Ширина" valuecode="f057f07986e7782179fd2650c5a67b81">60</param>
 <param paramcode="580" name="Тип витяжки" valuecode="2ae7b42c316be6fe921ac6a1305af6b2">під нахилом</param>
 <param paramcode="581" name="Тип монтажу" valuecode="1956b243cadd990a60dcfaa11101eec2">пристінний</param>
 <param paramcode="584" name="Освітлення" valuecode="3ce13459c9c33113b67a8cda2afa125d">2 LED-лампи по 3 Вт</param>
@@ -118596,11 +118714,11 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="uzb">Узбекистан</param>
 <param paramcode="580" name="Тип витяжки" valuecode="3a5ff8dbb028d27b93c87a2ce6f5adf0">телескопічна</param>
 <param paramcode="762" name="Вага">8</param>
+<param paramcode="12063" name="Ширина" valuecode="f057f07986e7782179fd2650c5a67b81">60</param>
 <param paramcode="78" name="Колір виробника" valuecode="660">нержавіюча сталь</param>
 <param paramcode="106" name="Матеріал корпусу" valuecode="d5070090a514bebd06f6b6f7e0e4853c">метал</param>
 <param paramcode="113" name="Гарантія">12</param>
 <param paramcode="6443" name="Колір" valuecode="94ec5adc4ef802e42249154106189a0c">нержавіюча сталь</param>
-<param paramcode="12063" name="Ширина" valuecode="f057f07986e7782179fd2650c5a67b81">60</param>
 <param paramcode="581" name="Тип монтажу" valuecode="8ef35124e8ad8e01ff1a982ef24e6d8a">вбудовуваний</param>
 <param paramcode="584" name="Освітлення" valuecode="fc1f634a06f62f23d4fbfdd4f21c4567">світлодіодна лампа</param>
 <param paramcode="774" name="Продуктивність">450</param>
@@ -118628,11 +118746,11 @@
 <param paramcode="brand" name="Бренд" valuecode="spu7qbr4">Snaige</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="uzb">Узбекистан</param>
 <param paramcode="580" name="Тип витяжки" valuecode="3a5ff8dbb028d27b93c87a2ce6f5adf0">телескопічна</param>
+<param paramcode="12063" name="Ширина" valuecode="f057f07986e7782179fd2650c5a67b81">60</param>
 <param paramcode="78" name="Колір виробника" valuecode="ophru6z8">білий</param>
 <param paramcode="106" name="Матеріал корпусу" valuecode="d5070090a514bebd06f6b6f7e0e4853c">метал</param>
 <param paramcode="113" name="Гарантія">12</param>
 <param paramcode="6443" name="Колір" valuecode="511f738d5c2bba118ed14f217cc2599a">білий</param>
-<param paramcode="12063" name="Ширина" valuecode="f057f07986e7782179fd2650c5a67b81">60</param>
 <param paramcode="243" name="Рівень шуму">68</param>
 <param paramcode="581" name="Тип монтажу" valuecode="8ef35124e8ad8e01ff1a982ef24e6d8a">вбудовуваний</param>
 <param paramcode="584" name="Освітлення" valuecode="fc1f634a06f62f23d4fbfdd4f21c4567">світлодіодна лампа</param>
@@ -118697,6 +118815,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="uzb">Узбекистан</param>
 <param paramcode="580" name="Тип витяжки" valuecode="1c44f245b319ec679a3afe1515aa5106">плоска</param>
 <param paramcode="762" name="Вага">6.3</param>
+<param paramcode="12063" name="Ширина" valuecode="f057f07986e7782179fd2650c5a67b81">60</param>
 <param paramcode="112" name="Глибина">50</param>
 <param paramcode="110" name="Висота">15.8</param>
 <param paramcode="78" name="Колір виробника" valuecode="ophru6z8">білий</param>
@@ -119102,6 +119221,7 @@
 <param paramcode="brand" name="Бренд" valuecode="pqjgtvqestxqevib">Minola</param>
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="pol">Польща</param>
 <param paramcode="762" name="Вага">7</param>
+<param paramcode="12063" name="Ширина" valuecode="9c8fb8fe6f4a57deff650e6d78244229">52</param>
 <param paramcode="112" name="Глибина">29</param>
 <param paramcode="110" name="Висота">29.3</param>
 <param paramcode="9753" name="Керування" valuecode="77f82647bbfaedacc3427a648e0d8beb">кнопкове</param>
@@ -121759,6 +121879,7 @@
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="12479" name="Вага" valuecode="1cf53a022441718bbd5be2c1f97e234e">400 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="0ea66c0e6eb6a8574fa0236f55dfedcb">упаковка з zip-lock</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -121783,6 +121904,7 @@
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="12479" name="Вага" valuecode="31dc4e4c4f49bfdeb9cf2fe5102bb7db">2 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="0ea66c0e6eb6a8574fa0236f55dfedcb">упаковка з zip-lock</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[208]]></param>
@@ -121857,6 +121979,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="bel">Бельгія</param>
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="width" name="Ширина"><![CDATA[600]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[350]]></param>
@@ -122083,6 +122206,7 @@
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="11357" name="Розмір" valuecode="e3d045c40679e25ef2e96d724eca500b,e713ead23059b45633de9f045beb5ca7">для середніх порід,для крупних порід</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="width" name="Ширина"><![CDATA[600]]></param>
 <param paramcode="height" name="Висота"><![CDATA[285]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[350]]></param>
@@ -122107,6 +122231,7 @@
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="11357" name="Розмір" valuecode="e3d045c40679e25ef2e96d724eca500b,e713ead23059b45633de9f045beb5ca7">для середніх порід,для крупних порід</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[208]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -122282,6 +122407,7 @@
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="11357" name="Розмір" valuecode="cd016a229dc1ba3a2f97cc2400d00f8e">для малих порід</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -122384,6 +122510,7 @@
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="11357" name="Розмір" valuecode="cd016a229dc1ba3a2f97cc2400d00f8e">для малих порід</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -122408,6 +122535,7 @@
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="11357" name="Розмір" valuecode="cd016a229dc1ba3a2f97cc2400d00f8e">для малих порід</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[208]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -122510,6 +122638,8 @@
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="12479" name="Вага" valuecode="31dc4e4c4f49bfdeb9cf2fe5102bb7db">2 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="0ea66c0e6eb6a8574fa0236f55dfedcb">упаковка з zip-lock</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[208]]></param>
@@ -122535,6 +122665,8 @@
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="12479" name="Вага" valuecode="31dc4e4c4f49bfdeb9cf2fe5102bb7db">2 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="0ea66c0e6eb6a8574fa0236f55dfedcb">упаковка з zip-lock</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[208]]></param>
@@ -122820,6 +122952,7 @@
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="11324" name="Вік" valuecode="204c3d0f8c4803405a376fd680e64d4f">цуценята</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
@@ -122843,6 +122976,7 @@
 <param paramcode="12481" name="Вага" valuecode="991af4c1467eba1424c35da2e5313c73">3 кг</param>
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11324" name="Вік" valuecode="204c3d0f8c4803405a376fd680e64d4f">цуценята</param>
 <param paramcode="width" name="Ширина"><![CDATA[400]]></param>
 <param paramcode="height" name="Висота"><![CDATA[208]]></param>
@@ -122867,6 +123001,8 @@
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="12479" name="Вага" valuecode="1cf53a022441718bbd5be2c1f97e234e">400 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="0ea66c0e6eb6a8574fa0236f55dfedcb">упаковка з zip-lock</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -122891,6 +123027,8 @@
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="12479" name="Вага" valuecode="31dc4e4c4f49bfdeb9cf2fe5102bb7db">2 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="0ea66c0e6eb6a8574fa0236f55dfedcb">упаковка з zip-lock</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[208]]></param>
@@ -122915,6 +123053,8 @@
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="12479" name="Вага" valuecode="1cf53a022441718bbd5be2c1f97e234e">400 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="0ea66c0e6eb6a8574fa0236f55dfedcb">упаковка з zip-lock</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
@@ -122940,6 +123080,8 @@
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="12479" name="Вага" valuecode="31dc4e4c4f49bfdeb9cf2fe5102bb7db">2 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="0ea66c0e6eb6a8574fa0236f55dfedcb">упаковка з zip-lock</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
@@ -123017,6 +123159,7 @@
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="11324" name="Вік" valuecode="a8de94c00bfed5f6cad310daced5abed">для всіх</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="12479" name="Вага" valuecode="062a09591ca3e6884727f90014d6837e">70 г</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="c8dde5ebc4c33250198aae8f5ff25aed">металева банка</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
@@ -123275,6 +123418,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="bel">Бельгія</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
 <param paramcode="12481" name="Вага" valuecode="5ddf5b4c6821c8080be2b326d584b009">400 г</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
@@ -123300,6 +123444,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="bel">Бельгія</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="11324" name="Вік" valuecode="204c3d0f8c4803405a376fd680e64d4f">цуценята</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
 <param paramcode="12481" name="Вага" valuecode="8325d7220997087acae62e34c7382a22">200 г</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
@@ -123325,6 +123470,7 @@
 <param paramcode="country_of_origin" name="Країна-виробник" valuecode="bel">Бельгія</param>
 <param paramcode="11323" name="Тип" valuecode="c598d44391d6aaa4c0d839d46d428930">вологий корм</param>
 <param paramcode="11324" name="Вік" valuecode="002e4c36a8cffc6a8a3e2f35173d8a74">дорослі</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
 <param paramcode="12481" name="Вага" valuecode="5ddf5b4c6821c8080be2b326d584b009">400 г</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
@@ -123799,6 +123945,8 @@
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="12479" name="Вага" valuecode="1cf53a022441718bbd5be2c1f97e234e">400 г</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="0ea66c0e6eb6a8574fa0236f55dfedcb">упаковка з zip-lock</param>
 <param paramcode="width" name="Ширина"><![CDATA[170]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
@@ -123823,6 +123971,8 @@
 <param paramcode="11323" name="Тип" valuecode="fa1442ff48f1626772e88ab8d5affb92">сухий корм</param>
 <param paramcode="12479" name="Вага" valuecode="31dc4e4c4f49bfdeb9cf2fe5102bb7db">2 кг</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11361" name="Призначення корму" valuecode="64616fdf65ff179097333a21e6bf66bd">основне годування</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="2305" name="Вид упаковки" valuecode="0ea66c0e6eb6a8574fa0236f55dfedcb">упаковка з zip-lock</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[208]]></param>
@@ -124078,6 +124228,7 @@
 <param paramcode="11324" name="Вік" valuecode="204c3d0f8c4803405a376fd680e64d4f">цуценята</param>
 <param paramcode="6777" name="Порода" valuecode="88c189b6b3df67524ca0209887a55656">усі породи</param>
 <param paramcode="11357" name="Розмір" valuecode="58f875b9e149880d5fc48a426749888b">для усіх порід</param>
+<param paramcode="11322" name="Клас" valuecode="72657116936fe6b1920d6d7623f6d896">холістік</param>
 <param paramcode="width" name="Ширина"><![CDATA[340]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[240]]></param>
