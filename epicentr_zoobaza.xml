@@ -56519,9 +56519,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[6410329345302]]></param>
 </offer>
-<offer id="TX31438" available="true">
+<offer id="TX31438" available="false">
 <price>5194.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7366">Одяг для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX31438-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX31438-2.jpg</picture>
@@ -63020,9 +63020,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[9345719103460]]></param>
 </offer>
-<offer id="TX33560" available="true">
+<offer id="TX33560" available="false">
 <price>588.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="9410">Іграшки для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX33560-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX33560-2.jpg</picture>
@@ -68202,9 +68202,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[7071652016650]]></param>
 </offer>
-<offer id="TX40555" available="true">
+<offer id="TX40555" available="false">
 <price>1954.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="5384">Поясні сумки</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX40555-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX40555-2.jpg</picture>
@@ -69660,9 +69660,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[7071652325974]]></param>
 </offer>
-<offer id="TX41098" available="true">
+<offer id="TX41098" available="false">
 <price>6343.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7366">Одяг для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41098-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41098-2.jpg</picture>
@@ -73088,9 +73088,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[748960128807]]></param>
 </offer>
-<offer id="TX41976" available="true">
+<offer id="TX41976" available="false">
 <price>1367.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="9410">Іграшки для собак</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41976-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX41976-2.jpg</picture>
@@ -75441,9 +75441,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[748960846138]]></param>
 </offer>
-<offer id="TX44048" available="true">
+<offer id="TX44048" available="false">
 <price>2397.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="5384">Поясні сумки</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX44048-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX44048-2.jpg</picture>
@@ -77348,9 +77348,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4262437744872]]></param>
 </offer>
-<offer id="TX45518" available="true">
+<offer id="TX45518" available="false">
 <price>7276.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="493">Сумки, клітки та переноски для тварин</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45518-2.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX45518-3.jpg</picture>
@@ -79897,9 +79897,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4250990439984]]></param>
 </offer>
-<offer id="TX46161" available="true">
+<offer id="TX46161" available="false">
 <price>1135.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="495">Посуд для тварин</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46161-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX46161-2.jpg</picture>
@@ -82040,9 +82040,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[748960397395]]></param>
 </offer>
-<offer id="TX47176" available="true">
+<offer id="TX47176" available="false">
 <price>1435.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="7372">Нашийники для тварин</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX47176-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX47176-2.jpg</picture>
@@ -87080,9 +87080,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[4066239185051]]></param>
 </offer>
-<offer id="TX49686" available="true">
+<offer id="TX49686" available="false">
 <price>3349.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="5384">Поясні сумки</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX49686-1.jpg</picture>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/todli/TX49686-2.jpg</picture>
@@ -106889,9 +106889,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT32289" available="true">
+<offer id="HT32289" available="false">
 <price>1320.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="2788">Фени</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013726_lokowko-suszarka-do-wlosow.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013726_lokowko-suszarka-do-wlosow1.jpg</picture>
@@ -117740,9 +117740,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35643" available="true">
+<offer id="HT35643" available="false">
 <price>3555.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="9756">Стайлери для волосся</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177721.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177722.jpg</picture>
@@ -118306,9 +118306,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35695" available="true">
+<offer id="HT35695" available="false">
 <price>6037.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="84">Витяжки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178604.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178606.jpg</picture>
@@ -126334,9 +126334,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35687" available="false">
+<offer id="HT35687" available="true">
 <price>2854.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="84">Витяжки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178554.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000178558.jpg</picture>
@@ -128600,9 +128600,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT23349" available="false">
+<offer id="HT23349" available="true">
 <price>4091.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="84">Витяжки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/6_000009386_298368954.jpg</picture>
 <name lang="ua">Витяжка Minola HPL 613 I</name>
@@ -129845,9 +129845,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT36036" available="false">
-<price>8779.00</price>
-<availability>out_of_stock</availability>
+<offer id="HT36036" available="true">
+<price>8450.00</price>
+<availability>in_stock</availability>
 <category code="84">Витяжки</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184593.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000184594.jpg</picture>
