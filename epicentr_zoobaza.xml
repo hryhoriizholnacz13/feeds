@@ -13728,9 +13728,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="ZB4233" available="true">
+<offer id="ZB4233" available="false">
 <price>1126.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="4844">Корм для котів</category>
 <picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/zoobaza/ZB4233-1.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/34/1024x768l80mc0/56502945771797.jpg</picture>
@@ -101739,9 +101739,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT29752" available="true">
+<offer id="HT29752" available="false">
 <price>14679.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="81">Кухонні плити</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011185_326470543.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000011185.jpg</picture>
@@ -114432,9 +114432,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT35070" available="true">
+<offer id="HT35070" available="false">
 <price>922.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="3130">Сушарки для білизни</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167991.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167992.jpg</picture>
@@ -127360,9 +127360,9 @@
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 <param paramcode="barcodes" name="Штрих код"><![CDATA[5407007852598]]></param>
 </offer>
-<offer id="DB00010123" available="false">
+<offer id="DB00010123" available="true">
 <price>536.00</price>
-<availability>out_of_stock</availability>
+<availability>in_stock</availability>
 <category code="7334">Шампуні для тварин</category>
 <picture>https://b2b.portal.dober-man.com.ua/gallery/product_gallery/11-6a4fe241b4aa7989677864.webp</picture>
 <name lang="ua">Шампунь для собак і котів Hydra Collection William Galharde Shampoo 200 мл</name>
