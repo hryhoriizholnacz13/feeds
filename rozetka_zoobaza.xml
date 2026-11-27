@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-26 08:00">
+<yml_catalog date="2026-11-27 12:00">
 <shop>
 <currencies>
 <currency id="UAH" rate="1"/>
@@ -11278,8 +11278,8 @@
 <param name="Рецептура">Без зернових</param>
 <param name="Основні інгредієнти">Курка</param>
 </offer>
-<offer id="ZB4233" available="true">
-<stock_quantity>2</stock_quantity>
+<offer id="ZB4233" available="false">
+<stock_quantity>0</stock_quantity>
 <price>1070.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>1461212</categoryId>
@@ -82006,7 +82006,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT25294" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>2317.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>112986</categoryId>
@@ -83979,7 +83979,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT29754" available="true">
-<stock_quantity>4</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>13607.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80122</categoryId>
@@ -88932,7 +88932,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT32132" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>530.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>81232</categoryId>
@@ -89705,7 +89705,7 @@
 <param name="Кількість циклів прання">60</param>
 </offer>
 <offer id="HT32373" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>2890.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>651392</categoryId>
@@ -91269,7 +91269,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT32803" available="true">
-<stock_quantity>2</stock_quantity>
+<stock_quantity>1</stock_quantity>
 <price>742.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80160</categoryId>
@@ -97998,7 +97998,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT34918" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>4</stock_quantity>
 <price>14875.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80124</categoryId>
@@ -98834,24 +98834,6 @@
 <param name="Висота">90 см</param>
 <param name="Глибина">60 см</param>
 <param name="Гарантія">12 місяців</param>
-</offer>
-<offer id="HT35070" available="true">
-<stock_quantity>1</stock_quantity>
-<price>953.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>185696</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167991.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167992.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167993.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000167994.jpg</picture>
-<vendor>AlexValex</vendor>
-<article>AV18BSR</article>
-<name>Сушилка для одежды AlexValex Premium 18 м Антрацит (AV18BSR)</name>
-<name_ua>Сушарка для одягу AlexValex Premium 18 м Антрацит (AV18BSR)</name_ua>
-<description><![CDATA[<p>Сушилка для белья AlexValex Premium - удобно, надёжно, продуманно AlexValex Premium создана, чтобы сделать ежедневный быт проще.</p><ul><li>Она прочная, удобная в использовании и легко впишется в любой интерьер.</li><li>Основные преимущества:18 метров для сушки — хватит на одну-две закладки стиральной машины.</li><li>Съёмный органайзер — удобно развешивать мелкие вещи: носки, бельё или детскую одежду.</li><li>Прочная стальная конструкция в стильном антрацитовом цвете.</li><li>До 18 кг нагрузки — не волнуйтесь, выдержит и тяжёлое бельё при равномерном распределении веса.</li><li>Пластиковые накладки на ножках — не поцарапают пол.</li><li>Складывается за секунды — легко спрятать за дверью, под кроватью или в шкафу.</li><li>Размеры:В сложенном виде: 130 х 55.5 х 4 смВ разложенном виде (без боковых секций): 107 х 55.5 х 89.5 смС разложенными боковыми секциями: 182 х 55.5 х 102.5 смAlexValex Premium - это сушилка, о которой не придётся жалеть.</li></ul><p>Она простая, прочная и удобная. Выбирайте практичность — и сушка белья больше не будет хлопотной!</p>]]></description>
-<description_ua><![CDATA[<p>Сушарка для білизни AlexValex Premium - зручно, надійно, продумано AlexValex Premium створена, щоб зробити щоденний побут простішим.</p><ul><li>Вона міцна, зручна у використанні та легко впишеться в будь-який інтер’єр.</li><li>Основні переваги:18 метрів для сушіння — вистачить на одну-дві закладки пральної машини.</li><li>Зйомний органайзер — зручно розвішувати дрібні речі: шкарпетки, білизну чи дитячий одяг.</li><li>Міцна сталева конструкція в стильному антрацитовому кольорі.</li><li>До 18 кг навантаження — не хвилюйтеся, витримає й важку білизну при рівномірному розподілі ваги.</li><li>Пластикові накладки на ніжках — не подряпають підлогу.</li><li>Складається за секунди — легко заховати за дверима, під ліжком чи у шафі.</li><li>Розміри:У складеному вигляді: 130 х 55.5 х 4 смУ розкладеному вигляді (без бокових секцій): 107 х 55.5 х 89.5 смЗ розкладеними боковими секціями: 182 х 55.5 х 102.5 смAlexValex Premium - це сушарка, про яку не доведеться шкодувати.</li></ul><p>Вона проста, міцна і зручна. Обирайте практичність — і сушіння білизни більше не буде клопотом!</p>]]></description_ua>
-<param name="Тип">Сушарка для одягу</param>
-<param name="Колір">Металік</param>
 </offer>
 <offer id="HT35073" available="true">
 <stock_quantity>11</stock_quantity>
@@ -101833,7 +101815,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35405" available="true">
-<stock_quantity>8</stock_quantity>
+<stock_quantity>7</stock_quantity>
 <price>894.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80161</categoryId>
@@ -105825,7 +105807,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35854" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>1106.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80145</categoryId>
@@ -106447,7 +106429,7 @@
 <param name="Гарантія">24 місяці</param>
 </offer>
 <offer id="HT35932" available="true">
-<stock_quantity>9</stock_quantity>
+<stock_quantity>8</stock_quantity>
 <price>6000.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80163</categoryId>
@@ -106888,35 +106870,6 @@
 <param name="Матеріал корпусу">Пластик</param>
 <param name="Тип міксера">Ручний</param>
 <param name="Потужність">250 Вт</param>
-<param name="Гарантія">12 місяців</param>
-</offer>
-<offer id="HT35979" available="true">
-<stock_quantity>1</stock_quantity>
-<price>2436.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80151</categoryId>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183071.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183072.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183073.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183075.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183077.jpg</picture>
-<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000183078.jpg</picture>
-<vendor>Adler</vendor>
-<article>AD-7038BO</article>
-<name>Пароочиститель Adler AD-7038BO (AD-7038BO)</name>
-<name_ua>Пароочисник Adler AD-7038BO (AD-7038BO)</name_ua>
-<description><![CDATA[<p>Пароочиститель ADLER AD 7038: мощность и эффективностьПароочиститель ADLER AD 7038 является инновационным устройством, предназначенным для эффективной и безопасной уборки.</p><ul><li>С мощностью 2000 Вт этот прибор обеспечивает высокую производительность и позволяет справляться с разными загрязнениями, обеспечивая чистоту и свежесть в вашем доме.</li><li>Одной из ключевых особенностей пароочистителя ADLER AD 7038 является система безопасности.</li></ul><p>Устройство оснащено защитой от перегрева, что гарантирует безопасное использование и предотвращает возможные поломки.</p><ul><li>Индикаторы включения помогают пользователю отслеживать рабочий статус прибора, что делает его эксплуатацию удобнее и надежнее.</li><li>Комплектация и функциональные возможностиПароочиститель ADLER AD 7038 оснащен разнообразными насадками и щетками, которые позволяют справляться с разными задачами уборки.</li></ul><p>В комплект входят щетка для уборки пола, малая круглая щетка, изогнутая форсунка, гибкий шланг, салфетка и накладка для пола.</p><ul><li>Эти аксессуары обеспечивают возможность очистки любых поверхностей, включая пол, ковры, плитку и другие загрязненные участки.</li><li>Устройство имеет давление пара 3.5 бар и паропроизводительность 44 г/мин, что позволяет эффективно удалять загрязнения и дезинфицировать поверхности.</li></ul><p>Объем резервуара составляет 0.45 л, что обеспечивает длительное использование без необходимости частой дозаправки.</p><ul><li>Длина кабеля питания 2.8 м позволяет свободно перемещаться по комнате, не ограничивая движения.</li><li>Удобство использования и дополнительные преимуществаПароочиститель ADLER AD 7038 отличается простотой в использовании и высокой маневренностью.</li></ul><p>Размеры устройства составляют 415 х 285 х 185 мм, а вес – 2.43 кг, что делает его легким и компактным для хранения и транспортировки.</p><ul><li>В комплект также входят металлическая и нейлоновая щетки, гибкий удлинитель, три удлинительные трубы по 33 см, большая насадка, плоская щетка, соединитель для щетки для пола, маленькое полотенце, полотенце для щетки для пола и мерный стакан.</li><li>Гарантия на устройство составляет 12 месяцев, что подтверждает его надежность и долговечность.</li></ul><p>Пароочиститель ADLER AD 7038 - это идеальный выбор для тех, кто ценит качество и эффективность в повседневной уборке. Этот прибор станет незаменимым помощником в вашем доме, обеспечивая безупречную чистоту и комфорт.</p>]]></description>
-<description_ua><![CDATA[<p>Пароочисник ADLER AD 7038: потужність та ефективністьПароочисник ADLER AD 7038 є інноваційним пристроєм, призначеним для ефективного та безпечного прибирання.</p><ul><li>З потужністю 2000 Вт цей прилад забезпечує високу продуктивність і дозволяє справлятися з різними забрудненнями, забезпечуючи чистоту та свіжість у вашому будинку.</li><li>Однією з ключових особливостей пароочисника ADLER AD 7038 є система безпеки.</li></ul><p>Пристрій оснащений захистом від перегріву, що гарантує безпечне використання та запобігає можливим поломкам.</p><ul><li>Індикатори включення допомагають користувачеві відстежувати робочий статус приладу, що робить його експлуатацію зручнішою та надійнішою.</li><li>Комплектація та функціональні можливостіПароочисник ADLER AD 7038 оснащений різноманітними насадками та щітками, які дозволяють справлятися з різними завданнями прибирання.</li></ul><p>В комплект входять щітка для прибирання підлоги, мала кругла щітка, вигнута форсунка, гнучкий шланг, серветка і накладка для підлоги.</p><ul><li>Ці аксесуари забезпечують можливість очищення будь-яких поверхонь, включаючи підлогу, килими, плитку та інші забруднені ділянки.</li><li>Пристрій має тиск пари 3.5 бар та паропродуктивність 44 г/хв, що дозволяє ефективно видаляти забруднення та дезінфікувати поверхні.</li></ul><p>Об'єм резервуара становить 0.45 л, що забезпечує тривале використання без необхідності частої дозаправки.</p><ul><li>Довжина кабелю живлення 2.8 м дозволяє вільно переміщатися кімнатою, не обмежуючи руху.</li><li>Зручність використання та додаткові перевагиПароочисник ADLER AD 7038 відрізняється простотою у використанні та високою маневреністю.</li></ul><p>Розміри пристрою становлять 415 х 285 х 185 мм, а вага – 2.43 кг, що робить його легким та компактним для зберігання та транспортування.</p><ul><li>У комплект також входять металева та нейлонова щітки, гнучкий подовжувач, три подовжувальні труби по 33 см, велика насадка, плоска щітка, з'єднувач для щітки для підлоги, маленький рушник, рушник для щітки для підлоги та мірна склянка.</li><li>Гарантія на пристрій складає 12 місяців, що підтверджує його надійність та довговічність.</li></ul><p>Пароочисник ADLER AD 7038 - це ідеальний вибір для тих, хто цінує якість та ефективність у повсякденному прибиранні. Цей прилад стане незамінним помічником у вашому будинку, забезпечуючи бездоганну чистоту та комфорт.</p>]]></description_ua>
-<param name="Тип">Пароочисник</param>
-<param name="Колір">Білий з чорним</param>
-<param name="Живлення">від мережі</param>
-<param name="Керування">Механічне</param>
-<param name="Матеріал корпусу">Пластик</param>
-<param name="Тиск пару">3,5 бар</param>
-<param name="Паровий удар">45 г/хв</param>
-<param name="Вид прибирання">Парою</param>
-<param name="Довжина шнура">2.5 м</param>
-<param name="Потужність">1200 Вт</param>
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT35991" available="true">
@@ -110437,37 +110390,6 @@
 <param name="Потужність">1000 Вт</param>
 <param name="Гарантія">24 місяці</param>
 </offer>
-<offer id="HT36241" available="true">
-<stock_quantity>1</stock_quantity>
-<price>4275.00</price>
-<currencyId>UAH</currencyId>
-<categoryId>80162</categoryId>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/tehnikaua/805fa76628adc7c5.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/tehnikaua/af3088466563ae8d.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/tehnikaua/4976c9e226977136.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/tehnikaua/f9716feeb287fd63.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/tehnikaua/bad34599e811c0ec.jpg</picture>
-<picture>https://raw.githubusercontent.com/hryhoriizholnacz13/media/main/upscaled/tehnikaua/3e842a69374ff71c.jpg</picture>
-<vendor>Gorenje</vendor>
-<article>MO20E1B15</article>
-<name>Микроволновая печь Gorenje MO20E1B15 inverter (MO20E1B15)</name>
-<name_ua>Мікрохвильова піч Gorenje MO20E1B15 inverter (MO20E1B15)</name_ua>
-<description><![CDATA[<p>Эффективность и надёжностьТехнология InverterPowerПередовая технология обеспечивает стабильную работу и равномерный нагрев на любом уровне мощности.</p><ul><li>Благодаря этому блюда имеют лучшую консистенцию, а прибор работает тише и эффективнее, что обеспечивает удобство ежедневного использования.</li><li>Чистота без усилийФункция AquaCleanПар смягчает загрязнения, благодаря чему внутреннюю часть можно легко очистить без использования моющих средств.</li><li>Быстрое размораживание по времениЛёгкое размораживаниеФункция размораживания позволяет быстро подготовить ингредиенты к дальнейшему приготовлению, сохраняя их естественную структуру и вкус.5 уровней мощности на каждый деньГибкие уровни мощностиРазные блюда требуют разного подхода.</li></ul><p>Благодаря пяти регулируемым уровням мощности вы можете деликатно размораживать замороженные ингредиенты, медленно подогревать нежные блюда или быстро разогревать готовые блюда на полной мощности. Эта гибкость помогает сохранить консистенцию, влажность и вкус, благодаря чему ваша еда разогревается правильно, а не просто быстро.20 л для ежедневного комфортаКомпактный объёмМикроволновая печь спроектирована так, чтобы идеально вписаться в вашу кухню. Камера объёмом 20 л обеспечивает оптимальное сочетание компактных размеров и функциональности.</p><ul><li>Она легко вмещает стандартные тарелки и миски, отлично подходит для ежедневного разогрева, быстрого приготовления блюд и перекусов, при этом занимая минимум места на кухонной столешнице.</li><li>Поворотная тарелка для стабильных результатовРавномерный нагревСтеклянный поворотный поддон диаметром 255 мм обеспечивает равномерный разогрев блюд со всех сторон.</li></ul><p>Вам не нужно останавливать процесс, чтобы перемешать еду или переставить посуду.</p><ul><li>Независимо от того, разогреваете ли вы готовые блюда, растапливаете шоколад или готовите полноценный обед, вы всегда можете рассчитывать на отличный вкус и однородную текстуру.</li><li>Лёгкий доступ одним касаниемОткрывание дверцы с помощью кнопкиДостаточно нажать кнопку, чтобы дверца плавно и без усилий открылась.</li></ul><ul><li>Это удобное решение, особенно когда у вас заняты руки или важен быстрый доступ к внутреннему пространству.</li><li>Лакированная камера для ежедневного использованияПрочная внутренняя частьЛакированная камера разработана с учётом долговечности и удобства использования.</li></ul><ul><li>Устойчивая к загрязнениям и частой чистке, она обеспечивает надёжность в течение длительного времени.</li><li>Элегантная стеклянная отделкаВид премиум-классаСтеклянная дверца придаёт кухне современный вид и отлично вписывается в различные стили интерьера.</li></ul><ul><li>Прибор сочетает функциональность и эстетику.</li><li>Гибкость отдельностоящей конструкцииИдеально впишется в ваше пространствоОтдельностоящая конструкция позволяет установить устройство в любом удобном месте на кухне.</li></ul><ul><li>Классические цвета легко сочетаются с любым интерьером.</li><li>Эргономичная ручкаУдобный доступРучка обеспечивает удобное и плавное открывание дверцы в любой ситуации.</li></ul>]]></description>
-<description_ua><![CDATA[<p>Ефективність та надійністьТехнологія InverterPowerПередова технологія забезпечує стабільну роботу та рівномірне нагрівання на будь-якому рівні потужності.</p><ul><li>Завдяки цьому страви мають кращу консистенцію, а прилад працює тихіше та ефективніше, що забезпечує зручність щоденного використання.</li><li>Чистота без зусильФункція AquaCleanПара пом’якшує забруднення, завдяки чому внутрішню частину можна легко очистити без використання миючих засобів.</li><li>Швидке розморожування за часомЛегке розморожуванняФункція розморожування дозволяє швидко підготувати інгредієнти до подальшого приготування, зберігаючи їх природну структуру та смак.5 рівнів потужності на щоденьГнучкі рівні потужностіРізні страви вимагають різного підходу.</li></ul><p>Завдяки п’яти регульованим рівням потужності ви можете делікатно розморожувати заморожені інгредієнти, повільно підігрівати ніжні страви або швидко розігрівати готові страви на повній потужності. Ця гнучкість допомагає зберегти консистенцію, вологість і смак, завдяки чому ваша їжа розігрівається правильно, а не просто швидко.20 л для щоденного комфортуКомпактний об’ємМікрохвильова піч спроєктована так, щоб ідеально вписатися у вашу кухню. Камера об’ємом 20 л забезпечує оптимальне поєднання компактних розмірів і функціональності.</p><ul><li>Вона легко вміщує стандартні тарілки та миски, чудово підходить для щоденного розігрівання, швидкого приготування страв і перекусів, водночас займаючи мінімум місця на кухонній стільниці.</li><li>Поворотна тарілка для стабільних результатівРівномірне нагріванняСкляний поворотний піддон діаметром 255 мм забезпечує рівномірне розігрівання страв з усіх боків.</li></ul><p>Вам не потрібно зупиняти процес, щоб перемішати їжу чи переставити посуд.</p><ul><li>Незалежно від того, чи ви розігріваєте готові страви, розтоплюєте шоколад або готуєте повноцінний обід, ви завжди можете розраховувати на чудовий смак і однорідну текстуру.</li><li>Легкий доступ одним дотикомВідкривання дверцят за допомогою кнопкиДостатньо натиснути кнопку, щоб дверцята плавно й без зусиль відчинилися.</li></ul><ul><li>Це зручне рішення, особливо коли у вас зайняті руки або важливий швидкий доступ до внутрішнього простору.</li><li>Лакована камера для щоденного використанняМіцна внутрішня частинаЛакована камера розроблена з урахуванням довговічності та зручності використання.</li></ul><ul><li>Стійка до забруднень і частого чищення, вона забезпечує надійність протягом тривалого часу.</li><li>Елегантне скляне оздобленняВигляд преміум-класуСкляні дверцята надають кухні сучасного вигляду та чудово вписуються в різні стилі інтер’єру.</li></ul><ul><li>Прилад поєднує функціональність та естетику.</li><li>Гнучкість окремостоячої конструкціїІдеально впишеться у ваш простірОкремостояча конструкція дозволяє встановити пристрій у будь-якому зручному місці на кухні.</li></ul><ul><li>Класичні кольори легко поєднуються з будь-яким інтер’єром.</li><li>Ергономічна ручкаЗручний доступРучка забезпечує зручне та плавне відкривання дверцят у будь-якій ситуації.</li></ul>]]></description_ua>
-<param name="Тип">Мікрохвильова піч</param>
-<param name="Колір">Чорний</param>
-<param name="Об`єм">20 л</param>
-<param name="Ширина">45,5 см</param>
-<param name="Керування">Електронно-механічне</param>
-<param name="Кількість рівнів">5</param>
-<param name="Тип НВЧ">Соло (Звичайний)</param>
-<param name="Внутрішнє покриття">Емаль</param>
-<param name="Потужність">1100 Вт</param>
-<param name="Діаметр поворотного столу">25,5 см</param>
-<param name="Вага">7.8 кг</param>
-<param name="Глибина">35,3 см</param>
-<param name="Гарантія">24 місяці</param>
-</offer>
 <offer id="HT36242" available="true">
 <stock_quantity>1</stock_quantity>
 <price>4275.00</price>
@@ -111061,7 +110983,7 @@
 <param name="Гарантія">12 місяців</param>
 </offer>
 <offer id="HT6464" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>2224.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>80176</categoryId>
@@ -111633,7 +111555,7 @@
 <param name="EAN">4894512025011</param>
 </offer>
 <offer id="DB00004946" available="true">
-<stock_quantity>17</stock_quantity>
+<stock_quantity>16</stock_quantity>
 <price>785.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -114696,7 +114618,7 @@
 <param name="EAN">7898574028482</param>
 </offer>
 <offer id="DB00007136" available="true">
-<stock_quantity>30</stock_quantity>
+<stock_quantity>29</stock_quantity>
 <price>1971.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -114728,7 +114650,7 @@
 <param name="EAN">7898574028505</param>
 </offer>
 <offer id="DB00007138" available="true">
-<stock_quantity>35</stock_quantity>
+<stock_quantity>34</stock_quantity>
 <price>1971.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -115656,7 +115578,7 @@
 <param name="EAN">7898574027126</param>
 </offer>
 <offer id="DB00007207" available="true">
-<stock_quantity>31</stock_quantity>
+<stock_quantity>30</stock_quantity>
 <price>796.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -115672,7 +115594,7 @@
 <param name="EAN">7898574025184</param>
 </offer>
 <offer id="DB00007209" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>848.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -115688,7 +115610,7 @@
 <param name="EAN">7898574025207</param>
 </offer>
 <offer id="DB00007211" available="true">
-<stock_quantity>42</stock_quantity>
+<stock_quantity>41</stock_quantity>
 <price>824.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -116074,7 +115996,7 @@
 <param name="EAN">7898945056984</param>
 </offer>
 <offer id="DB00007243" available="true">
-<stock_quantity>30</stock_quantity>
+<stock_quantity>29</stock_quantity>
 <price>850.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -116237,7 +116159,7 @@
 <param name="EAN">8031398000886</param>
 </offer>
 <offer id="DB00007276" available="true">
-<stock_quantity>15</stock_quantity>
+<stock_quantity>13</stock_quantity>
 <price>617.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -116287,7 +116209,7 @@
 <param name="EAN">8031398128078</param>
 </offer>
 <offer id="DB00007282" available="true">
-<stock_quantity>95</stock_quantity>
+<stock_quantity>92</stock_quantity>
 <price>617.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -116389,7 +116311,7 @@
 <param name="EAN">8031398067483</param>
 </offer>
 <offer id="DB00007290" available="true">
-<stock_quantity>44</stock_quantity>
+<stock_quantity>43</stock_quantity>
 <price>421.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -116422,7 +116344,7 @@
 <param name="EAN">8031398125404</param>
 </offer>
 <offer id="DB00007293" available="true">
-<stock_quantity>5</stock_quantity>
+<stock_quantity>3</stock_quantity>
 <price>333.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -116438,7 +116360,7 @@
 <param name="EAN">8031398128924</param>
 </offer>
 <offer id="DB00007294" available="true">
-<stock_quantity>37</stock_quantity>
+<stock_quantity>35</stock_quantity>
 <price>311.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -116470,7 +116392,7 @@
 <param name="EAN">8031398123134</param>
 </offer>
 <offer id="DB00007296" available="true">
-<stock_quantity>71</stock_quantity>
+<stock_quantity>68</stock_quantity>
 <price>311.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -116694,7 +116616,7 @@
 <param name="EAN">8031398252131</param>
 </offer>
 <offer id="DB00007320" available="true">
-<stock_quantity>7</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>573.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4632096</categoryId>
@@ -116726,7 +116648,7 @@
 <param name="EAN">8031398252094</param>
 </offer>
 <offer id="DB00007322" available="true">
-<stock_quantity>3</stock_quantity>
+<stock_quantity>2</stock_quantity>
 <price>573.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4632096</categoryId>
@@ -116742,7 +116664,7 @@
 <param name="EAN">8031398252117</param>
 </offer>
 <offer id="DB00007324" available="true">
-<stock_quantity>31</stock_quantity>
+<stock_quantity>30</stock_quantity>
 <price>573.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4632096</categoryId>
@@ -116758,7 +116680,7 @@
 <param name="EAN">8031398252124</param>
 </offer>
 <offer id="DB00007326" available="true">
-<stock_quantity>90</stock_quantity>
+<stock_quantity>88</stock_quantity>
 <price>554.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -116775,7 +116697,7 @@
 <param name="EAN">8031398253763</param>
 </offer>
 <offer id="DB00007327" available="true">
-<stock_quantity>16</stock_quantity>
+<stock_quantity>14</stock_quantity>
 <price>437.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -117131,7 +117053,7 @@
 <param name="EAN">8031398149936</param>
 </offer>
 <offer id="DB00007375" available="true">
-<stock_quantity>9</stock_quantity>
+<stock_quantity>8</stock_quantity>
 <price>2578.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -117278,7 +117200,7 @@
 <param name="EAN">4820266800871</param>
 </offer>
 <offer id="DB00007610" available="true">
-<stock_quantity>22</stock_quantity>
+<stock_quantity>20</stock_quantity>
 <price>400.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675022</categoryId>
@@ -117864,7 +117786,7 @@
 <param name="EAN">4820266800314</param>
 </offer>
 <offer id="DB00007664" available="true">
-<stock_quantity>81</stock_quantity>
+<stock_quantity>76</stock_quantity>
 <price>221.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675022</categoryId>
@@ -117894,7 +117816,7 @@
 <param name="EAN">4820266800239</param>
 </offer>
 <offer id="DB00007669" available="true">
-<stock_quantity>73</stock_quantity>
+<stock_quantity>66</stock_quantity>
 <price>146.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675022</categoryId>
@@ -117939,7 +117861,7 @@
 <param name="EAN">4820266800246</param>
 </offer>
 <offer id="DB00007674" available="true">
-<stock_quantity>67</stock_quantity>
+<stock_quantity>41</stock_quantity>
 <price>146.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>4675022</categoryId>
@@ -119136,7 +119058,7 @@
 <param name="EAN">4897039632168</param>
 </offer>
 <offer id="DB00008105" available="true">
-<stock_quantity>15</stock_quantity>
+<stock_quantity>13</stock_quantity>
 <price>684.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -119203,7 +119125,7 @@
 <param name="EAN">4820266800031</param>
 </offer>
 <offer id="DB00008282" available="true">
-<stock_quantity>13</stock_quantity>
+<stock_quantity>8</stock_quantity>
 <price>341.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>301871</categoryId>
@@ -120409,7 +120331,7 @@
 <param name="EAN">4894512017566</param>
 </offer>
 <offer id="DB00009494" available="true">
-<stock_quantity>34</stock_quantity>
+<stock_quantity>33</stock_quantity>
 <price>6353.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -120686,8 +120608,8 @@
 <param name="Вид тварин">Собаки/Коти</param>
 <param name="Фасовка">200 мл</param>
 </offer>
-<offer id="DB00010123" available="false">
-<stock_quantity>1</stock_quantity>
+<offer id="DB00010123" available="true">
+<stock_quantity>5</stock_quantity>
 <price>582.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -120867,7 +120789,7 @@
 <param name="EAN">8031398253794</param>
 </offer>
 <offer id="DB00010337" available="true">
-<stock_quantity>44</stock_quantity>
+<stock_quantity>43</stock_quantity>
 <price>816.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
@@ -120883,7 +120805,7 @@
 <param name="EAN">5055037406542</param>
 </offer>
 <offer id="DB00010338" available="true">
-<stock_quantity>12</stock_quantity>
+<stock_quantity>6</stock_quantity>
 <price>785.00</price>
 <currencyId>UAH</currencyId>
 <categoryId>3504864</categoryId>
