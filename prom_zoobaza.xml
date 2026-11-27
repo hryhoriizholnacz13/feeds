@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-26 08:00">
+<yml_catalog date="2026-11-27 12:00">
 <shop>
 <categories>
 <category id="105501">Одяг для тварин</category>
@@ -23582,13 +23582,13 @@
 <param name="Вік тварини">дорослі</param>
 <description><![CDATA[Fitmin Cat Purity Castrate   сухий беззерновий холістик-корм для дорослих стерилізованих і кастрованих котів. Містить свіже курине м'ясо, трав'яний комплекс, фрукти та овочі.80% протеїнів тваринного походженняБеззернова рецептура: без глютену, знижує ризик алергічних реакцій на пшеничний глютен і кукурудзуHerbs Vitality комплекс із трав для підтримки організмуFresh meat technology   свіже м'ясо без кістокL-карнітин підтримує розщеплення жиру та серцевий м'язКомплекс дентального догляду та олія норвезького лососяСклад: м'ясо (27,5% свіже куряче, 30,5% сушене куряче, 6% сушена індичка, 4% свиняча печінка), фермерська картопля, горох, бурякова клітковина, жир птиці, люцерна 2,5%, яблука, курячі яйця, пивні дріжджі, інактивовані дріжджі Saccharomyces cerevisiae, насіння льону, чорна смородина 1%, трав'яний комплекс (листя кропиви дводомної, листя кульбаби лікарської 0,25%, квіти ромашки, листя меліси, квіти липи), холодно пресована олія норвезького лосося, мінеральні речовини, корінь цикорію, розторопша 0,1%, прісноводна водорость хлорела, юка шидигера, комплекс натуральних антиоксидантів.Аналітичні складові: білок 35%, жир 12%, клітковина 3,5%, зола 7,4%, кальцій 1,1%, фосфор 0,83%, натрій 0,33%, енергія 15,83 МДж/кг.Норму годування див. на упаковці: для дорослого кота вагою 3 5 кг   60 85 г на добу.]]></description>
 </offer>
-<offer id="ZB4233" available="true" selling_type="r">
+<offer id="ZB4233" available="false" selling_type="r">
 <name>Fitmin cat Purity Delicious (Для вибагливих з дичиною), 1,5 кг</name>
 <categoryId>1087</categoryId>
 <portal_category_id>270262</portal_category_id>
 <price>972.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>0</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/34/22531632127511_+437ddcb18f.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/34/1024x768l80mc0/17371242191513.jpg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/34/1024x768l80mc0/56502945771797.jpg</picture>
@@ -40407,7 +40407,7 @@
 <portal_category_id>612</portal_category_id>
 <price>1687.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_63c4c256-4d35-11ec-89e9-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_63c4c256-4d35-11ec-89e9-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_63c4c256-4d35-11ec-89e9-dc4a3e701323.jpg</picture>
@@ -40624,7 +40624,7 @@
 <portal_category_id>606</portal_category_id>
 <price>2193.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_964bd7f6-5c0f-11e8-a892-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000000901_4653166.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000000901_4653169.jpg</picture>
@@ -41041,7 +41041,7 @@
 <portal_category_id>609</portal_category_id>
 <price>5457.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_582e3fea-d5bb-11ec-89ed-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_582e3fea-d5bb-11ec-89ed-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_582e3fea-d5bb-11ec-89ed-dc4a3e701323.jpg</picture>
@@ -41827,7 +41827,7 @@
 <portal_category_id>603</portal_category_id>
 <price>7182.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000012301.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000012302.jpg</picture>
 <vendor>Saturn</vendor>
@@ -43702,7 +43702,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Castle CPG-50H - це комбінована плита, яка відзначається своїм функціоналом, стильним дизайном і високою продуктивністю. Плита Castle CPG-50H має сучасний і елегантний зовнішній вигляд, який додає шарму будь-якій кухні. Вона має металеву конструкцію з елементами чорного кольору та нержавіючою сталі, яка додає їй довговічності і стійкості. Плита оснащена системою з 4 газовими пальниками, які забезпечують швидке і рівномірне нагрівання. Кожен пальник може бути налаштований на різні рівні потужності, що дозволяє контролювати інтенсивність нагрівання залежно від потреб. Плита має простору варильну поверхню, що дозволяє готувати одночасно в кількох посудинках. Вона виготовлена з високоякісної емальованої сталі, яка легко чиститься і має високу стійкість до подряпин і пошкоджень. Castle CPG-50H обладнана різноманітними функціями безпеки для захисту вас і вашого будинку. До таких функцій входять автоматичне відключення газу у випадку, якщо полум'я пальників погасне внаслідок витоку газу. Плита має просту установку і легке управління, що робить її зручною в експлуатації. Вона також легко чиститься завдяки гладкій поверхні і відсутності складних деталей.Castle CPG-50H економить енергію завдяки своїй високій ефективності. Газова технологія дозволяє швидко нагрівати плиту і пічку, забезпечуючи швидке приготування їжі та економію часу. Духовка має додаткові функції, такі як таймер для точного вимірювання часу готування, освітлення внутрішньої частини пічки для зручного спостереження за їжею та подвійне скло у дверцях, що знімається для зручнішого чищення. Castle CPG-50H - це надійна, функціональна та стильна комбінована плита, яка забезпечує вам зручність, безпеку та задоволення в процесі готування їжі.]]></description>
 </offer>
-<offer id="HT29540" available="false" selling_type="r">
+<offer id="HT29540" available="true" selling_type="r">
 <name>Плита газова CASTLE CG-60B (сіра)</name>
 <categoryId>219</categoryId>
 <portal_category_id>641</portal_category_id>
@@ -44201,7 +44201,7 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Дивовижна потужність Праска виробляє на 25% більше пари, порівнюючи з аналогічними прасками Tefal попереднього покоління, гарантуючи високу продуктивність день у день. Висока потужність Праска обладнана потужністю 2800 Вт для швидкого нагрівання й ефективної роботи. Ефективне прасування Постійна пара до 50 г/хв робить кожне прасування легким і ефективним, а паровий удар до 260 г/хв допомагає розпрасувати найстійкіші складки та щільні тканини. Зручність і безпека Інтелектуальна функція автоматичного вимкнення пропонує підвищену безпеку під час прасування. Максимальний розподіл пари Повністю активні парові отвори розташовані на всій поверхні підошви праски та забезпечують максимальний розподіл пари. Ця підошва має на 30% більше активних парових отворів, ніж попереднє покоління підошов Ultragliss. Високоякісна підошва Нова підошва Durilium Airglide гарантує краще ковзання від Tefal, захищена від подряпин і слугуватиме досить довго. Економічний режим Режим Eco знижує споживання електроенергії на 20%, зберігаючи оптимальну ефективність праски Ідеальна точність Вузький носик підошви полегшує розпрасовування складок на комірах і між ґудзиками. Універсальність Праску можна використовувати для вертикального відпарювання делікатних і великих тканин, наприклад, костюмів або штор. Високі стандарти якості Праска виготовлена у Франції за найвищими стандартами якості та виробництва.]]></description>
 </offer>
-<offer id="HT29752" available="true" selling_type="r">
+<offer id="HT29752" available="false" selling_type="r">
 <name>Плита комбінована CASTLE CPG-60B (сіра)</name>
 <categoryId>219</categoryId>
 <portal_category_id>641</portal_category_id>
@@ -44269,7 +44269,7 @@
 <portal_category_id>641</portal_category_id>
 <price>13607.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000011187_326516081.jpg</picture>
 <vendor>CASTLE</vendor>
 <vendorCode>HT29754</vendorCode>
@@ -49350,7 +49350,7 @@
 <portal_category_id>606</portal_category_id>
 <price>3446.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>4</quantity_in_stock>
+<quantity_in_stock>3</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013239_444673144.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013239_444673145.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013239_444673146.jpg</picture>
@@ -49382,7 +49382,7 @@
 <portal_category_id>640</portal_category_id>
 <price>401.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>12</quantity_in_stock>
+<quantity_in_stock>11</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013240_444187331.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013240_444187332.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013240_444187333.jpg</picture>
@@ -51337,7 +51337,7 @@
 <portal_category_id>154004</portal_category_id>
 <price>508.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013569__2___8.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000013569_waga-lazienkowa-osobowa-first-austria-antyposlizg2.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013569_waga-lazienkowa-osobowa-first-austria-antyposlizg3.jpg</picture>
@@ -52263,7 +52263,7 @@
 <portal_category_id>721</portal_category_id>
 <price>2457.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000138111.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000138112.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000138113.jpg</picture>
@@ -54130,7 +54130,7 @@
 <portal_category_id>640</portal_category_id>
 <price>702.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000014238_czajnik-elektryczny-duzy5.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000014238_czajnik-elektryczny-duzy.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000014238_czajnik-elektryczny-duzy1.jpg</picture>
@@ -57954,7 +57954,7 @@
 <portal_category_id>640</portal_category_id>
 <price>426.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000151751.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000151752.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000151753.jpg</picture>
@@ -60829,7 +60829,7 @@
 <portal_category_id>62701</portal_category_id>
 <price>19500.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>1</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156961.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156962.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000156963.jpg</picture>
@@ -61186,7 +61186,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Ваги кухонні електронні, до 5 кг, точність 1 г., LCD дисплей, автовідключення, автообнулення, індикатор перевантаження, індикатор батарейки, батарейка 2 х AAA (в комплекті). Матеріал корпусу: загартоване скло. Гарантія - 1 рік]]></description>
 </offer>
-<offer id="HT34279" available="false" selling_type="r">
+<offer id="HT34279" available="true" selling_type="r">
 <name>Пральна машина MIDEA MF110W60/ W-UA</name>
 <categoryId>229</categoryId>
 <portal_category_id>603</portal_category_id>
@@ -61595,7 +61595,7 @@
 <portal_category_id>606</portal_category_id>
 <price>3721.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000158100.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000158101.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000158103.jpg</picture>
@@ -63997,7 +63997,7 @@
 <portal_category_id>641</portal_category_id>
 <price>2102.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>6</quantity_in_stock>
+<quantity_in_stock>5</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000163821.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000163822.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000163823.jpg</picture>
@@ -64105,7 +64105,7 @@
 <portal_category_id>61903</portal_category_id>
 <price>25275.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000164221.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000164222.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000164223.jpg</picture>
@@ -64311,7 +64311,7 @@
 <portal_category_id>603</portal_category_id>
 <price>14875.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165021.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165022.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000165023.jpg</picture>
@@ -65515,7 +65515,7 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Надзвичайна продуктивність відпарюванняПаровий удар до 180 г/хв ефективний для цупких тканин. Упорається навіть із дуже пом’ятими й пересушеними речами.Горизонтально і вертикальноПрасуйте або відпарюйте будь-які тканини як горизонтально, так і вертикально. Пристрій працює так, як зручно вам.Завжди готовий до використанняВаш ручний відпарювач нагрівається миттєво. Всього 30 секунд і він готовий до роботи: швидко відпарює та забезпечує відмінні результати.]]></description>
 </offer>
-<offer id="HT35070" available="true" selling_type="r">
+<offer id="HT35070" available="false" selling_type="r">
 <name>Сушарка для одягу AlexValex Premium 18 м Антрацит (AV18BSR)</name>
 <categoryId>312</categoryId>
 <portal_category_id>151604</portal_category_id>
@@ -69730,7 +69730,7 @@
 <portal_category_id>609</portal_category_id>
 <price>847.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>8</quantity_in_stock>
+<quantity_in_stock>7</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000173791.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000173792.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000173793.jpg</picture>
@@ -72896,7 +72896,7 @@
 <portal_category_id>6300401</portal_category_id>
 <price>1458.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177821.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177822.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177823.jpg</picture>
@@ -74607,7 +74607,7 @@
 <portal_category_id>6300403</portal_category_id>
 <price>987.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000172501.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000172502.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000172503.jpg</picture>
@@ -76011,7 +76011,7 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Бренд - Gorenje;Тип - Класичний (з мішком);Вид прибирання - Суха;Обсяг пилозбірника - 3 л;Регулювання потужності - На корпусі;Насадки - Комбінована (підлога / килим), Насадка щілинна, Насадка пилова, Насадка для чищення м'яких меблів, текстилю;Тип труби - Телескопічна;Живлення - Мережа;Функції - Змотування мережевого шнура;Тип пилозбірника - Багаторазовий мішок;Максимальна потужність - Менше 1000 Вт;Парковка - Горизонтальна / вертикальна;Рівень шуму - 65 дБ;Вага, кг - 6.4;Максимальна потужність - 750 Вт;Довжина мережевого шнура - 7 м;Тип фільтра - HEPA;Колір - Чорний;Габариты (В x Ш x Г), см - 43 x 31 x 27;]]></description>
 </offer>
-<offer id="HT35851" available="true" selling_type="r">
+<offer id="HT35851" available="false" selling_type="r">
 <name>Сушильна машина Candy BP 9N3BCX-S</name>
 <categoryId>227</categoryId>
 <portal_category_id>62702</portal_category_id>
@@ -76061,7 +76061,7 @@
 <portal_category_id>639</portal_category_id>
 <price>1040.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000170381.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000170382.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000170383.jpg</picture>
@@ -77036,7 +77036,7 @@
 <portal_category_id>64302</portal_category_id>
 <price>6000.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>9</quantity_in_stock>
+<quantity_in_stock>8</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182471.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182472.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000182473.jpg</picture>
@@ -77893,7 +77893,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[Міксер Rotex RHM256-S — це практична модель потужністю 250 Вт із п’ятьма швидкостями роботи, яка чудово підходить для збивання яєць, вершків, кремів та замішування легкого тіста. У комплекті передбачені два хромовані вінчики для збивання та насадки-гаки для тіста.Для зручності користування міксер оснащений кнопкою швидкого виймання насадок. Корпус виконаний у кольорі нержавіючої сталі, що надає пристрою стильного вигляду. На модель надається гарантія терміном 1 рік.]]></description>
 </offer>
-<offer id="HT35979" available="true" selling_type="r">
+<offer id="HT35979" available="false" selling_type="r">
 <name>Пароочисник ADLER AD-7038BO</name>
 <categoryId>272</categoryId>
 <portal_category_id>63022</portal_category_id>
@@ -83503,7 +83503,7 @@
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Наша крапельна кавоварка Philips автоматично переходить у режим підтримання температури на 30 хвилин після кожного заварювання, тож ви можете довше насолоджуватися гарячою кавою. Після цього прилад автоматично вимикається для безпеки та економії електроенергії.Готуйте більше та смакуйте довше. Скляний глечик об’ємом 1,2 л дозволяє приготувати до 10 чашок улюбленої кави. При цьому немає потреби чекати, поки приготується повний глечик.Виймайте глечик у будь-який момент без крапель завдяки функції «крапля-стоп». Насолоджуйтеся зручністю та повним контролем процесу, щоб у будь-який час зробити паузу та випити чашку свіжої кави.Індикатор рівня води дозволяє легко додати потрібну кількість води для заварювання від 1 до 10 чашок кави. Для приготування повного глечика потрібно лише 10 хвилин.]]></description>
 </offer>
-<offer id="HT36241" available="true" selling_type="r">
+<offer id="HT36241" available="false" selling_type="r">
 <name>Мікрохвильова піч Gorenje MO20E1B15 inverter</name>
 <categoryId>220</categoryId>
 <portal_category_id>605</portal_category_id>
@@ -84058,7 +84058,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[ТБ KIVI 40F9000HB: інновації в кожній деталіТелевізор KIVI 40F9000HB – це поєднання передових технологій та вишуканого дизайну, що надає користувачам виняткову якість зображення та звуку. З діагоналлю 40 дюймів та роздільною здатністю 1920 х 1080 (Full HD), цей телевізор забезпечує кришталево чисте зображення, яке пожвавлює кожен кадр. Широкоекранний формат 16:9 та частота розгортки 60 Гц роблять перегляд фільмів та телепередач по-справжньому захоплюючим.Завдяки підтримці Smart TV та операційній системі VIDAA, користувачі отримують доступ до безлічі програм та онлайн-контенту. Платформа інтуїтивно зрозуміла і проста у використанні, що робить навігацію за додатками та налаштуваннями легкою та зручною. Технологія QLED та підсвічування Direct LED забезпечують яскравість 250 кд/м2 та контрастність 1800:1, що робить зображення більш насиченим та деталізованим.Поліпшені технології зображення та звукуТелевізор KIVI 40F9000HB оснащений безліччю технологій для покращення зображення, таких як MPEG Noise reduction, Adaptive Luma Control, Flesh Tone, DI Film Mode, Max Vivid, SDR to HDR, Super Contrast Control, Blue Stretch та Color tuner. Ці функції дозволяють насолоджуватися зображенням високої якості з чіткістю та яскравістю, які задовольнять навіть найвибагливіших глядачів.Звукова система 2.0 із сумарною потужністю динаміків 20 Вт у поєднанні з Dolby Audio та Sound Surround створює об'ємний звук, що занурює в атмосферу того, що відбувається на екрані. Додаткові функції, такі як Low blue light, знижують навантаження на очі, забезпечуючи комфортний перегляд у будь-який час.Розширені функції та підключенняТелевізор KIVI 40F9000HB пропонує широкий вибір роз'ємів та бездротових комунікацій, включаючи USB, LAN (Ethernet), оптичний (цифровий), антенний вхід (RF), аудіовиход для навушників та HDMI 1.4. Підтримка Bluetooth версії 5.1, DLNA та Wi-Fi дозволяє легко підключати пристрої та обмінюватися контентом без дротів.Вбудовані тюнери DVB-T, DVB-C, DVB-T2 та аналоговий забезпечують доступ до різноманітних каналів, а функції керування голосом та автопошуку каналів спрощують взаємодію з пристроєм. Вбудована пам'ять 8 Гб та оперативна пам'ять 1 Гб дозволяють швидко та ефективно виконувати завдання.Телевізор KIVI 40F9000HB також підтримує функції телетексту, ігровий режим, HbbTV (контент інтернет-сторінок та ТБ-сигнал), HDMI-CEC та батьківський контроль. Енергоефективність класу A та споживання електроенергії 60 Вт у звичайному режимі роблять цей телевізор екологічно безпечним вибором.Комплектація включає телевізор, пульт ДК, кабель живлення, ніжки, 2 батарейки типу AAA, 4 гвинти і документацію. Стандарт кріплення VESA 200 x 200 дозволяє легко встановити телевізор на стіну. Габарити пристрою без підставки становлять 893×509х82 мм, а з підставкою – 893x561х198 мм. Вага з підставкою - 5.6 кг, що робить його компактним та зручним для розміщення в будь-якому інтер'єрі.]]></description>
 </offer>
-<offer id="HT36259" available="true" selling_type="r">
+<offer id="HT36259" available="false" selling_type="r">
 <name>Тостер Philips HD2581/00</name>
 <categoryId>288</categoryId>
 <portal_category_id>639</portal_category_id>
@@ -87034,6 +87034,252 @@
 <param name="Гарантія">36 місяців</param>
 <description><![CDATA[Пральна машина Beko BM1WFSU38033WB: інновації та надійністьПральна машина Beko BM1WFSU38033WB є поєднанням передових технологій і високої ефективності, забезпечуючи якісне прання для вашого будинку. Цей автоматичний агрегат із фронтальним завантаженням здатний справлятися з різними завданнями, від повсякденного прання до делікатного догляду за вовною та синтетикою. Максимальне завантаження 8 кг дозволяє обробляти великі обсяги білизни, що ідеально підходить для сімей з активним способом життя.Програми прання включають широкий спектр опцій, таких як "Бавовна", "Еко 40-60", "Ділікатні тканини/Шерсть/Ручне прання", "Експрес Щоденна" та "Гігієнічна+". Для любителів джинсів та темного одягу передбачені спеціальні режими, які дбайливо зберігають колір та структуру тканин. Функція StainExpert ефективно усуває складні плями, а режим прання в холодній воді дозволяє дбайливо очищати чутливі матеріали.Розумні технології для вашої зручностіПральна машина Beko BM1WFSU38033WB оснащена інверторним двигуном ProSmart, який гарантує довговічність та низький рівень шуму. Завдяки фірмовій технології AquaWave барабан об'ємом 55 літрів забезпечує дбайливе поводження з тканинами, а система Optisense автоматично регулює параметри прання в залежності від завантаження, забезпечуючи оптимальне споживання ресурсів.Енергоспоживання класу A та водоспоживання 45 літрів за цикл роблять цю модель економічною та екологічною. Управління машиною здійснюється за допомогою механічних і сенсорних елементів, включаючи дисплей з індикацією часу, що залишився, відкладений старт і можливість регулювання швидкості віджиму і температури. Усього доступно 15 програм прання, що дозволяє адаптувати процес під будь-які потреби.Безпека та захист на найвищому рівніПральна машина Beko BM1WFSU38033WB оснащена низкою захисних функцій, включаючи контроль дисбалансу, захист від протікання та блокування від дітей, що забезпечує безпеку у використанні. Рівень шуму при віджимі становить 72 дБ, що робить його комфортним для використання у будь-який час.Додаткові функції, такі як можливість дозавантаження білизни та обробка пором, роблять цю модель ще більш універсальною. Завдяки технології SteamCure, паровий догляд дозволяє ефективніше видаляти забруднення та алергени, забезпечуючи гігієнічну чистоту вашої білизни.Пральна машина Beko BM1WFSU38033WB - це надійний помічник у вашому будинку, який поєднує в собі сучасні технології та зручність використання, забезпечуючи бездоганну якість прання та турботу про ваші речі.]]></description>
 </offer>
+<offer id="HT36368" available="true" selling_type="r">
+<name>Пральна машина Beko BM3WFSU47215 WB (7 кг, інвертор, пар, чорн.люк)</name>
+<categoryId>229</categoryId>
+<portal_category_id>603</portal_category_id>
+<price>18000.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>15</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000181961.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000181962.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000181963.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000181964.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000181965.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000181966.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000181967.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000181968.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000181969.jpg</picture>
+<vendor>Beko</vendor>
+<vendorCode>HT36368</vendorCode>
+<country>Румунія</country>
+<param name="Колір">Білий</param>
+<param name="Ширина">60 см</param>
+<param name="Керування">Електронне</param>
+<param name="Клас енергоспоживання">А</param>
+<param name="Споживання води">43 л</param>
+<param name="Макс. швидкість віджиму">1200 об/хв</param>
+<param name="Максимальне завантаження">7 кг</param>
+<param name="Тип пральної машини">Фронтальна</param>
+<param name="Двигун">Інверторний</param>
+<param name="Функція &amp;quot">Старт/Пауза</param>
+<param name="Вага">62 кг</param>
+<param name="Висота">84.5 см</param>
+<param name="Глибина">46,8 см</param>
+<param name="Гарантія">36 місяців</param>
+<description><![CDATA[Новий формат прання: із турботою про тканини та сяючий колірПрання стало ще більш якісним та делікатним з новими технологіями, які дбають про ваш одяг від структури волокон до збереження насиченого яскравого кольору. А це гарантія приголомшливої чистоти та бездоганного вигляду речей навіть через довгий час після покупки.Повністю індивідуальний підхід до видалення плям та захисту від зминання тканин забезпечить ідеальне прання. Довірте Beko професійний та дбайливий догляд за всіма речами з вашого гардеробу – без попереднього замочування та занепокоєнь.Цифровий дисплейКонтролюйте більше налаштувань для прання, точно адаптованого для кожного завантаження від віджиму та температури води до економії ресурсів, відкладеного старту та відстеження часу до кінця роботи кожної програми. Прайте так як зручно та насолоджуйтесь приголомшливий чистотою!Працює розумно. Стирає напрочуд дбайливоЗ Beko більше не доведеться обробляти плями. Технологія StainExpert™ підбере спеціальний алгоритм прання для видалення до 24 типів плям, включаючи сліди від трави, вина та шоколаду. Підбираючи один із трьох рівнів інтенсивності прання з різною температурою та алгоритмом обертання барабана, ця пральна машина забезпечить ідеальну чистоту без найменшого пошкодження та деформації тканин.AquaWave®: унікальний дизайн для піклування про тканиниБережне прання починається з барабана, який став ще делікатнішим до одягу завдяки конструкції AquaWave®. Особливий хвилеподібний рельєф мінімізував тертя, дозволяючи одягу ніби ковзати поверхнею для прання без пошкодження.Так навіть найвишуканіші речі з вашого гардеробу отримають дбайливий індивідуальний догляд, зберігаючи свій приголомшливий вид прання за пранням.ColdWash: чисто навіть у холодній водіОдяг збереже яскравий насичений колір і чудову форму з програмою ColdWash, що чудово стирає навіть у холодній воді. Так речі не втратять свій вигляд, а ви зможете економити бюджет щодня завдяки енергоефективному пранню без нагріву води.ProSmart ™ Inverter: довговічний двигун з 10-річною гарантієюІнверторний двигун ProSmart™ працює ще ефективніше завдяки повній відсутності щіток та тертя. Так вдалося досягти максимальної надійності і довговічності, одночасно значно скоротивши витрати енергії і мінімізувавши шум для прання, яке не порушує атмосферу спокою.Така надійність значно знижує ризик пошкоджень, а ви отримаєте більше впевненості із додатковою гарантією на двигун – 10 років.Експрес-14 хвилин: легко прати щодняСтирайте швидко, коли одяг не потребує тривалих циклів та складного видалення плям.Всього за 14 хвилин прання ви зможете освіжити будь-які повсякденні речі, які одягали лише один раз. Ідеально для завантажень до 2 кг – а це до 20 футболок за один сеанс прання. Заощаджуйте ресурси та час із циклом, який чудово освіжає одяг, прибираючи запахи та невелике зминання.Hygiene+: прання без алергенівСтирайте речі із програмою Hygiene+, сертифікованою для захисту від алергенів. Використовуючи високу температуру води і додаючи інтенсивне полоскання, вона змиє всі забруднення та залишки миючих засобів на одязі, залишаючи її дійсно гігієнічно чистою.Якість прання підтверджено сертифікатом Allergy UK за видалення всіх подразників, які можуть спричинити почервоніння шкіри та алергію.Технологія SteamCureДелікатна сила пари для різних завданьПара значно підвищує якість прання, глибоко очищаючи та відновлюючи еластичність волокон на різних етапах. На початку циклу він руйнує забруднення зсередини, щоб вони краще відмиралися. Наприкінці – м'яко розгладжує та відновлює форму волокон, щоб прибрати велике зминання.Забудьте про залишкові плями і будь-яке складне прасування, насолоджуючись чудовим виглядом речей, багато з яких можна буде відразу одягати після прання.IronFast®: ідеально чисто – без складокДодайте функцію IronFast®, коли не бажаєте довго прасувати одяг.Технологія задіює воду та пару для розгладження навіть найбільшого зминання, щоб ви могли забути про складне прасування сорочок, постільної білизни та футболок, які раніше доводилося довго відпарювати.Забудьте про складнощі з функцією, яка позбавляє звичайної рутини.logoЗавдяки технології EnergySpin значно підвищується ефективність розчинення порошку для видалення всіх забруднень. Забезпечуючи особливе обертання барабана, вона задіяє кожен мілілітр та розкриє всю ефективність миючих засобів для кращих результатів прання на щоденних програмах.Стирайте швидше та економніше кожен день, насолоджуючись ідеальною чистотою та свіжістю без перевитрати ресурсів.]]></description>
+</offer>
+<offer id="HT36369" available="true" selling_type="r">
+<name>Пральна машина Beko BM3WFU46215WB (6 кг, інвертор, чорн. люк)</name>
+<categoryId>229</categoryId>
+<portal_category_id>603</portal_category_id>
+<price>17238.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>38</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191671.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191672.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191673.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191674.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191675.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191676.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191677.jpg</picture>
+<vendor>Beko</vendor>
+<vendorCode>HT36369</vendorCode>
+<country>Румунія</country>
+<param name="Колір">Білий</param>
+<param name="Ширина">60 см</param>
+<param name="Керування">Електронне</param>
+<param name="Клас енергоспоживання">В</param>
+<param name="Споживання води">43 л</param>
+<param name="Макс. швидкість віджиму">1200 об/хв</param>
+<param name="Максимальне завантаження">6 кг</param>
+<param name="Тип пральної машини">Фронтальна</param>
+<param name="Двигун">Інверторний</param>
+<param name="Вага">55 кг</param>
+<param name="Висота">84.5 см</param>
+<param name="Глибина">44,6 см</param>
+<param name="Гарантія">36 місяців</param>
+<description><![CDATA[Новий формат прання: із турботою про тканини та сяючий колірПрання стало ще більш якісним та делікатним з новими технологіями, які дбають про ваш одяг від структури волокон до збереження насиченого яскравого кольору. А це гарантія приголомшливої чистоти та бездоганного вигляду речей навіть через довгий час після покупки.Повністю індивідуальний підхід до видалення плям та захисту від зминання тканин забезпечить ідеальне прання. Довірте Beko професійний та дбайливий догляд за всіма речами з вашого гардеробу – без попереднього замочування та занепокоєнь.Цифровий дисплейКонтролюйте більше налаштувань для прання, точно адаптованого для кожного завантаження від віджиму та температури води до економії ресурсів, відкладеного старту та відстеження часу до кінця роботи кожної програми. Прайте так як зручно та насолоджуйтесь приголомшливий чистотою!Працює розумно. Стирає напрочуд дбайливоЗ Beko більше не доведеться обробляти плями. Технологія StainExpert™ підбере спеціальний алгоритм прання для видалення до 24 типів плям, включаючи сліди від трави, вина та шоколаду. Підбираючи один із трьох рівнів інтенсивності прання з різною температурою та алгоритмом обертання барабана, ця пральна машина забезпечить ідеальну чистоту без найменшого пошкодження та деформації тканин.AquaWave®: унікальний дизайн для піклування про тканиниБережне прання починається з барабана, який став ще делікатнішим до одягу завдяки конструкції AquaWave®. Особливий хвилеподібний рельєф мінімізував тертя, дозволяючи одягу ніби ковзати поверхнею для прання без пошкодження.Так навіть найвишуканіші речі з вашого гардеробу отримають дбайливий індивідуальний догляд, зберігаючи свій приголомшливий вид прання за пранням.ColdWash: чисто навіть у холодній водіОдяг збереже яскравий насичений колір і чудову форму з програмою ColdWash, що чудово стирає навіть у холодній воді. Так речі не втратять свій вигляд, а ви зможете економити бюджет щодня завдяки енергоефективному пранню без нагріву води.ProSmart ™ Inverter: довговічний двигун з 10-річною гарантієюІнверторний двигун ProSmart™ працює ще ефективніше завдяки повній відсутності щіток та тертя. Так вдалося досягти максимальної надійності і довговічності, одночасно значно скоротивши витрати енергії і мінімізувавши шум для прання, яке не порушує атмосферу спокою.Така надійність значно знижує ризик пошкоджень, а ви отримаєте більше впевненості із додатковою гарантією на двигун – 10 років.Експрес-14 хвилин: легко прати щодняСтирайте швидко, коли одяг не потребує тривалих циклів та складного видалення плям.Всього за 14 хвилин прання ви зможете освіжити будь-які повсякденні речі, які одягали лише один раз. Ідеально для завантажень до 2 кг – а це до 20 футболок за один сеанс прання. Заощаджуйте ресурси та час із циклом, який чудово освіжає одяг, прибираючи запахи та невелике зминання.Hygiene+: прання без алергенівСтирайте речі із програмою Hygiene+, сертифікованою для захисту від алергенів. Використовуючи високу температуру води і додаючи інтенсивне полоскання, вона змиє всі забруднення та залишки миючих засобів на одязі, залишаючи її дійсно гігієнічно чистою.Якість прання підтверджено сертифікатом Allergy UK за видалення всіх подразників, які можуть спричинити почервоніння шкіри та алергію.]]></description>
+</offer>
+<offer id="HT36370" available="true" selling_type="r">
+<name>Пральна машина Beko BM3WFU48215WPAA (8 кг, інвертор, граф. люк)</name>
+<categoryId>229</categoryId>
+<portal_category_id>603</portal_category_id>
+<price>21338.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>10</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191711.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191712.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191713.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191714.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191715.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191716.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191717.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191718.jpg</picture>
+<vendor>Beko</vendor>
+<vendorCode>HT36370</vendorCode>
+<country>Румунія</country>
+<param name="Колір">Білий</param>
+<param name="Ширина">60 см</param>
+<param name="Керування">Електронне</param>
+<param name="Клас енергоспоживання">А</param>
+<param name="Споживання води">43 л</param>
+<param name="Макс. швидкість віджиму">1200 об/хв</param>
+<param name="Максимальне завантаження">8 кг</param>
+<param name="Тип пральної машини">Фронтальна</param>
+<param name="Двигун">Інверторний</param>
+<param name="Вага">62 кг</param>
+<param name="Висота">84.5 см</param>
+<param name="Глибина">49,6 см</param>
+<param name="Гарантія">36 місяців</param>
+<description><![CDATA[Пральна машина BEKO BM3WFU48215WPAA: надійність та інноваціїПральна машина BEKO BM3WFU48215WPAA є поєднанням передових технологій і надійності, що робить її ідеальним вибором для сучасного будинку. Це автоматична пральна машина з фронтальним завантаженням, що забезпечує максимальне завантаження до 8 кг, що дозволяє ефективно справлятися з великими обсягами прання. Завдяки високій швидкості віджиму в 1200 об./хв, білизна залишається мінімально вологою, скорочуючи час її сушіння.Ця модель відноситься до класу енергоспоживання A, що гарантує економічне використання електроенергії, знижуючи витрати на комунальні послуги. Бак машини виконаний з нержавіючої сталі, що забезпечує довговічність та стійкість до корозії. Інверторний тип двигуна ProSmart Inverter забезпечує тиху роботу та підвищену ефективність, продовжуючи термін служби пристрою.Технології та функціїПральна машина BEKO BM3WFU48215WPAA оснащена 15 програмами прання, включаючи такі спеціалізовані програми, як Hygiene+, SteamTherapy та Stain, які забезпечують ретельне очищення та догляд за речами. Функція SteamTherapy дозволяє видаляти запахи та розгладжувати тканини, мінімізуючи необхідність використання праски. Програма Hygiene+ гарантує знищення бактерій та алергенів, що особливо важливо для сімей з дітьми або людей із чутливою шкірою.Функції управління включають механічне і сенсорне управління, дисплей, відкладений старт, регулювання швидкості віджиму і температури, а також індикацію часу, що залишився. Ці можливості роблять експлуатацію машини максимально зручною та адаптованою під індивідуальні потреби користувача.Безпека та додаткові можливостіBEKO BM3WFU48215WPAA забезпечує високий рівень безпеки завдяки функціям захисту від дисбалансу, протікання та дітей. Додаткові функції включають самоочищення барабана та прання з парою, що сприяє підтримці гігієни та чистоти всередині пристрою.Фірмові технології, такі як AddXtra, дозволяють додавати речі в барабан навіть після початку прання, що особливо зручно при випадковому пропусканні будь-якої речі. Об'єм барабана складає 49 літрів, що забезпечує достатній простір для вільного переміщення білизни під час прання.Пральна машина виконана в класичному білому кольорі і має розміри 84.5 см заввишки, 60 см завширшки і 49.6 см завглибшки, що дозволяє легко інтегрувати її в будь-яку кухню або пральню. Вага пристрою становить 62 кг, що говорить про його стійкість та надійність. Гарантія на машину складає 36 місяців, що підтверджує впевненість виробника в якості та довговічності своєї продукції.]]></description>
+</offer>
+<offer id="HT36371" available="true" selling_type="r">
+<name>Пральна машина Beko BM3WFU48415APAA2 (8 кг, інвертор, пар, графіт)</name>
+<categoryId>229</categoryId>
+<portal_category_id>603</portal_category_id>
+<price>21550.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>10</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191721.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191722.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191723.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191724.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191725.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191726.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191727.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191728.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191729.jpg</picture>
+<vendor>Beko</vendor>
+<vendorCode>HT36371</vendorCode>
+<country>Румунія</country>
+<param name="Колір">Графіт</param>
+<param name="Ширина">60 см</param>
+<param name="Керування">Електронне</param>
+<param name="Клас енергоспоживання">А</param>
+<param name="Споживання води">49 л</param>
+<param name="Макс. швидкість віджиму">1400 об/хв</param>
+<param name="Максимальне завантаження">8 кг</param>
+<param name="Тип пральної машини">Фронтальна</param>
+<param name="Двигун">Інверторний</param>
+<param name="Кількість програм">15</param>
+<param name="Вага">62 кг</param>
+<param name="Висота">84.5 см</param>
+<param name="Глибина">49,6 см</param>
+<param name="Гарантія">36 місяців</param>
+<description><![CDATA[Пральна машина Beko BM3WFU48415APAA2: інновації в кожній деталіПральна машина Beko BM3WFU48415APAA2 є сучасним рішенням для ефективного догляду за одягом. Це автоматична пральна машина з фронтальним завантаженням, яка поєднує передові технології та зручність у використанні. Її елегантний чорний колір і компактні розміри (84.5 см заввишки, 60 см завширшки і 49.6 см завглибшки) роблять її ідеальним вибором для будь-якого інтер'єру.Ця модель підтримує максимальне завантаження до 8 кг білизни, забезпечуючи оптимальне прання навіть для великих сімей. Пральна машина оснащена інверторним двигуном, який гарантує високу продуктивність та надійність за мінімального енергоспоживання. Енергоефективність класу A підтверджує економічність пристрою, а клас віджиму B із залишковим вмістом вологи 45-53% забезпечує швидке висихання білизни.Програми та функції: різноманітність для кожної тканиниBeko BM3WFU48415APAA2 пропонує 15 програм прання, включаючи такі популярні режими, як Бавовна, Еко 40-63, Синтетика, Експрес Щоденне/Експрес 14 хв, Ніжні тканини/Шерсть/Ручне прання, Темний одяг/Джинси, Мікс та інші. Ці програми дозволяють зберегти яскравість та структуру тканин, забезпечуючи ніжний догляд за делікатними матеріалами.Пральна машина також оснащена функцією SteamTherapy, яка допомагає розгладити складки та освіжити одяг за допомогою пари. Для досягнення максимальної гігієнічності передбачено програму Hygiene+, яка ефективно усуває бактерії та алергени. Фірмова технологія AddXtra дозволяє дозавантажити білизну навіть після початку циклу прання, що робить процес більш гнучким та зручним.Управління та безпека: простота та надійністьПральна машина Beko BM3WFU48415APAA2 оснащена механічним та сенсорним керуванням з дисплеєм, що забезпечує інтуїтивно зрозумілу взаємодію з пристроєм. Функція відкладеного старту дозволяє вибрати зручний для початку прання, а регулювання швидкості віджиму дає можливість адаптувати процес під різні типи тканин.Рівень шуму при віджимі складає всього 76 дБ, що забезпечує комфортне використання машини навіть у вечірній час. Додаткові функції включають оптимізацію споживання води та електроенергії, самоочищення барабана та захист від дітей, протікання та дисбалансу. Об'єм барабана 49 літрів дозволяє ефективно справлятися з великими обсягами білизни.Пральна машина Beko BM3WFU48415APAA2 — це надійний помічник у будинку, який поєднує передові технології, елегантний дизайн і високу продуктивність. Гарантія на 36 місяців підкреслює впевненість виробника в якості та довговічності своєї продукції.]]></description>
+</offer>
+<offer id="HT36372" available="true" selling_type="r">
+<name>Телевізор HISENSE 65E8S Smart TV</name>
+<categoryId>295</categoryId>
+<portal_category_id>6370714</portal_category_id>
+<price>46057.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>3</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191661.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191662.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191663.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191664.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191665.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191666.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191667.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191668.jpg</picture>
+<vendor>Hisense</vendor>
+<vendorCode>HT36372</vendorCode>
+<country>Китай</country>
+<param name="Колір">Чорний</param>
+<param name="Bluetooth">Так</param>
+<param name="Wi-Fi">Так</param>
+<param name="Операційна система">VIDAA</param>
+<param name="Роздільна здатність відео">4K (3840 x 2160)</param>
+<param name="DVB-C">Так</param>
+<param name="DVB-S2">Так</param>
+<param name="DVB-T2">Так</param>
+<param name="Потужність динаміків">40 Вт</param>
+<param name="Тип тюнера">Цифровий</param>
+<param name="DVB-T">Так</param>
+<param name="Аналоговий">Так</param>
+<param name="Частота розгортки екрана">144 Гц</param>
+<param name="DVB-S">Так</param>
+<param name="Діагональ екрана">65&quot;</param>
+<param name="Вага">18,2 кг</param>
+<param name="Висота">83.7 см</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Hi-QLED MiniLEDПриголомшлива реалістичність та барвистістьЗображення набуває нового бачення з технологією Hi-QLED MiniLED у телевізорах Hisense. Забезпечуючи ще більш точне керування кольором і яскравістю на рівні тисячі мінісвітлодіодів, вона розкриє неперевершений контраст і покращене промальовування найтонших деталей, які більше не загубляться в глибині яскравого світла або в тіні. Насолоджуйтесь справжньою візуальною гармонією сцена за сценою.Game Mode, 144 ГцЖиве занурення у місіїВідкрийте для себе новий формат грандіозного геймінгу з режимом Game Mode, що підтримує стандартну частоту оновлення до 144 Гц, технологію VRR та режим низької затримки для миттєвої реакції у найзапекліших подіях. Скрушуйте будь-якого супротивника без зволікань і здобуйте більше тріумфальних перемог, як би не згущалися подій. Аналізуючи всі рухи з AI, інтелектуальний режим Game Mode у Hisense зробить віртуальний ігровий простір справді реалістичним та живим у кожному запеклому моменті.Більше звуку із сабвуферомЗахоплююче вибухові басиПерегляд стане справді вражаючим разом із вбудованим сабвуфером прямо в телевізор для відтворення потужних басів. Відчуйте всю міць просторового глибокого звуку – такого ж об'ємного та виразного, як у кінозалі, лише без зовнішньої акустики. Hisense дарує справжнє занурення, переглядаєте ви фільми, спортивні трансляції або перемагаєте у місіях.photoHi-View AI EngineПотужний AI-інтелект для найкращих емоційОтримайте більше задоволення, що б ви не переглядали, завдяки потужному інтелектуальному процесору Hi-View AI Engine. Точно аналізуючи будь-який контент на екрані, він забезпечить гнучку оптимізацію зображення та якості звуку, щоб ви побачили більше деталей і почули всі відтінки звучання від ледве вловимого подиху вітру до вигуків гравців у спортивних трансляціях. Інтелектуальне налаштування яскравості, контрасту та кольору зробить кожне зображення дійсно оживаючим, щоб ви могли поринути у кожну сцену.Hi-QLED ColourКінематографічна якість кольоруКолір отримає більше глибини і розкриється в тонких відтінках з технологією Hi-QLED Colour. Розгляньте найтонші переходи світла і тіні, живі текстури та відтінки шкіри у будь-якому освітленні, а також приголомшливі фарби природи, яка буде виглядати напрочуд з Hisense.Total HDRНезмінно найкраща барвистість – для будь-якого контентуОтримайте більше емоцій, що б ви не переглядали завдяки підтримці Total HDR в Hisense. Сумісність з усіма відомими форматами HDR забезпечить неймовірний контраст у будь-яких потокових фільмах, стрімінгових серіалах та спортивних трансляціях з автоматичним посиленням яскравості та деталізації. Розгляньте більше і поринайте в живу атмосферу кожної драматичної сцени з сяючими світлими ділянками та насиченою чорною – без ручного налаштування в меню.Поліпшення до HDRНизько найкращий контраст з AIЗображення оживе в суперконтрасті з технологією інтелектуальної оптимізації HDR, що гнучко керує кольором. Динамічно підсилюючи чистоту кольору в світлих ділянках, і підвищуючи глибину і насиченість у темних, вона змусить будь-який контент перетворитися на приголомшливу барвистість, переглядаєте ви нові фільми або улюблену класику.Dolby Vision AtmosВраження Dolby для суперпереглядуHisense дарує новий досвід перегляду кінематографічного класу за допомогою провідної технології Dolby в індустрії кіно. Зображення Dolby Vision HDR та звук Dolby Atmos вражають живим реалізмом у кожній драматичній сцені та у найтонших відтінках звучання, що занурюють у саме дійство. Переглядайте як у кінозалі для вражень як у житті.Filmmaker ModeЗберігає оригінальне баченняПереглядайте фільми так, як вони були задумані режисером – без додаткової обробки з AI. Просто активуйте режим Filmmaker Mode, і він відключить всю оптимізацію палітри кольорів, частоти кадрів, співвідношення сторін і звучання, щоб ви відчули оригінальне бачення автора у всіх кольорах, текстурах і найменших рухах.AI датчик світлаЗавжди ідеальна барвистістьНасолоджуйтеся незмінно найкращим переглядом, як би не змінювалися умови освітлення. Завдяки AI датчику освітлення телевізор точно оптимізує колірний тон та яскравість екрану для комфортного та одночасно насиченого зображення як в оточенні яскравого світла, так і у темряві увечері.AI покращення зображенняНалаштовано штучним інтелектомHisense працює подібно до справжнього режисера, промальовуючи кожну сцену в її ідеальних кольорах та деталях. Задіявши розумні алгоритми на базі AI, він згладить рухи, посилить глибину і промалює більше кольорів, наче вдихаючи життя в кожний драматичний кадр. Щоб ви не переглядали, цей телевізор автоматично налаштує яскравість, контраст, насиченість кольору і деталізацію, щоб створити справжнє занурення.4K AI UpscalerЯкість 4K для будь-якого контентуЗанурюйтесь у світ 4K з Hisense, насолоджуючись живою реалістичністю сцен без розмиття та шуму. Навчений розпізнавати будь-які об'єкти на базі глибинного навчання, цей телевізор промальовує більше текстур, контурів та деталей у 4K-дозвіл, щоб ви побачили більше чи то класичне кіно, чи великі спортивні ігри.AI Sport ModeПереглядайте з перших трибунВболівайте немов із трибун стадіону завдяки режиму AI Sport Mode у Hisense, що створює ефект грандіозної гри. Автоматично визначаючи спортивний контент, він налаштує зображення та аудіо на базі AI, щоб подарувати живі враження від перегляду. Почуйте всі вигуки гравців, відстежте всі рухи та найгостріші передачі та поринайте в одну атмосферу з іншими вболівальниками на стадіоні завдяки чистому живому звучанню.AI ScenarioТочно визначає жанр та контентHisense сам визначить тип контенту, будь то фільми, концерти, спортивні трансляції, ігри чи мультфільми, щоб підібрати оптимальну якість звуку та зображення для кращих емоцій. Забудьте про постійне налаштування. Технологія AI Scenario виконає всю роботу за вас, пожвавлюючи все, що ви дивитеся.AMD FreeSync PremiumПовна концентрація на гріЗабудьте про найменші розмиття, відстежуючи всі маневри супротивника, як би не згущувалися події. Технологія AMD FreeSync Premium забезпечить експертне згладжування динамічно синхронізуючи частоту графічного процесора з частотою телевізора. В результаті, ви побачите всі деталі навіть у екстремальних епізодах гри з повною підтримкою HDR для суперемоцій.Ігрова панельВаш ключ до перемогиГрайте з найкращими налаштуваннями в кожній ігровій місії, легко перемикаючи HDR, частоту кадрів, VRR, співвідношення сторін, яскравість та насиченість чорного для ідеального огляду та миттєвої реакції. Запускайте ігрову панель, не відриваючись від геймінгу, та змінюйте налаштування для найшвидших перемог.AI SoundЕкспертне настроювання звучанняПочуйте чисті діалоги, захоплюючу насиченість всіх ефектів у грі та приголомшливу тональність музики на різних частотах з технологією AI Sound, що адаптує аудіо для будь-якого контенту. Автоматично налаштовуючи динаміку, глибину та просторовість звуку, вона подарує саме ті живі емоції, які ви чекаєте від будь-якого контенту.Сертифікація DevialetЗвучання преміум класуЗвук набуває нової якості з аудіосистемою Phantom від Devialet. Завдяки покращеному калібруванню вона звучить чудово в Hisense, а в комплексі з технологією Dolby Atmos і розумною оптимізацією аудіо на базі AI ви почуєте більше і насолодитеся справжньою гармонією звуку, підтвердженою сертифікацією Devialet.Hi-ConcertoФеєрія звуку з ТВ та саундбаромПідключайте звукову панель – технологія Hi-Concerto точно синхронізує всі джерела аудіо, щоб ви поринали в ідеальну звукову картину без налаштування та нагромадження дротів.VIDAAБільше розваг – без пошукуПерегляньте все від глобальних до локальних розваг в одній колекції VIDAA, яка підбере для вас найкращий контент. Задіявши потужні алгоритми AI, інтелектуальна система точно проаналізує ваші звички у перегляді, щоб зібрати найкращу добірку фільмів, серіалів та шоу для мінімального пошуку.Голосове керуванняБільше комфорту – мінімум управлінняЗвертайтеся голосом замість того, щоб довго вводити запити за допомогою пульта, коли потрібно швидко переглянути погоду, поринути у перегляд улюбленого фільму або дізнатися про рейтинг команди в турнірній таблиці. VIDAA Voice забезпечить більше зручності та збереже конфіденційність всіх ваших даних для повністю безпечної взаємодії.Google Home + Apple Home + MatterШирока інтеграція IoTЗберіть усі пристрої Розумного будинку на одному екрані телевізора Hisense, сумісного з будь-якими платформами. Керуйте Google Home та Apple Home у будь-яку хвилину, включайте режим Кіно, щоб перегляд запускався автоматично і ділитесь музикою через Matter, яка зазвучить з усіх сумісних пристроїв – у будь-якій кімнаті.Акустичні системи HisenseІдеальний звук для будь-яких приміщеньВибирайте свій ідеальний саундбар для вітальні – Hisense забезпечить бездоганне аудіо завдяки технологіям Hi-Concerto, Room Fitting Tuning, EzPlay та режиму ТБ.Деякі технології можуть не підтримуватися для різних моделей телевізорів та саундбарів Hisense. Дізнайтеся деталі перед покупкоюМонолітний дизайнБездоганний – з будь-якого бокуМонолітний та елегантний телевізор Hisense виглядає приголомшливо, фіксуєте ви його на стіні або розміщаєте горизонтально на тумбі. Цілісний корпус чудово вписується в будь-якому оточенні, а витончена підставка з прокладкою всіх підключень чудово сховає дроти від огляду.]]></description>
+</offer>
+<offer id="HT36373" available="true" selling_type="r">
+<name>Телевізор Samsung UE43M70HAUXUA</name>
+<categoryId>295</categoryId>
+<portal_category_id>6370714</portal_category_id>
+<price>19800.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>5</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186381.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186382.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186383.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186384.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186385.jpg</picture>
+<vendor>Samsung</vendor>
+<vendorCode>HT36373</vendorCode>
+<country>Угорщина</country>
+<param name="Колір">Чорний</param>
+<param name="Ширина">95,5 см</param>
+<param name="Bluetooth">Так</param>
+<param name="Wi-Fi">Так</param>
+<param name="Операційна система">Tizen</param>
+<param name="Роздільна здатність відео">4K (3840 x 2160)</param>
+<param name="DVB-C">Так</param>
+<param name="DVB-S2">Так</param>
+<param name="DVB-T2">Так</param>
+<param name="SmartTV">Так</param>
+<param name="Потужність динаміків">20 Вт</param>
+<param name="DVB-T">Так</param>
+<param name="Аналоговий">Так</param>
+<param name="Частота розгортки екрана">50 Гц</param>
+<param name="Діагональ екрана">43&quot;</param>
+<param name="Вага">9,4 кг</param>
+<param name="Висота">56 см</param>
+<param name="Глибина">17 мм</param>
+<param name="Гарантія">12 міс</param>
+<description><![CDATA[Samsung UE43M70HAUXUA — компактний 43-дюймовий 4K-телевізор із технологією Mini LED та інтелектуальними функціями Samsung Vision AI, створений для максимальної деталізації зображення у сучасній вітальні чи спальні.Завдяки підсвічуванню Mini LED та системі локального затемнення Supreme Mini LED Dimming екран відтворює глибокий чорний колір і високу яскравість без засвітів. Підтримка стандарту HDR10+ та технології 4K Upscaling робить кольори насиченими, а контури чіткими навіть під час перегляду контенту нижчої роздільної здатності. Для поціновувачів кіно передбачено режим Filmmaker Mode, який зберігає оригінальну передачу кольорів і частоту кадрів за задумом режисера.Об'ємний звук забезпечує аудіосистема потужністю 20 Вт із технологією OTS Lite, що відстежує переміщення об'єктів на екрані, а функція Adaptive Sound автоматично підлаштовує звучання під тип сцени. За потреби телевізор легко синхронізується із саундбарами Samsung через технологію Q-Symphony.Швидка операційна система Tizen відкриває миттєвий доступ до популярних стримінгових сервісів, бездротової трансляції через Apple AirPlay 2 та Google Cast, а також хмарного геймінгу у Gaming Hub. Режим низької затримки ALLM і змінна частота оновлення VRR роблять ігровий процес плавним, а тонкий безрамковий корпус гармонійно доповнює будь-який інтер'єр.• Бездоганна контрастність із Mini LED: Технологія локального затемнення Supreme Mini LED Dimming точно керує підсвічуванням, забезпечуючи глибокий чорний колір та яскраві світлі ділянки без ореолів.• Реалістична 4K-картинка: Підтримка стандарту HDR10+ розкриває найдрібніші деталі в темних і світлих сценах, а технологія 4K Upscaling покращує якість відео нижчої роздільної здатності до рівня Ultra HD.• Кінематографічний досвід: Режим Filmmaker Mode вимикає зайву постобробку зображення, передаючи фільми саме так, як їх задумав режисер.• Динамічний звук навколо вас: Аудіосистема потужністю 20 Вт із технологією OTS Lite (Object Tracking Sound) створює ефект руху звуку слідом за об’єктами на екрані, а Adaptive Sound оптимізує звучання під кожен тип контенту.• Синхронізація із саундбаром: Функція Q-Symphony дозволяє динамікам телевізора та саундбара Samsung працювати одночасно, формуючи насичену звукову сцену.• Швидка платформа Tizen та зручне підключення: Зручний доступ до Netflix, YouTube, Megogo та інших сервісів, миттєва трансляція контенту зі смартфона через Apple AirPlay 2 і Google Cast.• Комфортний геймінг: Підтримка хмарного сервісу Gaming Hub, режиму автоматичної низької затримки (ALLM) та змінної частоти оновлення (VRR) для плавного ігрового процесу.]]></description>
+</offer>
+<offer id="HT36374" available="true" selling_type="r">
+<name>Телевізор TCL 55T69C</name>
+<categoryId>295</categoryId>
+<portal_category_id>6370714</portal_category_id>
+<price>24582.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>2</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191651.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191652.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191653.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191654.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191655.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000191656.jpg</picture>
+<vendor>TCL</vendor>
+<vendorCode>HT36374</vendorCode>
+<country>Китай</country>
+<param name="Колір">Чорний</param>
+<param name="Bluetooth">Так</param>
+<param name="Wi-Fi">Так</param>
+<param name="Об&apos;єм оперативної пам&apos;яті">2 Гб</param>
+<param name="Операційна система">Google TV</param>
+<param name="Роздільна здатність відео">4K (3840 x 2160)</param>
+<param name="DVB-C">Так</param>
+<param name="DVB-S2">Так</param>
+<param name="DVB-T2">Так</param>
+<param name="SmartTV">Так</param>
+<param name="Потужність динаміків">20 Вт</param>
+<param name="Аналоговий">Так</param>
+<param name="Частота розгортки екрана">60 Гц</param>
+<param name="Вбудована пам&apos;ять">2 Гб</param>
+<param name="Діагональ екрана">55&quot;</param>
+<param name="Вага">9,7 кг</param>
+<param name="Висота">71 см</param>
+<param name="Глибина">10 см</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Бренд - TCL;Функції (Додатково) - Google Assistant, Upscaling;Технології - HDR10+;Об'ємне звучання - DTS Virtual: X, Dolby Atmos; Bluetooth, Ethernet, Wi-Fi, Підтримка Chromecast, Підтримка Miracast; Управління - Управління голосом, Управління зі смартфонів; (3840x2160);Кількість динаміків - 2 шт;Покриття екрану - Глянцеве;Сумарна потужність динаміків - 20 Вт;Колір корпусу - Чорний;Тип телевізора - QLED; Підтримка HDR - Так; (цифровий); Габарити без підставки, мм - 1224 x 708 x 70; Габарити з підставкою, мм - 1224 x 763 x 274; Кріплення на стіну VESA - 300х300 мм;]]></description>
+</offer>
 <offer id="HT4815" available="true" selling_type="r">
 <name>Бутербродниця Rotex RSM110-W</name>
 <categoryId>293</categoryId>
@@ -87554,7 +87800,7 @@
 <portal_category_id>63005</portal_category_id>
 <price>2100.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>3</quantity_in_stock>
+<quantity_in_stock>2</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_e432e777-5478-11e8-b5a4-8c89a59571bd.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000000772_10934310.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000000772_3157120.jpg</picture>
