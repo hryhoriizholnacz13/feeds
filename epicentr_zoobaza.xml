@@ -54387,6 +54387,14 @@
 <param paramcode="13139" name="Вид іграшки" valuecode="2a07623e9d23e54d997185f4d36b4f03">тварини</param>
 <param paramcode="13140" name="Вікова категорія" valuecode="fd69adc59b1bd76ce6a41a2e462bc24c">дорослі</param>
 <param paramcode="13168" name="Матеріал" valuecode="e6c5fb2e9a384d48d8f0e22642418751">текстиль</param>
+<param paramcode="13179" name="Живлення" valuecode="d659f2d1d11d86fd1ccbfbc2ee9e38a9">відсутнє</param>
+<param paramcode="13210" name="Ароматизована" valuecode="0529b7ce7400bb27634a8cd64d08f3ea">так</param>
+<param paramcode="13212" name="Світиться у темряві" valuecode="4c93bb1f7bcfc6041d8252f99a8486ff">ні</param>
+<param paramcode="13213" name="Пищалка / Дзвіночок" valuecode="3c7ea78794afdd5956906d332fe87f30">ні</param>
+<param paramcode="13238" name="Наявність кігтеточки" valuecode="67f0ff01c93d87f64c7cbe1368022c91">ні</param>
+<param paramcode="13242" name="З пір&apos;ям" valuecode="dde69e0e8211d567b6fef71a5beb4a3a">ні</param>
+<param paramcode="13246" name="Для самостійної гри" valuecode="381b2deb7c7af46e19ce95a9cf6f7735">ні</param>
+<param paramcode="13254" name="Можливість використання ласощів" valuecode="6e7be158b5c39a2a88e0822dd6fae02a">ні</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[170]]></param>
@@ -54413,6 +54421,14 @@
 <param paramcode="13139" name="Вид іграшки" valuecode="2a07623e9d23e54d997185f4d36b4f03">тварини</param>
 <param paramcode="13140" name="Вікова категорія" valuecode="fd69adc59b1bd76ce6a41a2e462bc24c">дорослі</param>
 <param paramcode="13168" name="Матеріал" valuecode="e6c5fb2e9a384d48d8f0e22642418751">текстиль</param>
+<param paramcode="13179" name="Живлення" valuecode="d659f2d1d11d86fd1ccbfbc2ee9e38a9">відсутнє</param>
+<param paramcode="13210" name="Ароматизована" valuecode="0529b7ce7400bb27634a8cd64d08f3ea">так</param>
+<param paramcode="13212" name="Світиться у темряві" valuecode="4c93bb1f7bcfc6041d8252f99a8486ff">ні</param>
+<param paramcode="13213" name="Пищалка / Дзвіночок" valuecode="3c7ea78794afdd5956906d332fe87f30">ні</param>
+<param paramcode="13238" name="Наявність кігтеточки" valuecode="67f0ff01c93d87f64c7cbe1368022c91">ні</param>
+<param paramcode="13242" name="З пір&apos;ям" valuecode="dde69e0e8211d567b6fef71a5beb4a3a">ні</param>
+<param paramcode="13246" name="Для самостійної гри" valuecode="381b2deb7c7af46e19ce95a9cf6f7735">ні</param>
+<param paramcode="13254" name="Можливість використання ласощів" valuecode="6e7be158b5c39a2a88e0822dd6fae02a">ні</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[170]]></param>
@@ -54438,6 +54454,14 @@
 <param paramcode="12926" name="Тип іграшки" valuecode="1b219f9a0e5dcd2ac56d72ec6a8be0c5">м&amp;#039;які</param>
 <param paramcode="13139" name="Вид іграшки" valuecode="2a07623e9d23e54d997185f4d36b4f03">тварини</param>
 <param paramcode="13168" name="Матеріал" valuecode="e6c5fb2e9a384d48d8f0e22642418751">текстиль</param>
+<param paramcode="13179" name="Живлення" valuecode="d659f2d1d11d86fd1ccbfbc2ee9e38a9">відсутнє</param>
+<param paramcode="13210" name="Ароматизована" valuecode="0529b7ce7400bb27634a8cd64d08f3ea">так</param>
+<param paramcode="13212" name="Світиться у темряві" valuecode="4c93bb1f7bcfc6041d8252f99a8486ff">ні</param>
+<param paramcode="13213" name="Пищалка / Дзвіночок" valuecode="3c7ea78794afdd5956906d332fe87f30">ні</param>
+<param paramcode="13238" name="Наявність кігтеточки" valuecode="67f0ff01c93d87f64c7cbe1368022c91">ні</param>
+<param paramcode="13242" name="З пір&apos;ям" valuecode="dde69e0e8211d567b6fef71a5beb4a3a">ні</param>
+<param paramcode="13246" name="Для самостійної гри" valuecode="381b2deb7c7af46e19ce95a9cf6f7735">ні</param>
+<param paramcode="13254" name="Можливість використання ласощів" valuecode="6e7be158b5c39a2a88e0822dd6fae02a">ні</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[170]]></param>
@@ -54463,6 +54487,14 @@
 <param paramcode="12926" name="Тип іграшки" valuecode="1b219f9a0e5dcd2ac56d72ec6a8be0c5">м&amp;#039;які</param>
 <param paramcode="13139" name="Вид іграшки" valuecode="2a07623e9d23e54d997185f4d36b4f03">тварини</param>
 <param paramcode="13168" name="Матеріал" valuecode="e6c5fb2e9a384d48d8f0e22642418751">текстиль</param>
+<param paramcode="13179" name="Живлення" valuecode="d659f2d1d11d86fd1ccbfbc2ee9e38a9">відсутнє</param>
+<param paramcode="13210" name="Ароматизована" valuecode="0529b7ce7400bb27634a8cd64d08f3ea">так</param>
+<param paramcode="13212" name="Світиться у темряві" valuecode="4c93bb1f7bcfc6041d8252f99a8486ff">ні</param>
+<param paramcode="13213" name="Пищалка / Дзвіночок" valuecode="3c7ea78794afdd5956906d332fe87f30">ні</param>
+<param paramcode="13238" name="Наявність кігтеточки" valuecode="67f0ff01c93d87f64c7cbe1368022c91">ні</param>
+<param paramcode="13242" name="З пір&apos;ям" valuecode="dde69e0e8211d567b6fef71a5beb4a3a">ні</param>
+<param paramcode="13246" name="Для самостійної гри" valuecode="381b2deb7c7af46e19ce95a9cf6f7735">ні</param>
+<param paramcode="13254" name="Можливість використання ласощів" valuecode="6e7be158b5c39a2a88e0822dd6fae02a">ні</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[170]]></param>
@@ -54488,6 +54520,14 @@
 <param paramcode="12926" name="Тип іграшки" valuecode="1b219f9a0e5dcd2ac56d72ec6a8be0c5">м&amp;#039;які</param>
 <param paramcode="13139" name="Вид іграшки" valuecode="2a07623e9d23e54d997185f4d36b4f03">тварини</param>
 <param paramcode="13168" name="Матеріал" valuecode="e6c5fb2e9a384d48d8f0e22642418751">текстиль</param>
+<param paramcode="13179" name="Живлення" valuecode="d659f2d1d11d86fd1ccbfbc2ee9e38a9">відсутнє</param>
+<param paramcode="13210" name="Ароматизована" valuecode="0529b7ce7400bb27634a8cd64d08f3ea">так</param>
+<param paramcode="13212" name="Світиться у темряві" valuecode="4c93bb1f7bcfc6041d8252f99a8486ff">ні</param>
+<param paramcode="13213" name="Пищалка / Дзвіночок" valuecode="3c7ea78794afdd5956906d332fe87f30">ні</param>
+<param paramcode="13238" name="Наявність кігтеточки" valuecode="67f0ff01c93d87f64c7cbe1368022c91">ні</param>
+<param paramcode="13242" name="З пір&apos;ям" valuecode="dde69e0e8211d567b6fef71a5beb4a3a">ні</param>
+<param paramcode="13246" name="Для самостійної гри" valuecode="381b2deb7c7af46e19ce95a9cf6f7735">ні</param>
+<param paramcode="13254" name="Можливість використання ласощів" valuecode="6e7be158b5c39a2a88e0822dd6fae02a">ні</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[170]]></param>
@@ -54513,6 +54553,14 @@
 <param paramcode="12926" name="Тип іграшки" valuecode="1b219f9a0e5dcd2ac56d72ec6a8be0c5">м&amp;#039;які</param>
 <param paramcode="13139" name="Вид іграшки" valuecode="2a07623e9d23e54d997185f4d36b4f03">тварини</param>
 <param paramcode="13168" name="Матеріал" valuecode="e6c5fb2e9a384d48d8f0e22642418751">текстиль</param>
+<param paramcode="13179" name="Живлення" valuecode="d659f2d1d11d86fd1ccbfbc2ee9e38a9">відсутнє</param>
+<param paramcode="13210" name="Ароматизована" valuecode="0529b7ce7400bb27634a8cd64d08f3ea">так</param>
+<param paramcode="13212" name="Світиться у темряві" valuecode="4c93bb1f7bcfc6041d8252f99a8486ff">ні</param>
+<param paramcode="13213" name="Пищалка / Дзвіночок" valuecode="3c7ea78794afdd5956906d332fe87f30">ні</param>
+<param paramcode="13238" name="Наявність кігтеточки" valuecode="67f0ff01c93d87f64c7cbe1368022c91">ні</param>
+<param paramcode="13242" name="З пір&apos;ям" valuecode="dde69e0e8211d567b6fef71a5beb4a3a">ні</param>
+<param paramcode="13246" name="Для самостійної гри" valuecode="381b2deb7c7af46e19ce95a9cf6f7735">ні</param>
+<param paramcode="13254" name="Можливість використання ласощів" valuecode="6e7be158b5c39a2a88e0822dd6fae02a">ні</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[170]]></param>
@@ -54538,6 +54586,14 @@
 <param paramcode="12926" name="Тип іграшки" valuecode="1b219f9a0e5dcd2ac56d72ec6a8be0c5">м&amp;#039;які</param>
 <param paramcode="13139" name="Вид іграшки" valuecode="2a07623e9d23e54d997185f4d36b4f03">тварини</param>
 <param paramcode="13168" name="Матеріал" valuecode="e6c5fb2e9a384d48d8f0e22642418751">текстиль</param>
+<param paramcode="13179" name="Живлення" valuecode="d659f2d1d11d86fd1ccbfbc2ee9e38a9">відсутнє</param>
+<param paramcode="13210" name="Ароматизована" valuecode="0529b7ce7400bb27634a8cd64d08f3ea">так</param>
+<param paramcode="13212" name="Світиться у темряві" valuecode="4c93bb1f7bcfc6041d8252f99a8486ff">ні</param>
+<param paramcode="13213" name="Пищалка / Дзвіночок" valuecode="3c7ea78794afdd5956906d332fe87f30">ні</param>
+<param paramcode="13238" name="Наявність кігтеточки" valuecode="67f0ff01c93d87f64c7cbe1368022c91">ні</param>
+<param paramcode="13242" name="З пір&apos;ям" valuecode="dde69e0e8211d567b6fef71a5beb4a3a">ні</param>
+<param paramcode="13246" name="Для самостійної гри" valuecode="381b2deb7c7af46e19ce95a9cf6f7735">ні</param>
+<param paramcode="13254" name="Можливість використання ласощів" valuecode="6e7be158b5c39a2a88e0822dd6fae02a">ні</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[170]]></param>
@@ -70797,7 +70853,14 @@
 <param paramcode="12926" name="Тип іграшки" valuecode="1b219f9a0e5dcd2ac56d72ec6a8be0c5">м&amp;#039;які</param>
 <param paramcode="13140" name="Вікова категорія" valuecode="fd69adc59b1bd76ce6a41a2e462bc24c">дорослі</param>
 <param paramcode="13168" name="Матеріал" valuecode="e6b6aa544d10440417535aecfe78bd4c">плюш</param>
+<param paramcode="13179" name="Живлення" valuecode="d659f2d1d11d86fd1ccbfbc2ee9e38a9">відсутнє</param>
+<param paramcode="13210" name="Ароматизована" valuecode="2ea21d69489a88496f67b834f76221f9">ні</param>
+<param paramcode="13212" name="Світиться у темряві" valuecode="4c93bb1f7bcfc6041d8252f99a8486ff">ні</param>
 <param paramcode="13213" name="Пищалка / Дзвіночок" valuecode="8977fb9da1f0f8af166ff7826b226b6b">так</param>
+<param paramcode="13238" name="Наявність кігтеточки" valuecode="67f0ff01c93d87f64c7cbe1368022c91">ні</param>
+<param paramcode="13242" name="З пір&apos;ям" valuecode="dde69e0e8211d567b6fef71a5beb4a3a">ні</param>
+<param paramcode="13246" name="Для самостійної гри" valuecode="381b2deb7c7af46e19ce95a9cf6f7735">ні</param>
+<param paramcode="13254" name="Можливість використання ласощів" valuecode="6e7be158b5c39a2a88e0822dd6fae02a">ні</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[170]]></param>
@@ -70824,7 +70887,14 @@
 <param paramcode="12926" name="Тип іграшки" valuecode="1b219f9a0e5dcd2ac56d72ec6a8be0c5">м&amp;#039;які</param>
 <param paramcode="13140" name="Вікова категорія" valuecode="fd69adc59b1bd76ce6a41a2e462bc24c">дорослі</param>
 <param paramcode="13168" name="Матеріал" valuecode="e6c5fb2e9a384d48d8f0e22642418751">текстиль</param>
+<param paramcode="13179" name="Живлення" valuecode="d659f2d1d11d86fd1ccbfbc2ee9e38a9">відсутнє</param>
+<param paramcode="13210" name="Ароматизована" valuecode="0529b7ce7400bb27634a8cd64d08f3ea">так</param>
+<param paramcode="13212" name="Світиться у темряві" valuecode="4c93bb1f7bcfc6041d8252f99a8486ff">ні</param>
 <param paramcode="13213" name="Пищалка / Дзвіночок" valuecode="8977fb9da1f0f8af166ff7826b226b6b">так</param>
+<param paramcode="13238" name="Наявність кігтеточки" valuecode="67f0ff01c93d87f64c7cbe1368022c91">ні</param>
+<param paramcode="13242" name="З пір&apos;ям" valuecode="dde69e0e8211d567b6fef71a5beb4a3a">ні</param>
+<param paramcode="13246" name="Для самостійної гри" valuecode="381b2deb7c7af46e19ce95a9cf6f7735">ні</param>
+<param paramcode="13254" name="Можливість використання ласощів" valuecode="6e7be158b5c39a2a88e0822dd6fae02a">ні</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[170]]></param>
@@ -70853,7 +70923,14 @@
 <param paramcode="13139" name="Вид іграшки" valuecode="87be9bb9783f74d8e8c0edf5ac2c99a8">пташки</param>
 <param paramcode="13140" name="Вікова категорія" valuecode="fd69adc59b1bd76ce6a41a2e462bc24c">дорослі</param>
 <param paramcode="13168" name="Матеріал" valuecode="e6c5fb2e9a384d48d8f0e22642418751">текстиль</param>
+<param paramcode="13179" name="Живлення" valuecode="d659f2d1d11d86fd1ccbfbc2ee9e38a9">відсутнє</param>
+<param paramcode="13210" name="Ароматизована" valuecode="2ea21d69489a88496f67b834f76221f9">ні</param>
+<param paramcode="13212" name="Світиться у темряві" valuecode="4c93bb1f7bcfc6041d8252f99a8486ff">ні</param>
 <param paramcode="13213" name="Пищалка / Дзвіночок" valuecode="8977fb9da1f0f8af166ff7826b226b6b">так</param>
+<param paramcode="13238" name="Наявність кігтеточки" valuecode="67f0ff01c93d87f64c7cbe1368022c91">ні</param>
+<param paramcode="13242" name="З пір&apos;ям" valuecode="dde69e0e8211d567b6fef71a5beb4a3a">ні</param>
+<param paramcode="13246" name="Для самостійної гри" valuecode="381b2deb7c7af46e19ce95a9cf6f7735">ні</param>
+<param paramcode="13254" name="Можливість використання ласощів" valuecode="6e7be158b5c39a2a88e0822dd6fae02a">ні</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[170]]></param>
@@ -76754,7 +76831,14 @@
 <param paramcode="12097" name="Базовий колір" valuecode="7474159555fd1f85a1773df29241afbb">синій</param>
 <param paramcode="13139" name="Вид іграшки" valuecode="74001d45b7101cbef828cae1fbc37dd7">м&amp;#039;ячі</param>
 <param paramcode="13140" name="Вікова категорія" valuecode="fd69adc59b1bd76ce6a41a2e462bc24c">дорослі</param>
+<param paramcode="13179" name="Живлення" valuecode="d659f2d1d11d86fd1ccbfbc2ee9e38a9">відсутнє</param>
+<param paramcode="13210" name="Ароматизована" valuecode="0529b7ce7400bb27634a8cd64d08f3ea">так</param>
+<param paramcode="13212" name="Світиться у темряві" valuecode="4c93bb1f7bcfc6041d8252f99a8486ff">ні</param>
+<param paramcode="13213" name="Пищалка / Дзвіночок" valuecode="3c7ea78794afdd5956906d332fe87f30">ні</param>
+<param paramcode="13238" name="Наявність кігтеточки" valuecode="67f0ff01c93d87f64c7cbe1368022c91">ні</param>
 <param paramcode="13242" name="З пір&apos;ям" valuecode="8ab265de06f782cb634a7d23e68feaeb">так</param>
+<param paramcode="13246" name="Для самостійної гри" valuecode="381b2deb7c7af46e19ce95a9cf6f7735">ні</param>
+<param paramcode="13254" name="Можливість використання ласощів" valuecode="6e7be158b5c39a2a88e0822dd6fae02a">ні</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[170]]></param>
@@ -80085,6 +80169,14 @@
 <param paramcode="12926" name="Тип іграшки" valuecode="1b219f9a0e5dcd2ac56d72ec6a8be0c5">м&amp;#039;які</param>
 <param paramcode="13140" name="Вікова категорія" valuecode="fd69adc59b1bd76ce6a41a2e462bc24c">дорослі</param>
 <param paramcode="13168" name="Матеріал" valuecode="e6b6aa544d10440417535aecfe78bd4c">плюш</param>
+<param paramcode="13179" name="Живлення" valuecode="d659f2d1d11d86fd1ccbfbc2ee9e38a9">відсутнє</param>
+<param paramcode="13210" name="Ароматизована" valuecode="0529b7ce7400bb27634a8cd64d08f3ea">так</param>
+<param paramcode="13212" name="Світиться у темряві" valuecode="4c93bb1f7bcfc6041d8252f99a8486ff">ні</param>
+<param paramcode="13213" name="Пищалка / Дзвіночок" valuecode="3c7ea78794afdd5956906d332fe87f30">ні</param>
+<param paramcode="13238" name="Наявність кігтеточки" valuecode="67f0ff01c93d87f64c7cbe1368022c91">ні</param>
+<param paramcode="13242" name="З пір&apos;ям" valuecode="dde69e0e8211d567b6fef71a5beb4a3a">ні</param>
+<param paramcode="13246" name="Для самостійної гри" valuecode="381b2deb7c7af46e19ce95a9cf6f7735">ні</param>
+<param paramcode="13254" name="Можливість використання ласощів" valuecode="6e7be158b5c39a2a88e0822dd6fae02a">ні</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[170]]></param>
@@ -80111,6 +80203,14 @@
 <param paramcode="13139" name="Вид іграшки" valuecode="87be9bb9783f74d8e8c0edf5ac2c99a8">пташки</param>
 <param paramcode="13140" name="Вікова категорія" valuecode="fd69adc59b1bd76ce6a41a2e462bc24c">дорослі</param>
 <param paramcode="13168" name="Матеріал" valuecode="e6b6aa544d10440417535aecfe78bd4c">плюш</param>
+<param paramcode="13179" name="Живлення" valuecode="d659f2d1d11d86fd1ccbfbc2ee9e38a9">відсутнє</param>
+<param paramcode="13210" name="Ароматизована" valuecode="2ea21d69489a88496f67b834f76221f9">ні</param>
+<param paramcode="13212" name="Світиться у темряві" valuecode="4c93bb1f7bcfc6041d8252f99a8486ff">ні</param>
+<param paramcode="13213" name="Пищалка / Дзвіночок" valuecode="3c7ea78794afdd5956906d332fe87f30">ні</param>
+<param paramcode="13238" name="Наявність кігтеточки" valuecode="67f0ff01c93d87f64c7cbe1368022c91">ні</param>
+<param paramcode="13242" name="З пір&apos;ям" valuecode="dde69e0e8211d567b6fef71a5beb4a3a">ні</param>
+<param paramcode="13246" name="Для самостійної гри" valuecode="381b2deb7c7af46e19ce95a9cf6f7735">ні</param>
+<param paramcode="13254" name="Можливість використання ласощів" valuecode="6e7be158b5c39a2a88e0822dd6fae02a">ні</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[170]]></param>
@@ -80138,6 +80238,13 @@
 <param paramcode="13139" name="Вид іграшки" valuecode="85cefe4e45ced8bb751dce6ac623b0bb">вудилища</param>
 <param paramcode="13140" name="Вікова категорія" valuecode="fd69adc59b1bd76ce6a41a2e462bc24c">дорослі</param>
 <param paramcode="13168" name="Матеріал" valuecode="e6c5fb2e9a384d48d8f0e22642418751">текстиль</param>
+<param paramcode="13179" name="Живлення" valuecode="d659f2d1d11d86fd1ccbfbc2ee9e38a9">відсутнє</param>
+<param paramcode="13210" name="Ароматизована" valuecode="2ea21d69489a88496f67b834f76221f9">ні</param>
+<param paramcode="13212" name="Світиться у темряві" valuecode="4c93bb1f7bcfc6041d8252f99a8486ff">ні</param>
+<param paramcode="13213" name="Пищалка / Дзвіночок" valuecode="8977fb9da1f0f8af166ff7826b226b6b">так</param>
+<param paramcode="13238" name="Наявність кігтеточки" valuecode="67f0ff01c93d87f64c7cbe1368022c91">ні</param>
+<param paramcode="13242" name="З пір&apos;ям" valuecode="dde69e0e8211d567b6fef71a5beb4a3a">ні</param>
+<param paramcode="13254" name="Можливість використання ласощів" valuecode="6e7be158b5c39a2a88e0822dd6fae02a">ні</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[170]]></param>
@@ -80164,6 +80271,13 @@
 <param paramcode="13139" name="Вид іграшки" valuecode="85cefe4e45ced8bb751dce6ac623b0bb">вудилища</param>
 <param paramcode="13140" name="Вікова категорія" valuecode="fd69adc59b1bd76ce6a41a2e462bc24c">дорослі</param>
 <param paramcode="13168" name="Матеріал" valuecode="e6c5fb2e9a384d48d8f0e22642418751">текстиль</param>
+<param paramcode="13179" name="Живлення" valuecode="d659f2d1d11d86fd1ccbfbc2ee9e38a9">відсутнє</param>
+<param paramcode="13210" name="Ароматизована" valuecode="0529b7ce7400bb27634a8cd64d08f3ea">так</param>
+<param paramcode="13212" name="Світиться у темряві" valuecode="4c93bb1f7bcfc6041d8252f99a8486ff">ні</param>
+<param paramcode="13213" name="Пищалка / Дзвіночок" valuecode="8977fb9da1f0f8af166ff7826b226b6b">так</param>
+<param paramcode="13238" name="Наявність кігтеточки" valuecode="67f0ff01c93d87f64c7cbe1368022c91">ні</param>
+<param paramcode="13242" name="З пір&apos;ям" valuecode="dde69e0e8211d567b6fef71a5beb4a3a">ні</param>
+<param paramcode="13254" name="Можливість використання ласощів" valuecode="6e7be158b5c39a2a88e0822dd6fae02a">ні</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[170]]></param>
@@ -80368,7 +80482,14 @@
 <param paramcode="13139" name="Вид іграшки" valuecode="85cefe4e45ced8bb751dce6ac623b0bb">вудилища</param>
 <param paramcode="13140" name="Вікова категорія" valuecode="fd69adc59b1bd76ce6a41a2e462bc24c">дорослі</param>
 <param paramcode="13168" name="Матеріал" valuecode="e6c5fb2e9a384d48d8f0e22642418751">текстиль</param>
+<param paramcode="13179" name="Живлення" valuecode="d659f2d1d11d86fd1ccbfbc2ee9e38a9">відсутнє</param>
+<param paramcode="13210" name="Ароматизована" valuecode="0529b7ce7400bb27634a8cd64d08f3ea">так</param>
+<param paramcode="13212" name="Світиться у темряві" valuecode="4c93bb1f7bcfc6041d8252f99a8486ff">ні</param>
 <param paramcode="13213" name="Пищалка / Дзвіночок" valuecode="8977fb9da1f0f8af166ff7826b226b6b">так</param>
+<param paramcode="13238" name="Наявність кігтеточки" valuecode="67f0ff01c93d87f64c7cbe1368022c91">ні</param>
+<param paramcode="13242" name="З пір&apos;ям" valuecode="dde69e0e8211d567b6fef71a5beb4a3a">ні</param>
+<param paramcode="13246" name="Для самостійної гри" valuecode="32a2aee2795aa49025eec61bb5e49e2e">так</param>
+<param paramcode="13254" name="Можливість використання ласощів" valuecode="6e7be158b5c39a2a88e0822dd6fae02a">ні</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[170]]></param>
@@ -80396,6 +80517,13 @@
 <param paramcode="13139" name="Вид іграшки" valuecode="85cefe4e45ced8bb751dce6ac623b0bb">вудилища</param>
 <param paramcode="13140" name="Вікова категорія" valuecode="fd69adc59b1bd76ce6a41a2e462bc24c">дорослі</param>
 <param paramcode="13168" name="Матеріал" valuecode="e6c5fb2e9a384d48d8f0e22642418751">текстиль</param>
+<param paramcode="13179" name="Живлення" valuecode="d659f2d1d11d86fd1ccbfbc2ee9e38a9">відсутнє</param>
+<param paramcode="13210" name="Ароматизована" valuecode="2ea21d69489a88496f67b834f76221f9">ні</param>
+<param paramcode="13212" name="Світиться у темряві" valuecode="4c93bb1f7bcfc6041d8252f99a8486ff">ні</param>
+<param paramcode="13213" name="Пищалка / Дзвіночок" valuecode="8977fb9da1f0f8af166ff7826b226b6b">так</param>
+<param paramcode="13238" name="Наявність кігтеточки" valuecode="67f0ff01c93d87f64c7cbe1368022c91">ні</param>
+<param paramcode="13242" name="З пір&apos;ям" valuecode="dde69e0e8211d567b6fef71a5beb4a3a">ні</param>
+<param paramcode="13254" name="Можливість використання ласощів" valuecode="6e7be158b5c39a2a88e0822dd6fae02a">ні</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[170]]></param>
@@ -80419,9 +80547,17 @@
 <param paramcode="78" name="Колір виробника" valuecode="ct2lhsxt">фіолетовий</param>
 <param paramcode="12097" name="Базовий колір" valuecode="57d9544692d9901c663d9372664e0288">фіолетовий</param>
 <param paramcode="12926" name="Тип іграшки" valuecode="1b219f9a0e5dcd2ac56d72ec6a8be0c5">м&amp;#039;які</param>
+<param paramcode="13139" name="Вид іграшки" valuecode="2a07623e9d23e54d997185f4d36b4f03">тварини</param>
 <param paramcode="13140" name="Вікова категорія" valuecode="fd69adc59b1bd76ce6a41a2e462bc24c">дорослі</param>
 <param paramcode="13168" name="Матеріал" valuecode="e6c5fb2e9a384d48d8f0e22642418751">текстиль</param>
+<param paramcode="13179" name="Живлення" valuecode="d659f2d1d11d86fd1ccbfbc2ee9e38a9">відсутнє</param>
+<param paramcode="13210" name="Ароматизована" valuecode="0529b7ce7400bb27634a8cd64d08f3ea">так</param>
+<param paramcode="13212" name="Світиться у темряві" valuecode="4c93bb1f7bcfc6041d8252f99a8486ff">ні</param>
 <param paramcode="13213" name="Пищалка / Дзвіночок" valuecode="8977fb9da1f0f8af166ff7826b226b6b">так</param>
+<param paramcode="13238" name="Наявність кігтеточки" valuecode="67f0ff01c93d87f64c7cbe1368022c91">ні</param>
+<param paramcode="13242" name="З пір&apos;ям" valuecode="dde69e0e8211d567b6fef71a5beb4a3a">ні</param>
+<param paramcode="13246" name="Для самостійної гри" valuecode="381b2deb7c7af46e19ce95a9cf6f7735">ні</param>
+<param paramcode="13254" name="Можливість використання ласощів" valuecode="6e7be158b5c39a2a88e0822dd6fae02a">ні</param>
 <param paramcode="width" name="Ширина"><![CDATA[240]]></param>
 <param paramcode="height" name="Висота"><![CDATA[98]]></param>
 <param paramcode="length" name="Глибина"><![CDATA[170]]></param>
