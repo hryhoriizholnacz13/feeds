@@ -12269,9 +12269,6 @@
 <price>1413.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
-<picture>https://www.zoobaza.com.ua/content/images/22/1208x800l80mc0/15868802332302.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/22/1208x800l80mc0/55664793081666.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/22/1208x800l80mc0/45458269076068.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/22/1024x994l80mc0/49502279860025.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/22/47282634329630_+5e320218cc.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/22/1208x800l80mc0/49685940271155.jpeg</picture>
@@ -12290,8 +12287,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/23/1208x800l80mc0/15988490316597.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/23/1208x800l80mc0/74489608498156.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/23/1208x800l80mc0/39003342171645.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/23/1024x994l80mc0/95505528721280.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/23/35811509224601_+9fedfd1d05.jpeg</picture>
 <vendor>ЗооБаза</vendor>
@@ -20332,7 +20327,6 @@
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/28/26200968864611_+a082b5f7a2.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/28/1208x800l80mc0/60801360368361.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/28/1208x800l80mc0/23774709099323.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3427</vendorCode>
 <param name="Розмір">92х117 см</param>
@@ -20347,9 +20341,7 @@
 <price>2097.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
-<picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/76385135595336.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/44160021196908.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/13892494476533.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/29/29134815028953_+62ae3c5ed6.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3428</vendorCode>
@@ -20421,7 +20413,6 @@
 <price>1458.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
-<picture>https://www.zoobaza.com.ua/content/images/33/1208x800l80mc0/70160613209603.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/33/1208x800l80mc0/35551823766663.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/33/66451422099699_+0d7f00f816.jpeg</picture>
 <vendor>ЗооБаза</vendor>
@@ -20781,8 +20772,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/22/27083746300539_+6b5b62b81d.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/22/1208x800l80mc0/12787277886599.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/22/1208x800l80mc0/32620370795986.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3521</vendorCode>
 <param name="Розмір">33х40х31 см</param>
@@ -20797,7 +20786,14 @@
 <price>1872.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
+<picture>https://www.zoobaza.com.ua/content/images/23/72097070528215_+0e25d82610.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/23/1208x800l80mc0/38848461920079.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/23/1208x800l80mc0/43515494269000.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/23/1208x800l80mc0/57669114609032.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/23/1208x800l80mc0/52117784574078.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/23/1208x800l80mc0/99528693507085.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/23/1208x800l80mc0/38404121017554.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/23/1208x800l80mc0/84545431061076.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3522</vendorCode>
 <param name="Розмір">38х45х31 см</param>
@@ -20813,8 +20809,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/24/19813312521574_+c1653e87c1.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/24/1208x800l80mc0/48373441112170.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/24/1208x800l80mc0/93606731539361.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3523</vendorCode>
 <param name="Розмір">43х54х32 см</param>
@@ -20845,7 +20839,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/26/66929344932973_+d2febacdc7.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/26/1208x800l80mc0/52998374363512.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/26/1208x800l80mc0/56502515988193.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/26/1208x800l80mc0/94105695053911.jpeg</picture>
 <vendor>ЗооБаза</vendor>
@@ -20865,7 +20858,6 @@
 <picture>https://www.zoobaza.com.ua/content/images/27/1208x800l80mc0/11407949294550.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/27/1208x800l80mc0/23266726696654.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/27/62239093508067_+dd484c55f0.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/27/1208x800l80mc0/12581815640344.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3526</vendorCode>
 <param name="Розмір">53х70х33 см</param>
@@ -20880,9 +20872,6 @@
 <price>2763.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
-<picture>https://www.zoobaza.com.ua/content/images/28/1208x800l80mc0/24092260066154.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/28/1208x800l80mc0/84811874526746.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/28/1208x800l80mc0/58051131381500.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/28/1208x800l80mc0/54837872642311.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3527</vendorCode>
@@ -20919,8 +20908,6 @@
 <picture>https://www.zoobaza.com.ua/content/images/30/73519281360977_+c6f4780282.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/63727335395798.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/45138202101623.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/22882021740428.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/80921719316956.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3529</vendorCode>
 <param name="Розмір">48х61х32 см</param>
@@ -20934,7 +20921,6 @@
 <price>2160.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
-<picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/90495755908183.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/34326864059187.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/31/61190033562919_+99072c7efd.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/31749682074122.jpeg</picture>
@@ -20974,7 +20960,6 @@
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/33/27461721896997_+9c2d059c0c.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/33/1208x800l80mc0/25748267093031.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/33/1208x800l80mc0/34277768679895.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/33/1208x800l80mc0/83747776503401.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3532</vendorCode>
@@ -21151,7 +21136,6 @@
 <price>2180.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
-<picture>https://www.zoobaza.com.ua/content/images/43/1208x800l80mc0/53557499182184.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/43/80124980666905_+573871ee17.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/43/1208x800l80mc0/11418400619757.jpeg</picture>
 <vendor>ЗооБаза</vendor>
@@ -21171,8 +21155,6 @@
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/44/88084966194266_+245c92f891.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/44/1208x800l80mc0/69007090353114.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/44/1208x800l80mc0/18842232827659.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/44/1208x800l80mc0/86120275655269.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3543</vendorCode>
 <param name="Розмір">d50</param>
@@ -21188,7 +21170,6 @@
 <price>1683.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
-<picture>https://www.zoobaza.com.ua/content/images/45/1208x800l80mc0/37326102806320.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/45/70493129165689_+f3a3c835ba.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/45/1208x800l80mc0/47298529866381.jpeg</picture>
 <vendor>ЗооБаза</vendor>
@@ -21243,7 +21224,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/48/1208x800l80mc0/94335723617437.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/48/1208x800l80mc0/56772996282061.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/48/68508460101808_+73f94db424.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3547</vendorCode>
@@ -21262,7 +21242,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/49/1208x800l80mc0/48538287027894.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/49/1208x800l80mc0/98254378821493.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/49/37797833832946_+40a3530d42.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3548</vendorCode>
@@ -21281,7 +21260,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/50/48471075695826_+58e4a67d73.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/50/1208x800l80mc0/98948378341032.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/50/1208x800l80mc0/55149032276745.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3549</vendorCode>
@@ -21390,7 +21368,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/6/1208x800l80mc0/71346723162015.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/6/1208x800l80mc0/76565776832742.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/6/11292346248550_+2ef7b17602.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3555</vendorCode>
@@ -21408,7 +21385,6 @@
 <price>675.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
-<picture>https://www.zoobaza.com.ua/content/images/7/1208x800l80mc0/21848468259736.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/7/66065629126955_+ab6d3fe5d2.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3556</vendorCode>
@@ -21770,8 +21746,6 @@
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/2/64440413036573_+777bd10360.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/2/1208x800l80mc0/90065450080125.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/2/1208x800l80mc0/32866693166402.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/2/1208x800l80mc0/73373708779832.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/2/1208x800l80mc0/78973830198676.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3601</vendorCode>
@@ -21791,7 +21765,6 @@
 <picture>https://www.zoobaza.com.ua/content/images/3/80503149531817_+3dfb59f571.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/3/1208x800l80mc0/56820533816450.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/3/1208x800l80mc0/51776148173084.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/3/1208x800l80mc0/78562548629263.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/3/1208x800l80mc0/29081559830925.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3602</vendorCode>
@@ -21830,7 +21803,6 @@
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/5/43205242782011_+f30d7d95e7.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/5/1208x800l80mc0/61402048250965.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/5/1208x800l80mc0/18226600286590.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/5/1208x800l80mc0/51455335174618.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3604</vendorCode>
@@ -21850,7 +21822,6 @@
 <picture>https://www.zoobaza.com.ua/content/images/6/34083443998219_+7428798b99.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/6/1208x800l80mc0/19562788596607.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/6/1208x800l80mc0/49072856716301.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/6/1208x800l80mc0/47892636081281.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/6/1208x800l80mc0/92172825769462.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3605</vendorCode>
@@ -21868,7 +21839,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/7/34573705214005_+396c02d884.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/7/1208x800l80mc0/67947494138612.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/7/1208x800l80mc0/31021499969801.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/7/1208x800l80mc0/83643646170920.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/7/1208x800l80mc0/36021026343433.jpeg</picture>
@@ -22019,8 +21989,6 @@
 <picture>https://www.zoobaza.com.ua/content/images/29/37538207861789_+9e93c3a8c1.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/65206242880518.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/75434014937130.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/88086428248304.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/62541797029408.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/29/1208x800l80mc0/90911813229526.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3628</vendorCode>
@@ -22041,9 +22009,7 @@
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/30/96546538522995_+6120b3e1f5.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/33787763123889.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/70517372922475.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/31993784548785.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/99956119844208.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/30/1208x800l80mc0/33007390633456.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3629</vendorCode>
@@ -22062,10 +22028,8 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/31/13649021844843_+a7d8b9ee70.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/13690169430141.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/42235294167406.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/29056808191262.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/45372593525425.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3630</vendorCode>
 <param name="Колір">сірий</param>
@@ -22321,7 +22285,6 @@
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/5/53900938781567_+fa0f238142.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/5/900x628l80mc0/45720579791765.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3654</vendorCode>
 <param name="Розмір">50х65х23 см</param>
@@ -22642,7 +22605,14 @@
 <price>1715.00</price>
 <currencyId>UAH</currencyId>
 <quantity_in_stock>2</quantity_in_stock>
+<picture>https://www.zoobaza.com.ua/content/images/31/33984210433135_+8bbfeb2392.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/31/500x500l80mc0/12845588598727.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/31/700x700l80mc0/28513981765398.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/17087281545040.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/12359216572645.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/45585319497370.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/92323309185461.jpeg</picture>
+<picture>https://www.zoobaza.com.ua/content/images/31/1208x800l80mc0/79854406870059.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3780</vendorCode>
 <param name="Розмір">23х35х30 см</param>
@@ -22661,7 +22631,6 @@
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/32/70911097348656_+a9ae3eebf6.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/32/500x500l80mc0/89523099233984.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/32/700x700l80mc0/86687758641077.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3781</vendorCode>
 <param name="Розмір">23х40х34 см</param>
@@ -22680,8 +22649,6 @@
 <quantity_in_stock>2</quantity_in_stock>
 <picture>https://www.zoobaza.com.ua/content/images/33/42957157318643_+155654358d.jpeg</picture>
 <picture>https://www.zoobaza.com.ua/content/images/33/1208x800l80mc0/47394088605401.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/33/1208x800l80mc0/29576273950909.jpeg</picture>
-<picture>https://www.zoobaza.com.ua/content/images/33/1208x800l80mc0/54300214241454.jpeg</picture>
 <vendor>ЗооБаза</vendor>
 <vendorCode>ZB3782</vendorCode>
 <param name="Розмір">23х40х34 см</param>
@@ -40975,7 +40942,7 @@
 <portal_category_id>605</portal_category_id>
 <price>6188.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>7</quantity_in_stock>
+<quantity_in_stock>6</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000010594_ms23k3614ak-bw_001_front_black.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/2_000010594_ms23k3614ak-bw_004_l-perspective_black.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000010594_ms23k3614ak-bw_007_l-perspective_black.jpg</picture>
@@ -44690,7 +44657,7 @@
 <portal_category_id>609</portal_category_id>
 <price>4134.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_6ea1bc32-3385-11ee-8a54-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/10_6ea1bc32-3385-11ee-8a54-dc4a3e701323.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/11_6ea1bc32-3385-11ee-8a54-dc4a3e701323.jpg</picture>
@@ -68037,7 +68004,7 @@
 <param name="Гарантія">12 міс</param>
 <description><![CDATA[MPM SMILE-KN-02/1KB; Характеристика плити: Настільна Газова; Характеристика варильної поверхні: 2 Квадрат Газова Механічний Виробник виробу MPM Модель SMILE-KN-02/1KB Код від виробника SMILE-KN-02/1KB Характеристика плити [1] Потужність Звичайного пальника 1.6 кВт Потужність Великого пальника 2.3 кВт Розташування Настільна Тип плити управління плити Механічний Кришка Метал Характеристика варильної поверхні [1] Кількість конфорок 2 Матеріал робочої поверхні Нержавіюча сталь Матеріал ґрат варильної поверхні Чавун Розташування конфорок Квадрат Розташування елементів управління Фронтальне Тип варильної поверхні Газова Тип керування варильною поверхнею Механічний Колір виробу Колір виробу Чорний Колір ручок]]></description>
 </offer>
-<offer id="HT35256" available="true" selling_type="r">
+<offer id="HT35256" available="false" selling_type="r">
 <name>Стайлер/вирівнювач ADLER AD-2327P</name>
 <categoryId>286</categoryId>
 <portal_category_id>63303</portal_category_id>
@@ -68228,7 +68195,7 @@
 <portal_category_id>64301</portal_category_id>
 <price>3380.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>5</quantity_in_stock>
+<quantity_in_stock>4</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171901.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171902.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000171903.jpg</picture>
@@ -73116,7 +73083,7 @@
 <portal_category_id>6300413</portal_category_id>
 <price>2644.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>2</quantity_in_stock>
+<quantity_in_stock>1</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177481.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177482.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000177483.jpg</picture>
@@ -75244,7 +75211,7 @@
 <portal_category_id>6300403</portal_category_id>
 <price>957.00</price>
 <currencyId>UAH</currencyId>
-<quantity_in_stock>10</quantity_in_stock>
+<quantity_in_stock>9</quantity_in_stock>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000172471.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000172472.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/0000172473.jpg</picture>
@@ -88197,6 +88164,232 @@
 <param name="Розмір">715 х 1226 х 59 мм</param>
 <param name="Гарантія">24 міс</param>
 <description><![CDATA[Сучасний Smart TV нового поколінняТелевізор Hisense A7S — це поєднання стильного дизайну, розширених Smart-функцій та якісного зображення, створене для комфортного щоденного використання. Завдяки тонким рамкам та продуманій конструкції він гармонійно вписується в будь-який інтер’єр — від вітальні до спальні чи робочого простору.Модель орієнтована на універсальний сценарій використання: перегляд телебачення, стримінгових сервісів, онлайн-відео та підключення зовнішніх пристроїв. Це надійний вибір для тих, хто хоче отримати більше можливостей у повсякденному користуванні.Чітке зображення та природна кольоропередачаHisense A7S забезпечує якісне зображення з високою деталізацією та збалансованою передачею кольорів. Картинка виглядає природно, з хорошою глибиною та контрастом, що робить перегляд фільмів і серіалів більш захопливим. Сучасні технології обробки зображення допомагають оптимізувати картинку під різні типи контенту, забезпечуючи стабільно комфортний перегляд як динамічних сцен, так і спокійного відео.Smart-функції для щоденного комфортуПлатформа VIDAA забезпечує швидкий доступ до популярних стримінгових сервісів, включаючи YouTube, Netflix та інші застосунки. Інтерфейс працює плавно, а навігація залишається простою та інтуїтивно зрозумілою. Підтримка бездротових технологій дозволяє легко підключати смартфони та інші пристрої для трансляції контенту, роблячи використання телевізора максимально зручним та сучасним.Розширені можливості для розвагHisense A7S підходить для щоденного перегляду телебачення, стримінгу, YouTube-контенту та підключення різних пристроїв. Завдяки покращеним мультимедійним можливостям телевізор забезпечує більш універсальний досвід використання. Компактний та елегантний дизайн дозволяє легко розмістити його в будь-якому приміщенні, не перевантажуючи простір і зберігаючи стиль інтер’єру.Чому варто купити телевізор Hisense A7S?Hisense A7S — це збалансований Smart TV для щоденного використання, який поєднує якісне зображення, зручну платформу VIDAA та сучасні функції підключення. Він стане надійним центром домашніх розваг для всієї родини.]]></description>
+</offer>
+<offer id="HT36379" available="true" selling_type="r">
+<name>Телевізор HISENSE 55A85Q Smart TV</name>
+<categoryId>295</categoryId>
+<portal_category_id>6370714</portal_category_id>
+<price>58750.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>1</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186541.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186542.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186543.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186544.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186545.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186546.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186547.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000186548.jpg</picture>
+<vendor>Hisense</vendor>
+<vendorCode>HT36379</vendorCode>
+<country>Китай</country>
+<param name="Колір">Чорний</param>
+<param name="Wi-Fi">Так</param>
+<param name="Об&apos;єм оперативної пам&apos;яті">3 ГБ</param>
+<param name="Операційна система">VIDAA</param>
+<param name="Роздільна здатність відео">4K (3840 x 2160)</param>
+<param name="DVB-C">Так</param>
+<param name="DVB-S2">Так</param>
+<param name="DVB-T2">Так</param>
+<param name="SmartTV">Так</param>
+<param name="Потужність динаміків">36 Вт</param>
+<param name="DVB-T">Так</param>
+<param name="Аналоговий">Так</param>
+<param name="Частота розгортки екрана">120 Гц</param>
+<param name="DVB-S">Так</param>
+<param name="Вбудована пам&apos;ять">8 Гб</param>
+<param name="Діагональ екрана">55&quot;</param>
+<param name="Вага">18,9 кг</param>
+<param name="Розмір">712 х 1226 х 68 мм</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Hisense 55A85Q — це 55-дюймовий 4K OLED Smart-телевізор 2025 модельного року, який поєднує органічну матрицю із самопідсвічуванням кожного пікселя, частоту оновлення 120 Гц, антивідблискове покриття Anti-Reflection PRO та зручну центральну поворотну підставку.Екран та якість зображенняДіагональ та роздільна здатність. 55 дюймів (139 см) із роздільною здатністю 4K Ultra HD (3840 × 2160 пікселів) та співвідношенням сторін 16:9.Матриця OLED. Органічні світлодіоди забезпечують ідеальний глибокий чорний колір, відсутність засвітів та кути огляду 178° без спотворення кольорів. Екран має ефективне антивідблискове покриття Anti-Reflection PRO.Яскравість та контрастність. Пікова яскравість становить 1000 ніт, а заявлена контрастність — 150 000:1 (практично нескінченна завдяки повному вимкненню пікселів у темних сценах).Частота оновлення. Рідна частота панелі — 120 Гц.Технології покращення. Підтримуються Dolby Vision, Dolby Vision IQ, HDR10, HDR10+, HDR10+ Adaptive, HLG, IMAX Enhanced, Filmmaker Mode та калібрування Calman Ready. За обробку відповідає процесор Hi-View AI Engine, алгоритми AI 4K Upscaler та згладжування рухів MEMC.Ігрові можливостіРежим гри PRO (Game Mode PRO). Підтримує змінну частоту оновлення (VRR), автоматичний режим низької затримки (ALLM), AMD FreeSync Premium, сумісність із G-Sync, Dolby Vision Gaming та HDR10+ Gaming.Ігрова панель (Game Bar). Дозволяє змінювати співвідношення сторін та відстежувати ігрові параметри на екрані.Апаратна частина та Smart TVОпераційна система. Фірмова платформа VIDAA U8.0 / U8.5 із підтримкою голосового керування (VIDAA Voice, Amazon Alexa), керування зі смартфона, Apple AirPlay 2, Apple Home та Miracast.Процесор і пам'ять. Чотириядерний процесор MediaTek Pentonic 700 (MT9618), 3 ГБ оперативної та 8 ГБ вбудованої пам'яті.ЗвукАкустична система. Стереосистема формату 2.0 із двох динаміків загальною потужністю 30 Вт (2 × 15 Вт).Аудіотехнології. Підтримка об'ємного звучання Dolby Atmos, DTS Virtual:X, бездротової передачі звуку WiSA SoundSend та синхронізації із саундбарами Hisense (Hi-Concerto).Інтерфейси та підключенняБездротові мережі. Дводіапазонний Wi-Fi та Bluetooth.Дротові роз'єми. 4 порти HDMI 2.1 (із підтримкою 4K 120 Гц, eARC, VRR та ALLM), 2 порти USB (1 × USB 2.0 та 1 × USB 3.0), мережевий вхід Ethernet (RJ45), цифровий оптичний аудіовихід (S/PDIF), вихід для навушників 3,5 мм, композитний AV-вхід, слот CI+ та антенні входи.Тюнери. Аналоговий та цифрові DVB-T, DVB-T2, DVB-C, DVB-S, DVB-S2.]]></description>
+</offer>
+<offer id="HT36380" available="true" selling_type="r">
+<name>Телевізор HISENSE 55E7S PRO Smart TV</name>
+<categoryId>295</categoryId>
+<portal_category_id>6370714</portal_category_id>
+<price>33625.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>1</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185881.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185882.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185883.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185884.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185885.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185886.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185887.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185888.jpg</picture>
+<vendor>Hisense</vendor>
+<vendorCode>HT36380</vendorCode>
+<country>Китай</country>
+<param name="Колір">Чорний</param>
+<param name="Bluetooth">Так</param>
+<param name="Wi-Fi">Так</param>
+<param name="Операційна система">VIDAA</param>
+<param name="Роздільна здатність відео">4K (3840 x 2160)</param>
+<param name="DVB-C">Так</param>
+<param name="DVB-S2">Так</param>
+<param name="DVB-T2">Так</param>
+<param name="SmartTV">Так</param>
+<param name="Потужність динаміків">20 Вт</param>
+<param name="DVB-T">Так</param>
+<param name="Аналоговий">Так</param>
+<param name="Частота розгортки екрана">144 Гц</param>
+<param name="DVB-S">Так</param>
+<param name="Діагональ екрана">55&quot;</param>
+<param name="Вага">12,4 кг</param>
+<param name="Розмір">715 х 1226 х 59 мм</param>
+<param name="Гарантія">24 міс</param>
+<description><![CDATA[Режим гри зі стандартною частотою оновлення 144 Гц, HSR240Плавність дій у кожній сценіПориньте у світ ігор без жодних перебоїв із режимом гри зі стандартною частотою оновлення 144 Гц. Технології VRR та обробка руху з низькою затримкою усувають затримки та розриви зображення, зберігаючи чіткість і ясність деталей, а також усувають розмиття, забезпечуючи керування з надзвичайно швидким реагуванням. Це плавність роботи монітора високого класу для ПК, збільшена відповідно до розмірів вітальніТехнологія Hi-QLED ColourЯскраві та природні кольориОтримайте справжню візуальну насолоду з технологією Hi-QLED Colour. Кожен кадр — насичений, яскравий і реалістичний. Кожен відтінок, від найніжніших пастельних до найяскравіших, передається з приголомшливою чіткістю..Dolby Vision Atmos, гра у форматі DolbyАбсолютно новий ігровий світDolby змінює ігровий процес. Відкрийте для себе неперевершене зображення й зануртеся в об’ємний звук. Насолоджуйтеся якіснішими зображенням і звуком і грайте, як ніколи раніше. Грайте по-новому.Зображення, покращене штучним інтелектомІнтелектуальне автоматичне покращення зображенняНехай телевізор думає за вас. Від ретроситкомів до ігор нового покоління — нейронний двигун технології зображення, покращеного штучним інтелектом, кадр за кадром удосконалює глибину, колір і рух. Він автоматично налаштовує яскравість, контраст, насиченість і рівень шуму відповідно до контенту та вашого довкілля.AI Smooth MotionПлавні зображення без розмиванняОтримайте плавніше відтворення руху в кожній сцені завдяки технології AI Smooth Motion. Ця технологія поєднує інтелектуальне зменшення розмитості з прогнозуванням кадрів у реальному часі, завдяки чому ефективно усуває розмитість, тремтіння та затримки. Як під час перегляду динамічних спортивних подій, так і під час ігор кожен рух виглядає чітким і плавним.Змінна частота оновлення кадрів 144 Гц, AMD FreeSync PremiumЖодних розривань зображення — лише граТехнологія змінної частоти оновлення кадрів (VRR) і підтримка AMD FreeSync Premium гарантують плавний ігровий процес без розривів зображення, даруючи вам максимальне занурення в гру.]]></description>
+</offer>
+<offer id="HT36381" available="true" selling_type="r">
+<name>Телевізор Kivi 32FKIDSTV</name>
+<categoryId>295</categoryId>
+<portal_category_id>6370714</portal_category_id>
+<price>11150.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>2</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188621.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188622.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188623.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188624.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188625.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188626.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188627.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188628.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188629.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/00001886299.jpg</picture>
+<vendor>Kivi</vendor>
+<vendorCode>HT36381</vendorCode>
+<country>Китай</country>
+<param name="Колір">Білий / Темно-синій</param>
+<param name="Тип управління">Smart-управління</param>
+<param name="Bluetooth">Так</param>
+<param name="Wi-Fi">Так</param>
+<param name="Об&apos;єм оперативної пам&apos;яті">1 Гб</param>
+<param name="Операційна система">Android</param>
+<param name="Роздільна здатність відео">FHD (1920 x 1080)</param>
+<param name="DVB-C">Так</param>
+<param name="DVB-T2">Так</param>
+<param name="SmartTV">Так</param>
+<param name="Потужність динаміків">16 Вт</param>
+<param name="DVB-T">Так</param>
+<param name="Аналоговий">Так</param>
+<param name="Частота розгортки екрана">60 Гц</param>
+<param name="Вбудована пам&apos;ять">8 Гб</param>
+<param name="Діагональ екрана">32&quot;</param>
+<param name="Вага">8,4 кг</param>
+<param name="Розмір">430 x 734 x 70 мм</param>
+<param name="Гарантія">12 міс</param>
+<description><![CDATA[Телевізор Kivi Kids TV (32FKIDSTV) – це більше, ніж просто телевізор. Це справжній центр розваг, розроблений спеціально для дітей, який поєднує в собі інноваційні технології та унікальні функції для безпечного перегляду. З діагоналлю екрану 32 і роздільною здатністю 1920 x 1080, телевізор дарує яскраве, чітке зображення, завдяки типу матриці FSA та підсвічуванню Direct LED, що працює з частотою розгортки панелі 60 Гц, забезпечуючи плавність відтворення.Особливу увагу привертає процесор зображення Quad Core, що з підтримкою HDR, технологій HLG, Super contrast control, Max Vivid, та Ultra clear створює насичені кольори та деталі, які будуть особливо цікаві дітям. Телевізор оснащений міцним загартованим склом, що робить його ударостійким, стійким до подряпин та високих температур, таким чином, забезпечуючи довговічність і безпеку під час дитячих ігор.Однією з ключових переваг є можливість створення персоналізованої рамки для телевізора за допомогою дитячого конструктора, що стимулює креативність та надає можливість дітям виражати свою індивідуальність. Вбудований нічник AlumiGlow випромінює м'яке та заспокійливе світло, яке додає затишку в дитячу кімнату і сприяє комфортному сну.Здоровя дітей — на першому місці, тому телевізор обладнаний технологією Low Blue Light, яка знижує випромінювання синього світла, захищаючи очі дитини. Завдяки зручному пульту з опцією голосового управління, навіть найменші зможуть легко знайти улюблений мультфільм чи навчальну програму.Телевізор Kivi Kids TV підтримує Smart TV на базі Android 11, з інтегрованим Wi-Fi та Bluetooth, що дозволяє підключатися до інтернету та використовувати різноманітні додатки для навчання і розваг. Це справжній мультимедійний помічник для всієї родини. Інтерфейси підключення включають 2 x USB, 1 x RJ-45, 3 x HDMI, 1 x оптичний аудіо вихід, Headphone, CI+, що забезпечує підключення різних пристроїв, від ігрових консолей до аудіосистем.Батьківський контроль розроблено з метою захисту дітей від небажаного контенту та дозволяє встановлювати часові обмеження для перегляду. Таким чином, ви завжди знатимете, скільки часу проводить ваша дитина перед екраном і можете бути впевнені в безпечному медіасередовищі.Потужні динаміки 2 x 8 Вт забезпечують якісний звук без перегрузок навіть на максимальній гучності, що робить перегляд ще більш захопливим. Телевізор підтримує стандарт VESA (100х200мм), що дозволяє легко інтегрувати його в інтерєр дитячої Kids TV — це не просто телевізор, це вікно у світ пізнання, безпечний простір для розвитку та безмежні можливості для розваг!]]></description>
+</offer>
+<offer id="HT36382" available="true" selling_type="r">
+<name>Телевізор Kivi 43U7000MB</name>
+<categoryId>295</categoryId>
+<portal_category_id>6370714</portal_category_id>
+<price>16338.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>2</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188601.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188602.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188603.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188604.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188605.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188606.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000188607.jpg</picture>
+<vendor>Kivi</vendor>
+<vendorCode>HT36382</vendorCode>
+<country>Китай</country>
+<param name="Колір">Чорний</param>
+<param name="Bluetooth">Так</param>
+<param name="Wi-Fi">Так</param>
+<param name="Об&apos;єм оперативної пам&apos;яті">1,5 Гб</param>
+<param name="Операційна система">Android</param>
+<param name="Роздільна здатність відео">4K (3840 x 2160)</param>
+<param name="DVB-C">Так</param>
+<param name="DVB-T2">Так</param>
+<param name="SmartTV">Так</param>
+<param name="Потужність динаміків">20 Вт</param>
+<param name="DVB-T">Так</param>
+<param name="Аналоговий">Так</param>
+<param name="Частота розгортки екрана">60 Гц</param>
+<param name="Вбудована пам&apos;ять">8 Гб</param>
+<param name="Діагональ екрана">43&quot;</param>
+<param name="Вага">6,9 кг</param>
+<param name="Розмір">555 x 960 x 83 мм</param>
+<param name="Гарантія">12 міс</param>
+<description><![CDATA[ТБ KIVI QLED 43U7000MB: перевага в кожній деталіТелевізор KIVI QLED 43U7000MB є поєднанням сучасних технологій та елегантного дизайну. З діагоналлю 43 дюйми та роздільною здатністю 3840 x 2160 (4K UHD), цей телевізор забезпечує неймовірну чіткість і деталізацію зображення, що робить його ідеальним вибором для цінителів якісного контенту.Широкоекранний формат 16:9 дозволяє насолодитися улюбленими фільмами та серіалами в повному обсязі, а висока контрастність 10000:1 додає глибину та насиченість кожному кадру. Частота розгортки 60 Гц забезпечує плавність руху, що особливо важливе для динамічних сцен.Технології та функції, які вражаютьТБ KIVI QLED 43U7000MB оснащений Smart TV на базі операційної системи Android, що відкриває доступ до безлічі додатків і потокових сервісів. Підтримка HDR технології покращує якість зображення, роблячи його більш яскравим та насиченим. Потужний Quad-Core процесор обробки зображення гарантує швидку та стабільну роботу пристрою.Технологія QLED з підсвічуванням Direct LED забезпечує рівномірне освітлення та покращену передачу кольорів. Різноманітність роз'ємів, включаючи HDMI 2.0, USB, LAN (Ethernet), композитний (AV), оптичний (цифровий), антенний вхід (RF), аудіовиход для навушників та CI, дозволяє підключати різні пристрої та аксесуари.Бездротові комунікації, такі як Bluetooth версії 5.0, DLNA та Wi-Fi, роблять взаємодію з телевізором ще зручнішим. Вбудовані тюнери DVB-T, DVB-C, DVB-T2 та аналоговий забезпечують різноманітність можливостей прийому телевізійного сигналу.Звук та управління: повне зануренняТБ KIVI QLED 43U7000MB оснащений аудіосистемою конфігурації 2.0 з сумарною потужністю динаміків в 20 Вт. Звукові ефекти Dolby Audio та Sound Surround створюють об'ємний звуковий супровід, який повністю занурює у те, що відбувається на екрані.Функції телетексту, ігровий режим, автопошук каналів, HDMI-CEC та батьківський контроль роблять використання телевізора простим та інтуїтивно зрозумілим. Керування голосом дозволяє швидко знаходити потрібний контент та змінювати налаштування без використання пульта дистанційного керування.Вбудована пам'ять об'ємом 8 Гб та оперативна пам'ять 1.5 Гб забезпечують достатній простір для зберігання та швидку роботу додатків. Енергоефективність класу A та споживання електроенергії у звичайному режимі 70 Вт роблять телевізор економічним вибором.Габарити без підставки становлять 555 x 960 x 83 мм, а з підставкою – 625 x 960 x 235 мм. Комплектація включає телевізор, пульт дистанційного керування, 2 батареї ААА, 4 гвинти, композитний адаптер, посібник користувача та гарантійний талон. Стандарт кріплення VESA 300 x 300 дозволяє легко встановити телевізор на стіну. Гарантія на пристрій складає 12 місяців.]]></description>
+</offer>
+<offer id="HT36383" available="true" selling_type="r">
+<name>Телевізор LG 43NU800B6LC</name>
+<categoryId>295</categoryId>
+<portal_category_id>6370714</portal_category_id>
+<price>19688.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>1</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187811.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187812.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187813.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187814.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187815.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187816.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000187817.jpg</picture>
+<vendor>LG</vendor>
+<vendorCode>HT36383</vendorCode>
+<country>Польща</country>
+<param name="Колір">Чорний</param>
+<param name="Bluetooth">Так</param>
+<param name="Wi-Fi">Так</param>
+<param name="Операційна система">WebOS</param>
+<param name="Роздільна здатність відео">4K (3840 x 2160)</param>
+<param name="DVB-C">Так</param>
+<param name="DVB-S2">Так</param>
+<param name="DVB-T2">Так</param>
+<param name="SmartTV">Так</param>
+<param name="Потужність динаміків">20 Вт</param>
+<param name="Аналоговий">Так</param>
+<param name="Частота розгортки екрана">60 Гц</param>
+<param name="Діагональ екрана">43&quot;</param>
+<param name="Вага">5,7 кг</param>
+<param name="Розмір">560 х 957 х 67,8 мм</param>
+<param name="Гарантія">12 міс</param>
+<description><![CDATA[Шукаєте сучасний, функціональний та високотехнологічний телевізор із чудовою якістю зображення, насиченим звучанням та інтелектуальними можливостями для вашої вітальні, спальні чи кухні? Смартовський 4K Ultra HD телевізор LG 43NU800B6LC із діагоналлю 43 дюйми (108 см) поєднує в собі елегантний безрамковий дизайн, передові технології обробки відео та зручну операційну систему для домашніх розваг.Головною перевагою моделі є високоякісна 4K UHD матриця (3840x2160 пікселів), яка забезпечує в чотири рази вищу чіткість і деталізацію порівняно зі стандартами Full HD. Потужний інтелектуальний процесор LG α5 Gen6 4K автоматично оптимізує контрастність, коліропередачу та чіткість будь-якого контенту у реальному часі, а також підвищує роздільну здатність матеріалів низької якості до рівня, близького до 4K. Завдяки підтримці розширеного динамічного діапазону HDR10 Pro та HLG, зображення вражає глибокими темними тонами, яскравими світлими акцентами та широкою палітрою природних відтінків.Телевізор працює під управлінням фірмової смарт-платформи webOS, яка відрізняється інтуїтивно зрозумілим інтерфейсом, високою швидкістю роботи та широким вибором додатків (YouTube, Netflix, MEGOGO, Sweet.tv тощо). Модель підтримує голосове керування та інтеграцію в систему розумного будинку LG ThinQ AI, а також сумісна з технологіями Apple AirPlay 2 і HomeKit. Для шанувальників ігор передбачено ігровий режим Game Optimizer, підтримку ALLM (автоматичний режим із низькою затримкою) та панель налаштувань Game Dashboard.Акустична система з підтримкою AI Sound віртуально перетворює 2.0-канальний звук на об'ємне 5.1.2-канальне звучання, створюючи ефект повної присутності під час перегляду фільмів чи спортивних трансляцій. Модель оснащена повним набором сучасних портів (HDMI, USB, Ethernet), швидкісними бездротовими модулями Wi-Fi і Bluetooth, а також вбудованим цифровим тюнером T2/C/S2.]]></description>
+</offer>
+<offer id="HT36384" available="true" selling_type="r">
+<name>Телевізор LG 43QNED80A6A</name>
+<categoryId>295</categoryId>
+<portal_category_id>6370714</portal_category_id>
+<price>23750.00</price>
+<currencyId>UAH</currencyId>
+<quantity_in_stock>6</quantity_in_stock>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185071.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185072.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185073.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185074.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185075.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185076.jpg</picture>
+<picture>https://tehnikaua.com.ua/image/catalog/import_files/0000185077.jpg</picture>
+<vendor>LG</vendor>
+<vendorCode>HT36384</vendorCode>
+<country>Польща</country>
+<param name="Колір">Чорний</param>
+<param name="Bluetooth">Так</param>
+<param name="Wi-Fi">Так</param>
+<param name="Операційна система">WebOS</param>
+<param name="Роздільна здатність відео">4K (3840 x 2160)</param>
+<param name="DVB-C">Так</param>
+<param name="DVB-S2">Так</param>
+<param name="DVB-T2">Так</param>
+<param name="Smart-TV">Smart tv</param>
+<param name="Потужність динаміків">20 Вт</param>
+<param name="DVB-T">Так</param>
+<param name="Аналоговий">Так</param>
+<param name="Частота розгортки екрана">60 Гц</param>
+<param name="Діагональ екрана">43&quot;</param>
+<param name="Вага">9,7 кг</param>
+<param name="Розмір">565 х 968 х 29,7 мм</param>
+<param name="Гарантія">12 міс</param>
+<description><![CDATA[Абсолютно новий рівень кольору з Dynamic QNED ColorУнікальна новітня технологія LG з широким колірним охопленням, що замінює Quantum Dot, забезпечує покращену точність відтворення кольорів.MiniLED з технологією точкового затемненняMiniLED на базі нового процесора alpha з технологією штучного інтелекту забезпечує надзвичайно чіткий контраст і реалістичну деталізацію на LG QNED evo.Розумніший і швидший новий процесор alpha з технологією штучного інтелекту — результат десятиріччя інноваційШтучний інтелект нашого процесора розпізнає жанр контенту та на основі цього автоматично підбирає оптимальні налаштування зображення для кращої глибини й деталізаціїAI Picture Pro оживляє кожен кадрAI Super Upscaling і Dynamic Tone Mapping Pro аналізують елементи кожного кадру, щоб підвищити роздільну здатність, яскравість, глибину й чіткість.Наступне покоління телевізорів LG з технологією штучного інтелектуПульт AI Magic Remote доповнює досвід користування штучним інтелектомЛегко керуйте телевізором за допомогою пульта AI Magic Remote — жодних додаткових пристроїв не потрібно! Завдяки датчику руху та коліщатку прокрутки ви можете наводити й клацати, як повітряною мишею, або просто використовувати голосові команди.AI Voice IDТехнологія LG Ідентифікації голосу ШІ розпізнає унікальний голос кожного користувача та миттєво пропонує персоналізовані рекомендації.Розумний пошук з ШІЗапитайте свого телевізора будь-що. Вбудований штучний інтелект розпізнає ваш голос і швидко надає персоналізовані рекомендації на ваші запити. Ви також можете отримати додаткові результати та рішення за допомогою Microsoft Copilot.]]></description>
 </offer>
 <offer id="HT4815" available="true" selling_type="r">
 <name>Бутербродниця Rotex RSM110-W</name>
