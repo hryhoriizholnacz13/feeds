@@ -107468,9 +107468,9 @@
 <param paramcode="measure" name="Міра виміру" valuecode="measure_pcs">шт.</param>
 <param paramcode="ratio" name="Мінімальна кратність товару"><![CDATA[1]]></param>
 </offer>
-<offer id="HT32544" available="true">
+<offer id="HT32544" available="false">
 <price>860.00</price>
-<availability>in_stock</availability>
+<availability>out_of_stock</availability>
 <category code="3130">Сушарки для білизни</category>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/1_000013981_348748083.jpg</picture>
 <picture>https://tehnikaua.com.ua/image/catalog/import_files/3_000013981_348748085.jpg</picture>
